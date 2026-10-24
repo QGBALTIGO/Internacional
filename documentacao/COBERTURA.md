@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T15:40:11.998428Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T17:42:38.466134Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-490 URLs únicas no lote; 472 ainda não vinculadas à edição anterior. 487 materiais acessados e 462 com texto analisado.
+515 URLs únicas no lote; 497 ainda não vinculadas à edição anterior. 512 materiais acessados e 487 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -29,13 +29,13 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 5 | 5 | 4 | 0 | 0 |
 | 2019 | 36 | 36 | 34 | 0 | 0 |
-| 2020 | 9 | 9 | 8 | 0 | 0 |
-| 2021 | 28 | 28 | 24 | 0 | 0 |
-| 2022 | 27 | 27 | 27 | 0 | 0 |
+| 2020 | 10 | 10 | 9 | 0 | 0 |
+| 2021 | 32 | 32 | 28 | 0 | 0 |
+| 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 31 | 31 | 30 | 0 | 0 |
-| 2025 | 39 | 39 | 36 | 0 | 0 |
-| 2026 | 232 | 232 | 228 | 0 | 0 |
+| 2025 | 40 | 40 | 37 | 0 | 0 |
+| 2026 | 250 | 250 | 246 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -115,6 +115,11 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - Rever eventuais desarquivamentos/atualizações posteriores de PLS 179/2018, PL 2171/2019 e PL 3358/2019 antes de afirmar estado atual além da ficha consultada.
 - Localizar post original de Flávio de 09/08/2023 e documentos oficiais pertinentes à CPMI, com resposta e estado processual próprios, sem atribuir transcrição literal não conferida.
 - Ampliar depois ALERJ 2003–2008 e fontes primárias de 2019 ainda não catalogadas, sem repetir material acessado.
+- Ler despacho nº 6/2023, parecer nº 202/2023 e Nota Informativa nº 6/2023 em PDF para fundamentar motivos do indeferimento da PCE 8/2020, sem ampliar conclusão para matéria penal.
+- Localizar eventuais manifestações públicas de Flávio sobre a petição específica, com citação atribuída e data, antes de publicar comparação ou resposta.
+- Conferir no texto publicado no DSF/DCN e no audiovisual os trechos relevantes dos discursos de 2021 e 2022; por ora zero segundos de áudio revisados.
+- Rever a redação final e as votações de vetos e PECs em fonte primária antes de inferir aprovação, implementação ou consequência econômica.
+- Continuar lacunas de ALERJ 2003-2015, checagens audiovisuais e novos procedimentos de 2026, sem recadastrar URLs já indexadas.
 - Executar scripts/build_research.py e scripts/sync_content.py num checkout completo, validar testes Python e frontend e registrar no mesmo commit as três saídas de research com leitura do JSON persistido, sem sobrepor dados recentes do coletor.
 - Conferir PDF da defesa preliminar e relatório de 26/08/2025 da REP 1/2024 antes de resumir argumentos, e verificar atualizações processuais posteriores ao último andamento visível.
 - Ler os Diários DSF/DCN e ouvir os trechos de sessão para citações literais ou timestamps; revisado nesta coleta: 0 segundos.
@@ -135,6 +140,14 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - AFP 27/10/2025: comparar evidências primárias, arquivos originais e possíveis respostas públicas em revisão editorial identificada, antes de qualquer selo próprio.
 - Não houve leitura de PDFs dos Diários ou peças anexas, nem reprodução de áudio e vídeo. Zero segundos de áudio revisados.
 - PL 2413/2025 e PL 1345/2025: reabrir a CSP após 01/07/2025 para conferir pareceres, eventual votação e alterações na relatoria, sem presumir autoria de Flávio.
+- Ler em revisão documental os textos iniciais, substitutivos, relatórios e Diários em PDF dos PLs 1400/2026, 2809/2026, 5196/2026, 4244/2025, 2064/2025 e 5115/2025; este lote examinou somente HTML oficial.
+- Conferir em sessão pública de vídeo/áudio as declarações dos pronunciamentos 521583, 521931, 521934, 522002 e 522484, sobretudo termos decisivos; áudio revisado permanece em zero segundos.
+- Abrir autos originais de eventuais procedimentos judiciais citados nos discursos e manifestações públicas favoráveis e contrárias antes de avaliar qualquer acusação ou resposta.
+- Acompanhar despachos, designação de relatoria e aprovação efetiva de projetos; ementa, parecer ou requerimento não é lei promulgada.
+- Reexaminar fontes diretas do TSE e o texto do plano de governo ao tratar de checagens eleitorais; não converter classificação da Lupa em veredito do Arquivo.
+- Comparar versões dos pareceres do PL 2064/2025 e do substitutivo do PL 4244/2025 no PDF/HTML oficial antes de descrever conteúdo das emendas.
+- Verificar atuação posterior da CCJ no PL 2734/2021 e o conteúdo integral da Emenda 5-CSP.
+- Continuar pesquisa documental sobre ALERJ 2003-2015 e outros projetos de 2026 que não couberam no recorte.
 - Confirmar voto nominal de 19/05/2020 ao PL 1.277/2020 e ao projeto de cotas de 14/07/2021 no painel/Diário do Senado antes de análise de recorrência de posicionamentos.
 - PLP 157/2021: abrir PDF do relatório da Comissão de Meio Ambiente de 04/04/2025 e conferir novos andamentos antes de resumir fundamentos ou declarar rejeição definitiva.
 - PEC 32/2022: distinguir emenda apresentada, emenda prejudicada e destaque retirado antes de comparações sobre posicionamento orçamentário.
