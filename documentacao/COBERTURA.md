@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T11:41:21.708243Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T12:53:17.926028Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-416 URLs únicas no lote; 398 ainda não vinculadas à edição anterior. 413 materiais acessados e 388 com texto analisado.
+432 URLs únicas no lote; 414 ainda não vinculadas à edição anterior. 429 materiais acessados e 404 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -27,12 +27,12 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2015 | 2 | 2 | 2 | 0 | 0 |
 | 2016 | 2 | 2 | 2 | 0 | 0 |
 | 2017 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 4 | 4 | 3 | 0 | 0 |
-| 2019 | 21 | 21 | 19 | 0 | 0 |
+| 2018 | 5 | 5 | 4 | 0 | 0 |
+| 2019 | 35 | 35 | 33 | 0 | 0 |
 | 2020 | 9 | 9 | 8 | 0 | 0 |
 | 2021 | 18 | 18 | 14 | 0 | 0 |
 | 2022 | 19 | 19 | 19 | 0 | 0 |
-| 2023 | 19 | 19 | 17 | 0 | 0 |
+| 2023 | 20 | 20 | 18 | 0 | 0 |
 | 2024 | 14 | 14 | 13 | 0 | 0 |
 | 2025 | 21 | 21 | 18 | 0 | 0 |
 | 2026 | 232 | 232 | 228 | 0 | 0 |
@@ -101,6 +101,13 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - topic: CPI e Precisa Medicamentos; note: Localizar e examinar vídeo de resposta de Flávio, gravação pública mencionada por Randolfe e documentos do BNDES, sem presumir ilicitude.
 - topic: Verificação audiovisual; note: Nenhum segundo de áudio original foi ouvido. Não atribuir transcrição própria ou timestamp a esses documentos.
 - topic: Publicação; note: Normalização do checkpoint em content/research.json e dist/data/research.json e .js depende de executar scripts/build_research.py e validações do projeto, indisponíveis neste executor.
+- Conferir PDFs oficiais dos DSF de 07/02, 09/05 e 20/11/2019 e do DCN 03/10/2019 para cotejo dos discursos; HTML institucional é transcrição, não audição. Áudio revisado: zero segundos.
+- Conferir dados originais citados nas defesas de políticas de armas e nas falas econômicas; não converter alegações parlamentares ou previsões em fatos verificados.
+- Examinar íntegra original da Lei 14.039/2020 e a participação da CCJ para delimitar efeitos do PL 4489/2019, mantendo Flávio como autor apenas do REQ 144/2019, não do projeto de Efraim Filho.
+- Comparar a versão de Flávio sobre o convite a Sérgio Moro com depoimentos e documentos contemporâneos acessíveis; não inferir autenticidade pelo discurso.
+- Rever eventuais desarquivamentos/atualizações posteriores de PLS 179/2018, PL 2171/2019 e PL 3358/2019 antes de afirmar estado atual além da ficha consultada.
+- Localizar post original de Flávio de 09/08/2023 e documentos oficiais pertinentes à CPMI, com resposta e estado processual próprios, sem atribuir transcrição literal não conferida.
+- Ampliar depois ALERJ 2003–2008 e fontes primárias de 2019 ainda não catalogadas, sem repetir material acessado.
 - Executar scripts/build_research.py e scripts/sync_content.py num checkout completo, validar testes Python e frontend e registrar no mesmo commit as três saídas de research com leitura do JSON persistido, sem sobrepor dados recentes do coletor.
 - Conferir PDF da defesa preliminar e relatório de 26/08/2025 da REP 1/2024 antes de resumir argumentos, e verificar atualizações processuais posteriores ao último andamento visível.
 - Ler os Diários DSF/DCN e ouvir os trechos de sessão para citações literais ou timestamps; revisado nesta coleta: 0 segundos.

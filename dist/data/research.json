@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T11:41:21.708243Z",
-    "inputHash": "e07c7a9dcc888f2c0d6a50cd8a7644bdd868806bd5d6a2434fad71ae17f88726",
+    "generatedAt": "2026-10-24T12:53:17.926028Z",
+    "inputHash": "28e1af96802d767c74c47b8ce5c65e2fe1d60ca331eef1dffd9e7970946cd8ba",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -18331,6 +18331,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-b923d33d92952479",
+      "title": "Agência Senado registra divergência pública entre Eliziane Gama e Flávio sobre reconvocação",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/08/09/eliziane-defende-reconvocacao-de-silvinei-preso-nesta-quarta",
+      "publisher": "Agência Senado",
+      "date": "2023-08-09",
+      "eventDate": "2023-08-09",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "CPMI de 8 de Janeiro",
+      "topics": [
+        "CPMI de 8 de Janeiro",
+        "respostas públicas",
+        "contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "A reportagem de 09/08/2023 registra o interesse público declarado por Eliziane Gama em reconvocar Silvinei Vasques à CPMI e a manifestação crítica de Flávio Bolsonaro nas redes sobre a atuação da Polícia Federal. Os posicionamentos são atribuídos a cada participante, não apresentados como provas de irregularidade ou como constatação editorial.",
+      "limitations": "Publicação e suas atribuições lidas em HTML. Não foi aberta a postagem original nem autos judiciais ou policiais, e o estado de 2023 não representa situação processual em 2026.",
+      "locator": "Reportagem institucional de 09/08/2023, seção 'Divergência' e parágrafos da resposta de Flávio, com contexto anterior sobre CPMI.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado, atribuindo posições a Eliziane Gama e Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-cpmi-respostas",
+          "toolReference": "turn450803view5"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-9e26051fde8d784b",
       "title": "Manifestação sobre PLN 12/2023 e programa de escolas cívico-militares",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/499135",
@@ -21962,6 +22028,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-8668e3004883171e",
+      "title": "Flávio descreve sua versão do momento do convite a Sérgio Moro",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/461950",
+      "publisher": "Senado Federal",
+      "date": "2019-11-20",
+      "eventDate": "2019-11-19",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Sérgio Moro",
+      "topics": [
+        "Sérgio Moro",
+        "debate político",
+        "resposta pública"
+      ],
+      "stage": "analisado",
+      "summary": "Na resposta a intervenção de Renan Calheiros, Flávio afirmou ter presenciado o convite a Sérgio Moro para integrar o governo depois da eleição de 2018. A informação é uma declaração atribuída ao senador, não confirmação independente da cronologia da negociação; o texto institucional assinala interrupção do som.",
+      "limitations": "Não se ouviu gravação nem se verificaram documentos contemporâneos dos interlocutores. Há anotação de interrupção de som, e o trecho não deve ser tratado como áudio integral revisado.",
+      "locator": "Pronunciamento 461950, 221ª Sessão Deliberativa Ordinária, Texto integral; DSF de 20/11/2019, página 105.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-moro-convite",
+          "toolReference": "turn675123view5"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-ab4b42622abb5700",
       "title": "Voto no texto principal da reforma da Previdência, segundo turno",
       "url": "https://www12.senado.leg.br/noticias/materias/2019/10/22/reforma-da-previdencia-como-votaram-os-senadores-com-relacao-ao-texto-principal-em-segundo-turno",
@@ -22092,6 +22224,205 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-eacf3c2518eaf17d",
+      "title": "Agência Senado contextualiza relatoria do PLS 179/2018 e audiência do PL 4489/2019",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/10/16/previdencia-ccj-fara-mais-uma-audiencia-publica-sobre-pec-paralela",
+      "publisher": "Agência Senado",
+      "date": "2019-10-16",
+      "eventDate": "2019-10-16",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "CCJ",
+      "topics": [
+        "CCJ",
+        "previdência",
+        "debate legislativo",
+        "contexto"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 16/10/2019 descreve audiências na CCJ e identifica Elmano Férrer como autor do PLS 179/2018 e Flávio como relator naquele momento. A referência documenta o papel parlamentar histórico e não equivale à aprovação do projeto de coleta de DNA.",
+      "limitations": "Notícia institucional aberta, com cotejo na ficha primária do PLS, que registra arquivamento posterior em 2022.",
+      "locator": "Reportagem 16/10/2019, seção 'Banco genético', parágrafos sobre PLS 179/2018 e relatoria de Flávio.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado, sobre atividade da CCJ",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-ccj-noticia",
+          "toolReference": "turn509356view2"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-5879a1735cc81934",
+      "title": "Flávio apresenta REQ 144/2019 para audiência pública sobre advocacia e contabilidade",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/139404",
+      "publisher": "Senado Federal",
+      "date": "2019-10-16",
+      "eventDate": "2019-10-16",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "CCJ",
+      "topics": [
+        "CCJ",
+        "audiência pública",
+        "serviços profissionais"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha identifica Flávio como autor do REQ 144/2019-CCJ que solicitou audiência pública para discutir o PL 4489/2019, relativo a serviços de advogados e profissionais de contabilidade. A tramitação do requerimento encerrou-se com estado 'audiência pública' em 16/10/2019, distinto do mérito do projeto.",
+      "limitations": "PDF do requerimento não aberto. O status da audiência e o desfecho do projeto principal são objetos diferentes.",
+      "locator": "Ficha 139404, Ementa, Autoria, Situação Atual e Tramitação de 16/10/2019.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal; requerimento de Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-audiencia-req",
+          "toolReference": "turn509356view0"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-70fecf375ebd7b08",
+      "title": "Flávio comenta distribuição de receitas da cessão onerosa aos estados",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/460482",
+      "publisher": "Senado Federal",
+      "date": "2019-10-03",
+      "eventDate": "2019-09-26",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "cessão onerosa",
+      "topics": [
+        "cessão onerosa",
+        "orçamento",
+        "estados produtores"
+      ],
+      "stage": "analisado",
+      "summary": "Discurso no Congresso Nacional discute repartição proposta de receitas de bônus da cessão onerosa e interesses de estados produtores, incluindo o Rio de Janeiro. Percentuais e expectativas apresentados pelo parlamentar são objeto de sua defesa e não equivalem a pagamentos efetivamente realizados.",
+      "limitations": "Texto do DCN vinculado, mas PDF e textos finais da legislação orçamentária não foram lidos; não se infere resultado financeiro efetivo.",
+      "locator": "Pronunciamento 460482, 17ª Sessão Solene do Congresso, Texto integral; DCN de 03/10/2019, página 12.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-cessao-onerosa",
+          "toolReference": "turn675123view4"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-dfe49174bbb04149",
       "title": "Suspensão de investigação em 2019 por compartilhamento de dados",
       "url": "https://noticias.stf.jus.br/postsnoticias/suspensa-investigacao-contra-flavio-bolsonaro-ate-decisao-do-stf-sobre-compartilhamento-de-dados/",
@@ -22154,6 +22485,73 @@
         }
       ],
       "accessMethod": "Pesquisa e leitura documental assistida por IA. Sem revisão humana ou audição de arquivos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-6150db1d26d021f7",
+      "title": "PL 4489/2019: autoria de Efraim Filho e norma gerada em agosto de 2020",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/138121",
+      "publisher": "Senado Federal",
+      "date": "2019-08-14",
+      "eventDate": "2019-08-14",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "serviços jurídicos",
+      "topics": [
+        "serviços jurídicos",
+        "contabilidade",
+        "tramitação legislativa",
+        "correção de autoria"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha oficial atribui o PL 4489/2019 ao deputado Efraim Filho, de origem da Câmara (PL 10980/2018), e indica que gerou a Lei 14.039 de 17/08/2020. Flávio aparece em requerimento de audiência sobre o texto, não como seu autor ou relator. O relator da CCJ registrado nesta ficha é Veneziano Vital do Rêgo.",
+      "limitations": "HTML oficial lido; não foram abertos a íntegra da Lei 14.039, o autógrafo e relatórios PDF, portanto não se interpreta aqui alcance material da norma.",
+      "locator": "Ficha 138121, Autoria, Norma Gerada, Último estado, Relatório de Veneziano em 16/09 e 26/11/2019, REQ 144/2019 citado nos requerimentos.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal; projeto de Efraim Filho, origem Câmara dos Deputados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-profissoes-pl",
+          "toolReference": "turn175647view1"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
       "newToArchive": true
     },
     {
@@ -22478,6 +22876,138 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-827fab2ff4952cb5",
+      "title": "Agência Senado informa proposta conjunta sobre agentes socioeducativos no Susp",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/06/06/senadores-apresentam-projeto-para-incluir-agentes-socioeducativos-no-susp",
+      "publisher": "Agência Senado",
+      "date": "2019-06-06",
+      "eventDate": "2019-06-06",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "segurança pública",
+      "topics": [
+        "segurança pública",
+        "agentes socioeducativos",
+        "coautoria"
+      ],
+      "stage": "analisado",
+      "summary": "A reportagem institucional registra o PL 3358/2019, apresentado por três senadores, incluindo Flávio, para alterar o enquadramento de agentes socioeducativos no Sistema Único de Segurança Pública. É coautoria e não autoria exclusiva; a notícia não certifica transformação do projeto em lei.",
+      "limitations": "HTML institucional aberto; ficha de tramitação examinada separadamente, sem leitura dos pareceres em PDF.",
+      "locator": "Reportagem de 06/06/2019, trecho da apresentação e autores do PL 3358/2019.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado, sobre proposta de Major Olímpio, Flávio Bolsonaro e Fernando Bezerra Coelho",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-susp-noticia",
+          "toolReference": "turn817319view2"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-58afac659571ad1d",
+      "title": "Ficha PL 3358/2019 diferencia coautoria e relatoria pendente",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/137181",
+      "publisher": "Senado Federal",
+      "date": "2019-06-06",
+      "eventDate": "2019-06-06",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "segurança pública",
+      "topics": [
+        "segurança pública",
+        "agentes socioeducativos",
+        "tramitação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Registro oficial atribui o PL 3358/2019 conjuntamente a Major Olímpio, Flávio Bolsonaro e Fernando Bezerra Coelho. O último estado visível na ficha é de 04/05/2020, aguardando designação de relator; 'em tramitação' não significa lei aprovada.",
+      "limitations": "Ficha em HTML lida; pareceres, emendas e avulso PDF não abertos. Estado posterior pode exigir consulta específica.",
+      "locator": "Ficha 137181, cabeçalho Autoria, Situação Atual, Último estado, Documento Proposição de 06/06/2019.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal; projeto de Major Olímpio, Flávio Bolsonaro e Fernando Bezerra Coelho",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-susp-ficha",
+          "toolReference": "turn450803view1"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-122cb2426ccf06e8",
       "title": "Discurso de 03/06/2019 em defesa da MP 871/2019 de combate a fraudes previdenciárias",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/454354",
@@ -22610,6 +23140,204 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-6067b7e18724fc04",
+      "title": "Flávio defende decreto sobre armas em pronunciamento de maio de 2019",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/453390",
+      "publisher": "Senado Federal",
+      "date": "2019-05-09",
+      "eventDate": "2019-05-08",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "armas",
+      "topics": [
+        "armas",
+        "segurança pública",
+        "declarações parlamentares"
+      ],
+      "stage": "analisado",
+      "summary": "O pronunciamento registra apoio do senador ao decreto federal de 2019 ligado ao Estatuto do Desarmamento e argumentos sobre políticas de armas e resultados de consulta popular. Referências numéricas feitas pelo orador são alegações suas e não foram verificadas contra a fonte estatística original.",
+      "limitations": "Texto de pronunciamento consultado sem reprodução audiovisual. Dados citados pelo orador, texto integral do decreto e efeitos concretos não foram auditados.",
+      "locator": "Pronunciamento 453390, Texto integral, fala 'Pela ordem' da 66ª sessão; DSF de 09/05/2019, página 75.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-armas-decreto",
+          "toolReference": "turn675123view2"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-07f7474c850e7311",
+      "title": "Flávio responde a Tasso Jereissati sobre governos anteriores",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/453394",
+      "publisher": "Senado Federal",
+      "date": "2019-05-09",
+      "eventDate": "2019-05-08",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "economia",
+      "topics": [
+        "economia",
+        "debate parlamentar",
+        "resposta pública"
+      ],
+      "stage": "analisado",
+      "summary": "Em explicação pessoal, Flávio respondeu a discurso de Tasso Jereissati com críticas à gestão anterior do PT e expectativas para a economia. Trata-se de posicionamento em debate; projeções e números citados na intervenção exigem cotejo independente antes de qualquer avaliação factual.",
+      "limitations": "O contexto de resposta foi registrado, mas pronunciamento antecedente de Tasso e séries econômicas não foram examinados conjuntamente; nenhum veredito emitido.",
+      "locator": "Pronunciamento 453394, Explicação pessoal, Texto integral; DSF de 09/05/2019, página 79.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-resposta-tasso",
+          "toolReference": "turn675123view3"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-9efd2bf027dedcb8",
+      "title": "Agência Senado noticia projeto de Flávio sobre tipificação de arrastão",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/04/15/projeto-torna-arrastao-crime",
+      "publisher": "Agência Senado",
+      "date": "2019-04-15",
+      "eventDate": "2019-04-05",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "direito penal",
+      "topics": [
+        "direito penal",
+        "segurança pública",
+        "proposição"
+      ],
+      "stage": "analisado",
+      "summary": "A notícia institucional apresenta o PL 2171/2019, de Flávio, para incluir a tipificação de arrastão no Código Penal. O projeto e suas penas são propostas legislativas, não uma lei comprovadamente vigente.",
+      "limitations": "Texto jornalístico do Senado aberto; ficha primária foi conferida separadamente. Notícia publicada em 2019 não informa por si só o estado legislativo atual.",
+      "locator": "Título e corpo de reportagem de 15/04/2019; identificação PL 2171/2019.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado, sobre projeto de Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-arrastao-noticia",
+          "toolReference": "turn817319view0"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-6c6c72a7acef5154",
       "title": "Avaliação dos cem primeiros dias do governo Bolsonaro",
       "url": "https://www12.senado.leg.br/noticias/videos/2019/04/flavio-bolsonaro-avalia-conducao-dos-cem-primeiros-dias-de-governo",
@@ -22672,6 +23400,72 @@
         }
       ],
       "accessMethod": "",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-99a39b4e39d0bcf2",
+      "title": "Ficha do PL 2171/2019 registra autoria de Flávio e tramitação em CCJ",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136252",
+      "publisher": "Senado Federal",
+      "date": "2019-04-05",
+      "eventDate": "2019-04-05",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "direito penal",
+      "topics": [
+        "direito penal",
+        "projeto de lei",
+        "tramitação"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha institucional indica apresentação do PL 2171/2019 por Flávio em 05/04/2019, com objeto de tipificar arrastão. A posição exibida informa 'em tramitação' e último estado de 13/09/2023 'aguardando designação do relator' na CCJ. A página consultada não demonstra aprovação ou promulgação.",
+      "limitations": "Somente HTML da ficha; não foram lidos PDF de texto inicial, apensamentos nem decisões eventualmente posteriores fora da ficha.",
+      "locator": "Ficha 136252, Autoria, Ementa, Situação Atual, Último estado e identificação PL 2171/2019.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal; autoria legislativa de Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-arrastao-ficha",
+          "toolReference": "turn450803view0"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
       "newToArchive": true
     },
     {
@@ -22931,6 +23725,204 @@
         }
       ],
       "accessMethod": "Pesquisa e leitura documental assistida por IA. Sem revisão humana ou audição de arquivos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-7e9a4e7878efa800",
+      "title": "Presidência do Senado indefere pedido de votação separada da chapa da Mesa",
+      "url": "https://www25.senado.leg.br/pt_BR/web/atividade/pronunciamentos/-/p/pronunciamento/450636",
+      "publisher": "Senado Federal",
+      "date": "2019-02-07",
+      "eventDate": "2019-02-06",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Mesa Diretora",
+      "topics": [
+        "Mesa Diretora",
+        "decisão procedimental",
+        "resposta pública"
+      ],
+      "stage": "analisado",
+      "summary": "Na resposta à questão de ordem de Randolfe, Davi Alcolumbre indeferiu requerimento de votação separada e determinou votação em chapa única, mencionando o art. 60, § 4º, do Regimento Interno. O alcance explícito é o procedimento da eleição da Mesa, não uma decisão jurisdicional ampla sobre nepotismo.",
+      "limitations": "Transcrição HTML oficial. A resposta é à questão procedimental e não resolve automaticamente toda a discussão sobre constitucionalidade. PDF do Diário não aberto.",
+      "locator": "Pronunciamento 450636, Texto integral, explicação do rito e indeferimento; DSF de 07/02/2019, página 10.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Davi Alcolumbre",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-mesa-presidente",
+          "toolReference": "turn509356view3"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-1b6d11af431eb04b",
+      "title": "Major Olímpio defende indicação de Flávio para a Mesa do Senado",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/450634",
+      "publisher": "Senado Federal",
+      "date": "2019-02-07",
+      "eventDate": "2019-02-06",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Mesa Diretora",
+      "topics": [
+        "Mesa Diretora",
+        "contraditório",
+        "atuação parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "O pronunciamento de Major Olímpio contradita a objeção de Randolfe Rodrigues à indicação de Flávio Bolsonaro e afirma que a bancada do PSL apoiava o nome. É uma manifestação atribuída a outro senador, não uma declaração de Flávio nem decisão administrativa.",
+      "limitations": "A opinião do orador não estabelece por si só a legalidade da indicação. PDF do DSF não foi aberto.",
+      "locator": "Pronunciamento 450634, Texto integral, intervenções sobre 3ª Secretaria; DSF de 07/02/2019, página 9.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Major Olímpio",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-mesa-olimpio",
+          "toolReference": "turn175647view0"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-15e07d00ee526096",
+      "title": "Flávio responde a questionamento sobre indicação à Mesa do Senado em fevereiro de 2019",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/450635",
+      "publisher": "Senado Federal",
+      "date": "2019-02-07",
+      "eventDate": "2019-02-06",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Mesa Diretora",
+      "topics": [
+        "Mesa Diretora",
+        "questão de ordem",
+        "atuação parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "A transcrição oficial atribui a Flávio uma contestação à questão de ordem de Randolfe Rodrigues sobre sua indicação à 3ª Secretaria do Senado. O senador argumentou que o parentesco com o presidente da República não tornava inválida sua indicação. O registro documenta a defesa pública dele, não uma avaliação jurídica independente.",
+      "limitations": "Texto HTML do Senado consultado; publicação no Diário referenciada mas PDF não lido. A tese jurídica exposta é posição do orador, sem classificação editorial própria.",
+      "locator": "Cabeçalho do pronunciamento 450635; seção Texto integral; DSF de 07/02/2019, página 10.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-mesa-flavio",
+          "toolReference": "turn675123view0"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
       "newToArchive": true
     },
     {
@@ -23516,6 +24508,73 @@
         }
       ],
       "accessMethod": "Leitura direta da página HTML institucional em 24/10/2026; não houve conferência audiovisual nem reprodução de mídia.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-6820bbccb547c794",
+      "title": "PLS 179/2018: Flávio foi relator, não autor, e matéria terminou arquivada",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/132930",
+      "publisher": "Senado Federal",
+      "date": "2018-04-16",
+      "eventDate": "2019-09-26",
+      "year": 2018,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "execução penal",
+      "topics": [
+        "execução penal",
+        "DNA",
+        "relatoria",
+        "arquivamento"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha atribui autoria do PLS 179/2018 a Elmano Férrer e relatório com voto favorável apresentado por Flávio em 26/09/2019. A relatoria de Flávio terminou em 27/11/2019 e o projeto foi arquivado em 22/12/2022 ao fim da legislatura, não aprovado como lei por esse registro.",
+      "limitations": "Fichas HTML e índice de documentos consultados; relatório PDF não aberto. O resumo não reproduz fundamentos não lidos do voto.",
+      "locator": "Ficha 132930, Proposição/Autor, Relatório Legislativo de 26/09/2019, Relatoria e Último estado de 22/12/2022.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T12:53:06.527Z",
+      "lastModifiedAt": "2026-10-24T12:53:06.527Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal; proposição de Elmano Férrer e relatoria temporária de Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2019-20261024-15",
+          "inputId": "senado-2019-20261024-15-dna-relatoria",
+          "toolReference": "turn509356view1"
+        }
+      ],
+      "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
       "newToArchive": true
     },
     {
@@ -28085,11 +29144,12 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-24T08:50:00.363197Z",
-      "lastConsultedAt": "2026-10-24T11:41:10.087Z",
+      "lastConsultedAt": "2026-10-24T12:53:06.527Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 104,
+      "sourceCount": 120,
       "periods": [
+        2018,
         2019,
         2020,
         2021,
@@ -28107,8 +29167,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 103,
-      "analysedCount": 89
+      "accessedCount": 119,
+      "analysedCount": 105
     },
     {
       "id": "fonte-3ed65b2f1d041330",
@@ -31307,6 +32367,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-3367bd4c7cbfa28d",
+      "itemId": "pesquisa-b923d33d92952479",
+      "title": "Agência Senado registra divergência pública entre Eliziane Gama e Flávio sobre reconvocação",
+      "date": "2023-08-09",
+      "datePrecision": "day",
+      "context": "A reportagem de 09/08/2023 registra o interesse público declarado por Eliziane Gama em reconvocar Silvinei Vasques à CPMI e a manifestação crítica de Flávio Bolsonaro nas redes sobre a atuação da Polícia Federal. Os posicionamentos são atribuídos a cada participante, não apresentados como provas de irregularidade ou como constatação editorial.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-7f63594e0f61ffe7",
       "itemId": "pesquisa-9e26051fde8d784b",
       "title": "Manifestação sobre PLN 12/2023 e programa de escolas cívico-militares",
@@ -31802,6 +32871,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-a612f4bc9a3cfaef",
+      "itemId": "pesquisa-8668e3004883171e",
+      "title": "Flávio descreve sua versão do momento do convite a Sérgio Moro",
+      "date": "2019-11-19",
+      "datePrecision": "day",
+      "context": "Na resposta a intervenção de Renan Calheiros, Flávio afirmou ter presenciado o convite a Sérgio Moro para integrar o governo depois da eleição de 2018. A informação é uma declaração atribuída ao senador, não confirmação independente da cronologia da negociação; o texto institucional assinala interrupção do som.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-f9ad3af759c2966a",
       "itemId": "pesquisa-ab4b42622abb5700",
       "title": "Voto no texto principal da reforma da Previdência, segundo turno",
@@ -31820,6 +32898,33 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-62ac16dcc0253423",
+      "itemId": "pesquisa-eacf3c2518eaf17d",
+      "title": "Agência Senado contextualiza relatoria do PLS 179/2018 e audiência do PL 4489/2019",
+      "date": "2019-10-16",
+      "datePrecision": "day",
+      "context": "Reportagem de 16/10/2019 descreve audiências na CCJ e identifica Elmano Férrer como autor do PLS 179/2018 e Flávio como relator naquele momento. A referência documenta o papel parlamentar histórico e não equivale à aprovação do projeto de coleta de DNA.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-fcdc6ef289821516",
+      "itemId": "pesquisa-5879a1735cc81934",
+      "title": "Flávio apresenta REQ 144/2019 para audiência pública sobre advocacia e contabilidade",
+      "date": "2019-10-16",
+      "datePrecision": "day",
+      "context": "A ficha identifica Flávio como autor do REQ 144/2019-CCJ que solicitou audiência pública para discutir o PL 4489/2019, relativo a serviços de advogados e profissionais de contabilidade. A tramitação do requerimento encerrou-se com estado 'audiência pública' em 16/10/2019, distinto do mérito do projeto.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-6e9877374c75fec7",
+      "itemId": "pesquisa-70fecf375ebd7b08",
+      "title": "Flávio comenta distribuição de receitas da cessão onerosa aos estados",
+      "date": "2019-09-26",
+      "datePrecision": "day",
+      "context": "Discurso no Congresso Nacional discute repartição proposta de receitas de bônus da cessão onerosa e interesses de estados produtores, incluindo o Rio de Janeiro. Percentuais e expectativas apresentados pelo parlamentar são objeto de sua defesa e não equivalem a pagamentos efetivamente realizados.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-d691800d848ec09e",
       "itemId": "pesquisa-dfe49174bbb04149",
       "title": "Suspensão de investigação em 2019 por compartilhamento de dados",
@@ -31827,6 +32932,15 @@
       "datePrecision": "unknown",
       "context": "STF noticia suspensão de procedimentos vinculados ao compartilhamento de dados até exame do RE 1.055.941.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-29cef82eb2fa60ed",
+      "itemId": "pesquisa-6150db1d26d021f7",
+      "title": "PL 4489/2019: autoria de Efraim Filho e norma gerada em agosto de 2020",
+      "date": "2019-08-14",
+      "datePrecision": "day",
+      "context": "A ficha oficial atribui o PL 4489/2019 ao deputado Efraim Filho, de origem da Câmara (PL 10980/2018), e indica que gerou a Lei 14.039 de 17/08/2020. Flávio aparece em requerimento de audiência sobre o texto, não como seu autor ou relator. O relator da CCJ registrado nesta ficha é Veneziano Vital do Rêgo.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-14927e7eaaef7cda",
@@ -31874,6 +32988,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-ba4f4f8419fa6f48",
+      "itemId": "pesquisa-827fab2ff4952cb5",
+      "title": "Agência Senado informa proposta conjunta sobre agentes socioeducativos no Susp",
+      "date": "2019-06-06",
+      "datePrecision": "day",
+      "context": "A reportagem institucional registra o PL 3358/2019, apresentado por três senadores, incluindo Flávio, para alterar o enquadramento de agentes socioeducativos no Sistema Único de Segurança Pública. É coautoria e não autoria exclusiva; a notícia não certifica transformação do projeto em lei.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-55aab89890ff4ed6",
+      "itemId": "pesquisa-58afac659571ad1d",
+      "title": "Ficha PL 3358/2019 diferencia coautoria e relatoria pendente",
+      "date": "2019-06-06",
+      "datePrecision": "day",
+      "context": "Registro oficial atribui o PL 3358/2019 conjuntamente a Major Olímpio, Flávio Bolsonaro e Fernando Bezerra Coelho. O último estado visível na ficha é de 04/05/2020, aguardando designação de relator; 'em tramitação' não significa lei aprovada.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-f1d77741128b8f18",
       "itemId": "pesquisa-122cb2426ccf06e8",
       "title": "Discurso de 03/06/2019 em defesa da MP 871/2019 de combate a fraudes previdenciárias",
@@ -31892,6 +33024,33 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-61cc5016fe55c1f9",
+      "itemId": "pesquisa-6067b7e18724fc04",
+      "title": "Flávio defende decreto sobre armas em pronunciamento de maio de 2019",
+      "date": "2019-05-08",
+      "datePrecision": "day",
+      "context": "O pronunciamento registra apoio do senador ao decreto federal de 2019 ligado ao Estatuto do Desarmamento e argumentos sobre políticas de armas e resultados de consulta popular. Referências numéricas feitas pelo orador são alegações suas e não foram verificadas contra a fonte estatística original.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-05328692b9aff5e9",
+      "itemId": "pesquisa-07f7474c850e7311",
+      "title": "Flávio responde a Tasso Jereissati sobre governos anteriores",
+      "date": "2019-05-08",
+      "datePrecision": "day",
+      "context": "Em explicação pessoal, Flávio respondeu a discurso de Tasso Jereissati com críticas à gestão anterior do PT e expectativas para a economia. Trata-se de posicionamento em debate; projeções e números citados na intervenção exigem cotejo independente antes de qualquer avaliação factual.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-834e16ce710ca9f3",
+      "itemId": "pesquisa-9efd2bf027dedcb8",
+      "title": "Agência Senado noticia projeto de Flávio sobre tipificação de arrastão",
+      "date": "2019-04-05",
+      "datePrecision": "day",
+      "context": "A notícia institucional apresenta o PL 2171/2019, de Flávio, para incluir a tipificação de arrastão no Código Penal. O projeto e suas penas são propostas legislativas, não uma lei comprovadamente vigente.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-806611d43fbff020",
       "itemId": "pesquisa-6c6c72a7acef5154",
       "title": "Avaliação dos cem primeiros dias do governo Bolsonaro",
@@ -31899,6 +33058,15 @@
       "datePrecision": "unknown",
       "context": "Página da TV Senado registra avaliação favorável do senador sobre os primeiros cem dias do governo de seu pai. Posições políticas e afirmações factuais precisam ser separadas ao rever a entrevista.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-969e01fad1404db9",
+      "itemId": "pesquisa-99a39b4e39d0bcf2",
+      "title": "Ficha do PL 2171/2019 registra autoria de Flávio e tramitação em CCJ",
+      "date": "2019-04-05",
+      "datePrecision": "day",
+      "context": "Ficha institucional indica apresentação do PL 2171/2019 por Flávio em 05/04/2019, com objeto de tipificar arrastão. A posição exibida informa 'em tramitação' e último estado de 13/09/2023 'aguardando designação do relator' na CCJ. A página consultada não demonstra aprovação ou promulgação.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-7d83d5457f8318e1",
@@ -31935,6 +33103,33 @@
       "datePrecision": "unknown",
       "context": "Rádio Senado registra prioridades de segurança pública e reforma da Previdência; texto também informa quatro mandatos estaduais. Há transcrição institucional e duração informada de 1min21s.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-fc5287c000235884",
+      "itemId": "pesquisa-7e9a4e7878efa800",
+      "title": "Presidência do Senado indefere pedido de votação separada da chapa da Mesa",
+      "date": "2019-02-06",
+      "datePrecision": "day",
+      "context": "Na resposta à questão de ordem de Randolfe, Davi Alcolumbre indeferiu requerimento de votação separada e determinou votação em chapa única, mencionando o art. 60, § 4º, do Regimento Interno. O alcance explícito é o procedimento da eleição da Mesa, não uma decisão jurisdicional ampla sobre nepotismo.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-4247344e99561e05",
+      "itemId": "pesquisa-1b6d11af431eb04b",
+      "title": "Major Olímpio defende indicação de Flávio para a Mesa do Senado",
+      "date": "2019-02-06",
+      "datePrecision": "day",
+      "context": "O pronunciamento de Major Olímpio contradita a objeção de Randolfe Rodrigues à indicação de Flávio Bolsonaro e afirma que a bancada do PSL apoiava o nome. É uma manifestação atribuída a outro senador, não uma declaração de Flávio nem decisão administrativa.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9e83c69aa6348238",
+      "itemId": "pesquisa-15e07d00ee526096",
+      "title": "Flávio responde a questionamento sobre indicação à Mesa do Senado em fevereiro de 2019",
+      "date": "2019-02-06",
+      "datePrecision": "day",
+      "context": "A transcrição oficial atribui a Flávio uma contestação à questão de ordem de Randolfe Rodrigues sobre sua indicação à 3ª Secretaria do Senado. O senador argumentou que o parentesco com o presidente da República não tornava inválida sua indicação. O registro documenta a defesa pública dele, não uma avaliação jurídica independente.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-facb4b7d328de096",
@@ -32015,6 +33210,15 @@
       "date": "2018-06-25",
       "datePrecision": "day",
       "context": "Texto promulgado da Lei 8005/2018 altera a Lei 6499/2013 quanto aos efeitos da anistia administrativa. A ficha de autoria identifica Flávio como um dos 11 coautores do PL 4120/2018, juntamente com parlamentares de diferentes partidos.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-30f6991f4ca1ed4f",
+      "itemId": "pesquisa-6820bbccb547c794",
+      "title": "PLS 179/2018: Flávio foi relator, não autor, e matéria terminou arquivada",
+      "date": "2019-09-26",
+      "datePrecision": "day",
+      "context": "A ficha atribui autoria do PLS 179/2018 a Elmano Férrer e relatório com voto favorável apresentado por Flávio em 26/09/2019. A relatoria de Flávio terminou em 27/11/2019 e o projeto foi arquivado em 22/12/2022 ao fim da legislatura, não aprovado como lei por esse registro.",
       "state": "data informada pela fonte"
     },
     {
@@ -38654,6 +39858,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-3367bd4c7cbfa28d",
+      "itemId": "pesquisa-b923d33d92952479",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/08/09/eliziane-defende-reconvocacao-de-silvinei-preso-nesta-quarta",
+      "locator": "Reportagem institucional de 09/08/2023, seção 'Divergência' e parágrafos da resposta de Flávio, com contexto anterior sobre CPMI.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-7f63594e0f61ffe7",
       "itemId": "pesquisa-9e26051fde8d784b",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -39259,6 +40474,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-a612f4bc9a3cfaef",
+      "itemId": "pesquisa-8668e3004883171e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/461950",
+      "locator": "Pronunciamento 461950, 221ª Sessão Deliberativa Ordinária, Texto integral; DSF de 20/11/2019, página 105.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-f9ad3af759c2966a",
       "itemId": "pesquisa-ab4b42622abb5700",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -39281,11 +40507,55 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-62ac16dcc0253423",
+      "itemId": "pesquisa-eacf3c2518eaf17d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/10/16/previdencia-ccj-fara-mais-uma-audiencia-publica-sobre-pec-paralela",
+      "locator": "Reportagem 16/10/2019, seção 'Banco genético', parágrafos sobre PLS 179/2018 e relatoria de Flávio.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-fcdc6ef289821516",
+      "itemId": "pesquisa-5879a1735cc81934",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/139404",
+      "locator": "Ficha 139404, Ementa, Autoria, Situação Atual e Tramitação de 16/10/2019.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-6e9877374c75fec7",
+      "itemId": "pesquisa-70fecf375ebd7b08",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/460482",
+      "locator": "Pronunciamento 460482, 17ª Sessão Solene do Congresso, Texto integral; DCN de 03/10/2019, página 12.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-d691800d848ec09e",
       "itemId": "pesquisa-dfe49174bbb04149",
       "sourceId": "fonte-3ed65b2f1d041330",
       "url": "https://noticias.stf.jus.br/postsnoticias/suspensa-investigacao-contra-flavio-bolsonaro-ate-decisao-do-stf-sobre-compartilhamento-de-dados/",
       "locator": "Corpo, primeiro parágrafo e fundamentação",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-29cef82eb2fa60ed",
+      "itemId": "pesquisa-6150db1d26d021f7",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/138121",
+      "locator": "Ficha 138121, Autoria, Norma Gerada, Último estado, Relatório de Veneziano em 16/09 e 26/11/2019, REQ 144/2019 citado nos requerimentos.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -39347,6 +40617,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-ba4f4f8419fa6f48",
+      "itemId": "pesquisa-827fab2ff4952cb5",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/06/06/senadores-apresentam-projeto-para-incluir-agentes-socioeducativos-no-susp",
+      "locator": "Reportagem de 06/06/2019, trecho da apresentação e autores do PL 3358/2019.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-55aab89890ff4ed6",
+      "itemId": "pesquisa-58afac659571ad1d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/137181",
+      "locator": "Ficha 137181, cabeçalho Autoria, Situação Atual, Último estado, Documento Proposição de 06/06/2019.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-f1d77741128b8f18",
       "itemId": "pesquisa-122cb2426ccf06e8",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -39369,11 +40661,55 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-61cc5016fe55c1f9",
+      "itemId": "pesquisa-6067b7e18724fc04",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/453390",
+      "locator": "Pronunciamento 453390, Texto integral, fala 'Pela ordem' da 66ª sessão; DSF de 09/05/2019, página 75.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-05328692b9aff5e9",
+      "itemId": "pesquisa-07f7474c850e7311",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/453394",
+      "locator": "Pronunciamento 453394, Explicação pessoal, Texto integral; DSF de 09/05/2019, página 79.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-834e16ce710ca9f3",
+      "itemId": "pesquisa-9efd2bf027dedcb8",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/04/15/projeto-torna-arrastao-crime",
+      "locator": "Título e corpo de reportagem de 15/04/2019; identificação PL 2171/2019.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-806611d43fbff020",
       "itemId": "pesquisa-6c6c72a7acef5154",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/videos/2019/04/flavio-bolsonaro-avalia-conducao-dos-cem-primeiros-dias-de-governo",
       "locator": null,
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-969e01fad1404db9",
+      "itemId": "pesquisa-99a39b4e39d0bcf2",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136252",
+      "locator": "Ficha 136252, Autoria, Ementa, Situação Atual, Último estado e identificação PL 2171/2019.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -39418,6 +40754,39 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/radio/1/noticia/2019/02/13/reforma-da-previdencia-e-seguranca-publica-sao-prioridades-do-senador-flavio-bolsonaro",
       "locator": "Seções Perfil, Transcrição; publicação 16h40, atualização 17h41",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-fc5287c000235884",
+      "itemId": "pesquisa-7e9a4e7878efa800",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/pt_BR/web/atividade/pronunciamentos/-/p/pronunciamento/450636",
+      "locator": "Pronunciamento 450636, Texto integral, explicação do rito e indeferimento; DSF de 07/02/2019, página 10.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-4247344e99561e05",
+      "itemId": "pesquisa-1b6d11af431eb04b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/450634",
+      "locator": "Pronunciamento 450634, Texto integral, intervenções sobre 3ª Secretaria; DSF de 07/02/2019, página 9.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9e83c69aa6348238",
+      "itemId": "pesquisa-15e07d00ee526096",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/450635",
+      "locator": "Cabeçalho do pronunciamento 450635; seção Texto integral; DSF de 07/02/2019, página 10.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -39517,6 +40886,17 @@
       "sourceId": "fonte-e979cfd37b58c2c5",
       "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2U5NTg5YjlhYWJkOWNhYzgwMzI1NjRmZTAwNjVhYmI0LzZlYTI4Mjc1NDA4ZjBhNzk4MzI1ODJiODAwNjI1NjFhP09wZW5Eb2N1bWVudA%3D%3D",
       "locator": "Lei, sanção e artigos 451-465; ficha técnica 470-478; notícia da ALERJ de 30/05/2018 sobre aprovação prévia.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-30f6991f4ca1ed4f",
+      "itemId": "pesquisa-6820bbccb547c794",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/132930",
+      "locator": "Ficha 132930, Proposição/Autor, Relatório Legislativo de 26/09/2019, Relatoria e Último estado de 22/12/2022.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -40550,72 +41930,83 @@
     },
     {
       "year": 2018,
-      "found": 4,
-      "accessed": 4,
-      "analysed": 3,
+      "found": 5,
+      "accessed": 5,
+      "analysed": 4,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 1,
-        "analisado": 3,
+        "analisado": 4,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "atividade parlamentar": 3,
-        "Atividade pública": 1
+        "Atividade pública": 1,
+        "execução penal": 1
       },
       "sources": {
         "fonte-e979cfd37b58c2c5": 3,
-        "fonte-d7238973977790d8": 1
+        "fonte-d7238973977790d8": 1,
+        "fonte-2acd9e7dc92e583a": 1
       },
       "formats": {
-        "documento": 3,
+        "documento": 4,
         "registro": 1
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2019,
-      "found": 21,
-      "accessed": 21,
-      "analysed": 19,
+      "found": 35,
+      "accessed": 35,
+      "analysed": 33,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 19,
+        "analisado": 33,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "atividade parlamentar": 1,
+        "Sérgio Moro": 1,
         "previdencia": 3,
+        "CCJ": 2,
+        "cessão onerosa": 1,
         "justica": 1,
+        "serviços jurídicos": 1,
         "Atividade pública": 1,
         "documentação pública": 6,
         "previdência": 2,
         "educação": 1,
+        "segurança pública": 2,
         "previdência social": 1,
+        "armas": 1,
+        "economia": 1,
+        "direito penal": 2,
         "governo": 1,
         "imprensa": 1,
+        "Mesa Diretora": 3,
         "inteligência artificial": 2,
         "transparência": 1
       },
       "sources": {
         "fonte-e979cfd37b58c2c5": 1,
-        "fonte-2acd9e7dc92e583a": 8,
+        "fonte-2acd9e7dc92e583a": 22,
         "fonte-3ed65b2f1d041330": 1,
         "fonte-d7238973977790d8": 1,
         "fonte-9c2fbd587c9a9fb0": 9,
         "fonte-58d9376cef7ffa17": 1
       },
       "formats": {
-        "reportagem": 3,
+        "reportagem": 6,
+        "documento": 14,
         "registro": 3,
-        "documento": 3,
         "checagem": 10,
         "video": 1,
         "audio": 1
@@ -40738,15 +42129,15 @@
     },
     {
       "year": 2023,
-      "found": 19,
-      "accessed": 19,
-      "analysed": 17,
+      "found": 20,
+      "accessed": 20,
+      "analysed": 18,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 17,
+        "analisado": 18,
         "revisado": 0,
         "publicado": 0
       },
@@ -40756,6 +42147,7 @@
         "orçamento": 1,
         "segurança pública": 2,
         "educacao": 1,
+        "CPMI de 8 de Janeiro": 1,
         "educação": 1,
         "esporte": 1,
         "liberdade de expressão": 1,
@@ -40765,14 +42157,14 @@
         "eleicoes": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 17,
+        "fonte-2acd9e7dc92e583a": 18,
         "fonte-37b3a9c8aaa5f206": 1,
         "fonte-d17e0097bbcd6c10": 1
       },
       "formats": {
         "documento": 17,
-        "video": 1,
-        "reportagem": 1
+        "reportagem": 2,
+        "video": 1
       },
       "note": "Recorte não exaustivo."
     },
@@ -40950,11 +42342,11 @@
     }
   ],
   "metrics": {
-    "newItems": 398,
-    "items": 416,
+    "newItems": 414,
+    "items": 432,
     "alreadyInArchive": 18,
-    "accessed": 413,
-    "analysed": 388,
+    "accessed": 429,
+    "analysed": 404,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -40966,11 +42358,11 @@
     "sourcesConsulted": 33,
     "video": 17,
     "audio": 5,
-    "documents": 103,
+    "documents": 115,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 101,
+    "queryCount": 107,
     "accessFailures": 17,
     "undatedItems": 37
   },
@@ -41804,6 +43196,60 @@
       "resultsState": "Pronunciamentos sobre PEC 2/2016 e PDL 214/2025 já catalogados; não duplicados."
     },
     {
+      "id": "consulta-065c80fbf2f89ddd",
+      "batch": "senado-2019-20261024-15",
+      "query": "site:www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/ \"Flávio Bolsonaro\" \"2019\"",
+      "executedAt": "2026-10-24T12:53:06.527Z",
+      "engine": "web.run: busca institucional e abertura de HTML de fonte primária",
+      "interval": "2019",
+      "resultsState": "Discursos oficiais abertos sobre Mesa do Senado, decreto de armas, discussão com Tasso, cessão onerosa e convite a Sérgio Moro; pronunciamento já catalogado 454798 descartado."
+    },
+    {
+      "id": "consulta-c561504a6124cd0f",
+      "batch": "senado-2019-20261024-15",
+      "query": "site:www12.senado.leg.br/noticias/materias/2019/ \"Flávio Bolsonaro\" \"projeto\"",
+      "executedAt": "2026-10-24T12:53:06.527Z",
+      "engine": "web.run: busca institucional e abertura de HTML de fonte primária",
+      "interval": "2019",
+      "resultsState": "Lidas notícias institucionais sobre PL 2171/2019, PL 3358/2019 e cobertura da CCJ; fichas primárias abertas separadamente."
+    },
+    {
+      "id": "consulta-3e383b5b1557554a",
+      "batch": "senado-2019-20261024-15",
+      "query": "site:www25.senado.leg.br/web/atividade/materias/-/materia/ \"PL 2171/2019\" \"PL 3358/2019\"",
+      "executedAt": "2026-10-24T12:53:06.527Z",
+      "engine": "web.run: busca institucional e abertura de HTML de fonte primária",
+      "interval": "2019–2023",
+      "resultsState": "Consultadas fichas com autoria, coautoria e estados de tramitação; nenhum projeto pendente apresentado como lei."
+    },
+    {
+      "id": "consulta-50e6f9193d867c43",
+      "batch": "senado-2019-20261024-15",
+      "query": "site:www25.senado.leg.br/web/atividade/materias/-/materia/ \"PLS 179/2018\" \"Flávio Bolsonaro\" \"relator\"",
+      "executedAt": "2026-10-24T12:53:06.527Z",
+      "engine": "web.run: busca institucional e abertura de HTML de fonte primária",
+      "interval": "2018–2022",
+      "resultsState": "Identificada autoria de Elmano Férrer, relatório de Flávio em 2019 e arquivamento no fim de 2022."
+    },
+    {
+      "id": "consulta-53e56fa9563ceace",
+      "batch": "senado-2019-20261024-15",
+      "query": "site:www25.senado.leg.br/web/atividade/materias/-/materia/ \"PL 4489/2019\" \"REQ 144/2019\"",
+      "executedAt": "2026-10-24T12:53:06.527Z",
+      "engine": "web.run: busca institucional e abertura de HTML de fonte primária",
+      "interval": "2019–2020",
+      "resultsState": "Requerimento de audiência de Flávio cotejado com projeto de autoria de Efraim Filho e norma gerada em 2020; relatório de Veneziano."
+    },
+    {
+      "id": "consulta-55d82301524a7260",
+      "batch": "senado-2019-20261024-15",
+      "query": "site:www12.senado.leg.br/noticias/materias/2023/ \"Flávio Bolsonaro\" \"Eliziane\" \"Silvinei\"",
+      "executedAt": "2026-10-24T12:53:06.527Z",
+      "engine": "web.run: busca institucional e abertura de HTML de fonte primária",
+      "interval": "2023",
+      "resultsState": "Lida reportagem com divergência pública de Eliziane e Flávio sobre CPMI e investigação, sem inferir culpa ou desfecho."
+    },
+    {
       "id": "consulta-c6a15418b78c95a9",
       "batch": "senado-2023-2024-20261024-04",
       "query": "site:senado.leg.br pronunciamento Flávio Bolsonaro 2023 PL 1084 3045 4503 PLN 12 40 8 de janeiro",
@@ -42398,6 +43844,48 @@
       "batch": "recortes-senado-20261024-05"
     },
     {
+      "id": "lacuna-634aca62bd89df85",
+      "note": "Conferir PDFs oficiais dos DSF de 07/02, 09/05 e 20/11/2019 e do DCN 03/10/2019 para cotejo dos discursos; HTML institucional é transcrição, não audição. Áudio revisado: zero segundos.",
+      "state": "pendente",
+      "batch": "senado-2019-20261024-15"
+    },
+    {
+      "id": "lacuna-48752bfc183f956d",
+      "note": "Conferir dados originais citados nas defesas de políticas de armas e nas falas econômicas; não converter alegações parlamentares ou previsões em fatos verificados.",
+      "state": "pendente",
+      "batch": "senado-2019-20261024-15"
+    },
+    {
+      "id": "lacuna-d86e5730d97202e0",
+      "note": "Examinar íntegra original da Lei 14.039/2020 e a participação da CCJ para delimitar efeitos do PL 4489/2019, mantendo Flávio como autor apenas do REQ 144/2019, não do projeto de Efraim Filho.",
+      "state": "pendente",
+      "batch": "senado-2019-20261024-15"
+    },
+    {
+      "id": "lacuna-8b4b78291e1d24cb",
+      "note": "Comparar a versão de Flávio sobre o convite a Sérgio Moro com depoimentos e documentos contemporâneos acessíveis; não inferir autenticidade pelo discurso.",
+      "state": "pendente",
+      "batch": "senado-2019-20261024-15"
+    },
+    {
+      "id": "lacuna-ef12fcf21237fc6b",
+      "note": "Rever eventuais desarquivamentos/atualizações posteriores de PLS 179/2018, PL 2171/2019 e PL 3358/2019 antes de afirmar estado atual além da ficha consultada.",
+      "state": "pendente",
+      "batch": "senado-2019-20261024-15"
+    },
+    {
+      "id": "lacuna-a1cfe6d111498f3c",
+      "note": "Localizar post original de Flávio de 09/08/2023 e documentos oficiais pertinentes à CPMI, com resposta e estado processual próprios, sem atribuir transcrição literal não conferida.",
+      "state": "pendente",
+      "batch": "senado-2019-20261024-15"
+    },
+    {
+      "id": "lacuna-c61544faa77e9a0a",
+      "note": "Ampliar depois ALERJ 2003–2008 e fontes primárias de 2019 ainda não catalogadas, sem repetir material acessado.",
+      "state": "pendente",
+      "batch": "senado-2019-20261024-15"
+    },
+    {
       "id": "lacuna-b1a0247164e586bf",
       "note": "Executar scripts/build_research.py e scripts/sync_content.py num checkout completo, validar testes Python e frontend e registrar no mesmo commit as três saídas de research com leitura do JSON persistido, sem sobrepor dados recentes do coletor.",
       "state": "pendente",
@@ -42517,6 +44005,12 @@
       ],
       "limitations": "Não foram auditados contadores nem classificações. Um recorte falhou ao carregar. Não se observaram logs do coletor ou data geral de atualização. Nenhum texto ou acervo foi copiado.",
       "inspectionLog": "https://agent.tinyfish.ai/runs/fb034389-dd17-4a09-8b93-ffd378d7f0ce"
+    },
+    {
+      "name": "Senado Federal, pronunciamentos e matérias legislativas",
+      "url": "https://www25.senado.leg.br/web/atividade/",
+      "checked_at_utc": "2026-10-24T12:53:06.527Z",
+      "scope": "Registros HTML da atividade parlamentar e tramitação, consulta direta nesta execução."
     }
   ],
   "publicationGate": {
