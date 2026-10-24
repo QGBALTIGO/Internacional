@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T11:04:46.595342Z",
-    "inputHash": "22f1b448dea99abead76183ffd941bfad534667c35b83e9dd380d64002ab5b16",
+    "generatedAt": "2026-10-24T11:05:08.456184Z",
+    "inputHash": "65d9d71e8c0be702ddedf87492b2884d16b8b34bcb5e7963b7269723c658d769",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -6750,6 +6750,270 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-ba46a806b4f2a1ee",
+      "title": "Debate Band: O Careca do INSS foi do seu governo.",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-o-careca-do-inss-foi-do-seu-governo-band/",
+      "publisher": "FlagCheck",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "debate da Band",
+      "topics": [
+        "debate da Band",
+        "eleições 2026",
+        "Corrupção e investigações"
+      ],
+      "stage": "analisado",
+      "summary": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Falso. 3 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "limitations": "O timestamp foi informado pela página consultada e não foi aferido pelo Arquivo no vídeo. Áudio revisado nesta coleta: 0 segundos. O rótulo Falso é atribuído à fonte e aos verificadores consolidados, não ao Arquivo. Concordância exibida pela fonte: 67%.",
+      "locator": "Debate da Band, bloco 1, 0:14:45 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "sourceId": "fonte-70a74a349f893659",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-8b3dc5b273037d31",
+      "transcript": {
+        "method": "Trecho textual reproduzido pela página de consolidação; sem conferência do áudio.",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": "O Careca do INSS foi do seu governo.",
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:04:58.692Z",
+      "lastModifiedAt": "2026-10-24T11:04:58.692Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Resultado agregado do FlagCheck: Falso",
+      "factualQuestion": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": "O Careca do INSS foi do seu governo.",
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens-debate-band-20261024-09",
+          "inputId": "debate-band-20261018-018",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-b1a7ca24785d6e5e",
+      "title": "Debate Band: a Polícia Federal até agora não foi atrás do seu filho.",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-a-policia-federal-ate-agora-nao-foi-atras-do-seu-filho-band/",
+      "publisher": "FlagCheck",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "debate da Band",
+      "topics": [
+        "debate da Band",
+        "eleições 2026",
+        "Corrupção e investigações"
+      ],
+      "stage": "analisado",
+      "summary": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Falso. 3 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "limitations": "O timestamp foi informado pela página consultada e não foi aferido pelo Arquivo no vídeo. Áudio revisado nesta coleta: 0 segundos. O rótulo Falso é atribuído à fonte e aos verificadores consolidados, não ao Arquivo. Concordância exibida pela fonte: 67%.",
+      "locator": "Debate da Band, bloco 1, 0:14:13 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "sourceId": "fonte-70a74a349f893659",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-65bd6652e5dd43be",
+      "transcript": {
+        "method": "Trecho textual reproduzido pela página de consolidação; sem conferência do áudio.",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": "a Polícia Federal até agora não foi atrás do seu filho.",
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:04:58.691Z",
+      "lastModifiedAt": "2026-10-24T11:04:58.691Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Resultado agregado do FlagCheck: Falso",
+      "factualQuestion": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": "a Polícia Federal até agora não foi atrás do seu filho.",
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens-debate-band-20261024-09",
+          "inputId": "debate-band-20261018-017",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-b0f7cdeb721272b2",
+      "title": "Debate Band: Roberta e ela é sócia do seu filho. Ela falou que é sócia do seu filho. Por que…",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-roberta-e-ela-e-socia-do-seu-filho-ela-falou-que-e-socia-do-band/",
+      "publisher": "FlagCheck",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "debate da Band",
+      "topics": [
+        "debate da Band",
+        "eleições 2026",
+        "Corrupção e investigações"
+      ],
+      "stage": "analisado",
+      "summary": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Falso. 2 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "limitations": "O timestamp foi informado pela página consultada e não foi aferido pelo Arquivo no vídeo. Áudio revisado nesta coleta: 0 segundos. O rótulo Falso é atribuído à fonte e aos verificadores consolidados, não ao Arquivo. Concordância exibida pela fonte: 50%.",
+      "locator": "Debate da Band, bloco 1, 0:17:41 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "sourceId": "fonte-70a74a349f893659",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-f440d46fb2383f92",
+      "transcript": {
+        "method": "Trecho textual reproduzido pela página de consolidação; sem conferência do áudio.",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": "Roberta e ela é sócia do seu filho. Ela falou que é sócia do seu filho. Por que a Polícia…",
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:04:58.692Z",
+      "lastModifiedAt": "2026-10-24T11:04:58.692Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Resultado agregado do FlagCheck: Falso",
+      "factualQuestion": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": "Roberta e ela é sócia do seu filho. Ela falou que é sócia do seu filho. Por que a Polícia…",
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens-debate-band-20261024-09",
+          "inputId": "debate-band-20261018-020",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-af3bfe4333c637c1",
+      "title": "Debate Band: O atual governo tá deixando de 11 trilhões de reais, mais um recorde negativo",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-o-atual-governo-ta-deixando-de-11-trilhoes-de-reais-mais-um-band/",
+      "publisher": "FlagCheck",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "debate da Band",
+      "topics": [
+        "debate da Band",
+        "eleições 2026",
+        "Economia e contas públicas"
+      ],
+      "stage": "analisado",
+      "summary": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Verdadeiro. 4 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "limitations": "O timestamp foi informado pela página consultada e não foi aferido pelo Arquivo no vídeo. Áudio revisado nesta coleta: 0 segundos. O rótulo Verdadeiro é atribuído à fonte e aos verificadores consolidados, não ao Arquivo. Concordância exibida pela fonte: 100%.",
+      "locator": "Debate da Band, bloco 1, 0:10:54 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "sourceId": "fonte-70a74a349f893659",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-3898c1950a49376b",
+      "transcript": {
+        "method": "Trecho textual reproduzido pela página de consolidação; sem conferência do áudio.",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": "O atual governo tá deixando de 11 trilhões de reais, mais um recorde negativo",
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:04:58.691Z",
+      "lastModifiedAt": "2026-10-24T11:04:58.691Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Resultado agregado do FlagCheck: Verdadeiro",
+      "factualQuestion": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": "O atual governo tá deixando de 11 trilhões de reais, mais um recorde negativo",
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens-debate-band-20261024-09",
+          "inputId": "debate-band-20261018-015",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-ae458e7a1d2c4e1b",
       "title": "Debate Band: O simples fato de Flávio Bolsonaro virar do primeiro para o segundo turno, na frente, a taxa de…",
       "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-o-simples-fato-de-flavio-bolsonaro-virar-do-primeiro-para-o-band/",
@@ -6809,6 +7073,72 @@
         {
           "batch": "checagens-debate-band-20261024-09",
           "inputId": "debate-band-20261018-010",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-975bc4949bc110ec",
+      "title": "Debate Band: Lulinha mora \"do lado do Vini Jr.\", e Roberta \"sabe quem está sustentando\"",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-lulinha-mora-do-lado-do-vini-jr-e-roberta-sabe-quem-esta-band/",
+      "publisher": "FlagCheck",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "debate da Band",
+      "topics": [
+        "debate da Band",
+        "eleições 2026",
+        "Corrupção e investigações"
+      ],
+      "stage": "analisado",
+      "summary": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Verdadeiro. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "limitations": "O timestamp foi informado pela página consultada e não foi aferido pelo Arquivo no vídeo. Áudio revisado nesta coleta: 0 segundos. O rótulo Verdadeiro é atribuído à fonte e aos verificadores consolidados, não ao Arquivo.",
+      "locator": "Debate da Band, bloco 1, 0:14:53 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "sourceId": "fonte-70a74a349f893659",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-c46fe027bed598f3",
+      "transcript": {
+        "method": "Trecho textual reproduzido pela página de consolidação; sem conferência do áudio.",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": "Lulinha mora \"do lado do Vini Jr.\", e Roberta \"sabe quem está sustentando\"",
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:04:58.692Z",
+      "lastModifiedAt": "2026-10-24T11:04:58.692Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Resultado agregado do FlagCheck: Verdadeiro",
+      "factualQuestion": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": "Lulinha mora \"do lado do Vini Jr.\", e Roberta \"sabe quem está sustentando\"",
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens-debate-band-20261024-09",
+          "inputId": "debate-band-20261018-019",
           "toolReference": null
         }
       ],
@@ -6951,6 +7281,138 @@
       "newToArchive": false
     },
     {
+      "id": "pesquisa-798ba41f02afc051",
+      "title": "Debate Band: Terminou o 1º turno na frente, com 56 milhões de votos",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-terminou-o-1o-turno-na-frente-com-56-milhoes-de-votos-band/",
+      "publisher": "FlagCheck",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "debate da Band",
+      "topics": [
+        "debate da Band",
+        "eleições 2026",
+        "Trajetória, votos e eleição"
+      ],
+      "stage": "analisado",
+      "summary": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Verdadeiro. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "limitations": "O timestamp foi informado pela página consultada e não foi aferido pelo Arquivo no vídeo. Áudio revisado nesta coleta: 0 segundos. O rótulo Verdadeiro é atribuído à fonte e aos verificadores consolidados, não ao Arquivo.",
+      "locator": "Debate da Band, bloco 1, 0:10:37 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "sourceId": "fonte-70a74a349f893659",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-6be8015f25aec947",
+      "transcript": {
+        "method": "Trecho textual reproduzido pela página de consolidação; sem conferência do áudio.",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": "Terminou o 1º turno na frente, com 56 milhões de votos",
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:04:58.691Z",
+      "lastModifiedAt": "2026-10-24T11:04:58.691Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Resultado agregado do FlagCheck: Verdadeiro",
+      "factualQuestion": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": "Terminou o 1º turno na frente, com 56 milhões de votos",
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens-debate-band-20261024-09",
+          "inputId": "debate-band-20261018-014",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-7662175f10e5091d",
+      "title": "Debate Band: O PT governa há 20 dos últimos 24 anos",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-o-pt-governa-ha-20-dos-ultimos-24-anos-band/",
+      "publisher": "FlagCheck",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "debate da Band",
+      "topics": [
+        "debate da Band",
+        "eleições 2026",
+        "Trajetória, votos e eleição"
+      ],
+      "stage": "analisado",
+      "summary": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Impreciso. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "limitations": "O timestamp foi informado pela página consultada e não foi aferido pelo Arquivo no vídeo. Áudio revisado nesta coleta: 0 segundos. O rótulo Impreciso é atribuído à fonte e aos verificadores consolidados, não ao Arquivo.",
+      "locator": "Debate da Band, bloco 1, 0:10:00 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "sourceId": "fonte-70a74a349f893659",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-e847017ba031bb60",
+      "transcript": {
+        "method": "Trecho textual reproduzido pela página de consolidação; sem conferência do áudio.",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": "O PT governa há 20 dos últimos 24 anos",
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:04:58.691Z",
+      "lastModifiedAt": "2026-10-24T11:04:58.691Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Resultado agregado do FlagCheck: Impreciso",
+      "factualQuestion": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": "O PT governa há 20 dos últimos 24 anos",
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens-debate-band-20261024-09",
+          "inputId": "debate-band-20261018-013",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-73605d35162ef6b7",
       "title": "Debate Band: A proposta do PT deixaria de fora traficantes e ladrões de celular",
       "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-a-proposta-do-pt-deixaria-de-fora-traficantes-e-ladroes-de-band/",
@@ -7017,6 +7479,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-695e7ac5a09c5bf3",
+      "title": "Debate Band: Ele [Eduardo Bolsonaro] está exilado, perseguido.",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-ele-eduardo-bolsonaro-esta-exilado-perseguido-band/",
+      "publisher": "FlagCheck",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "debate da Band",
+      "topics": [
+        "debate da Band",
+        "eleições 2026",
+        "campanha 2026"
+      ],
+      "stage": "analisado",
+      "summary": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Falso. 2 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "limitations": "O timestamp foi informado pela página consultada e não foi aferido pelo Arquivo no vídeo. Áudio revisado nesta coleta: 0 segundos. O rótulo Falso é atribuído à fonte e aos verificadores consolidados, não ao Arquivo. Concordância exibida pela fonte: 50%.",
+      "locator": "Debate da Band de 18/10/2026; localizador detalhado disponível na página individual.",
+      "sourceId": "fonte-70a74a349f893659",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-1d7a1de327843436",
+      "transcript": {
+        "method": "Trecho textual reproduzido pela página de consolidação; sem conferência do áudio.",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": "Ele [Eduardo Bolsonaro] está exilado, perseguido.",
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:04:58.691Z",
+      "lastModifiedAt": "2026-10-24T11:04:58.691Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Resultado agregado do FlagCheck: Falso",
+      "factualQuestion": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": "Ele [Eduardo Bolsonaro] está exilado, perseguido.",
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens-debate-band-20261024-09",
+          "inputId": "debate-band-20261018-011",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-65e6a11bff76fcc2",
       "title": "Debate Band: R$ 7 bilhões que você [Lula] gastou em viagens com a Janja",
       "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-r-7-bilhoes-que-voce-lula-gastou-em-viagens-com-a-janja-band/",
@@ -7076,6 +7604,72 @@
         {
           "batch": "checagens-debate-band-20261024-09",
           "inputId": "debate-band-20261018-004",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-5af3f5235f26485c",
+      "title": "Debate Band: A Lei Antifacção que nós aprovamos, os líderes dessas organizações vão ficar até 80 anos presos",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-a-lei-antifaccao-que-nos-aprovamos-os-lideres-dessas-band/",
+      "publisher": "FlagCheck",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "debate da Band",
+      "topics": [
+        "debate da Band",
+        "eleições 2026",
+        "Segurança pública"
+      ],
+      "stage": "analisado",
+      "summary": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Impreciso. 3 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "limitations": "O timestamp foi informado pela página consultada e não foi aferido pelo Arquivo no vídeo. Áudio revisado nesta coleta: 0 segundos. O rótulo Impreciso é atribuído à fonte e aos verificadores consolidados, não ao Arquivo. Concordância exibida pela fonte: 67%.",
+      "locator": "Debate da Band, bloco 1, 0:05:35 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "sourceId": "fonte-70a74a349f893659",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-f9f0627dbec262f3",
+      "transcript": {
+        "method": "Trecho textual reproduzido pela página de consolidação; sem conferência do áudio.",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": "A Lei Antifacção que nós aprovamos, os líderes dessas organizações vão ficar até 80 anos presos",
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:04:58.691Z",
+      "lastModifiedAt": "2026-10-24T11:04:58.691Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Resultado agregado do FlagCheck: Impreciso",
+      "factualQuestion": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": "A Lei Antifacção que nós aprovamos, os líderes dessas organizações vão ficar até 80 anos presos",
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens-debate-band-20261024-09",
+          "inputId": "debate-band-20261018-012",
           "toolReference": null
         }
       ],
@@ -7208,6 +7802,72 @@
         {
           "batch": "checagens-debate-band-20261024-09",
           "inputId": "debate-band-20261018-005",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-3762c2e9e10c1d8d",
+      "title": "Debate Band: Lula disse que não conhecia Roberta Luchsinger",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-lula-disse-que-nao-conhecia-roberta-luchsinger-band/",
+      "publisher": "FlagCheck",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "debate da Band",
+      "topics": [
+        "debate da Band",
+        "eleições 2026",
+        "Corrupção e investigações"
+      ],
+      "stage": "analisado",
+      "summary": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Verdadeiro. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "limitations": "O timestamp foi informado pela página consultada e não foi aferido pelo Arquivo no vídeo. Áudio revisado nesta coleta: 0 segundos. O rótulo Verdadeiro é atribuído à fonte e aos verificadores consolidados, não ao Arquivo.",
+      "locator": "Debate da Band, bloco 1, 0:13:14 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "sourceId": "fonte-70a74a349f893659",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-f2829427c0bd6ede",
+      "transcript": {
+        "method": "Trecho textual reproduzido pela página de consolidação; sem conferência do áudio.",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": "Lula disse que não conhecia Roberta Luchsinger",
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:04:58.691Z",
+      "lastModifiedAt": "2026-10-24T11:04:58.691Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Resultado agregado do FlagCheck: Verdadeiro",
+      "factualQuestion": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": "Lula disse que não conhecia Roberta Luchsinger",
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens-debate-band-20261024-09",
+          "inputId": "debate-band-20261018-016",
           "toolReference": null
         }
       ],
@@ -18536,10 +19196,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T11:04:34.507Z",
+      "lastConsultedAt": "2026-10-24T11:04:58.692Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 96,
+      "sourceCount": 106,
       "periods": [
         2026
       ],
@@ -18547,8 +19207,8 @@
         "checagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 96,
-      "analysedCount": 96
+      "accessedCount": 106,
+      "analysedCount": 106
     },
     {
       "id": "fonte-f4bf17de55c94544",
@@ -20445,12 +21105,57 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-8b3dc5b273037d31",
+      "itemId": "pesquisa-ba46a806b4f2a1ee",
+      "title": "Debate Band: O Careca do INSS foi do seu governo.",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Falso. 3 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-65bd6652e5dd43be",
+      "itemId": "pesquisa-b1a7ca24785d6e5e",
+      "title": "Debate Band: a Polícia Federal até agora não foi atrás do seu filho.",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Falso. 3 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f440d46fb2383f92",
+      "itemId": "pesquisa-b0f7cdeb721272b2",
+      "title": "Debate Band: Roberta e ela é sócia do seu filho. Ela falou que é sócia do seu filho. Por que…",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Falso. 2 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-3898c1950a49376b",
+      "itemId": "pesquisa-af3bfe4333c637c1",
+      "title": "Debate Band: O atual governo tá deixando de 11 trilhões de reais, mais um recorde negativo",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Verdadeiro. 4 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-fb0ec6c9c14ac2f7",
       "itemId": "pesquisa-ae458e7a1d2c4e1b",
       "title": "Debate Band: O simples fato de Flávio Bolsonaro virar do primeiro para o segundo turno, na frente, a taxa de…",
       "date": "2026-10-18",
       "datePrecision": "day",
       "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Impreciso. 4 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-c46fe027bed598f3",
+      "itemId": "pesquisa-975bc4949bc110ec",
+      "title": "Debate Band: Lulinha mora \"do lado do Vini Jr.\", e Roberta \"sabe quem está sustentando\"",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Verdadeiro. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
       "state": "data informada pela fonte"
     },
     {
@@ -20472,6 +21177,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-6be8015f25aec947",
+      "itemId": "pesquisa-798ba41f02afc051",
+      "title": "Debate Band: Terminou o 1º turno na frente, com 56 milhões de votos",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Verdadeiro. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e847017ba031bb60",
+      "itemId": "pesquisa-7662175f10e5091d",
+      "title": "Debate Band: O PT governa há 20 dos últimos 24 anos",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Impreciso. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-6893ea39fdd6a983",
       "itemId": "pesquisa-73605d35162ef6b7",
       "title": "Debate Band: A proposta do PT deixaria de fora traficantes e ladrões de celular",
@@ -20481,12 +21204,30 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-1d7a1de327843436",
+      "itemId": "pesquisa-695e7ac5a09c5bf3",
+      "title": "Debate Band: Ele [Eduardo Bolsonaro] está exilado, perseguido.",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Falso. 2 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-13227cf3e787c030",
       "itemId": "pesquisa-65e6a11bff76fcc2",
       "title": "Debate Band: R$ 7 bilhões que você [Lula] gastou em viagens com a Janja",
       "date": "2026-10-18",
       "datePrecision": "day",
       "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Falso. 7 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f9f0627dbec262f3",
+      "itemId": "pesquisa-5af3f5235f26485c",
+      "title": "Debate Band: A Lei Antifacção que nós aprovamos, os líderes dessas organizações vão ficar até 80 anos presos",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Impreciso. 3 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
       "state": "data informada pela fonte"
     },
     {
@@ -20505,6 +21246,15 @@
       "date": "2026-10-18",
       "datePrecision": "day",
       "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Impreciso. 6 checador(es) são indicados na página. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f2829427c0bd6ede",
+      "itemId": "pesquisa-3762c2e9e10c1d8d",
+      "title": "Debate Band: Lula disse que não conhecia Roberta Luchsinger",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Band de 18/10/2026. Resultado agregado exibido pela fonte: Verdadeiro. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
       "state": "data informada pela fonte"
     },
     {
@@ -24052,9 +24802,64 @@
       "classification": null
     },
     {
+      "id": "proposicao-candidata-8b3dc5b273037d31",
+      "mainId": null,
+      "itemId": "pesquisa-ba46a806b4f2a1ee",
+      "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-65bd6652e5dd43be",
+      "mainId": null,
+      "itemId": "pesquisa-b1a7ca24785d6e5e",
+      "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-f440d46fb2383f92",
+      "mainId": null,
+      "itemId": "pesquisa-b0f7cdeb721272b2",
+      "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-3898c1950a49376b",
+      "mainId": null,
+      "itemId": "pesquisa-af3bfe4333c637c1",
+      "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
       "id": "proposicao-candidata-fb0ec6c9c14ac2f7",
       "mainId": null,
       "itemId": "pesquisa-ae458e7a1d2c4e1b",
+      "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-c46fe027bed598f3",
+      "mainId": null,
+      "itemId": "pesquisa-975bc4949bc110ec",
       "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
       "normalizedClaim": null,
       "literalQuote": null,
@@ -24085,6 +24890,28 @@
       "classification": null
     },
     {
+      "id": "proposicao-candidata-6be8015f25aec947",
+      "mainId": null,
+      "itemId": "pesquisa-798ba41f02afc051",
+      "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-e847017ba031bb60",
+      "mainId": null,
+      "itemId": "pesquisa-7662175f10e5091d",
+      "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
       "id": "proposicao-candidata-6893ea39fdd6a983",
       "mainId": null,
       "itemId": "pesquisa-73605d35162ef6b7",
@@ -24096,9 +24923,31 @@
       "classification": null
     },
     {
+      "id": "proposicao-candidata-1d7a1de327843436",
+      "mainId": null,
+      "itemId": "pesquisa-695e7ac5a09c5bf3",
+      "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
       "id": "proposicao-candidata-13227cf3e787c030",
       "mainId": null,
       "itemId": "pesquisa-65e6a11bff76fcc2",
+      "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-f9f0627dbec262f3",
+      "mainId": null,
+      "itemId": "pesquisa-5af3f5235f26485c",
       "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
       "normalizedClaim": null,
       "literalQuote": null,
@@ -24121,6 +24970,17 @@
       "id": "proposicao-candidata-8794cafb62f8f4a5",
       "mainId": null,
       "itemId": "pesquisa-52f67ba85905aa3a",
+      "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-f2829427c0bd6ede",
+      "mainId": null,
+      "itemId": "pesquisa-3762c2e9e10c1d8d",
       "question": "A afirmação atribuída a Flávio Bolsonaro neste trecho é sustentada pelas evidências citadas pelas checagens publicadas?",
       "normalizedClaim": null,
       "literalQuote": null,
@@ -25584,11 +26444,66 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-8b3dc5b273037d31",
+      "itemId": "pesquisa-ba46a806b4f2a1ee",
+      "sourceId": "fonte-70a74a349f893659",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-o-careca-do-inss-foi-do-seu-governo-band/",
+      "locator": "Debate da Band, bloco 1, 0:14:45 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-65bd6652e5dd43be",
+      "itemId": "pesquisa-b1a7ca24785d6e5e",
+      "sourceId": "fonte-70a74a349f893659",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-a-policia-federal-ate-agora-nao-foi-atras-do-seu-filho-band/",
+      "locator": "Debate da Band, bloco 1, 0:14:13 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f440d46fb2383f92",
+      "itemId": "pesquisa-b0f7cdeb721272b2",
+      "sourceId": "fonte-70a74a349f893659",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-roberta-e-ela-e-socia-do-seu-filho-ela-falou-que-e-socia-do-band/",
+      "locator": "Debate da Band, bloco 1, 0:17:41 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-3898c1950a49376b",
+      "itemId": "pesquisa-af3bfe4333c637c1",
+      "sourceId": "fonte-70a74a349f893659",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-o-atual-governo-ta-deixando-de-11-trilhoes-de-reais-mais-um-band/",
+      "locator": "Debate da Band, bloco 1, 0:10:54 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-fb0ec6c9c14ac2f7",
       "itemId": "pesquisa-ae458e7a1d2c4e1b",
       "sourceId": "fonte-70a74a349f893659",
       "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-o-simples-fato-de-flavio-bolsonaro-virar-do-primeiro-para-o-band/",
       "locator": "Debate da Band, bloco 1, 0:10:45 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-c46fe027bed598f3",
+      "itemId": "pesquisa-975bc4949bc110ec",
+      "sourceId": "fonte-70a74a349f893659",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-lulinha-mora-do-lado-do-vini-jr-e-roberta-sabe-quem-esta-band/",
+      "locator": "Debate da Band, bloco 1, 0:14:53 do vídeo, conforme localizador publicado pelo FlagCheck.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -25617,6 +26532,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-6be8015f25aec947",
+      "itemId": "pesquisa-798ba41f02afc051",
+      "sourceId": "fonte-70a74a349f893659",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-terminou-o-1o-turno-na-frente-com-56-milhoes-de-votos-band/",
+      "locator": "Debate da Band, bloco 1, 0:10:37 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e847017ba031bb60",
+      "itemId": "pesquisa-7662175f10e5091d",
+      "sourceId": "fonte-70a74a349f893659",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-o-pt-governa-ha-20-dos-ultimos-24-anos-band/",
+      "locator": "Debate da Band, bloco 1, 0:10:00 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-6893ea39fdd6a983",
       "itemId": "pesquisa-73605d35162ef6b7",
       "sourceId": "fonte-70a74a349f893659",
@@ -25628,11 +26565,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-1d7a1de327843436",
+      "itemId": "pesquisa-695e7ac5a09c5bf3",
+      "sourceId": "fonte-70a74a349f893659",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-ele-eduardo-bolsonaro-esta-exilado-perseguido-band/",
+      "locator": "Debate da Band de 18/10/2026; localizador detalhado disponível na página individual.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-13227cf3e787c030",
       "itemId": "pesquisa-65e6a11bff76fcc2",
       "sourceId": "fonte-70a74a349f893659",
       "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-r-7-bilhoes-que-voce-lula-gastou-em-viagens-com-a-janja-band/",
       "locator": "Debate da Band, bloco 1, 0:42:40 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f9f0627dbec262f3",
+      "itemId": "pesquisa-5af3f5235f26485c",
+      "sourceId": "fonte-70a74a349f893659",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-a-lei-antifaccao-que-nos-aprovamos-os-lideres-dessas-band/",
+      "locator": "Debate da Band, bloco 1, 0:05:35 do vídeo, conforme localizador publicado pelo FlagCheck.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -25655,6 +26614,17 @@
       "sourceId": "fonte-70a74a349f893659",
       "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-voce-lula-pode-explicar-por-que-73-dos-presidiarios-votaram-em-band/",
       "locator": "Debate da Band, bloco 1, 0:31:51 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f2829427c0bd6ede",
+      "itemId": "pesquisa-3762c2e9e10c1d8d",
+      "sourceId": "fonte-70a74a349f893659",
+      "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-lula-disse-que-nao-conhecia-roberta-luchsinger-band/",
+      "locator": "Debate da Band, bloco 1, 0:13:14 do vídeo, conforme localizador publicado pelo FlagCheck.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -28181,15 +29151,15 @@
     },
     {
       "year": 2026,
-      "found": 145,
-      "accessed": 145,
-      "analysed": 140,
+      "found": 155,
+      "accessed": 155,
+      "analysed": 150,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 5,
-        "analisado": 140,
+        "analisado": 150,
         "revisado": 0,
         "publicado": 0
       },
@@ -28204,7 +29174,7 @@
         "economia": 5,
         "previdencia": 1,
         "eleicoes": 3,
-        "debate da Band": 10,
+        "debate da Band": 20,
         "segurança": 1,
         "campanha": 1,
         "previdência": 1,
@@ -28224,7 +29194,7 @@
         "fonte-7f88eb16094d9991": 1,
         "fonte-c9b603e419075a04": 1,
         "fonte-ee8b17bd10a7a2e4": 1,
-        "fonte-70a74a349f893659": 96,
+        "fonte-70a74a349f893659": 106,
         "fonte-58d9376cef7ffa17": 10,
         "fonte-875b77e7aba40e8b": 5,
         "fonte-daa0cb3445c7df71": 1,
@@ -28244,7 +29214,7 @@
       },
       "formats": {
         "video": 3,
-        "checagem": 126,
+        "checagem": 136,
         "reportagem": 8,
         "registro": 2,
         "audio": 2,
@@ -28254,16 +29224,16 @@
     }
   ],
   "metrics": {
-    "newItems": 260,
-    "items": 277,
+    "newItems": 270,
+    "items": 287,
     "alreadyInArchive": 17,
-    "accessed": 274,
-    "analysed": 248,
+    "accessed": 284,
+    "analysed": 258,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
     "legacyStatements": 71,
-    "statementCandidates": 131,
+    "statementCandidates": 141,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
     "sources": 35,
