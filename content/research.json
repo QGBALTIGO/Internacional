@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T14:36:44.181208Z",
-    "inputHash": "bcd8744fb469fc65ea51289e32d303b567e77decb8d434bb0d81b86bebef34e1",
+    "generatedAt": "2026-10-24T15:40:11.998428Z",
+    "inputHash": "92fed6b4af537927a0d3397a2a1f184175a3b287ab2394d9a2cf4686eeeb7651",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -15636,6 +15636,528 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-21c2a91a3bef6bd3",
+      "title": "Alessandro Vieira escolhido relator do marco legal contra crime organizado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/11/18/alessandro-sera-relator-do-marco-legal-do-combate-ao-crime-organizado",
+      "publisher": "Agência Senado",
+      "date": "2025-11-18",
+      "eventDate": "2025-11-18",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 5582/2025",
+      "topics": [
+        "PL 5582/2025",
+        "relatoria"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem informa designação de Alessandro Vieira para relator do PL 5.582/2025 e que Flávio Bolsonaro e Sérgio Moro manifestaram interesse na relatoria, mas não foram designados. Também relata manifestações públicas de outros parlamentares.",
+      "limitations": "Reportagem institucional lida em HTML, sem abertura independente das peças e gravações mencionadas; fala atribuída à fonte. Pauta não equivale a deliberação; notícia não recebe veredito próprio.",
+      "locator": "Agência Senado, 18/11/2025, abertura e trecho sobre escolha do relator.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5582/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-noticia-18nov",
+          "toolReference": "turn613340view5"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-bc0853e72f6eaab3",
+      "title": "Apoio ao PL 1.087/2025 e ressalvas sobre tributação de dividendos",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/518071",
+      "publisher": "Senado Federal",
+      "date": "2025-11-06",
+      "eventDate": "2025-11-05",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1087/2025",
+      "topics": [
+        "PL 1087/2025",
+        "imposto de renda"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio declarou intenção favorável ao projeto de isenção de Imposto de Renda até R$ 5 mil, mas fez objeções sobre tributação de dividendos e impacto em profissionais liberais e pediu destaque associado a Carlos Portinho. Percentuais, projeções e alegações de retroatividade são dele e não foram aferidos.",
+      "limitations": "Transcrição parlamentar acessada em HTML, sem cotejo com PDF do Diário ou gravação original. Nenhum áudio ou vídeo foi reproduzido, zero segundos revisados; números e argumentos do orador não foram checados nesta coleta.",
+      "locator": "Pronunciamento 518071, Texto integral, DSF de 06/11/2025, p. 53.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": "Texto integral institucional em HTML, sem audição.",
+        "state": "transcrição oficial consultada, áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1087/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-pron-518071",
+          "toolReference": "turn506393view2"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-25fb076f7788b47e",
+      "title": "AFP identifica imagem fabricada sobre torcida do Flamengo e Flávio",
+      "url": "https://checamos.afp.com/doc.afp.com.827N8ZQ",
+      "publisher": "AFP Checamos",
+      "date": "2025-10-27",
+      "eventDate": "2025-10-23",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "imagem sintética",
+      "topics": [
+        "imagem sintética",
+        "checagem externa"
+      ],
+      "stage": "analisado",
+      "summary": "A AFP Checamos publicou em 27/10/2025 avaliação de que imagem de bandeirão contra Flávio Bolsonaro e Cláudio Castro atribuída à torcida do Flamengo foi produzida por inteligência artificial. Essa conclusão é atribuída à AFP; o Arquivo não fez perícia da imagem.",
+      "limitations": "Checagem AFP acessada em HTML. Imagem de origem, publicação nas redes e arquivos de perícia não foram reproduzidos ou conferidos independentemente. A avaliação pertence à AFP, não ao Arquivo.",
+      "locator": "AFP Checamos, 27/10/2025, título e seção de exame da imagem.",
+      "sourceId": "fonte-875b77e7aba40e8b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": "Checagem atribuída à AFP; nenhuma classificação própria aprovada.",
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "AFP Checamos",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-checagem-afp",
+          "toolReference": "turn613340view8"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-db58896b202ac887",
+      "title": "CDH aprova substitutivo de Márcio Bittar ao projeto de Flávio",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/10/22/cdh-aprova-tempo-maior-de-internacao-para-adolescente-em-conflito-com-a-lei",
+      "publisher": "Agência Senado",
+      "date": "2025-10-22",
+      "eventDate": "2025-10-22",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2169/2019",
+      "topics": [
+        "PL 2169/2019",
+        "CDH",
+        "contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "A CDH aprovou texto substitutivo de Márcio Bittar ao PL 2.169/2019, de Flávio, lido por Marcos Rogério como relator ad hoc. A matéria registra manifestações de Fabiano Contarato e Damares Alves. O projeto seguiu à CCJ sem decisão final demonstrada.",
+      "limitations": "Reportagem institucional lida em HTML, sem abertura independente das peças e gravações mencionadas; fala atribuída à fonte. Pauta não equivale a deliberação; notícia não recebe veredito próprio.",
+      "locator": "Agência Senado, 22/10/2025, abertura, Tramitação conjunta e Código Penal.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2169/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-noticia-22out-cdh",
+          "toolReference": "turn613340view3"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-d68eb9f4a82e91b2",
+      "title": "CCJ confirma substitutivo ao PL 1.473/2025 e relata posições públicas",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/10/22/vai-a-camara-mais-tempo-de-internacao-de-adolescente-em-conflito-com-a-lei",
+      "publisher": "Agência Senado",
+      "date": "2025-10-22",
+      "eventDate": "2025-10-22",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 1473/2025",
+      "topics": [
+        "PL 1473/2025",
+        "CCJ",
+        "contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Após turno suplementar, a CCJ confirmou substitutivo. A Agência Senado atribui justificativas ao relator Flávio e ao autor Fabiano Contarato, favorável ao texto naquele contexto. Seguir à Câmara não significa aprovação final ou sanção.",
+      "limitations": "Reportagem institucional lida em HTML, sem abertura independente das peças e gravações mencionadas; fala atribuída à fonte. Pauta não equivale a deliberação; notícia não recebe veredito próprio.",
+      "locator": "Agência Senado, 22/10/2025, abertura e seção Equilíbrio.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1473/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-noticia-22out-ccj",
+          "toolReference": "turn613340view1"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-023681089972fe3d",
+      "title": "Texto original do PL 2.169/2019 e proposta de substitutivo na CDH",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/10/20/cdh-vota-aumento-do-prazo-maximo-de-internacao-em-medida-socioeducativa",
+      "publisher": "Agência Senado",
+      "date": "2025-10-20",
+      "eventDate": "2025-10-22",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2169/2019",
+      "topics": [
+        "PL 2169/2019",
+        "CDH"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem anterior à votação compara a proposta original de Flávio sobre internação socioeducativa com a alteração sugerida por Márcio Bittar e distingue o PL 2.169 do PL 1.473/2025, de Fabiano Contarato. Prévia não é resultado da votação.",
+      "limitations": "Reportagem institucional lida em HTML, sem abertura independente das peças e gravações mencionadas; fala atribuída à fonte. Pauta não equivale a deliberação; notícia não recebe veredito próprio.",
+      "locator": "Agência Senado, 20/10/2025, abertura e descrição dos textos.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2169/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-noticia-20out",
+          "toolReference": "turn613340view6"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-6526acd7b14f8d26",
+      "title": "Recurso 7/2025: Flávio entre autores de recurso considerado prejudicado",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170869",
+      "publisher": "Senado Federal",
+      "date": "2025-10-09",
+      "eventDate": "2026-01-26",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "RS 7/2025",
+      "topics": [
+        "RS 7/2025",
+        "PL 2425/2020"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio figurou entre nove autores do Recurso 7/2025, referente à apreciação do PL 2.425/2020. A ficha registra o recurso como prejudicado em 26/01/2026. A coautoria do recurso não equivale à autoria do projeto.",
+      "limitations": "Ficha parlamentar acessada em HTML; PDFs e anexos vinculados não foram abertos. Último estado se refere à tramitação mostrada na ficha consultada, não prova aprovação final, sanção ou vigência.",
+      "locator": "Ficha RS 7/2025, autoria coletiva, ementa e último andamento de 26/01/2026.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "RS 7/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-materia-170869",
+          "toolReference": "turn613340view7"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-9f6badaab09a88e0",
+      "title": "CCJ aprova substitutivo ao PL 1.473/2025 por vinte votos a um",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/10/08/regras-mais-rigidas-para-adolescentes-que-cometeram-infracoes-aprovadas-na-ccj",
+      "publisher": "Agência Senado",
+      "date": "2025-10-08",
+      "eventDate": "2025-10-08",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 1473/2025",
+      "topics": [
+        "PL 1473/2025",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem registra que a CCJ aprovou em 08/10/2025, por 20 votos a 1, substitutivo do relator Flávio ao PL de Fabiano Contarato. Restava apreciação suplementar. Não confundir decisão na comissão com vigência de lei.",
+      "limitations": "Reportagem institucional lida em HTML, sem abertura independente das peças e gravações mencionadas; fala atribuída à fonte. Pauta não equivale a deliberação; notícia não recebe veredito próprio.",
+      "locator": "Agência Senado, 08/10/2025, atualizada em 09/10, abertura e resultado de votação.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1473/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-noticia-08out",
+          "toolReference": "turn613340view2"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-4f2620fce17e9524",
       "title": "Pronunciamento sobre Israel e o ataque de 7 de outubro",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/517369",
@@ -15699,6 +16221,71 @@
         }
       ],
       "accessMethod": "",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-85de00c7330d224b",
+      "title": "Audiência proposta por Mara Gabrilli para debater o PL 1.473/2025",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/10/06/ccj-debate-nesta-terca-aumento-de-internacao-de-menor-que-cometeu-infracao",
+      "publisher": "Agência Senado",
+      "date": "2025-10-06",
+      "eventDate": "2025-10-07",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 1473/2025",
+      "topics": [
+        "PL 1473/2025",
+        "audiência pública"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia anunciou audiência pública para 07/10/2025, a pedido de Mara Gabrilli, sobre o texto de Fabiano Contarato relatado por Flávio. O anúncio isolado não comprova que a audiência ocorreu ou quais foram suas conclusões.",
+      "limitations": "Reportagem institucional lida em HTML, sem abertura independente das peças e gravações mencionadas; fala atribuída à fonte. Pauta não equivale a deliberação; notícia não recebe veredito próprio.",
+      "locator": "Agência Senado, 06/10/2025, abertura e parágrafos sobre audiência e substitutivo.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1473/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-noticia-06out",
+          "toolReference": "turn613340view0"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
       "newToArchive": true
     },
     {
@@ -15894,6 +16481,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-40d256da79ee447e",
+      "title": "Pergunta sobre retirada de pauta do PL 4.809/2024",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/516328",
+      "publisher": "Senado Federal",
+      "date": "2025-09-04",
+      "eventDate": "2025-09-03",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 4809/2024",
+      "topics": [
+        "PL 4809/2024",
+        "segurança pública"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio perguntou se o PL 4.809/2024 havia sido retirado de pauta e Confúcio Moura confirmou a retirada do primeiro item. Trata-se de pergunta e resposta, não voto ou parecer de Flávio.",
+      "limitations": "Transcrição parlamentar acessada em HTML, sem cotejo com PDF do Diário ou gravação original. Nenhum áudio ou vídeo foi reproduzido, zero segundos revisados; números e argumentos do orador não foram checados nesta coleta.",
+      "locator": "Pronunciamento 516328, pergunta e resposta do Texto integral, DSF 04/09/2025, p. 29.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": "Texto integral institucional em HTML, sem audição.",
+        "state": "transcrição oficial consultada, áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4809/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-pron-516328",
+          "toolReference": "turn506393view1"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-57231e9d00fd27d2",
       "title": "REP 1/2024: defesa preliminar de Flávio e relatório registrados; processo consta em tramitação",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164613",
@@ -16028,6 +16680,71 @@
       "newToArchive": false
     },
     {
+      "id": "pesquisa-30ee475a078d16d7",
+      "title": "Manifestação contrária à MP 1.292/2025 sobre crédito consignado",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/514806",
+      "publisher": "Senado Federal",
+      "date": "2025-07-03",
+      "eventDate": "2025-07-02",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "MPV 1292/2025",
+      "topics": [
+        "MPV 1292/2025",
+        "crédito consignado"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio registrou oposição à medida provisória do crédito consignado para trabalhadores da CLT e alegou consequências sobre endividamento e juros. As cifras econômicas que utilizou não foram conferidas com bases originais.",
+      "limitations": "Transcrição parlamentar acessada em HTML, sem cotejo com PDF do Diário ou gravação original. Nenhum áudio ou vídeo foi reproduzido, zero segundos revisados; números e argumentos do orador não foram checados nesta coleta.",
+      "locator": "Pronunciamento 514806, Texto integral, DSF de 03/07/2025, p. 45.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": "Texto integral institucional em HTML, sem audição.",
+        "state": "transcrição oficial consultada, áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 1292/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-pron-514806",
+          "toolReference": "turn506393view4"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-927c9bca9145f4f3",
       "title": "Declarações sobre IOF, superávit e juros",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/514593",
@@ -16091,6 +16808,201 @@
         }
       ],
       "accessMethod": "Pesquisa e leitura documental assistida por IA. Sem revisão humana ou audição de arquivos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-53bdf9c0a1d44d4d",
+      "title": "Manifestação de Flávio sobre a lei do Dia da Amizade Brasil-Israel",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/514523",
+      "publisher": "Senado Federal",
+      "date": "2025-06-26",
+      "eventDate": "2025-06-25",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Lei 15152/2025",
+      "topics": [
+        "Lei 15152/2025",
+        "relações internacionais"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio parabenizou a promulgação do Dia da Amizade Brasil-Israel, mencionou a iniciativa de Marcelo Crivella e a relatoria de Carlos Viana e teceu críticas políticas. O pronunciamento comprova a fala, não as alegações factuais feitas nela.",
+      "limitations": "Transcrição parlamentar acessada em HTML, sem cotejo com PDF do Diário ou gravação original. Nenhum áudio ou vídeo foi reproduzido, zero segundos revisados; números e argumentos do orador não foram checados nesta coleta.",
+      "locator": "Pronunciamento 514523, Texto integral, DSF de 26/06/2025, p. 27.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": "Texto integral institucional em HTML, sem audição.",
+        "state": "transcrição oficial consultada, áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5636/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-pron-514523",
+          "toolReference": "turn506393view0"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-767f7b2bb851e8cc",
+      "title": "PL 2.413/2025: autoria de Angelo Coronel e relatoria de Flávio",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168690",
+      "publisher": "Senado Federal",
+      "date": "2025-05-21",
+      "eventDate": "2025-07-01",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2413/2025",
+      "topics": [
+        "PL 2413/2025",
+        "guardas municipais"
+      ],
+      "stage": "analisado",
+      "summary": "Projeto de Angelo Coronel sobre destinação de recursos do Fundo Nacional de Segurança Pública às guardas municipais. A ficha registra que Flávio avocou relatoria na Comissão de Segurança Pública em 01/07/2025, sem comprovar aprovação final.",
+      "limitations": "Ficha parlamentar acessada em HTML; PDFs e anexos vinculados não foram abertos. Último estado se refere à tramitação mostrada na ficha consultada, não prova aprovação final, sanção ou vigência.",
+      "locator": "Ficha PL 2413/2025, Autoria, Relatoria, Tramitação, ação CSP de 01/07/2025.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2413/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-materia-168690",
+          "toolReference": "turn506393view5"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-d5312cdf1f8cfb17",
+      "title": "Posição sobre manifestações ofensivas e imunidade parlamentar",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/513031",
+      "publisher": "Senado Federal",
+      "date": "2025-04-10",
+      "eventDate": "2025-04-09",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "imunidade parlamentar",
+      "topics": [
+        "imunidade parlamentar",
+        "debate político"
+      ],
+      "stage": "analisado",
+      "summary": "Em plenário, Flávio reprovou manifestações ofensivas contra Jair Bolsonaro e Lula e abordou os limites do debate público e a imunidade parlamentar. A transcrição não representa decisão judicial ou checagem de acusações.",
+      "limitations": "Transcrição parlamentar acessada em HTML, sem cotejo com PDF do Diário ou gravação original. Nenhum áudio ou vídeo foi reproduzido, zero segundos revisados; números e argumentos do orador não foram checados nesta coleta.",
+      "locator": "Pronunciamento 513031, Texto integral, DSF de 10/04/2025, p. 24.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": "Texto integral institucional em HTML, sem audição.",
+        "state": "transcrição oficial consultada, áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-pron-513031",
+          "toolReference": "turn506393view3"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
       "newToArchive": true
     },
     {
@@ -16289,6 +17201,201 @@
         }
       ],
       "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-3fc8931bd4eb6d62",
+      "title": "PL 1.473/2025: proposta de Contarato relatada por Flávio, remetida à Câmara",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167920",
+      "publisher": "Senado Federal",
+      "date": "2025-04-03",
+      "eventDate": "2025-11-05",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1473/2025",
+      "topics": [
+        "PL 1473/2025",
+        "medidas socioeducativas"
+      ],
+      "stage": "analisado",
+      "summary": "Fabiano Contarato é o autor do PL 1.473/2025, referente a alterações em medidas socioeducativas. Flávio apresentou substitutivo como relator na CCJ; depois de votação e turno suplementar, a ficha registra remessa à Câmara em 05/11/2025, não lei vigente.",
+      "limitations": "Ficha parlamentar acessada em HTML; PDFs e anexos vinculados não foram abertos. Último estado se refere à tramitação mostrada na ficha consultada, não prova aprovação final, sanção ou vigência.",
+      "locator": "Ficha PL 1473/2025, Autoria e Tramitação, CCJ de 08 e 22/10 e remessa de 05/11/2025.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1473/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-materia-167920",
+          "toolReference": "turn506393view7"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-f82550e60937a506",
+      "title": "PL 1.345/2025: autoria de Rogério Carvalho e relatoria de Flávio",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167819",
+      "publisher": "Senado Federal",
+      "date": "2025-03-31",
+      "eventDate": "2025-07-01",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1345/2025",
+      "topics": [
+        "PL 1345/2025",
+        "domínio territorial criminoso"
+      ],
+      "stage": "analisado",
+      "summary": "Projeto apresentado por Rogério Carvalho sobre domínio territorial de organizações criminosas. Flávio avocou relatoria na CSP em 01/07/2025; não foi o autor original. O andamento consultado não autoriza declarar desfecho definitivo.",
+      "limitations": "Ficha parlamentar acessada em HTML; PDFs e anexos vinculados não foram abertos. Último estado se refere à tramitação mostrada na ficha consultada, não prova aprovação final, sanção ou vigência.",
+      "locator": "Ficha PL 1345/2025, Autoria, Relatoria, ação CSP 01/07/2025.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1345/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-materia-167819",
+          "toolReference": "turn506393view6"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-a38d2d6a0c245c2c",
+      "title": "Pauta da CSP sobre crimes contra motoristas e porte de arma para advogados",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/03/28/comissao-analisa-se-crimes-contra-motoristas-devem-ter-penas-maiores",
+      "publisher": "Agência Senado",
+      "date": "2025-03-28",
+      "eventDate": "2025-03-28",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2734/2021",
+      "topics": [
+        "PL 2734/2021",
+        "CSP"
+      ],
+      "stage": "analisado",
+      "summary": "Prévia institucional de pauta da CSP aborda o PL 2.734/2021, de Flávio, sobre porte de armas para advogados e o parecer de Alessandro Vieira. Essa notícia não registra votação ou aprovação naquela data.",
+      "limitations": "Reportagem institucional lida em HTML, sem abertura independente das peças e gravações mencionadas; fala atribuída à fonte. Pauta não equivale a deliberação; notícia não recebe veredito próprio.",
+      "locator": "Agência Senado, 28/03/2025, seção Porte de armas.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2734/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-noticia-28mar",
+          "toolReference": "turn613340view4"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
       "newToArchive": true
     },
     {
@@ -16622,6 +17729,71 @@
         }
       ],
       "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-577e41e30b70ae0b",
+      "title": "Prioridades de Flávio ao assumir a Comissão de Segurança Pública",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/02/20/flavio-bolsonaro-quer-definir-crime-de-dominio-de-cidades-na-csp",
+      "publisher": "Agência Senado",
+      "date": "2025-02-20",
+      "eventDate": "2025-02-19",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "CSP",
+      "topics": [
+        "CSP",
+        "PL 5365/2020"
+      ],
+      "stage": "analisado",
+      "summary": "A Agência Senado relata que Flávio foi eleito presidente da CSP em 19/02/2025 e defendeu debate sobre domínio de cidades. A proposta PL 5.365/2020 veio da Câmara e teve autoria de Sanderson, não de Flávio.",
+      "limitations": "Reportagem institucional lida em HTML, sem abertura independente das peças e gravações mencionadas; fala atribuída à fonte. Pauta não equivale a deliberação; notícia não recebe veredito próprio.",
+      "locator": "Agência Senado, 20/02/2025, abertura e seção Domínio de cidades.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5365/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-noticia-20fev",
+          "toolReference": "turn506393view8"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
       "newToArchive": true
     },
     {
@@ -22866,6 +24038,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-1211371b72c20391",
+      "title": "PL 2.734/2021: porte de arma para advogados e tramitação na CCJ",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/149286",
+      "publisher": "Senado Federal",
+      "date": "2021-08-05",
+      "eventDate": "2025-04-08",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2734/2021",
+      "topics": [
+        "PL 2734/2021",
+        "porte de armas"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio é autor do PL 2.734/2021. A CSP aprovou em 08/04/2025 parecer com substitutivo de Alessandro Vieira, e o projeto seguiu à CCJ aguardando relator. Aprovação em uma comissão não é transformação em lei.",
+      "limitations": "Ficha parlamentar acessada em HTML; PDFs e anexos vinculados não foram abertos. Último estado se refere à tramitação mostrada na ficha consultada, não prova aprovação final, sanção ou vigência.",
+      "locator": "Ficha PL 2734/2021, Autoria, P.S. 8/2025-CSP e ação de 08/04/2025.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2734/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-materia-149286",
+          "toolReference": "turn584224view1"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-65f41f71dac7c3d5",
       "title": "Entrada como suplente na CPI da Pandemia",
       "url": "https://www12.senado.leg.br/noticias/videos/2021/08/veja-a-nova-composicao-da-cpi-da-pandemia-apos-a-saida-de-ciro-nogueira",
@@ -25953,6 +27190,71 @@
         }
       ],
       "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-87986619700cd787",
+      "title": "PL 2.169/2019: autoria de Flávio e substitutivo de Márcio Bittar",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136254",
+      "publisher": "Senado Federal",
+      "date": "2019-04-05",
+      "eventDate": "2025-10-24",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2169/2019",
+      "topics": [
+        "PL 2169/2019",
+        "medidas socioeducativas"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio apresentou proposta original de ampliação de prazos de internação em 2019. A CDH aprovou substitutivo relatado por Márcio Bittar em 22/10/2025, lido pelo relator ad hoc Marcos Rogério. A ficha registra encaminhamento à CCJ em 24/10/2025. O texto original não é igual ao substitutivo.",
+      "limitations": "Ficha parlamentar acessada em HTML; PDFs e anexos vinculados não foram abertos. Último estado se refere à tramitação mostrada na ficha consultada, não prova aprovação final, sanção ou vigência.",
+      "locator": "Ficha PL 2169/2019, Ementa, parecer CDH 126/2025 e andamento de 22 e 24/10/2025.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T15:38:16.241Z",
+      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2169/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2025-documentos-20261024-18",
+          "inputId": "senado-2025-documentos-20261024-18-materia-136254",
+          "toolReference": "turn584224view0"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
       "newToArchive": true
     },
     {
@@ -30923,20 +32225,21 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T11:14:02.380Z",
+      "lastConsultedAt": "2026-10-24T15:38:16.241Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 18,
+      "sourceCount": 19,
       "periods": [
         2024,
+        2025,
         2026
       ],
       "formats": [
         "checagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 18,
-      "analysedCount": 18
+      "accessedCount": 19,
+      "analysedCount": 19
     },
     {
       "id": "fonte-e979cfd37b58c2c5",
@@ -31631,10 +32934,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z",
-      "lastConsultedAt": "2026-10-24T14:36:32.620Z",
+      "lastConsultedAt": "2026-10-24T15:38:16.241Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 157,
+      "sourceCount": 176,
       "periods": [
         2018,
         2019,
@@ -31654,8 +32957,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 156,
-      "analysedCount": 142
+      "accessedCount": 175,
+      "analysedCount": 161
     },
     {
       "id": "fonte-3ed65b2f1d041330",
@@ -34486,12 +35789,93 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-7118fbd205681e4e",
+      "itemId": "pesquisa-21c2a91a3bef6bd3",
+      "title": "Alessandro Vieira escolhido relator do marco legal contra crime organizado",
+      "date": "2025-11-18",
+      "datePrecision": "day",
+      "context": "Reportagem informa designação de Alessandro Vieira para relator do PL 5.582/2025 e que Flávio Bolsonaro e Sérgio Moro manifestaram interesse na relatoria, mas não foram designados. Também relata manifestações públicas de outros parlamentares.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-0fdaf58128f68179",
+      "itemId": "pesquisa-bc0853e72f6eaab3",
+      "title": "Apoio ao PL 1.087/2025 e ressalvas sobre tributação de dividendos",
+      "date": "2025-11-05",
+      "datePrecision": "day",
+      "context": "Flávio declarou intenção favorável ao projeto de isenção de Imposto de Renda até R$ 5 mil, mas fez objeções sobre tributação de dividendos e impacto em profissionais liberais e pediu destaque associado a Carlos Portinho. Percentuais, projeções e alegações de retroatividade são dele e não foram aferidos.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-eb602904650304f2",
+      "itemId": "pesquisa-25fb076f7788b47e",
+      "title": "AFP identifica imagem fabricada sobre torcida do Flamengo e Flávio",
+      "date": "2025-10-23",
+      "datePrecision": "day",
+      "context": "A AFP Checamos publicou em 27/10/2025 avaliação de que imagem de bandeirão contra Flávio Bolsonaro e Cláudio Castro atribuída à torcida do Flamengo foi produzida por inteligência artificial. Essa conclusão é atribuída à AFP; o Arquivo não fez perícia da imagem.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-261c49409c105f09",
+      "itemId": "pesquisa-db58896b202ac887",
+      "title": "CDH aprova substitutivo de Márcio Bittar ao projeto de Flávio",
+      "date": "2025-10-22",
+      "datePrecision": "day",
+      "context": "A CDH aprovou texto substitutivo de Márcio Bittar ao PL 2.169/2019, de Flávio, lido por Marcos Rogério como relator ad hoc. A matéria registra manifestações de Fabiano Contarato e Damares Alves. O projeto seguiu à CCJ sem decisão final demonstrada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-caf9315bf77100d3",
+      "itemId": "pesquisa-d68eb9f4a82e91b2",
+      "title": "CCJ confirma substitutivo ao PL 1.473/2025 e relata posições públicas",
+      "date": "2025-10-22",
+      "datePrecision": "day",
+      "context": "Após turno suplementar, a CCJ confirmou substitutivo. A Agência Senado atribui justificativas ao relator Flávio e ao autor Fabiano Contarato, favorável ao texto naquele contexto. Seguir à Câmara não significa aprovação final ou sanção.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-03c32bce6205d518",
+      "itemId": "pesquisa-023681089972fe3d",
+      "title": "Texto original do PL 2.169/2019 e proposta de substitutivo na CDH",
+      "date": "2025-10-22",
+      "datePrecision": "day",
+      "context": "Reportagem anterior à votação compara a proposta original de Flávio sobre internação socioeducativa com a alteração sugerida por Márcio Bittar e distingue o PL 2.169 do PL 1.473/2025, de Fabiano Contarato. Prévia não é resultado da votação.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-7500a429d9680942",
+      "itemId": "pesquisa-6526acd7b14f8d26",
+      "title": "Recurso 7/2025: Flávio entre autores de recurso considerado prejudicado",
+      "date": "2026-01-26",
+      "datePrecision": "day",
+      "context": "Flávio figurou entre nove autores do Recurso 7/2025, referente à apreciação do PL 2.425/2020. A ficha registra o recurso como prejudicado em 26/01/2026. A coautoria do recurso não equivale à autoria do projeto.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-aca52dbe6c9a2b7c",
+      "itemId": "pesquisa-9f6badaab09a88e0",
+      "title": "CCJ aprova substitutivo ao PL 1.473/2025 por vinte votos a um",
+      "date": "2025-10-08",
+      "datePrecision": "day",
+      "context": "Reportagem registra que a CCJ aprovou em 08/10/2025, por 20 votos a 1, substitutivo do relator Flávio ao PL de Fabiano Contarato. Restava apreciação suplementar. Não confundir decisão na comissão com vigência de lei.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-190a1147ead622d2",
       "itemId": "pesquisa-4f2620fce17e9524",
       "title": "Pronunciamento sobre Israel e o ataque de 7 de outubro",
       "date": "2025-10-07",
       "datePrecision": "day",
       "context": "Transcrição oficial de discurso em solidariedade a Israel. Contém opiniões e proposições históricas que devem ser checadas individualmente; a existência do pronunciamento não confirma cada afirmação.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f659d2f0a739c4ae",
+      "itemId": "pesquisa-85de00c7330d224b",
+      "title": "Audiência proposta por Mara Gabrilli para debater o PL 1.473/2025",
+      "date": "2025-10-07",
+      "datePrecision": "day",
+      "context": "Notícia anunciou audiência pública para 07/10/2025, a pedido de Mara Gabrilli, sobre o texto de Fabiano Contarato relatado por Flávio. O anúncio isolado não comprova que a audiência ocorreu ou quais foram suas conclusões.",
       "state": "data informada pela fonte"
     },
     {
@@ -34522,6 +35906,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-754a82903e6be1a1",
+      "itemId": "pesquisa-40d256da79ee447e",
+      "title": "Pergunta sobre retirada de pauta do PL 4.809/2024",
+      "date": "2025-09-03",
+      "datePrecision": "day",
+      "context": "Flávio perguntou se o PL 4.809/2024 havia sido retirado de pauta e Confúcio Moura confirmou a retirada do primeiro item. Trata-se de pergunta e resposta, não voto ou parecer de Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-c2353f34c48cd158",
       "itemId": "pesquisa-57231e9d00fd27d2",
       "title": "REP 1/2024: defesa preliminar de Flávio e relatório registrados; processo consta em tramitação",
@@ -34540,6 +35933,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-14928a69e2d8a637",
+      "itemId": "pesquisa-30ee475a078d16d7",
+      "title": "Manifestação contrária à MP 1.292/2025 sobre crédito consignado",
+      "date": "2025-07-02",
+      "datePrecision": "day",
+      "context": "Flávio registrou oposição à medida provisória do crédito consignado para trabalhadores da CLT e alegou consequências sobre endividamento e juros. As cifras econômicas que utilizou não foram conferidas com bases originais.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-b39cf32796a15523",
       "itemId": "pesquisa-927c9bca9145f4f3",
       "title": "Declarações sobre IOF, superávit e juros",
@@ -34547,6 +35949,33 @@
       "datePrecision": "unknown",
       "context": "Discurso sobre PDL 214/2025 contém proposições distintas acerca de desoneração de IOF, alegado ineditismo de superávit e Selic de 2% e 15%.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-e8d6b18c85a0ee96",
+      "itemId": "pesquisa-53bdf9c0a1d44d4d",
+      "title": "Manifestação de Flávio sobre a lei do Dia da Amizade Brasil-Israel",
+      "date": "2025-06-25",
+      "datePrecision": "day",
+      "context": "Flávio parabenizou a promulgação do Dia da Amizade Brasil-Israel, mencionou a iniciativa de Marcelo Crivella e a relatoria de Carlos Viana e teceu críticas políticas. O pronunciamento comprova a fala, não as alegações factuais feitas nela.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-ca30e6c13f29c676",
+      "itemId": "pesquisa-767f7b2bb851e8cc",
+      "title": "PL 2.413/2025: autoria de Angelo Coronel e relatoria de Flávio",
+      "date": "2025-07-01",
+      "datePrecision": "day",
+      "context": "Projeto de Angelo Coronel sobre destinação de recursos do Fundo Nacional de Segurança Pública às guardas municipais. A ficha registra que Flávio avocou relatoria na Comissão de Segurança Pública em 01/07/2025, sem comprovar aprovação final.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-bb2794206a7f2d3e",
+      "itemId": "pesquisa-d5312cdf1f8cfb17",
+      "title": "Posição sobre manifestações ofensivas e imunidade parlamentar",
+      "date": "2025-04-09",
+      "datePrecision": "day",
+      "context": "Em plenário, Flávio reprovou manifestações ofensivas contra Jair Bolsonaro e Lula e abordou os limites do debate público e a imunidade parlamentar. A transcrição não representa decisão judicial ou checagem de acusações.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-c04548ec3b005c64",
@@ -34574,6 +36003,33 @@
       "datePrecision": "unknown",
       "context": "Ficha oficial confirma autoria de Flávio Bolsonaro e registra o último estado visível em 04/04/2025: pronta para pauta na Comissão de Meio Ambiente após recebimento de relatório da senadora Eliziane Gama pela rejeição. Relatório pela rejeição não é votação de rejeição; a situação exibida permanece 'Em tramitação'.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-7f1d76756710dee9",
+      "itemId": "pesquisa-3fc8931bd4eb6d62",
+      "title": "PL 1.473/2025: proposta de Contarato relatada por Flávio, remetida à Câmara",
+      "date": "2025-11-05",
+      "datePrecision": "day",
+      "context": "Fabiano Contarato é o autor do PL 1.473/2025, referente a alterações em medidas socioeducativas. Flávio apresentou substitutivo como relator na CCJ; depois de votação e turno suplementar, a ficha registra remessa à Câmara em 05/11/2025, não lei vigente.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f65f671532414c21",
+      "itemId": "pesquisa-f82550e60937a506",
+      "title": "PL 1.345/2025: autoria de Rogério Carvalho e relatoria de Flávio",
+      "date": "2025-07-01",
+      "datePrecision": "day",
+      "context": "Projeto apresentado por Rogério Carvalho sobre domínio territorial de organizações criminosas. Flávio avocou relatoria na CSP em 01/07/2025; não foi o autor original. O andamento consultado não autoriza declarar desfecho definitivo.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-b93d96f7917abd1c",
+      "itemId": "pesquisa-a38d2d6a0c245c2c",
+      "title": "Pauta da CSP sobre crimes contra motoristas e porte de arma para advogados",
+      "date": "2025-03-28",
+      "datePrecision": "day",
+      "context": "Prévia institucional de pauta da CSP aborda o PL 2.734/2021, de Flávio, sobre porte de armas para advogados e o parecer de Alessandro Vieira. Essa notícia não registra votação ou aprovação naquela data.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-35e6a1e02fb49c2c",
@@ -34618,6 +36074,15 @@
       "date": "2025-03-19",
       "datePrecision": "day",
       "context": "Reportagem institucional relata aprovação do PDL no Senado, argumentos favoráveis de Flávio sobre turismo e posições contrárias de parlamentares que defenderam reciprocidade e competências do Executivo. Registrar as duas perspectivas e a necessidade da apreciação na Câmara, sem avaliar efeitos econômicos como comprovados.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-21d3345e0392f944",
+      "itemId": "pesquisa-577e41e30b70ae0b",
+      "title": "Prioridades de Flávio ao assumir a Comissão de Segurança Pública",
+      "date": "2025-02-19",
+      "datePrecision": "day",
+      "context": "A Agência Senado relata que Flávio foi eleito presidente da CSP em 19/02/2025 e defendeu debate sobre domínio de cidades. A proposta PL 5.365/2020 veio da Câmara e teve autoria de Sanderson, não de Flávio.",
       "state": "data informada pela fonte"
     },
     {
@@ -35476,6 +36941,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-45a6d23d8e6da033",
+      "itemId": "pesquisa-1211371b72c20391",
+      "title": "PL 2.734/2021: porte de arma para advogados e tramitação na CCJ",
+      "date": "2025-04-08",
+      "datePrecision": "day",
+      "context": "Flávio é autor do PL 2.734/2021. A CSP aprovou em 08/04/2025 parecer com substitutivo de Alessandro Vieira, e o projeto seguiu à CCJ aguardando relator. Aprovação em uma comissão não é transformação em lei.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-4a2e29609cda9713",
       "itemId": "pesquisa-65f41f71dac7c3d5",
       "title": "Entrada como suplente na CPI da Pandemia",
@@ -35896,6 +37370,15 @@
       "date": "2019-04-05",
       "datePrecision": "day",
       "context": "Ficha institucional indica apresentação do PL 2171/2019 por Flávio em 05/04/2019, com objeto de tipificar arrastão. A posição exibida informa 'em tramitação' e último estado de 13/09/2023 'aguardando designação do relator' na CCJ. A página consultada não demonstra aprovação ou promulgação.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-ecef3c057bcdf056",
+      "itemId": "pesquisa-87986619700cd787",
+      "title": "PL 2.169/2019: autoria de Flávio e substitutivo de Márcio Bittar",
+      "date": "2025-10-24",
+      "datePrecision": "day",
+      "context": "Flávio apresentou proposta original de ampliação de prazos de internação em 2019. A CDH aprovou substitutivo relatado por Márcio Bittar em 22/10/2025, lido pelo relator ad hoc Marcos Rogério. A ficha registra encaminhamento à CCJ em 24/10/2025. O texto original não é igual ao substitutivo.",
       "state": "data informada pela fonte"
     },
     {
@@ -42237,11 +43720,110 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-7118fbd205681e4e",
+      "itemId": "pesquisa-21c2a91a3bef6bd3",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/11/18/alessandro-sera-relator-do-marco-legal-do-combate-ao-crime-organizado",
+      "locator": "Agência Senado, 18/11/2025, abertura e trecho sobre escolha do relator.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-0fdaf58128f68179",
+      "itemId": "pesquisa-bc0853e72f6eaab3",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/518071",
+      "locator": "Pronunciamento 518071, Texto integral, DSF de 06/11/2025, p. 53.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-eb602904650304f2",
+      "itemId": "pesquisa-25fb076f7788b47e",
+      "sourceId": "fonte-875b77e7aba40e8b",
+      "url": "https://checamos.afp.com/doc.afp.com.827N8ZQ",
+      "locator": "AFP Checamos, 27/10/2025, título e seção de exame da imagem.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-261c49409c105f09",
+      "itemId": "pesquisa-db58896b202ac887",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/10/22/cdh-aprova-tempo-maior-de-internacao-para-adolescente-em-conflito-com-a-lei",
+      "locator": "Agência Senado, 22/10/2025, abertura, Tramitação conjunta e Código Penal.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-caf9315bf77100d3",
+      "itemId": "pesquisa-d68eb9f4a82e91b2",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/10/22/vai-a-camara-mais-tempo-de-internacao-de-adolescente-em-conflito-com-a-lei",
+      "locator": "Agência Senado, 22/10/2025, abertura e seção Equilíbrio.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-03c32bce6205d518",
+      "itemId": "pesquisa-023681089972fe3d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/10/20/cdh-vota-aumento-do-prazo-maximo-de-internacao-em-medida-socioeducativa",
+      "locator": "Agência Senado, 20/10/2025, abertura e descrição dos textos.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-7500a429d9680942",
+      "itemId": "pesquisa-6526acd7b14f8d26",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170869",
+      "locator": "Ficha RS 7/2025, autoria coletiva, ementa e último andamento de 26/01/2026.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-aca52dbe6c9a2b7c",
+      "itemId": "pesquisa-9f6badaab09a88e0",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/10/08/regras-mais-rigidas-para-adolescentes-que-cometeram-infracoes-aprovadas-na-ccj",
+      "locator": "Agência Senado, 08/10/2025, atualizada em 09/10, abertura e resultado de votação.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-190a1147ead622d2",
       "itemId": "pesquisa-4f2620fce17e9524",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/517369",
       "locator": "Texto integral; DSF de 08/10/2025, página 17, referência sobre reconhecimento do Estado de Israel.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f659d2f0a739c4ae",
+      "itemId": "pesquisa-85de00c7330d224b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/10/06/ccj-debate-nesta-terca-aumento-de-internacao-de-menor-que-cometeu-infracao",
+      "locator": "Agência Senado, 06/10/2025, abertura e parágrafos sobre audiência e substitutivo.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -42281,6 +43863,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-754a82903e6be1a1",
+      "itemId": "pesquisa-40d256da79ee447e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/516328",
+      "locator": "Pronunciamento 516328, pergunta e resposta do Texto integral, DSF 04/09/2025, p. 29.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-c2353f34c48cd158",
       "itemId": "pesquisa-57231e9d00fd27d2",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -42303,11 +43896,55 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-14928a69e2d8a637",
+      "itemId": "pesquisa-30ee475a078d16d7",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/514806",
+      "locator": "Pronunciamento 514806, Texto integral, DSF de 03/07/2025, p. 45.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-b39cf32796a15523",
       "itemId": "pesquisa-927c9bca9145f4f3",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/514593",
       "locator": "Texto integral, parágrafos Por mais que e O Presidente Bolsonaro; DSF 26/06/2025, p.83",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e8d6b18c85a0ee96",
+      "itemId": "pesquisa-53bdf9c0a1d44d4d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/514523",
+      "locator": "Pronunciamento 514523, Texto integral, DSF de 26/06/2025, p. 27.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ca30e6c13f29c676",
+      "itemId": "pesquisa-767f7b2bb851e8cc",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168690",
+      "locator": "Ficha PL 2413/2025, Autoria, Relatoria, Tramitação, ação CSP de 01/07/2025.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-bb2794206a7f2d3e",
+      "itemId": "pesquisa-d5312cdf1f8cfb17",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/513031",
+      "locator": "Pronunciamento 513031, Texto integral, DSF de 10/04/2025, p. 24.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -42341,6 +43978,39 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/150245",
       "locator": "Cabeçalho; 'Situação Atual: Em tramitação'; 'Último estado: 04/04/2025'; Documentos, relatório legislativo de 04/04/2025; Tramitação, 04/04/2025.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-7f1d76756710dee9",
+      "itemId": "pesquisa-3fc8931bd4eb6d62",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167920",
+      "locator": "Ficha PL 1473/2025, Autoria e Tramitação, CCJ de 08 e 22/10 e remessa de 05/11/2025.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f65f671532414c21",
+      "itemId": "pesquisa-f82550e60937a506",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167819",
+      "locator": "Ficha PL 1345/2025, Autoria, Relatoria, ação CSP 01/07/2025.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-b93d96f7917abd1c",
+      "itemId": "pesquisa-a38d2d6a0c245c2c",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/03/28/comissao-analisa-se-crimes-contra-motoristas-devem-ter-penas-maiores",
+      "locator": "Agência Senado, 28/03/2025, seção Porte de armas.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -42396,6 +44066,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2025/03/19/senado-aprova-sustar-exigencia-de-visto-de-australia-canada-eua-e-japao",
       "locator": "Agência Senado, matéria de 19/03/2025 às 19h22; discussão do PDL 206/2023 e manifestações de parlamentares.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-21d3345e0392f944",
+      "itemId": "pesquisa-577e41e30b70ae0b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/02/20/flavio-bolsonaro-quer-definir-crime-de-dominio-de-cidades-na-csp",
+      "locator": "Agência Senado, 20/02/2025, abertura e seção Domínio de cidades.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -43447,6 +45128,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-45a6d23d8e6da033",
+      "itemId": "pesquisa-1211371b72c20391",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/149286",
+      "locator": "Ficha PL 2734/2021, Autoria, P.S. 8/2025-CSP e ação de 08/04/2025.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-4a2e29609cda9713",
       "itemId": "pesquisa-65f41f71dac7c3d5",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -43958,6 +45650,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136252",
       "locator": "Ficha 136252, Autoria, Ementa, Situação Atual, Último estado e identificação PL 2171/2019.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ecef3c057bcdf056",
+      "itemId": "pesquisa-87986619700cd787",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136254",
+      "locator": "Ficha PL 2169/2019, Ementa, parecer CDH 126/2025 e andamento de 22 e 24/10/2025.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -45208,15 +46911,15 @@
     },
     {
       "year": 2019,
-      "found": 35,
-      "accessed": 35,
-      "analysed": 33,
+      "found": 36,
+      "accessed": 36,
+      "analysed": 34,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 33,
+        "analisado": 34,
         "revisado": 0,
         "publicado": 0
       },
@@ -45238,6 +46941,7 @@
         "economia": 1,
         "direito penal": 2,
         "governo": 1,
+        "PL 2169/2019": 1,
         "imprensa": 1,
         "Mesa Diretora": 3,
         "inteligência artificial": 2,
@@ -45245,7 +46949,7 @@
       },
       "sources": {
         "fonte-e979cfd37b58c2c5": 1,
-        "fonte-2acd9e7dc92e583a": 22,
+        "fonte-2acd9e7dc92e583a": 23,
         "fonte-3ed65b2f1d041330": 1,
         "fonte-d7238973977790d8": 1,
         "fonte-9c2fbd587c9a9fb0": 9,
@@ -45253,7 +46957,7 @@
       },
       "formats": {
         "reportagem": 6,
-        "documento": 14,
+        "documento": 15,
         "registro": 3,
         "checagem": 10,
         "video": 1,
@@ -45298,15 +47002,15 @@
     },
     {
       "year": 2021,
-      "found": 27,
-      "accessed": 27,
-      "analysed": 23,
+      "found": 28,
+      "accessed": 28,
+      "analysed": 24,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 4,
-        "analisado": 23,
+        "analisado": 24,
         "revisado": 0,
         "publicado": 0
       },
@@ -45321,6 +47025,7 @@
         "INSS": 1,
         "assistência social": 1,
         "PRS 53/2020": 1,
+        "PL 2734/2021": 1,
         "atividade parlamentar": 1,
         "eleições": 1,
         "saúde": 1,
@@ -45329,13 +47034,13 @@
         "rachadinha": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 24,
+        "fonte-2acd9e7dc92e583a": 25,
         "fonte-3ed65b2f1d041330": 1,
         "fonte-9c2fbd587c9a9fb0": 1,
         "fonte-4fd0eba6b669e169": 1
       },
       "formats": {
-        "documento": 4,
+        "documento": 5,
         "registro": 5,
         "checagem": 1,
         "reportagem": 13,
@@ -45479,15 +47184,15 @@
     },
     {
       "year": 2025,
-      "found": 21,
-      "accessed": 21,
-      "analysed": 18,
+      "found": 39,
+      "accessed": 39,
+      "analysed": 36,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 3,
-        "analisado": 18,
+        "analisado": 36,
         "revisado": 0,
         "publicado": 0
       },
@@ -45496,32 +47201,47 @@
         "PEC 169/2019": 1,
         "inteligência artificial": 3,
         "sistema eleitoral": 1,
+        "PL 5582/2025": 1,
+        "PL 1087/2025": 1,
+        "imagem sintética": 1,
+        "PL 2169/2019": 2,
+        "PL 1473/2025": 4,
+        "RS 7/2025": 1,
         "política externa": 1,
         "Atividade pública": 1,
         "justica": 1,
+        "PL 4809/2024": 1,
         "Conselho de Ética": 1,
         "Correios": 1,
+        "MPV 1292/2025": 1,
         "economia": 1,
+        "Lei 15152/2025": 1,
+        "PL 2413/2025": 1,
+        "imunidade parlamentar": 1,
         "educação": 1,
         "saude": 1,
         "meio ambiente": 1,
+        "PL 1345/2025": 1,
+        "PL 2734/2021": 1,
         "PDL 206/2023": 4,
-        "seguranca": 2
+        "seguranca": 2,
+        "CSP": 1
       },
       "sources": {
         "fonte-ab7ca292b805c308": 1,
-        "fonte-2acd9e7dc92e583a": 14,
+        "fonte-2acd9e7dc92e583a": 31,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
+        "fonte-875b77e7aba40e8b": 1,
         "fonte-3ed65b2f1d041330": 2
       },
       "formats": {
         "audio": 1,
-        "documento": 12,
-        "checagem": 4,
+        "documento": 21,
+        "checagem": 5,
+        "reportagem": 9,
         "registro": 2,
-        "video": 1,
-        "reportagem": 1
+        "video": 1
       },
       "note": "Recorte não exaustivo."
     },
@@ -45611,11 +47331,11 @@
     }
   ],
   "metrics": {
-    "newItems": 452,
-    "items": 470,
+    "newItems": 472,
+    "items": 490,
     "alreadyInArchive": 18,
-    "accessed": 467,
-    "analysed": 442,
+    "accessed": 487,
+    "analysed": 462,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -45627,11 +47347,11 @@
     "sourcesConsulted": 33,
     "video": 17,
     "audio": 5,
-    "documents": 142,
+    "documents": 153,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 117,
+    "queryCount": 121,
     "accessFailures": 17,
     "undatedItems": 37
   },
@@ -46654,6 +48374,42 @@
       "resultsState": "Localizadas checagens diversas, inclusive de conteúdos virais de 2026; nenhuma classificação ou alegação externa importada neste recorte de tramitação de 2024."
     },
     {
+      "id": "consulta-5583f5dba0988443",
+      "batch": "senado-2025-documentos-20261024-18",
+      "query": "site:www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/ \"Flávio Bolsonaro\" \"2025\" \"Texto integral\"",
+      "executedAt": "2026-10-24T15:38:16.241Z",
+      "engine": "web.run busca pública e abertura das páginas HTML do Senado",
+      "interval": "2025",
+      "resultsState": "Lidos pronunciamentos 514523, 516328, 518071, 513031 e 514806; outros pronunciamentos já catalogados foram descartados."
+    },
+    {
+      "id": "consulta-a94321eabbff8938",
+      "batch": "senado-2025-documentos-20261024-18",
+      "query": "site:www12.senado.leg.br/noticias/materias/2025/ \"Flávio Bolsonaro\" relator comissão projeto voto",
+      "executedAt": "2026-10-24T15:38:16.241Z",
+      "engine": "web.run busca pública e abertura HTML da Agência Senado",
+      "interval": "2025",
+      "resultsState": "Lidas reportagens sobre CSP, CCJ, CDH e relatoria; consultadas fichas oficiais para autoria e andamento."
+    },
+    {
+      "id": "consulta-8d44a7e37d4d8b78",
+      "batch": "senado-2025-documentos-20261024-18",
+      "query": "site:www12.senado.leg.br/noticias/materias/2025/ \"Flávio Bolsonaro\" \"Contarato\" \"relator\" \"internação\"",
+      "executedAt": "2026-10-24T15:38:16.241Z",
+      "engine": "web.run busca e abertura HTML",
+      "interval": "2025",
+      "resultsState": "Separadas as duas proposições: PL 1473/2025 de Contarato com substitutivo de Flávio e PL 2169/2019 de Flávio com substitutivo de Márcio Bittar."
+    },
+    {
+      "id": "consulta-5359e9d3ff6880fe",
+      "batch": "senado-2025-documentos-20261024-18",
+      "query": "site:checamos.afp.com \"Flávio Bolsonaro\" 2025 checagem",
+      "executedAt": "2026-10-24T15:38:16.241Z",
+      "engine": "web.run busca e abertura da publicação AFP",
+      "interval": "2025",
+      "resultsState": "Acessada checagem da AFP de 27/10/2025 sobre imagem sintética; sem perícia própria."
+    },
+    {
       "id": "consulta-690ec1b64b7b8f1c",
       "batch": "senado-historico-20261024-14",
       "query": "site:senado.leg.br/noticias/materias/2020/ \"Flávio Bolsonaro\" \"votação\" \"relator\"",
@@ -47359,6 +49115,54 @@
       "batch": "senado-2024-plenario-20261024-17"
     },
     {
+      "id": "lacuna-68dc280ae5d09bf3",
+      "note": "PL 1473/2025: verificar Câmara após remessa de 05/11/2025 antes de declarar aprovação final ou vigência.",
+      "state": "pendente",
+      "batch": "senado-2025-documentos-20261024-18"
+    },
+    {
+      "id": "lacuna-cea10e327ae22527",
+      "note": "PL 2169/2019: verificar próximos andamentos da CCJ e cotejar versão original com substitutivo da CDH.",
+      "state": "pendente",
+      "batch": "senado-2025-documentos-20261024-18"
+    },
+    {
+      "id": "lacuna-c7974ae416b0781f",
+      "note": "PL 2734/2021: abrir parecer e substitutivo de Alessandro Vieira e verificar fase posterior na CCJ.",
+      "state": "pendente",
+      "batch": "senado-2025-documentos-20261024-18"
+    },
+    {
+      "id": "lacuna-3f3c8975a57add23",
+      "note": "PL 1087/2025 e MPV 1292/2025: abrir norma e dados oficiais antes de analisar percentuais e efeitos alegados.",
+      "state": "pendente",
+      "batch": "senado-2025-documentos-20261024-18"
+    },
+    {
+      "id": "lacuna-881a026e621d7ebb",
+      "note": "PL 1473/2025: conferir registro/íntegra da audiência anunciada por Mara Gabrilli; chamada de pauta não comprova realização.",
+      "state": "pendente",
+      "batch": "senado-2025-documentos-20261024-18"
+    },
+    {
+      "id": "lacuna-b263344daf27263a",
+      "note": "AFP 27/10/2025: comparar evidências primárias, arquivos originais e possíveis respostas públicas em revisão editorial identificada, antes de qualquer selo próprio.",
+      "state": "pendente",
+      "batch": "senado-2025-documentos-20261024-18"
+    },
+    {
+      "id": "lacuna-a42913cdad173009",
+      "note": "Não houve leitura de PDFs dos Diários ou peças anexas, nem reprodução de áudio e vídeo. Zero segundos de áudio revisados.",
+      "state": "pendente",
+      "batch": "senado-2025-documentos-20261024-18"
+    },
+    {
+      "id": "lacuna-fb4f1b1070de61c9",
+      "note": "PL 2413/2025 e PL 1345/2025: reabrir a CSP após 01/07/2025 para conferir pareceres, eventual votação e alterações na relatoria, sem presumir autoria de Flávio.",
+      "state": "pendente",
+      "batch": "senado-2025-documentos-20261024-18"
+    },
+    {
       "id": "lacuna-a396cbd71022c6f1",
       "note": "Confirmar voto nominal de 19/05/2020 ao PL 1.277/2020 e ao projeto de cotas de 14/07/2021 no painel/Diário do Senado antes de análise de recorrência de posicionamentos.",
       "state": "pendente",
@@ -47484,6 +49288,24 @@
       "url": "https://www12.senado.leg.br/noticias/",
       "checked_at_utc": "2026-10-24T14:36:32.620Z",
       "scope": "Reportagens institucionais lidas com posições e respostas de diferentes parlamentares."
+    },
+    {
+      "name": "Senado Federal, atividade legislativa",
+      "url": "https://www25.senado.leg.br/web/atividade/",
+      "checked_at_utc": "2026-10-24T15:38:16.241Z",
+      "scope": "Páginas HTML de pronunciamentos, autoria, relatoria e tramitação."
+    },
+    {
+      "name": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/",
+      "checked_at_utc": "2026-10-24T15:38:16.241Z",
+      "scope": "Reportagens institucionais e manifestações públicas atribuídas."
+    },
+    {
+      "name": "AFP Checamos",
+      "url": "https://checamos.afp.com/",
+      "checked_at_utc": "2026-10-24T15:38:16.241Z",
+      "scope": "Checagem de imagem sintética publicada em 27/10/2025, sem perícia própria."
     }
   ],
   "publicationGate": {

@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T14:36:44.181208Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T15:40:11.998428Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-470 URLs únicas no lote; 452 ainda não vinculadas à edição anterior. 467 materiais acessados e 442 com texto analisado.
+490 URLs únicas no lote; 472 ainda não vinculadas à edição anterior. 487 materiais acessados e 462 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -28,13 +28,13 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2016 | 2 | 2 | 2 | 0 | 0 |
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 5 | 5 | 4 | 0 | 0 |
-| 2019 | 35 | 35 | 33 | 0 | 0 |
+| 2019 | 36 | 36 | 34 | 0 | 0 |
 | 2020 | 9 | 9 | 8 | 0 | 0 |
-| 2021 | 27 | 27 | 23 | 0 | 0 |
+| 2021 | 28 | 28 | 24 | 0 | 0 |
 | 2022 | 27 | 27 | 27 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 31 | 31 | 30 | 0 | 0 |
-| 2025 | 21 | 21 | 18 | 0 | 0 |
+| 2025 | 39 | 39 | 36 | 0 | 0 |
 | 2026 | 232 | 232 | 228 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
@@ -127,6 +127,14 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - Buscar dados primários e contrapontos técnicos sobre alegações de tributação, segurança pública, política carcerária e saúde das mulheres antes de avaliar seu conteúdo factual.
 - Ouvir trechos e conferir PDFs dos Diários de 2024 em revisão audiovisual/documental própria. Nesta execução houve zero segundos de áudio ouvido e nenhuma marcação temporal de vídeo revisada.
 - Cruzar eventuais checagens independentes pertinentes a declarações individuais e considerar respostas públicas; nenhuma nova conclusão ou acusação foi aprovada por revisor editorial identificado.
+- PL 1473/2025: verificar Câmara após remessa de 05/11/2025 antes de declarar aprovação final ou vigência.
+- PL 2169/2019: verificar próximos andamentos da CCJ e cotejar versão original com substitutivo da CDH.
+- PL 2734/2021: abrir parecer e substitutivo de Alessandro Vieira e verificar fase posterior na CCJ.
+- PL 1087/2025 e MPV 1292/2025: abrir norma e dados oficiais antes de analisar percentuais e efeitos alegados.
+- PL 1473/2025: conferir registro/íntegra da audiência anunciada por Mara Gabrilli; chamada de pauta não comprova realização.
+- AFP 27/10/2025: comparar evidências primárias, arquivos originais e possíveis respostas públicas em revisão editorial identificada, antes de qualquer selo próprio.
+- Não houve leitura de PDFs dos Diários ou peças anexas, nem reprodução de áudio e vídeo. Zero segundos de áudio revisados.
+- PL 2413/2025 e PL 1345/2025: reabrir a CSP após 01/07/2025 para conferir pareceres, eventual votação e alterações na relatoria, sem presumir autoria de Flávio.
 - Confirmar voto nominal de 19/05/2020 ao PL 1.277/2020 e ao projeto de cotas de 14/07/2021 no painel/Diário do Senado antes de análise de recorrência de posicionamentos.
 - PLP 157/2021: abrir PDF do relatório da Comissão de Meio Ambiente de 04/04/2025 e conferir novos andamentos antes de resumir fundamentos ou declarar rejeição definitiva.
 - PEC 32/2022: distinguir emenda apresentada, emenda prejudicada e destaque retirado antes de comparações sobre posicionamento orçamentário.
