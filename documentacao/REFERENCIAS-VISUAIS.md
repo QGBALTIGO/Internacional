@@ -52,3 +52,13 @@ O DocumentCloud bloqueou uma leitura direta via ferramenta pública consultada (
 ## Escopo preservado
 
 Sem novas acusações, comparações sensíveis, vereditos ou revisores. Nenhum arquivo de conteúdo canônico, estado do coletor, checkpoint de pesquisa ou serviço pago faz parte desta alteração.
+
+
+## Referências brasileiras de acervo político próximas ao recorte
+
+- https://www.bolsonaros.com/dossies/ apresenta episódios em coleções temáticas e mantém cronologia e fontes associadas. Serve como referência de arquitetura informacional, não como validação das alegações ali publicadas.
+- https://www.bolsonaros.com/cronologia/ organiza acontecimentos por data e disponibiliza filtros por dossiê, pessoa e ano. O presente Arquivo já possui linha do tempo das fichas herdadas; não se promete que todos os novos materiais estejam nela.
+- https://bolsonaro.ong.br/documentos/ agrupa documentos e notas institucionais por caso, com distinções sobre os limites de cada registro. A separação entre fato documentado, investigação e decisão final é uma referência de clareza.
+- https://www.checagemaovivo.org/ apresentava aviso de indisponibilidade ao ser consultado em 24/10/2026; não foi possível avaliar sua interface interna como referência verificável.
+
+Sites sobre o mesmo assunto podem ter conclusões, interesses ou critérios diferentes. Este projeto adapta apenas organização e usabilidade verificáveis, sem importar acusações, números ou classificações de terceiros.
