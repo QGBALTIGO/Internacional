@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T19:54:29.015029Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T20:24:35.506506Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-526 URLs únicas no lote; 508 ainda não vinculadas à edição anterior. 523 materiais acessados e 498 com texto analisado.
+531 URLs únicas no lote; 513 ainda não vinculadas à edição anterior. 528 materiais acessados e 503 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -18,7 +18,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2006 | 1 | 1 | 1 | 0 | 0 |
 | 2007 | 4 | 4 | 4 | 0 | 0 |
 | 2008 | 1 | 1 | 1 | 0 | 0 |
-| 2009 | 3 | 3 | 3 | 0 | 0 |
+| 2009 | 4 | 4 | 4 | 0 | 0 |
 | 2010 | 2 | 2 | 2 | 0 | 0 |
 | 2011 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 3 | 3 | 3 | 0 | 0 |
@@ -34,7 +34,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 31 | 31 | 30 | 0 | 0 |
-| 2025 | 43 | 43 | 40 | 0 | 0 |
+| 2025 | 47 | 47 | 44 | 0 | 0 |
 | 2026 | 255 | 255 | 251 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
@@ -46,6 +46,11 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - ALERJ: consultar integral da Lei estadual RJ 5.402/2009 e eventuais alterações para cotejo com PL 1442/2008; não usar reproduções bloqueadas.
 - PL 1473/2025: cotejar versões, substitutivo da relatoria no Senado, posição da Coalizão e pareceres posteriores na Câmara, sem inferir vigência ou efeitos.
 - Em revisão própria, conferir vídeo/áudio de 23/10/2026 e respostas públicas; novo veredito ou comparação sensível exige revisor humano autorizado.
+- ALERJ: localizar atas nominais e registros de plenário PEC 4/2007 e PL 1442/2008 para distinguir comissão e plenário.
+- ALERJ: confirmar imagem original da edição DOERJ de 11/03/2009 e texto consolidado atual da Lei RJ 5.402/2009 antes de inferir efeitos presentes.
+- PL 1473/2025: cotejar relatórios/substitutivos PDF de Flávio Bolsonaro, texto remetido à Câmara já catalogado, versão original de Contarato e manifestação técnica contrária; não importar críticas como fatos apurados.
+- Revisão editorial humana identificada para qualquer nova comparação sobre votação de 08/10 e expressão de unanimidade na fala de 22/10; manter classification:null.
+- Mídias da CCJ não reproduzidas e sem timestamps conferidos; manter zero segundos de áudio analisados.
 - Abrir o Diário Oficial e atas ou votações originais da ALERJ referentes à PEC 4/2007 (Emenda Constitucional RJ 41/2009) e à Lei estadual RJ 5.402/2009 para conferir autoria, posição nominal, redações e datas sem depender apenas da imprensa.
 - Conferir na íntegra audiovisual o debate de 23/10/2026 e o contexto da explicação de Flávio sobre licença-maternidade; nesta coleta, zero segundos de áudio reproduzidos ou transcritos.
 - Consultar em texto primário todas as versões do PL 1473/2025, substitutivo do Senado, parecer na Câmara e parecer da Coalizão em PDF, antes de avaliar efeitos e controvérsias.
@@ -176,6 +181,10 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - batch: alerj-documentos-primarios-20261024-22; source: Lei estadual RJ 5.402/2009 em repositório de terceiros; url: https://leisestaduais.com.br/rj/lei-ordinaria-n-5402-2009-rio-de-janeiro-dispoe-sobre-a-adocao-de-medidas-protetivas-de-urgencia-em-face-do-agente-da-lei-que-praticar-violencia-domestica-e-familiar-contra-a-mulher; status: HTTP 403 na tentativa de abertura; note: Texto não cadastrado como lido; o resultado indexado não comprova texto legal.
 - batch: alerj-documentos-primarios-20261024-22; source: Substitutivos, relatórios e parecer crítico sobre PL 1473/2025; status: Não examinados neste lote; note: Avulso recebido na Câmara foi lido, mas não houve cotejo integral das versões ou parecer externo em PDF.
 - batch: alerj-documentos-primarios-20261024-22; source: Debate eleitoral de 23/10/2026; status: Áudio e vídeo não reproduzidos; note: Zero segundos de audiovisual revisados, sem citações literais ou timestamps verificados.
+- batch: alerj-lei5402-senado1473-20261024-23; source: Ata e mapa de votação nominal em plenário da ALERJ sobre PL 1442/2008 e PEC 4/2007; status: Não localizados e não lidos nesta execução; note: DOERJ reproduz lei sancionada, não votação individual. Ordem do Dia de 2008 registra voto contrário de Flávio no parecer de comissão, já catalogado; não concluir voto plenário.
+- batch: alerj-lei5402-senado1473-20261024-23; source: PDF original autenticado do DOERJ de 11/03/2009 e consolidado oficial atualizado da Lei 5.402/2009; status: Não examinados; note: Somente transcrição textual de publicação histórica em hospedagem de terceiro foi lida; sem garantia de conteúdo consolidado até 2026.
+- batch: alerj-lei5402-senado1473-20261024-23; source: PDFs das versões intermediárias, pareceres e substitutivo do PL 1473/2025; status: Não lidos; note: Os links de anexos oficiais consultados anteriormente apresentaram barreira de acesso. A análise atual cobre fichas e notas taquigráficas HTML, não cotejo técnico entre todas as versões.
+- batch: alerj-lei5402-senado1473-20261024-23; source: Áudio e vídeo das sessões CCJ de 08/10 e 22/10/2025; status: Não reproduzidos; note: 0 segundos conferidos. Transcrições textuais revisadas pelo Senado não equivalem a escuta própria.
 - batch: alerj-respostas-camara-20261024-21; url: https://leisestaduais.com.br/rj/lei-ordinaria-n-5402-2009-rio-de-janeiro-dispoe-sobre-a-adocao-de-medidas-protetivas-de-urgencia-em-face-do-agente-da-lei-que-praticar-violencia-domestica-e-familiar-contra-a-mulher; source: Repositório não oficial de leis estaduais RJ; status: HTTP 403 na abertura; note: A página não foi lida; fragmento de mecanismo de busca não sustenta conteúdo nem cadastro como documento consultado.
 - batch: alerj-respostas-camara-20261024-21; url: https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2734-2021; source: Registro bicameral do PL 2734/2021; status: Falha/tempo esgotado na abertura; note: Material não incluído por ausência de acesso efetivo.
 - batch: alerj-tramitacao-20261024-03; source: Execução e publicação de dados derivados; error: Sem checkout Git acessível via rede no terminal de execução e sem dispositivo remoto conectado para executar scripts/build_research.py, scripts/sync_content.py ou os testes. Este arquivo é checkpoint canônico de descoberta, não atualização do JSON público. Normalização e verificações continuam pendentes.
