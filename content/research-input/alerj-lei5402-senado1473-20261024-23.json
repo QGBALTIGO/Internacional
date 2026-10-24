@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "batch_id": "alerj-lei5402-senado1473-20261024-23",
+  "collected_at_utc": "2026-10-24T20:24:21.613Z",
+  "scope": "Cinco fontes históricas distintas, ainda ausentes dos 526 materiais: texto original da Lei RJ 5.402/2009 reproduzido de DOERJ e quatro registros oficiais do Senado da CCJ no PL 1473/2025 (dois resultados de reunião e duas íntegras textuais).",
+  "method": "Documentos e páginas HTML abertos e lidos via web.run, individualizados por URL e comparados com o content/research.json persistido no GitHub. Horário UTC é de encerramento, não horário exato de cada acesso. Sem leitura das íntegras PDF bloqueadas, sem audição, sem novo veredito, sem revisão editorial humana e sem duplicação das respostas e notícias existentes. O texto jornalístico crítico e os registros favoráveis foram mantidos separados.",
+  "records": [
+    {
+      "id": "alerj-lei5402-senado1473-20261024-23-doerj-lei5402",
+      "title": "DOERJ de 11/03/2009 traz texto sancionado da Lei RJ 5.402/2009 e origem no PL 1442-A/2008",
+      "url": "https://www.escavador.com/diarios/4107293/DOERJ/poder-executivo/2009-03-11",
+      "publisher": "Diário Oficial do Estado do Rio de Janeiro, reprodução textual hospedada pelo Escavador",
+      "format": "documento",
+      "published_date": "2009-03-11",
+      "event_date": "2009-03-11",
+      "topics": [
+        "ALERJ",
+        "violência doméstica",
+        "Lei 5.402/2009",
+        "publicação oficial histórica"
+      ],
+      "speaker": "Poder Legislativo e Governo do Estado do Rio de Janeiro; Inês Pandeló identificada como autora do PL 1442-A/2008",
+      "summary": "A reprodução textual da edição de 11/03/2009 contém a Lei estadual RJ 5.402, sancionada em 10/03/2009. O texto prevê suspensão da posse ou restrição do porte de arma de integrante das forças de segurança do Rio de Janeiro em contexto de violência doméstica e familiar contra a mulher, em remissão ao art. 22, I, da Lei Maria da Penha. Ao final, a origem legislativa é identificada como PL 1442-A/2008, da deputada Inês Pandeló. O texto da lei não apresenta posição individual de Flávio Bolsonaro, votação plenária ou eventual versão consolidada posterior.",
+      "locator": "DOERJ, Poder Executivo, Parte I, ano XXXV, número 043, edição 11/03/2009, seção 'Atos do Poder Legislativo', entrada 'LEI N° 5402 DE 10 DE MARÇO DE 2009', arts. 1º e 2º e linha 'Projeto de Lei n° 1442-A/2008 Autoria: Deputada Inês Pandeló'; HTML exibido nas linhas 264–281.",
+      "limitations": "Transcrição textual de periódico oficial em site privado, não acesso ao PDF autenticado do Diário Oficial nem ao cadastro consolidado da lei. A página documenta sanção e redação publicada, mas não comprova o voto individual de Flávio, argumentos do parlamentar ou vigência inalterada em 2026. A Ordem do Dia da ALERJ de 18/12/2008 já catalogada refere-se a parecer em comissão, não a votação em plenário.",
+      "document_number": "Lei RJ 5.402/2009; PL ALERJ 1442-A/2008",
+      "public_response": "A reportagem da Folha de 16/10/2026 já catalogada publica resposta atribuída à campanha de Flávio, favorável à proteção de mulheres e com referência ao devido processo legal; não há resposta especificamente dirigida ao texto de 11/03/2009.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Página HTML efetivamente aberta e lida em 24/10/2026. collected_at é o encerramento do lote em UTC, não horário individual da consulta. Nenhum PDF desta fonte foi conferido por extração/screenshot, e nenhum áudio ou vídeo foi reproduzido.",
+      "collected_at": "2026-10-24T20:24:21.613Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "alerj-lei5402-senado1473-20261024-23-ccj-08out-resultado",
+      "title": "Senado: CCJ registra substitutivo de Flávio ao PL 1473/2025 aprovado em 08/10 e voto contrário de Augusta Brito",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/34/reuniao/14048/item/102542",
+      "publisher": "Senado Federal, Comissão de Constituição, Justiça e Cidadania",
+      "format": "documento",
+      "published_date": "2025-10-08",
+      "event_date": "2025-10-08",
+      "topics": [
+        "Senado",
+        "PL 1473/2025",
+        "socioeducação",
+        "CCJ",
+        "votação"
+      ],
+      "speaker": "Fabiano Contarato (autor do PL); Flávio Bolsonaro (relator); Augusta Brito (voto contrário informado pela CCJ)",
+      "summary": "A ficha oficial da 34ª reunião extraordinária da CCJ em 08/10/2025 identifica Fabiano Contarato como autor do PL 1473/2025 e Flávio Bolsonaro como relator. Informa aprovação de substitutivo que acolhe parcialmente emendas de Contarato e Alessandro Vieira, com indicação expressa de voto contrário da senadora Augusta Brito, e determina turno suplementar. Portanto, esse registro não sustenta caracterização de unanimidade entre todos os membros nem conclusão de lei vigente.",
+      "locator": "Item 2 da pauta da 34ª reunião extraordinária, 08/10/2025; campos 'Autoria e relatoria', 'Relatório' e 'Resultado', com menção ao voto contrário de Augusta Brito; HTML linhas 20–49.",
+      "limitations": "Ficha de resultado da comissão lida em HTML. Não houve leitura dos anexos PDF de pareceres nem exame de votação nominal individual completa. Eventual fala posterior sobre unanimidade deve ser apresentada como fala atribuída, sem automaticamente gerar veredito de contradição.",
+      "document_number": "PL 1473/2025; 34ª reunião CCJ, 08/10/2025",
+      "public_response": null,
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Página HTML efetivamente aberta e lida em 24/10/2026. collected_at é o encerramento do lote em UTC, não horário individual da consulta. Nenhum PDF desta fonte foi conferido por extração/screenshot, e nenhum áudio ou vídeo foi reproduzido.",
+      "collected_at": "2026-10-24T20:24:21.613Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "alerj-lei5402-senado1473-20261024-23-ccj-08out-notas",
+      "title": "Senado: notas taquigráficas de 08/10/2025 documentam discussão e ajustes do relator no PL 1473/2025",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14048",
+      "publisher": "Senado Federal, notas taquigráficas revisadas da CCJ",
+      "format": "documento",
+      "published_date": "2025-10-08",
+      "event_date": "2025-10-08",
+      "topics": [
+        "Senado",
+        "PL 1473/2025",
+        "notas taquigráficas",
+        "CCJ",
+        "direito de crianças e adolescentes"
+      ],
+      "speaker": "Flávio Bolsonaro, Alessandro Vieira, Fabiano Contarato, Otto Alencar e demais senadores identificados nas notas",
+      "summary": "Transcrição textual revisada da 34ª reunião da CCJ: no debate do PL 1473/2025, Alessandro Vieira questiona a sobreposição entre oitiva informal e audiência de apresentação/custódia, e Flávio, relator, sinaliza ajustes de redação, inclusive com remissão aos arts. 179 e 106 do ECA. Ao final, a presidência anuncia 20 votos favoráveis e remessa do substitutivo ao turno suplementar. São manifestações e deliberações do Senado, não checagem independente das premissas discutidas.",
+      "locator": "Notas taquigráficas oficiais da 34ª reunião em 08/10/2025, intervenções de Flávio e Alessandro Vieira no item PL 1473/2025 sobre oitiva e audiência, proposta de ajuste do art. 179, e anúncio da votação pela presidência próximo ao fim do item; página HTML, em torno das linhas 187–190, 223–224 e 245–250.",
+      "limitations": "Leitura somente da transcrição oficial revisada em HTML, sem audição da gravação ou conferência de marcações temporais do player. Os 20 votos 'sim' anunciados na transcrição não eliminam o registro de voto contrário de Augusta Brito na ficha do mesmo item. Não se infere que o ajuste verbal tenha exatamente a mesma redação do PDF final; cotejo de versões ainda pendente.",
+      "document_number": "PL 1473/2025; notas CCJ 14048",
+      "public_response": null,
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Página HTML efetivamente aberta e lida em 24/10/2026. collected_at é o encerramento do lote em UTC, não horário individual da consulta. Nenhum PDF desta fonte foi conferido por extração/screenshot, e nenhum áudio ou vídeo foi reproduzido.",
+      "collected_at": "2026-10-24T20:24:21.613Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "alerj-lei5402-senado1473-20261024-23-ccj-22out-resultado",
+      "title": "Senado: substitutivo ao PL 1473/2025 foi definitivamente adotado na CCJ em 22/10/2025",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/34/reuniao/14080/item/102762",
+      "publisher": "Senado Federal, Comissão de Constituição, Justiça e Cidadania",
+      "format": "documento",
+      "published_date": "2025-10-22",
+      "event_date": "2025-10-22",
+      "topics": [
+        "Senado",
+        "PL 1473/2025",
+        "CCJ",
+        "turno suplementar",
+        "tramitação"
+      ],
+      "speaker": "Fabiano Contarato (autor do PL); Flávio Bolsonaro (relator); Comissão de Constituição e Justiça (deliberação)",
+      "summary": "Na ficha da 37ª reunião extraordinária da CCJ, a etapa de turno suplementar do substitutivo oferecido ao PL 1473/2025 aparece com resultado 'definitivamente adotado', citando o art. 284 do Regimento Interno do Senado Federal. Trata-se da decisão sobre o substitutivo na comissão do Senado, não de aprovação definitiva pelas duas casas do Congresso, sanção ou entrada em vigor.",
+      "locator": "Item 2 da pauta, 37ª reunião extraordinária, 22/10/2025; seção de turno suplementar, autoria e relatoria e campo 'Resultado'; HTML linhas 20–48.",
+      "limitations": "Consulta da ficha oficial HTML; anexos PDF de pareceres não examinados. A situação legislativa mais recente deve ser verificada na Câmara, cujos registros já estão catalogados; não presumir legislação vigente.",
+      "document_number": "PL 1473/2025; 37ª reunião CCJ, 22/10/2025",
+      "public_response": null,
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Página HTML efetivamente aberta e lida em 24/10/2026. collected_at é o encerramento do lote em UTC, não horário individual da consulta. Nenhum PDF desta fonte foi conferido por extração/screenshot, e nenhum áudio ou vídeo foi reproduzido.",
+      "collected_at": "2026-10-24T20:24:21.613Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "alerj-lei5402-senado1473-20261024-23-ccj-22out-notas",
+      "title": "Senado: íntegra textual da CCJ de 22/10 relata adoção sem nova votação e justificativa de Flávio ao PL 1473/2025",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14080",
+      "publisher": "Senado Federal, notas taquigráficas revisadas da CCJ",
+      "format": "documento",
+      "published_date": "2025-10-22",
+      "event_date": "2025-10-22",
+      "topics": [
+        "Senado",
+        "PL 1473/2025",
+        "notas taquigráficas",
+        "turno suplementar",
+        "posição pública"
+      ],
+      "speaker": "Otto Alencar (presidência); Flávio Bolsonaro (relator)",
+      "summary": "A transcrição oficial da 37ª reunião da CCJ registra, após inexistência de novas emendas, adoção definitiva do substitutivo sem outra votação, conforme art. 284 do Regimento. Em manifestação posterior, Flávio agradece a aprovação, caracteriza-a como unânime e defende alterações nas medidas socioeducativas, apresentando uma possibilidade de internação de até dez anos na proposta e explicitando sua posição favorável à redução da maioridade penal. A fala de unanimidade é atribuída ao senador e não apaga o voto contrário registrado pela ficha oficial em 08/10. O período de internação referido é conteúdo de proposta, não lei em vigor.",
+      "locator": "Notas taquigráficas revisadas, 22/10/2025, abertura do item 2, turnos e anúncio da adoção pelo presidente, seguido da manifestação do relator Flávio; página HTML, linhas 26–36. Horários da coluna do portal não foram empregados como timestamps audiovisuais.",
+      "limitations": "Transcrição oficial em texto, sem reprodução ou comparação com áudio/vídeo, portanto zero segundos ouvidos; alegações sobre casos criminais e sobre alcance da proposta feitas pelo orador não foram verificadas independentemente. O registro de posição favorável à redução de maioridade penal é atribuição da declaração, não descrição de disposição aprovada na lei; sem julgamento editorial ou confronto de gravações.",
+      "document_number": "PL 1473/2025; notas CCJ 14080",
+      "public_response": "A crítica pública da Coalizão pela Socioeducação, já catalogada, oferece perspectiva contrária ao endurecimento proposto; PDFs técnicos e pareceres ainda não foram cotejados integralmente.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Página HTML efetivamente aberta e lida em 24/10/2026. collected_at é o encerramento do lote em UTC, não horário individual da consulta. Nenhum PDF desta fonte foi conferido por extração/screenshot, e nenhum áudio ou vídeo foi reproduzido.",
+      "collected_at": "2026-10-24T20:24:21.613Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    }
+  ],
+  "queries": [
+    {
+      "query": "'Lei 5402 de 10 de março de 2009' Diário Oficial Rio de Janeiro PL 1442-A/2008",
+      "executed_at": "2026-10-24T20:24:21.613Z",
+      "engine": "web.run (busca, abertura e leitura de transcrição HTML); GitHub conectado (deduplicação)",
+      "interval": "2008–2009",
+      "result": "DOERJ de 11/03/2009, página 1, reproduz texto sancionado e autoria do projeto de origem. Não foi visto mapa de votação ou consolidado posterior."
+    },
+    {
+      "query": "'PL 1473/2025' '34ª Reunião' '08/10/2025' Flávio Bolsonaro Augusto Brito CCJ",
+      "executed_at": "2026-10-24T20:24:21.613Z",
+      "engine": "web.run, abertura de ficha oficial de reunião CCJ e leitura de resultado",
+      "interval": "2025",
+      "result": "Substitutivo aprovado em 08/10/2025, com voto contrário de Augusta Brito expressamente informado; não é unanimidade de todos os votos."
+    },
+    {
+      "query": "'PL 1473/2025' '37ª Reunião' '22/10/2025' turno suplementar",
+      "executed_at": "2026-10-24T20:24:21.613Z",
+      "engine": "web.run, abertura de ficha oficial de reunião CCJ e leitura de resultado",
+      "interval": "2025",
+      "result": "Substitutivo definitivamente adotado em turno suplementar na CCJ; sem inferência de sanção ou vigência."
+    },
+    {
+      "query": "Notas taquigráficas Senado CCJ reuniões 14048 e 14080 Flávio Bolsonaro Alessandro Vieira arts. 179 106",
+      "executed_at": "2026-10-24T20:24:21.613Z",
+      "engine": "web.run, abertura e leitura de duas íntegras textuais oficiais HTML; nenhum áudio ouvido",
+      "interval": "2025",
+      "result": "Lidas intervenções, ajustes propostos, anúncio de 20 votos sim em 08/10 e adoção sem nova votação em 22/10. Não foram conferidos timestamps de áudio."
+    },
+    {
+      "query": "URLs do DOERJ, dois itens de reunião CCJ e duas transcrições Senado contra content/research.json no head de main",
+      "executed_at": "2026-10-24T20:24:21.613Z",
+      "engine": "GitHub conectado (consulta integral de catálogo, comparação exata de URLs)",
+      "interval": "2025–2026",
+      "result": "As cinco URLs estão ausentes dos 526 itens atuais. Portal geral do PL 1473/2025 e reportagens com contraditório já constam e não foram recadastrados."
+    }
+  ],
+  "blocked": [
+    {
+      "source": "Ata e mapa de votação nominal em plenário da ALERJ sobre PL 1442/2008 e PEC 4/2007",
+      "status": "Não localizados e não lidos nesta execução",
+      "note": "DOERJ reproduz lei sancionada, não votação individual. Ordem do Dia de 2008 registra voto contrário de Flávio no parecer de comissão, já catalogado; não concluir voto plenário."
+    },
+    {
+      "source": "PDF original autenticado do DOERJ de 11/03/2009 e consolidado oficial atualizado da Lei 5.402/2009",
+      "status": "Não examinados",
+      "note": "Somente transcrição textual de publicação histórica em hospedagem de terceiro foi lida; sem garantia de conteúdo consolidado até 2026."
+    },
+    {
+      "source": "PDFs das versões intermediárias, pareceres e substitutivo do PL 1473/2025",
+      "status": "Não lidos",
+      "note": "Os links de anexos oficiais consultados anteriormente apresentaram barreira de acesso. A análise atual cobre fichas e notas taquigráficas HTML, não cotejo técnico entre todas as versões."
+    },
+    {
+      "source": "Áudio e vídeo das sessões CCJ de 08/10 e 22/10/2025",
+      "status": "Não reproduzidos",
+      "note": "0 segundos conferidos. Transcrições textuais revisadas pelo Senado não equivalem a escuta própria."
+    }
+  ],
+  "gaps": [
+    "ALERJ: localizar atas nominais e registros de plenário PEC 4/2007 e PL 1442/2008 para distinguir comissão e plenário.",
+    "ALERJ: confirmar imagem original da edição DOERJ de 11/03/2009 e texto consolidado atual da Lei RJ 5.402/2009 antes de inferir efeitos presentes.",
+    "PL 1473/2025: cotejar relatórios/substitutivos PDF de Flávio Bolsonaro, texto remetido à Câmara já catalogado, versão original de Contarato e manifestação técnica contrária; não importar críticas como fatos apurados.",
+    "Revisão editorial humana identificada para qualquer nova comparação sobre votação de 08/10 e expressão de unanimidade na fala de 22/10; manter classification:null.",
+    "Mídias da CCJ não reproduzidas e sem timestamps conferidos; manter zero segundos de áudio analisados."
+  ],
+  "references": [
+    {
+      "id": "checkpoint-20261024-23",
+      "label": "Lei RJ 5402/2009 no DOERJ e sessões CCJ 08/10 e 22/10/2025 sobre PL 1473/2025",
+      "method": "Cinco URLs de documentos distintos, HTML aberto e lido; deduplicação com 526 itens; sem PDF integral das versões de pareceres e sem audição.",
+      "collected_at_utc": "2026-10-24T20:24:21.613Z"
+    }
+  ]
+}
