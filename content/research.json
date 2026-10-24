@@ -2,16 +2,85 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T03:52:31.394752Z",
-    "inputHash": "b1d910b97664214c70e853ef8356d56019374703942523596edef770d1279882",
+    "generatedAt": "2026-10-24T04:16:06.144741Z",
+    "inputHash": "23bbcbcab99d7f817dac9742f622ca0ca9f29d70c7edfef710e3f1475c7097ba",
     "timezone": "America/Campo_Grande",
-    "localDate": "2026-10-23",
+    "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
     "rights": "Resumos próprios, citações curtas e links. Não se republicam íntegras de terceiros.",
     "audioReviewLimitation": "Nenhum segundo de áudio foi conferido neste lote.",
     "classificationPolicy": "Conclusões de terceiros são atribuídas à fonte e não viram classificação própria."
   },
   "items": [
+    {
+      "id": "pesquisa-f2b0cb47bbbaeb6a",
+      "title": "Índice da Lupa com resultados favoráveis e desfavoráveis em 70 alegações da campanha",
+      "url": "https://www.agencialupa.org/jornalismo/2026/10/23/erros-e-acertos-de-flavio-bolsonaro-na-campanha-pela-presidencia-em-2026/",
+      "publisher": "Lupa",
+      "date": "2026-10-23",
+      "eventDate": "2026-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "checagens",
+      "topics": [
+        "checagens",
+        "campanha-2026",
+        "contexto"
+      ],
+      "stage": "analisado",
+      "summary": "Reunião editorial de checagens da Lupa relativas a ao menos 70 enunciados em sete ocasiões. A página contém avaliações favoráveis e desfavoráveis, com links a normas e reportagens. O índice não representa 70 verificações próprias do Arquivo, nem prova de autoria literal sem conferir cada ocasião.",
+      "limitations": "As 70 alegações são contagem atribuída à Lupa e não foram individualizadas ou ouvidas nesta coleta. Falas do debate e outras fontes primárias exigem cotejo isolado. Não importar classificação automaticamente. Documento de contexto; a relação com uma afirmação exige apuração específica.",
+      "locator": "Página integral, apresentação e seções por ocasião a partir das linhas 34-42; múltiplos itens até o final da página, sem audição.",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Equipe Lupa, com falas atribuídas a Flávio em diferentes eventos",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "contexto",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [
+        "flavio-lula-condenado-stf-2026",
+        "flavio-recorde-assassinatos-mulheres-2026"
+      ],
+      "researchOrigins": [
+        {
+          "batch": "contexto-20261024",
+          "inputId": "CTX-LUPA-2026-10-23-CAMPANHA",
+          "toolReference": "turn182027view2"
+        }
+      ],
+      "accessMethod": "Abertura direta do HTML; leitura editorial preliminar.",
+      "newToArchive": false
+    },
     {
       "id": "pesquisa-ae6c3abe67d55a16",
       "title": "Assessora econômica: vídeo manipulado não representa fala sobre extinguir benefício",
@@ -140,6 +209,72 @@
         }
       ],
       "accessMethod": "Busca web e abertura direta do texto indexado; sem contornar barreiras",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-71e25ad4c71dbac0",
+      "title": "Levantamento da Lupa sobre propostas de Flávio no Senado e leis da ALERJ",
+      "url": "https://www.agencialupa.org/jornalismo/2026/10/23/no-senado-flavio-atuou-para-enfraquecer-regras-ambientais-ampliar-acesso-a-armas/",
+      "publisher": "Lupa",
+      "date": "2026-10-23",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "atividade-parlamentar",
+      "topics": [
+        "atividade-parlamentar",
+        "seguranca",
+        "meio-ambiente"
+      ],
+      "stage": "analisado",
+      "summary": "A Lupa contabiliza 171 proposições apresentadas com autoria ou coautoria no Senado e 53 normas da época de deputado estadual, distingue autoria individual e compartilhada e apresenta links a proposições de diferentes orientações temáticas.",
+      "limitations": "Contagens e interpretações são do levantamento jornalístico; não houve recontagem integral das fichas Senado/ALERJ. Projetos de lei não comprovam normas em vigor ou condutas pessoais sem análise do estado de tramitação. Documento de contexto; a relação com uma afirmação exige apuração específica.",
+      "locator": "Página da Lupa, linhas 34-54 (Senado), 65-81 (temas e projetos), 82-101 (ALERJ e exemplos); conferir proposições primárias antes de conclusões específicas.",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Equipe de reportagem da Lupa",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "contexto",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "contexto-20261024",
+          "inputId": "CTX-LUPA-2026-10-23-LEGISLATIVO",
+          "toolReference": "turn726340view1"
+        }
+      ],
+      "accessMethod": "Abertura direta do texto jornalístico; documentos citados não reabertos sistematicamente.",
       "newToArchive": true
     },
     {
@@ -274,6 +409,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-ce6e0e641ba30515",
+      "title": "Imagem falsa atribui proposta de aposentadoria aos 70 anos",
+      "url": "https://www.agencialupa.org/verificacao/2026/10/20/e-falso-que-flavio-bolsonaro-propos-elevar-idade-minima-da-aposentadoria-para-70-anos/",
+      "publisher": "Lupa",
+      "date": "2026-10-20",
+      "eventDate": "2026-10",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "previdencia",
+      "topics": [
+        "previdencia",
+        "eleicoes",
+        "inteligencia-artificial"
+      ],
+      "stage": "analisado",
+      "summary": "Lupa identificou captura de tela que simula notícia de O Globo; relata não ter encontrado tal matéria ou previsão sobre o tema no programa registrado no TSE.",
+      "limitations": "Plano do TSE e arquivo original de O Globo não examinados independentemente nesta coleta. Detector de IA citado pelo veículo não comprova, sozinho, a origem da peça.",
+      "locator": "Lupa, linhas 34-52, seções 'FALSO' e 'Imagem gerada por IA'.",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-981fc7b1e409a6d3",
+      "transcript": {
+        "method": "Não transcrito pelo projeto",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": "falso, segundo a Lupa",
+      "factualQuestion": "Flávio anunciou elevar a idade de aposentadoria a 70 anos?",
+      "publicResponse": null,
+      "actor": "Montagem que imita o jornal O Globo",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens",
+          "inputId": "not-032",
+          "toolReference": "turn182027view0"
+        }
+      ],
+      "accessMethod": "Busca e navegação em fontes públicas, abertura direta do HTML da Lupa; sem reprodução de vídeos originais.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-663c0acf20c5ed15",
       "title": "Master no debate: valores negociados, pagos e incertezas",
       "url": "https://checamos.afp.com/doc.afp.com.D3WG8ZQ",
@@ -336,6 +537,72 @@
         }
       ],
       "accessMethod": "Busca web e abertura direta do texto indexado; sem contornar barreiras",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-ff09ecdd85be9f59",
+      "title": "Checagem distingue apreensão de dinheiro eleitoral de acusação pessoal contra Flávio",
+      "url": "https://www.agencialupa.org/verificacao/2026/10/19/reportagem-da-cnn-brasil-sobre-compra-de-votos-nao-cita-flavio-bolsonaro/",
+      "publisher": "Lupa",
+      "date": "2026-10-19",
+      "eventDate": "2026-10",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "eleicoes",
+      "topics": [
+        "eleicoes",
+        "checagem",
+        "atribuicao"
+      ],
+      "stage": "analisado",
+      "summary": "Lupa relata que reportagem da CNN sobre apreensões eleitorais não citou Flávio; o próprio veículo publicou esclarecimento em 07/10, segundo a checagem. É diferente do caso envolvendo candidato Daniel Trindade.",
+      "limitations": "Vídeo original da CNN não assistido e matérias complementares não reabertas nesta execução. Não equiparar investigação de outro candidato a prova contra Flávio.",
+      "locator": "Lupa, linhas 34-54, referências à CNN em 03/10 e 07/10/2026.",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-9f0be42a7ef5db06",
+      "transcript": {
+        "method": "Não transcrito pelo projeto",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": "falso, segundo a Lupa",
+      "factualQuestion": "Reportagem de 03/10/2026 da CNN ligou Flávio à apreensão de R$ 27 milhões?",
+      "publicResponse": null,
+      "actor": "Legenda de publicação no Facebook",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens",
+          "inputId": "not-033",
+          "toolReference": "turn182027view1"
+        }
+      ],
+      "accessMethod": "Busca e navegação em fontes públicas, abertura direta do HTML da Lupa; sem reprodução de vídeos originais.",
       "newToArchive": true
     },
     {
@@ -473,6 +740,74 @@
         }
       ],
       "accessMethod": "Busca web e abertura direta do texto indexado; sem contornar barreiras",
+      "newToArchive": false
+    },
+    {
+      "id": "pesquisa-fd9bc69628ad77ed",
+      "title": "Compartilhamento de vídeo de doação de ossos: origem e contexto",
+      "url": "https://www.agencialupa.org/verificacao/2026/10/16/videos-de-doacao-de-ossos-em-fortaleza-circulam-fora-de-contexto-e-nao-tem-relacao-com-o-governo-lula/",
+      "publisher": "Lupa",
+      "date": "2026-10-16",
+      "eventDate": "2026-10",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "campanha",
+      "topics": [
+        "campanha",
+        "assistencia-social",
+        "desinformacao"
+      ],
+      "stage": "analisado",
+      "summary": "Lupa identifica projeto social de Fortaleza ativo havia anos como origem das cenas, informa compartilhamento por Flávio e PL e confronta alegação agregada sobre população em situação de rua com dados do Ipea e CadÚnico.",
+      "limitations": "Postagem de Flávio, vídeo bruto e painéis numéricos originais não reabertos pelo projeto. A atribuição de compartilhamento e comparações são da Lupa, não checagem independente.",
+      "locator": "Lupa, linhas 34-60, seções 'FALTA CONTEXTO' e 'Dado sobre população em situação de rua'.",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-1a9703ffe3d1c1a6",
+      "transcript": {
+        "method": "Não transcrito pelo projeto",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": "falta contexto, segundo a Lupa",
+      "factualQuestion": "As cenas de doação decorrem de política do governo federal, conforme sugere o vídeo da campanha?",
+      "publicResponse": null,
+      "actor": "Compartilhamento atribuído a Flávio Bolsonaro e ao PL pela Lupa",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [
+        "flavio-ossos-fortaleza-2026"
+      ],
+      "researchOrigins": [
+        {
+          "batch": "checagens",
+          "inputId": "not-034",
+          "toolReference": "turn726340view0"
+        }
+      ],
+      "accessMethod": "Busca e navegação em fontes públicas, abertura direta do HTML da Lupa; sem reprodução de vídeos originais.",
       "newToArchive": false
     },
     {
@@ -1197,6 +1532,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-aa340b8d285167a7",
+      "title": "Vídeo manipulado atribui promessa de salário mínimo de R$ 3 mil",
+      "url": "https://www.agencialupa.org/verificacao/2026/09/04/e-deepfake-video-de-flavio-bolsonaro-prometendo-salario-minimo-de-r-3-mil/",
+      "publisher": "Lupa",
+      "date": "2026-09-04",
+      "eventDate": "2026-09",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "eleicoes",
+      "topics": [
+        "eleicoes",
+        "inteligencia-artificial",
+        "trabalho"
+      ],
+      "stage": "analisado",
+      "summary": "A Lupa descreve sinais de manipulação, referência à ferramenta PixVerse e comparação com o plano de governo; a foto original teria sido retirada do perfil oficial no Senado.",
+      "limitations": "Vídeo original não reproduzido nem submetido pelo projeto a perícia. Números de detector de IA são resultados citados pela fonte, não medições nossas.",
+      "locator": "Página da Lupa, seções 'FALSO' e 'Plano de governo não prevê aumento do salário mínimo', linhas 34-57.",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-7e872f3e6a353fa8",
+      "transcript": {
+        "method": "Não transcrito pelo projeto",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": "falso, segundo a Lupa",
+      "factualQuestion": "A promessa em vídeo foi feita autenticamente por Flávio Bolsonaro?",
+      "publicResponse": null,
+      "actor": "Publicação de terceiro que simula fala de Flávio",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens",
+          "inputId": "not-029",
+          "toolReference": "turn309325view6"
+        }
+      ],
+      "accessMethod": "Busca e navegação em fontes públicas, abertura direta do HTML da Lupa; sem reprodução de vídeos originais.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-2343b52b2dc7e75f",
       "title": "Discurso sobre mensagens atribuídas no caso Banco Master",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/524016",
@@ -1331,6 +1732,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-bec44a4b1d7424ad",
+      "title": "Gravação antiga de Jair em Pernambuco atribuída a ato de Flávio em Maceió",
+      "url": "https://www.agencialupa.org/verificacao/2026/08/28/video-mostra-jair-bolsonaro-em-pernambuco-nao-flavio-em-maceio/",
+      "publisher": "Lupa",
+      "date": "2026-08-28",
+      "eventDate": "2026-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "eleicoes",
+      "topics": [
+        "eleicoes",
+        "imagens-fora-de-contexto"
+      ],
+      "stage": "analisado",
+      "summary": "A Lupa informa que as imagens foram originalmente publicadas pelo perfil de Jair Bolsonaro em agosto de 2024 com localização em Gravatá, Pernambuco, e reusadas em 2026 com legenda sobre Maceió.",
+      "limitations": "Postagem original do Instagram não reaberta nesta pesquisa e vídeo não assistido. Não transferir atos do pai para o filho.",
+      "locator": "Página da Lupa, linhas 34-49, especialmente a atribuição da gravação de 12/08/2024.",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-a11f8f1ddfc68563",
+      "transcript": {
+        "method": "Não transcrito pelo projeto",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": "falso, segundo a Lupa",
+      "factualQuestion": "O vídeo divulgado representava recepção a Flávio em Maceió?",
+      "publicResponse": null,
+      "actor": "Legenda de publicação de terceiro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens",
+          "inputId": "not-030",
+          "toolReference": "turn309325view7"
+        }
+      ],
+      "accessMethod": "Busca e navegação em fontes públicas, abertura direta do HTML da Lupa; sem reprodução de vídeos originais.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-377e99012765ff66",
       "title": "Entrevista Globo de agosto: catálogo e correção editorial",
       "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
@@ -1399,6 +1865,72 @@
       ],
       "accessMethod": "Busca web e abertura direta do texto indexado; sem contornar barreiras",
       "newToArchive": false
+    },
+    {
+      "id": "pesquisa-d10a735d32118580",
+      "title": "Montagem sugere ligação de Flávio a investigação de fraudes na saúde",
+      "url": "https://www.agencialupa.org/eleicoes/2026/08/27/reportagem-da-globo-nao-liga-flavio-bolsonaro-a-desvio-de-verbas-da-saude/",
+      "publisher": "Lupa",
+      "date": "2026-08-27",
+      "eventDate": "2026-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "desinformacao",
+      "topics": [
+        "desinformacao",
+        "saude",
+        "investigacoes"
+      ],
+      "stage": "analisado",
+      "summary": "Segundo a Lupa, uma fotografia de Flávio foi inserida sobre reportagem do Hora 1 de 22/12/2025 a respeito de investigação envolvendo gestores de saúde; a reportagem não cita o senador.",
+      "limitations": "Íntegra audiovisual do Hora 1 não foi reproduzida pelo projeto; o minuto 1h20min30s é localizador informado pela Lupa, não timestamp conferido por audição.",
+      "locator": "Lupa, seção 'FALSO', linhas 33-49; fonte cita Hora 1 de 22/12/2025 a partir de 1h20min30s.",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-cf44af362a1c6c62",
+      "transcript": {
+        "method": "Não transcrito pelo projeto",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": "falso, segundo a Lupa",
+      "factualQuestion": "A reportagem da Globo atribuía a Flávio participação no caso?",
+      "publicResponse": null,
+      "actor": "Publicação de terceiro no TikTok",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens",
+          "inputId": "not-031",
+          "toolReference": "turn309325view9"
+        }
+      ],
+      "accessMethod": "Busca e navegação em fontes públicas, abertura direta do HTML da Lupa; sem reprodução de vídeos originais.",
+      "newToArchive": true
     },
     {
       "id": "pesquisa-c28216409ef885ba",
@@ -1922,6 +2454,72 @@
         }
       ],
       "accessMethod": "",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-c742a5fdf0e46668",
+      "title": "Vídeo de Flávio na Sapucaí de 2022 reutilizado como se fosse atual",
+      "url": "https://www.agencialupa.org/noticias/2026/01/23/video-que-mostra-flavio-bolsonaro-na-sapucai-e-de-2022/",
+      "publisher": "Lupa",
+      "date": "2026-01-23",
+      "eventDate": "2022-04",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "imagens-fora-de-contexto",
+      "topics": [
+        "imagens-fora-de-contexto",
+        "carnaval",
+        "eleicoes"
+      ],
+      "stage": "analisado",
+      "summary": "Lupa separa foto de culto de dezembro de 2025 e vídeo do desfile da Grande Rio em abril de 2022, exibidos conjuntamente em publicações que induziam continuidade temporal.",
+      "limitations": "Vídeo original e fotos primárias não reabertos pelo projeto. A fonte foi atualizada em 26/01/2026, preservando data inicial de publicação.",
+      "locator": "Lupa, linhas 34-54, seções 'No culto' e 'No Carnaval'.",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-16d01b85c09372fc",
+      "transcript": {
+        "method": "Não transcrito pelo projeto",
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": "falta contexto, segundo a Lupa",
+      "factualQuestion": "O vídeo foi gravado após culto de dezembro de 2025, em ensaio recente de Carnaval?",
+      "publicResponse": null,
+      "actor": "Publicações em redes sociais que associam dois eventos",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "checagens",
+          "inputId": "not-035",
+          "toolReference": "turn309325view8"
+        }
+      ],
+      "accessMethod": "Busca e navegação em fontes públicas, abertura direta do HTML da Lupa; sem reprodução de vídeos originais.",
       "newToArchive": true
     },
     {
@@ -3102,6 +3700,402 @@
         }
       ],
       "accessMethod": "Pesquisa e leitura documental assistida por IA. Sem revisão humana ou audição de arquivos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-a3cac150928bcee9",
+      "title": "Discussão da PEC da Transição e limites das despesas orçamentárias",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494839",
+      "publisher": "Senado Federal",
+      "date": "2022-12-08",
+      "eventDate": null,
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "assistencia-social",
+      "topics": [
+        "assistencia-social",
+        "orcamento",
+        "politica-economica"
+      ],
+      "stage": "analisado",
+      "summary": "Durante a discussão da PEC 32/2022, o senador criticou a expansão de despesas fora do teto e associou sua posição ao risco inflacionário. É a posição registrada no pronunciamento, não uma avaliação econômica independente.",
+      "limitations": "Texto oficial de pronunciamento acessado em HTML, mas DSF em PDF e gravação original não conferidos nesta execução. A transcrição registra o que foi dito, não comprova as alegações; não inferir contradição ou voto pessoal a partir de orientações em etapas distintas.",
+      "locator": "Texto integral do Senado, 118ª Sessão Deliberativa Ordinária, discussão da PEC 32/2022; DSF 08/12/2022, p. 59.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Pronunciamento 494839",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "oficiais",
+          "inputId": "OF-023",
+          "toolReference": "turn309325view4"
+        }
+      ],
+      "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-3a1782df958a0ff5",
+      "title": "Orientação do PL pelo voto sim vinculada ao RQS 787/2022",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494876",
+      "publisher": "Senado Federal",
+      "date": "2022-12-08",
+      "eventDate": null,
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "assistencia-social",
+      "topics": [
+        "assistencia-social",
+        "orcamento",
+        "votacao"
+      ],
+      "stage": "analisado",
+      "summary": "Outra orientação de Flávio na sessão sobre a PEC 32/2022 indicou voto sim e fez referência à manutenção do benefício de R$ 600. O registro menciona RQS 787/2022: não comparar o sim com o não de outra etapa sem identificar exatamente cada destaque.",
+      "limitations": "Texto oficial de pronunciamento acessado em HTML, mas DSF em PDF e gravação original não conferidos nesta execução. A transcrição registra o que foi dito, não comprova as alegações; não inferir contradição ou voto pessoal a partir de orientações em etapas distintas.",
+      "locator": "Texto integral do Senado, orientação à bancada sobre PEC 32/2022, referência RQS 787/2022; DSF 08/12/2022, p. 80.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Pronunciamento 494876",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "oficiais",
+          "inputId": "OF-025",
+          "toolReference": "turn309325view5"
+        }
+      ],
+      "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-1e47aa902a52bd2b",
+      "title": "Encaminhamento de destaque na PEC da Transição sobre PIS/Pasep",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494920",
+      "publisher": "Senado Federal",
+      "date": "2022-12-08",
+      "eventDate": null,
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "assistencia-social",
+      "topics": [
+        "assistencia-social",
+        "pis-pasep",
+        "orcamento"
+      ],
+      "stage": "analisado",
+      "summary": "Ao encaminhar destaque referente ao art. 121, parágrafo único, na PEC 32/2022, o senador tratou de valores de PIS/Pasep e solicitou orientação de voto sobre a alteração. Os montantes citados são afirmações do orador, pendentes de confronto com o texto normativo e dados oficiais.",
+      "limitations": "Texto oficial de pronunciamento acessado em HTML, mas DSF em PDF e gravação original não conferidos nesta execução. A transcrição registra o que foi dito, não comprova as alegações; não inferir contradição ou voto pessoal a partir de orientações em etapas distintas.",
+      "locator": "Texto integral do Senado, encaminhamento e RQS 791/2022; DSF 08/12/2022, p. 97.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Pronunciamento 494920",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "oficiais",
+          "inputId": "OF-026",
+          "toolReference": "turn309325view2"
+        }
+      ],
+      "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-1768379604863b1c",
+      "title": "Orientação do PL pelo voto não em etapa da PEC da Transição",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494851",
+      "publisher": "Senado Federal",
+      "date": "2022-12-08",
+      "eventDate": null,
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "assistencia-social",
+      "topics": [
+        "assistencia-social",
+        "orcamento",
+        "votacao"
+      ],
+      "stage": "analisado",
+      "summary": "Em orientação à bancada na discussão da PEC 32/2022, Flávio anunciou posição contrária do PL naquele momento e defendeu alterar prazo e valor global extrateto. É orientação partidária em etapa específica, não prova do voto individual final ou de rejeição ao benefício em si.",
+      "limitations": "Texto oficial de pronunciamento acessado em HTML, mas DSF em PDF e gravação original não conferidos nesta execução. A transcrição registra o que foi dito, não comprova as alegações; não inferir contradição ou voto pessoal a partir de orientações em etapas distintas.",
+      "locator": "Texto integral do Senado, orientação à bancada sobre PEC 32/2022; DSF 08/12/2022, p. 71.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Pronunciamento 494851",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "oficiais",
+          "inputId": "OF-024",
+          "toolReference": "turn309325view3"
+        }
+      ],
+      "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-45abe3f4d1409899",
+      "title": "Manifestação sobre PDL 371/2022 e resolução do TSE sobre desinformação",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494491",
+      "publisher": "Senado Federal",
+      "date": "2022-12-07",
+      "eventDate": null,
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "eleicoes",
+      "topics": [
+        "eleicoes",
+        "justica",
+        "liberdade-de-expressao"
+      ],
+      "stage": "analisado",
+      "summary": "Em intervenção pela ordem, Flávio defendeu a urgência do PDL 371/2022 para sustar resolução eleitoral sobre desinformação e criticou inquéritos judiciais. Suas avaliações de constitucionalidade não equivalem a decisão judicial.",
+      "limitations": "Texto oficial de pronunciamento acessado em HTML, mas DSF em PDF e gravação original não conferidos nesta execução. A transcrição registra o que foi dito, não comprova as alegações; não inferir contradição ou voto pessoal a partir de orientações em etapas distintas.",
+      "locator": "Texto integral do Senado, 117ª Sessão Deliberativa Ordinária; RQS 704/2022 e PDL 371/2022; DSF 07/12/2022, p. 39.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Pronunciamento 494491",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "oficiais",
+          "inputId": "OF-022",
+          "toolReference": "turn309325view1"
+        }
+      ],
+      "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-74645bff60a83dbd",
+      "title": "Pronunciamento sobre biocombustíveis e PEC 15/2022",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491906",
+      "publisher": "Senado Federal",
+      "date": "2022-06-15",
+      "eventDate": null,
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "energia",
+      "topics": [
+        "energia",
+        "tributacao",
+        "atuacao-parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Na discussão sobre biocombustíveis, o senador defendeu ajuste no texto da PEC 15/2022 e avaliou efeitos tributários e experiências anteriores no Rio de Janeiro. As análises econômicas e históricas são alegações do orador, não conclusões verificadas pelo catálogo.",
+      "limitations": "Texto oficial de pronunciamento acessado em HTML, mas DSF em PDF e gravação original não conferidos nesta execução. A transcrição registra o que foi dito, não comprova as alegações; não inferir contradição ou voto pessoal a partir de orientações em etapas distintas.",
+      "locator": "Texto integral do Senado; 68ª Sessão Deliberativa Extraordinária, intervenção pela liderança; DSF de 15/06/2022, p. 28.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T04:13:47.919Z",
+      "lastModifiedAt": "2026-10-24T04:13:47.919Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Pronunciamento 491906",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "oficiais",
+          "inputId": "OF-021",
+          "toolReference": "turn309325view0"
+        }
+      ],
+      "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
       "newToArchive": true
     },
     {
@@ -5430,7 +6424,7 @@
       "monitoringEnabled": true,
       "accessNote": "6 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T03:34:39.114285Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T04:04:43.924500Z"
     },
     {
       "id": "fonte-e1c9e5407b4d26a8",
@@ -5447,7 +6441,7 @@
       "monitoringEnabled": true,
       "accessNote": "3 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T03:34:39.114285Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T04:04:43.924500Z"
     },
     {
       "id": "fonte-a08eae094412f4bb",
@@ -5464,7 +6458,7 @@
       "monitoringEnabled": true,
       "accessNote": "5 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T03:34:39.114285Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T04:04:43.924500Z"
     },
     {
       "id": "fonte-9c2fbd587c9a9fb0",
@@ -5474,10 +6468,10 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": null,
+      "lastSuccessfulCollectionAt": "2026-10-24T04:04:43.924500Z",
       "lastConsultedAt": "2026-10-24T03:37:46Z",
-      "accessNote": "Coleta indisponível (ValueError); itens anteriores preservados",
-      "status": "falha de coleta",
+      "accessNote": "12 publicações relacionadas nesta consulta",
+      "status": "coleta com resultado",
       "sourceCount": 8,
       "periods": [
         2019,
@@ -5700,21 +6694,22 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T03:34:39.114285Z",
-      "lastConsultedAt": "2026-10-24T03:37:46Z",
-      "accessNote": "6 publicações relacionadas nesta consulta",
+      "lastSuccessfulCollectionAt": "2026-10-24T04:04:43.924500Z",
+      "lastConsultedAt": "2026-10-24T04:13:47.919Z",
+      "accessNote": "5 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 2,
+      "sourceCount": 11,
       "periods": [
         2016,
         2026
       ],
       "formats": [
-        "checagem"
+        "checagem",
+        "registro"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 2,
-      "analysedCount": 2
+      "accessedCount": 11,
+      "analysedCount": 11
     },
     {
       "id": "fonte-a55f10b8449ffda6",
@@ -5890,15 +6885,16 @@
       "nature": "órgão público",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T03:34:39.114285Z",
-      "lastConsultedAt": "2026-10-24T03:41:16.847912+00:00",
+      "lastSuccessfulCollectionAt": "2026-10-24T04:04:43.924500Z",
+      "lastConsultedAt": "2026-10-24T04:13:47.919Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 33,
+      "sourceCount": 39,
       "periods": [
         2019,
         2020,
         2021,
+        2022,
         2023,
         2024,
         2025,
@@ -5911,8 +6907,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 32,
-      "analysedCount": 18
+      "accessedCount": 38,
+      "analysedCount": 24
     },
     {
       "id": "fonte-d17e0097bbcd6c10",
@@ -6413,6 +7409,15 @@
   ],
   "events": [
     {
+      "id": "evento-a9e45710671f5d92",
+      "itemId": "pesquisa-f2b0cb47bbbaeb6a",
+      "title": "Índice da Lupa com resultados favoráveis e desfavoráveis em 70 alegações da campanha",
+      "date": "2026-08",
+      "datePrecision": "day",
+      "context": "Reunião editorial de checagens da Lupa relativas a ao menos 70 enunciados em sete ocasiões. A página contém avaliações favoráveis e desfavoráveis, com links a normas e reportagens. O índice não representa 70 verificações próprias do Arquivo, nem prova de autoria literal sem conferir cada ocasião.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-13aa00bd6846b93b",
       "itemId": "pesquisa-ae6c3abe67d55a16",
       "title": "Assessora econômica: vídeo manipulado não representa fala sobre extinguir benefício",
@@ -6429,6 +7434,15 @@
       "datePrecision": "day",
       "context": "Comprova identifica a reportagem de 2022, referente a suspeita de assédio eleitoral em favor de Jair, sem menção a Flávio.",
       "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-cb8123c1f6ce9c5f",
+      "itemId": "pesquisa-71e25ad4c71dbac0",
+      "title": "Levantamento da Lupa sobre propostas de Flávio no Senado e leis da ALERJ",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "A Lupa contabiliza 171 proposições apresentadas com autoria ou coautoria no Senado e 53 normas da época de deputado estadual, distingue autoria individual e compartilhada e apresenta links a proposições de diferentes orientações temáticas.",
+      "state": "identificação de evento pendente"
     },
     {
       "id": "evento-3dd0104a071c77c5",
@@ -6449,12 +7463,30 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-981fc7b1e409a6d3",
+      "itemId": "pesquisa-ce6e0e641ba30515",
+      "title": "Imagem falsa atribui proposta de aposentadoria aos 70 anos",
+      "date": "2026-10",
+      "datePrecision": "day",
+      "context": "Lupa identificou captura de tela que simula notícia de O Globo; relata não ter encontrado tal matéria ou previsão sobre o tema no programa registrado no TSE.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-ea3e5597104ad39d",
       "itemId": "pesquisa-663c0acf20c5ed15",
       "title": "Master no debate: valores negociados, pagos e incertezas",
       "date": "2026-10-18",
       "datePrecision": "day",
       "context": "AFP diferencia valor negociado e remessas reportadas, cita documentos e reportagens posteriores, e registra que origem e destino permaneciam sob apuração.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9f0be42a7ef5db06",
+      "itemId": "pesquisa-ff09ecdd85be9f59",
+      "title": "Checagem distingue apreensão de dinheiro eleitoral de acusação pessoal contra Flávio",
+      "date": "2026-10",
+      "datePrecision": "day",
+      "context": "Lupa relata que reportagem da CNN sobre apreensões eleitorais não citou Flávio; o próprio veículo publicou esclarecimento em 07/10, segundo a checagem. É diferente do caso envolvendo candidato Daniel Trindade.",
       "state": "data informada pela fonte"
     },
     {
@@ -6473,6 +7505,15 @@
       "date": "2026-10-18",
       "datePrecision": "day",
       "context": "A Lupa publica verificações por afirmação e remete a dados e documentos. A cobertura também registra erros de Lula, evitando conclusão por alinhamento partidário.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-1a9703ffe3d1c1a6",
+      "itemId": "pesquisa-fd9bc69628ad77ed",
+      "title": "Compartilhamento de vídeo de doação de ossos: origem e contexto",
+      "date": "2026-10",
+      "datePrecision": "day",
+      "context": "Lupa identifica projeto social de Fortaleza ativo havia anos como origem das cenas, informa compartilhamento por Flávio e PL e confronta alegação agregada sobre população em situação de rua com dados do Ipea e CadÚnico.",
       "state": "data informada pela fonte"
     },
     {
@@ -6575,6 +7616,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-7e872f3e6a353fa8",
+      "itemId": "pesquisa-aa340b8d285167a7",
+      "title": "Vídeo manipulado atribui promessa de salário mínimo de R$ 3 mil",
+      "date": "2026-09",
+      "datePrecision": "day",
+      "context": "A Lupa descreve sinais de manipulação, referência à ferramenta PixVerse e comparação com o plano de governo; a foto original teria sido retirada do perfil oficial no Senado.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-299ea3e19b387b3d",
       "itemId": "pesquisa-2343b52b2dc7e75f",
       "title": "Discurso sobre mensagens atribuídas no caso Banco Master",
@@ -6593,12 +7643,30 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-a11f8f1ddfc68563",
+      "itemId": "pesquisa-bec44a4b1d7424ad",
+      "title": "Gravação antiga de Jair em Pernambuco atribuída a ato de Flávio em Maceió",
+      "date": "2026-08",
+      "datePrecision": "day",
+      "context": "A Lupa informa que as imagens foram originalmente publicadas pelo perfil de Jair Bolsonaro em agosto de 2024 com localização em Gravatá, Pernambuco, e reusadas em 2026 com legenda sobre Maceió.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-67e56c307704c750",
       "itemId": "pesquisa-377e99012765ff66",
       "title": "Entrevista Globo de agosto: catálogo e correção editorial",
       "date": "2026-08-28",
       "datePrecision": "day",
       "context": "Página reúne transcrição declarada automática com revisão da equipe e verificações de temas distintos. Registra remoção para revisão de selo sobre supostos trinta impostos.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-cf44af362a1c6c62",
+      "itemId": "pesquisa-d10a735d32118580",
+      "title": "Montagem sugere ligação de Flávio a investigação de fraudes na saúde",
+      "date": "2026-08",
+      "datePrecision": "day",
+      "context": "Segundo a Lupa, uma fotografia de Flávio foi inserida sobre reportagem do Hora 1 de 22/12/2025 a respeito de investigação envolvendo gestores de saúde; a reportagem não cita o senador.",
       "state": "data informada pela fonte"
     },
     {
@@ -6672,6 +7740,15 @@
       "datePrecision": "unknown",
       "context": "Página oficial informa que relatório alternativo mencionava Flávio, mas não foi votado. Isso precisa ficar separado de indiciamento aprovado ou conclusão judicial, que o registro não demonstra.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-16d01b85c09372fc",
+      "itemId": "pesquisa-c742a5fdf0e46668",
+      "title": "Vídeo de Flávio na Sapucaí de 2022 reutilizado como se fosse atual",
+      "date": "2022-04",
+      "datePrecision": "day",
+      "context": "Lupa separa foto de culto de dezembro de 2025 e vídeo do desfile da Grande Rio em abril de 2022, exibidos conjuntamente em publicações que induziam continuidade temporal.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-fcb2a8d8681afbf5",
@@ -6833,6 +7910,60 @@
       "date": null,
       "datePrecision": "unknown",
       "context": "Decisão de Alexandre de Moraes julga procedente representação sobre vídeo difundido em redes sociais e fixa multa de R$15 mil para Flávio Bolsonaro.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-5c852426fef5e1bb",
+      "itemId": "pesquisa-a3cac150928bcee9",
+      "title": "Discussão da PEC da Transição e limites das despesas orçamentárias",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Durante a discussão da PEC 32/2022, o senador criticou a expansão de despesas fora do teto e associou sua posição ao risco inflacionário. É a posição registrada no pronunciamento, não uma avaliação econômica independente.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-ed50057fa1b6ac92",
+      "itemId": "pesquisa-3a1782df958a0ff5",
+      "title": "Orientação do PL pelo voto sim vinculada ao RQS 787/2022",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Outra orientação de Flávio na sessão sobre a PEC 32/2022 indicou voto sim e fez referência à manutenção do benefício de R$ 600. O registro menciona RQS 787/2022: não comparar o sim com o não de outra etapa sem identificar exatamente cada destaque.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-401a8da106484488",
+      "itemId": "pesquisa-1e47aa902a52bd2b",
+      "title": "Encaminhamento de destaque na PEC da Transição sobre PIS/Pasep",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Ao encaminhar destaque referente ao art. 121, parágrafo único, na PEC 32/2022, o senador tratou de valores de PIS/Pasep e solicitou orientação de voto sobre a alteração. Os montantes citados são afirmações do orador, pendentes de confronto com o texto normativo e dados oficiais.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-d5a14c4bc4b000d8",
+      "itemId": "pesquisa-1768379604863b1c",
+      "title": "Orientação do PL pelo voto não em etapa da PEC da Transição",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Em orientação à bancada na discussão da PEC 32/2022, Flávio anunciou posição contrária do PL naquele momento e defendeu alterar prazo e valor global extrateto. É orientação partidária em etapa específica, não prova do voto individual final ou de rejeição ao benefício em si.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-0f66c474f3e430d4",
+      "itemId": "pesquisa-45abe3f4d1409899",
+      "title": "Manifestação sobre PDL 371/2022 e resolução do TSE sobre desinformação",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Em intervenção pela ordem, Flávio defendeu a urgência do PDL 371/2022 para sustar resolução eleitoral sobre desinformação e criticou inquéritos judiciais. Suas avaliações de constitucionalidade não equivalem a decisão judicial.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-8ef12b88fe4ac542",
+      "itemId": "pesquisa-74645bff60a83dbd",
+      "title": "Pronunciamento sobre biocombustíveis e PEC 15/2022",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Na discussão sobre biocombustíveis, o senador defendeu ajuste no texto da PEC 15/2022 e avaliou efeitos tributários e experiências anteriores no Rio de Janeiro. As análises econômicas e históricas são alegações do orador, não conclusões verificadas pelo catálogo.",
       "state": "identificação de evento pendente"
     },
     {
@@ -8193,6 +9324,17 @@
       "classification": null
     },
     {
+      "id": "proposicao-candidata-981fc7b1e409a6d3",
+      "mainId": null,
+      "itemId": "pesquisa-ce6e0e641ba30515",
+      "question": "Flávio anunciou elevar a idade de aposentadoria a 70 anos?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Montagem que imita o jornal O Globo",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
       "id": "proposicao-candidata-ea3e5597104ad39d",
       "mainId": null,
       "itemId": "pesquisa-663c0acf20c5ed15",
@@ -8200,6 +9342,17 @@
       "normalizedClaim": null,
       "literalQuote": null,
       "author": "Lula e Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-9f0be42a7ef5db06",
+      "mainId": null,
+      "itemId": "pesquisa-ff09ecdd85be9f59",
+      "question": "Reportagem de 03/10/2026 da CNN ligou Flávio à apreensão de R$ 27 milhões?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Legenda de publicação no Facebook",
       "state": "delimitação pendente",
       "classification": null
     },
@@ -8222,6 +9375,17 @@
       "normalizedClaim": null,
       "literalQuote": null,
       "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-1a9703ffe3d1c1a6",
+      "mainId": null,
+      "itemId": "pesquisa-fd9bc69628ad77ed",
+      "question": "As cenas de doação decorrem de política do governo federal, conforme sugere o vídeo da campanha?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Compartilhamento atribuído a Flávio Bolsonaro e ao PL pela Lupa",
       "state": "delimitação pendente",
       "classification": null
     },
@@ -8325,6 +9489,28 @@
       "classification": null
     },
     {
+      "id": "proposicao-candidata-7e872f3e6a353fa8",
+      "mainId": null,
+      "itemId": "pesquisa-aa340b8d285167a7",
+      "question": "A promessa em vídeo foi feita autenticamente por Flávio Bolsonaro?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Publicação de terceiro que simula fala de Flávio",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-a11f8f1ddfc68563",
+      "mainId": null,
+      "itemId": "pesquisa-bec44a4b1d7424ad",
+      "question": "O vídeo divulgado representava recepção a Flávio em Maceió?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Legenda de publicação de terceiro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
       "id": "proposicao-candidata-67e56c307704c750",
       "mainId": null,
       "itemId": "pesquisa-377e99012765ff66",
@@ -8332,6 +9518,17 @@
       "normalizedClaim": null,
       "literalQuote": null,
       "author": "Flávio Bolsonaro",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-cf44af362a1c6c62",
+      "mainId": null,
+      "itemId": "pesquisa-d10a735d32118580",
+      "question": "A reportagem da Globo atribuía a Flávio participação no caso?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Publicação de terceiro no TikTok",
       "state": "delimitação pendente",
       "classification": null
     },
@@ -8387,6 +9584,17 @@
       "normalizedClaim": null,
       "literalQuote": null,
       "author": "Flávio Bolsonaro; outros interlocutores",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
+      "id": "proposicao-candidata-16d01b85c09372fc",
+      "mainId": null,
+      "itemId": "pesquisa-c742a5fdf0e46668",
+      "question": "O vídeo foi gravado após culto de dezembro de 2025, em ensaio recente de Carnaval?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Publicações em redes sociais que associam dois eventos",
       "state": "delimitação pendente",
       "classification": null
     },
@@ -8460,6 +9668,17 @@
   "occurrences": [],
   "evidence": [
     {
+      "id": "evidencia-a9e45710671f5d92",
+      "itemId": "pesquisa-f2b0cb47bbbaeb6a",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "url": "https://www.agencialupa.org/jornalismo/2026/10/23/erros-e-acertos-de-flavio-bolsonaro-na-campanha-pela-presidencia-em-2026/",
+      "locator": "Página integral, apresentação e seções por ocasião a partir das linhas 34-42; múltiplos itens até o final da página, sem audição.",
+      "role": "contexto",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-13aa00bd6846b93b",
       "itemId": "pesquisa-ae6c3abe67d55a16",
       "sourceId": "fonte-875b77e7aba40e8b",
@@ -8477,6 +9696,17 @@
       "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/post-usa-reportagem-antiga-de-caco-barcellos-para-sugerir-ligacao-de-flavio-bolsonaro-com-compra-de-votos/",
       "locator": "Linhas 13-19 da extração web; localizar seções correspondentes na página",
       "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-cb8123c1f6ce9c5f",
+      "itemId": "pesquisa-71e25ad4c71dbac0",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "url": "https://www.agencialupa.org/jornalismo/2026/10/23/no-senado-flavio-atuou-para-enfraquecer-regras-ambientais-ampliar-acesso-a-armas/",
+      "locator": "Página da Lupa, linhas 34-54 (Senado), 65-81 (temas e projetos), 82-101 (ALERJ e exemplos); conferir proposições primárias antes de conclusões específicas.",
+      "role": "contexto",
       "supports": [],
       "weakens": [],
       "state": "vínculo com proposição ainda não julgado"
@@ -8504,11 +9734,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-981fc7b1e409a6d3",
+      "itemId": "pesquisa-ce6e0e641ba30515",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "url": "https://www.agencialupa.org/verificacao/2026/10/20/e-falso-que-flavio-bolsonaro-propos-elevar-idade-minima-da-aposentadoria-para-70-anos/",
+      "locator": "Lupa, linhas 34-52, seções 'FALSO' e 'Imagem gerada por IA'.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-ea3e5597104ad39d",
       "itemId": "pesquisa-663c0acf20c5ed15",
       "sourceId": "fonte-875b77e7aba40e8b",
       "url": "https://checamos.afp.com/doc.afp.com.D3WG8ZQ",
       "locator": "Linhas 49-58 da extração web; localizar seções correspondentes na página",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9f0be42a7ef5db06",
+      "itemId": "pesquisa-ff09ecdd85be9f59",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "url": "https://www.agencialupa.org/verificacao/2026/10/19/reportagem-da-cnn-brasil-sobre-compra-de-votos-nao-cita-flavio-bolsonaro/",
+      "locator": "Lupa, linhas 34-54, referências à CNN em 03/10 e 07/10/2026.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -8531,6 +9783,17 @@
       "sourceId": "fonte-58d9376cef7ffa17",
       "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
       "locator": "Linhas 35-40; 293-299; 451-462 da extração web; localizar seções correspondentes na página",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-1a9703ffe3d1c1a6",
+      "itemId": "pesquisa-fd9bc69628ad77ed",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "url": "https://www.agencialupa.org/verificacao/2026/10/16/videos-de-doacao-de-ossos-em-fortaleza-circulam-fora-de-contexto-e-nao-tem-relacao-com-o-governo-lula/",
+      "locator": "Lupa, linhas 34-60, seções 'FALTA CONTEXTO' e 'Dado sobre população em situação de rua'.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -8658,6 +9921,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-7e872f3e6a353fa8",
+      "itemId": "pesquisa-aa340b8d285167a7",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "url": "https://www.agencialupa.org/verificacao/2026/09/04/e-deepfake-video-de-flavio-bolsonaro-prometendo-salario-minimo-de-r-3-mil/",
+      "locator": "Página da Lupa, seções 'FALSO' e 'Plano de governo não prevê aumento do salário mínimo', linhas 34-57.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-299ea3e19b387b3d",
       "itemId": "pesquisa-2343b52b2dc7e75f",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -8680,11 +9954,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-a11f8f1ddfc68563",
+      "itemId": "pesquisa-bec44a4b1d7424ad",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "url": "https://www.agencialupa.org/verificacao/2026/08/28/video-mostra-jair-bolsonaro-em-pernambuco-nao-flavio-em-maceio/",
+      "locator": "Página da Lupa, linhas 34-49, especialmente a atribuição da gravação de 12/08/2024.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-67e56c307704c750",
       "itemId": "pesquisa-377e99012765ff66",
       "sourceId": "fonte-9c2fbd587c9a9fb0",
       "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
       "locator": "Linhas 16-30 da extração web; localizar seções correspondentes na página",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-cf44af362a1c6c62",
+      "itemId": "pesquisa-d10a735d32118580",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "url": "https://www.agencialupa.org/eleicoes/2026/08/27/reportagem-da-globo-nao-liga-flavio-bolsonaro-a-desvio-de-verbas-da-saude/",
+      "locator": "Lupa, seção 'FALSO', linhas 33-49; fonte cita Hora 1 de 22/12/2025 a partir de 1h20min30s.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -8773,6 +10069,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/videos/2026/03/cpmi-do-inss-termina-com-dois-relatorios-um-foi-rejeitado-o-outro-nao-foi-a-voto",
       "locator": null,
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-16d01b85c09372fc",
+      "itemId": "pesquisa-c742a5fdf0e46668",
+      "sourceId": "fonte-58d9376cef7ffa17",
+      "url": "https://www.agencialupa.org/noticias/2026/01/23/video-que-mostra-flavio-bolsonaro-na-sapucai-e-de-2022/",
+      "locator": "Lupa, linhas 34-54, seções 'No culto' e 'No Carnaval'.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -8971,6 +10278,72 @@
       "sourceId": "fonte-d17e0097bbcd6c10",
       "url": "https://consultaunificadapje.tse.jus.br/consulta-publica-unificada/documento?extensaoArquivo=text%2Fhtml&path=tse%2F2023%2F1%2F24%2F13%2F36%2F32%2Fd804b5e5ae5b57b817a6128a81ce9c3ad749e3634329ccdae9022c6d4a7ed7f4",
       "locator": "Cabeçalho; fundamentação sobre fundos de pensão e INSS; dispositivo final",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-5c852426fef5e1bb",
+      "itemId": "pesquisa-a3cac150928bcee9",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494839",
+      "locator": "Texto integral do Senado, 118ª Sessão Deliberativa Ordinária, discussão da PEC 32/2022; DSF 08/12/2022, p. 59.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ed50057fa1b6ac92",
+      "itemId": "pesquisa-3a1782df958a0ff5",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494876",
+      "locator": "Texto integral do Senado, orientação à bancada sobre PEC 32/2022, referência RQS 787/2022; DSF 08/12/2022, p. 80.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-401a8da106484488",
+      "itemId": "pesquisa-1e47aa902a52bd2b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494920",
+      "locator": "Texto integral do Senado, encaminhamento e RQS 791/2022; DSF 08/12/2022, p. 97.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-d5a14c4bc4b000d8",
+      "itemId": "pesquisa-1768379604863b1c",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494851",
+      "locator": "Texto integral do Senado, orientação à bancada sobre PEC 32/2022; DSF 08/12/2022, p. 71.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-0f66c474f3e430d4",
+      "itemId": "pesquisa-45abe3f4d1409899",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494491",
+      "locator": "Texto integral do Senado, 117ª Sessão Deliberativa Ordinária; RQS 704/2022 e PDL 371/2022; DSF 07/12/2022, p. 39.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-8ef12b88fe4ac542",
+      "itemId": "pesquisa-74645bff60a83dbd",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491906",
+      "locator": "Texto integral do Senado; 68ª Sessão Deliberativa Extraordinária, intervenção pela liderança; DSF de 15/06/2022, p. 28.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -9810,22 +11183,30 @@
     },
     {
       "year": 2022,
-      "found": 0,
-      "accessed": 0,
-      "analysed": 0,
+      "found": 6,
+      "accessed": 6,
+      "analysed": 6,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 0,
-        "analisado": 0,
+        "analisado": 6,
         "revisado": 0,
         "publicado": 0
       },
-      "topics": {},
-      "sources": {},
-      "formats": {},
-      "note": "Lacuna de pesquisa neste lote; não demonstra inexistência de registros."
+      "topics": {
+        "assistencia-social": 4,
+        "eleicoes": 1,
+        "energia": 1
+      },
+      "sources": {
+        "fonte-2acd9e7dc92e583a": 6
+      },
+      "formats": {
+        "documento": 6
+      },
+      "note": "Recorte não exaustivo."
     },
     {
       "year": 2023,
@@ -9930,38 +11311,45 @@
     },
     {
       "year": 2026,
-      "found": 29,
-      "accessed": 29,
-      "analysed": 24,
+      "found": 38,
+      "accessed": 38,
+      "analysed": 33,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 5,
-        "analisado": 24,
+        "analisado": 33,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
+        "checagens": 1,
         "assistência social": 1,
         "eleições": 6,
+        "atividade-parlamentar": 1,
         "Banco Master": 7,
         "economia": 5,
+        "previdencia": 1,
+        "eleicoes": 3,
         "segurança": 1,
+        "campanha": 1,
         "previdência": 1,
         "Atividade pública": 1,
         "religião": 2,
         "meio ambiente": 1,
         "banco-master": 2,
+        "desinformacao": 1,
         "trajetória": 1,
-        "INSS": 1
+        "INSS": 1,
+        "imagens-fora-de-contexto": 1
       },
       "sources": {
+        "fonte-58d9376cef7ffa17": 10,
         "fonte-875b77e7aba40e8b": 5,
         "fonte-a55f10b8449ffda6": 6,
         "fonte-a362d6ca938ac00d": 3,
         "fonte-9c2fbd587c9a9fb0": 5,
-        "fonte-58d9376cef7ffa17": 1,
         "fonte-2acd9e7dc92e583a": 4,
         "fonte-63c50c68422ef210": 1,
         "fonte-cd19e6197d9bdf02": 1,
@@ -9970,9 +11358,9 @@
         "fonte-2837db98d9bb5569": 1
       },
       "formats": {
-        "checagem": 17,
+        "registro": 3,
+        "checagem": 24,
         "reportagem": 5,
-        "registro": 1,
         "audio": 2,
         "documento": 2,
         "video": 2
@@ -9981,27 +11369,27 @@
     }
   ],
   "metrics": {
-    "newItems": 69,
-    "items": 82,
-    "alreadyInArchive": 13,
-    "accessed": 79,
-    "analysed": 53,
+    "newItems": 82,
+    "items": 97,
+    "alreadyInArchive": 15,
+    "accessed": 94,
+    "analysed": 68,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
     "legacyStatements": 71,
-    "statementCandidates": 28,
+    "statementCandidates": 35,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
     "sources": 26,
     "sourcesConsulted": 22,
     "video": 13,
     "audio": 5,
-    "documents": 18,
+    "documents": 24,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 45,
+    "queryCount": 52,
     "accessFailures": 9,
     "undatedItems": 12
   },
@@ -10167,6 +11555,33 @@
       "engine": null,
       "interval": null,
       "resultsState": "Ver materiais vinculados ao lote; ausência de resultado não demonstra inexistência."
+    },
+    {
+      "id": "consulta-481216dea5b1488c",
+      "batch": "checagens",
+      "query": "site:agencialupa.org \"Flávio Bolsonaro\" 2023 verificação",
+      "executedAt": "2026-10-24T04:13:47.919Z",
+      "engine": "web fast",
+      "interval": "2016-2026",
+      "resultsState": "Busca e navegação por links internos permitiram localizar verificações não incluídas no catálogo; conteúdo efetivamente aberto."
+    },
+    {
+      "id": "consulta-bbaaa906177077ce",
+      "batch": "checagens",
+      "query": "site:aosfatos.org \"Flávio Bolsonaro\" 2022 checagem",
+      "executedAt": "2026-10-24T04:13:47.919Z",
+      "engine": "web fast",
+      "interval": "2022",
+      "resultsState": "Consulta realizada; não houve inclusão de registro novo dessa busca."
+    },
+    {
+      "id": "consulta-5591761ab6847d4f",
+      "batch": "contexto-20261024",
+      "query": "Acompanhamento dos links internos da Lupa a partir das checagens abertas em 24/10/2026",
+      "executedAt": "2026-10-24T04:13:47.919Z",
+      "engine": "navegação em links da própria publicação",
+      "interval": null,
+      "resultsState": "Dois artigos de contexto acessados diretamente; contagens não validadas por auditoria externa."
     },
     {
       "id": "consulta-d795f39012394a01",
@@ -10410,6 +11825,42 @@
       "engine": "system1",
       "interval": null,
       "resultsState": "Ver materiais vinculados ao lote; ausência de resultado não demonstra inexistência."
+    },
+    {
+      "id": "consulta-0c9cd0db333af24f",
+      "batch": "oficiais",
+      "query": "site:senado.leg.br \"Flávio Bolsonaro\" \"2022\" entrevista pronunciamento votos",
+      "executedAt": "2026-10-24T04:13:47.919Z",
+      "engine": "web fast",
+      "interval": null,
+      "resultsState": "6 textos integrais oficiais distintos examinados, áudio não ouvido."
+    },
+    {
+      "id": "consulta-8a14395db7ddcf4f",
+      "batch": "oficiais",
+      "query": "site:senado.leg.br \"Flávio Bolsonaro\" \"2020\" CPI pandemia votação",
+      "executedAt": "2026-10-24T04:13:47.919Z",
+      "engine": "web fast",
+      "interval": null,
+      "resultsState": "Busca efetuada; sem novo item incorporado desse recorte."
+    },
+    {
+      "id": "consulta-fc6e7afa5dc44237",
+      "batch": "oficiais",
+      "query": "site:alerj.rj.gov.br \"Flávio Bolsonaro\" 2014 discurso cotas",
+      "executedAt": "2026-10-24T04:13:47.919Z",
+      "engine": "web fast",
+      "interval": null,
+      "resultsState": "Busca efetuada; nenhuma ficha da ALERJ adicionada nesta execução."
+    },
+    {
+      "id": "consulta-6c80721148243ae0",
+      "batch": "oficiais",
+      "query": "site:stj.jus.br \"Flávio Bolsonaro\" 2022 rachadinhas anulação",
+      "executedAt": "2026-10-24T04:13:47.919Z",
+      "engine": "web fast",
+      "interval": null,
+      "resultsState": "Busca efetuada; não inferir desfecho processual na ausência de decisão direta examinada."
     }
   ],
   "accessFailures": [
@@ -10585,6 +12036,30 @@
       "note": "Nenhum contato com pessoas ou instituições foi enviado.",
       "state": "pendente",
       "batch": "checagens"
+    },
+    {
+      "id": "lacuna-9a6c12cdca841513",
+      "note": "Conferir links primários de TSE, CNN, Instagram, Globo e base Ipea citados nas novas checagens antes de adotar qualquer veredito próprio.",
+      "state": "pendente",
+      "batch": "checagens"
+    },
+    {
+      "id": "lacuna-e1d61b7aa0b77f8b",
+      "note": "Comparar as orientações 'sim' e 'não' de 07/12/2022 somente com identificação de objeto, requerimento e etapa da votação; sem conclusão de contradição automática.",
+      "state": "pendente",
+      "batch": "checagens"
+    },
+    {
+      "id": "lacuna-8736a8d6473933fe",
+      "note": "Recontar propostas Senado e leis ALERJ em arquivos oficiais antes de usar números como estatísticas verificadas pelo projeto.",
+      "state": "pendente",
+      "batch": "contexto-20261024"
+    },
+    {
+      "id": "lacuna-a4f70df0785a2e59",
+      "note": "Decompor as alegações agrupadas na síntese de campanha somente após checar fontes específicas, contextos e áudio original.",
+      "state": "pendente",
+      "batch": "contexto-20261024"
     },
     {
       "id": "lacuna-b8e7a0612a3f4bfa",

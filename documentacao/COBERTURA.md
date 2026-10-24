@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T03:52:31.394752Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T04:16:06.144741Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-82 URLs únicas no lote; 69 ainda não vinculadas à edição anterior. 79 materiais acessados e 53 com texto analisado.
+97 URLs únicas no lote; 82 ainda não vinculadas à edição anterior. 94 materiais acessados e 68 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -31,11 +31,11 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2019 | 9 | 9 | 7 | 0 | 0 |
 | 2020 | 2 | 2 | 1 | 0 | 0 |
 | 2021 | 7 | 7 | 3 | 0 | 0 |
-| 2022 | 0 | 0 | 0 | 0 | 0 |
+| 2022 | 6 | 6 | 6 | 0 | 0 |
 | 2023 | 5 | 5 | 3 | 0 | 0 |
 | 2024 | 4 | 4 | 3 | 0 | 0 |
 | 2025 | 9 | 9 | 6 | 0 | 0 |
-| 2026 | 29 | 29 | 24 | 0 | 0 |
+| 2026 | 38 | 38 | 33 | 0 | 0 |
 
 Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -53,6 +53,10 @@ Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste 
 - Fontes originais de indicadores Serasa, Mapa das Empresas, documentos judiciais e TSE precisam ser abertas por ficha antes de selo próprio.
 - Necessário completar perspectivas editoriais e canais oficiais de resposta.
 - Nenhum contato com pessoas ou instituições foi enviado.
+- Conferir links primários de TSE, CNN, Instagram, Globo e base Ipea citados nas novas checagens antes de adotar qualquer veredito próprio.
+- Comparar as orientações 'sim' e 'não' de 07/12/2022 somente com identificação de objeto, requerimento e etapa da votação; sem conclusão de contradição automática.
+- Recontar propostas Senado e leis ALERJ em arquivos oficiais antes de usar números como estatísticas verificadas pelo projeto.
+- Decompor as alegações agrupadas na síntese de campanha somente após checar fontes específicas, contextos e áudio original.
 - Revisar autoria, pergunta e intervalo de cada afirmação antes de criar uma nova checagem.
 - Conferir no áudio original trechos decisivos; os segundos revisados neste lote são zero.
 - Explorar ALERJ de 2003 a 2015 por ano, mês e número de proposição.

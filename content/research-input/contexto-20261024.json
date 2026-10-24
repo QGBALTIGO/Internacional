@@ -1,0 +1,72 @@
+{
+  "batch_id": "contexto-documental-2026-10-24",
+  "collected_at_utc": "2026-10-24T04:13:47.919Z",
+  "method": "Leitura de textos completos de matérias de contexto na Lupa, sem converter sínteses jornalísticas em checagens ou conclusões próprias.",
+  "context_documents": [
+    {
+      "id": "CTX-LUPA-2026-10-23-CAMPANHA",
+      "title": "Índice da Lupa com resultados favoráveis e desfavoráveis em 70 alegações da campanha",
+      "publisher": "Lupa",
+      "url": "https://www.agencialupa.org/jornalismo/2026/10/23/erros-e-acertos-de-flavio-bolsonaro-na-campanha-pela-presidencia-em-2026/",
+      "published_date": "2026-10-23",
+      "event_date": "2026-08",
+      "kind": "reportagem",
+      "topics": [
+        "checagens",
+        "campanha-2026",
+        "contexto"
+      ],
+      "summary": "Reunião editorial de checagens da Lupa relativas a ao menos 70 enunciados em sete ocasiões. A página contém avaliações favoráveis e desfavoráveis, com links a normas e reportagens. O índice não representa 70 verificações próprias do Arquivo, nem prova de autoria literal sem conferir cada ocasião.",
+      "limitations": "As 70 alegações são contagem atribuída à Lupa e não foram individualizadas ou ouvidas nesta coleta. Falas do debate e outras fontes primárias exigem cotejo isolado. Não importar classificação automaticamente.",
+      "locator": "Página integral, apresentação e seções por ocasião a partir das linhas 34-42; múltiplos itens até o final da página, sem audição.",
+      "analysis_status": "documentary_read",
+      "access_status": "accessed",
+      "collected_at": "2026-10-24T04:13:47.919Z",
+      "ref": "turn182027view2",
+      "speaker": "Equipe Lupa, com falas atribuídas a Flávio em diferentes eventos",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "access_method": "Abertura direta do HTML; leitura editorial preliminar."
+    },
+    {
+      "id": "CTX-LUPA-2026-10-23-LEGISLATIVO",
+      "title": "Levantamento da Lupa sobre propostas de Flávio no Senado e leis da ALERJ",
+      "publisher": "Lupa",
+      "url": "https://www.agencialupa.org/jornalismo/2026/10/23/no-senado-flavio-atuou-para-enfraquecer-regras-ambientais-ampliar-acesso-a-armas/",
+      "published_date": "2026-10-23",
+      "event_date": "2019-2026",
+      "kind": "reportagem",
+      "topics": [
+        "atividade-parlamentar",
+        "seguranca",
+        "meio-ambiente"
+      ],
+      "summary": "A Lupa contabiliza 171 proposições apresentadas com autoria ou coautoria no Senado e 53 normas da época de deputado estadual, distingue autoria individual e compartilhada e apresenta links a proposições de diferentes orientações temáticas.",
+      "limitations": "Contagens e interpretações são do levantamento jornalístico; não houve recontagem integral das fichas Senado/ALERJ. Projetos de lei não comprovam normas em vigor ou condutas pessoais sem análise do estado de tramitação.",
+      "locator": "Página da Lupa, linhas 34-54 (Senado), 65-81 (temas e projetos), 82-101 (ALERJ e exemplos); conferir proposições primárias antes de conclusões específicas.",
+      "analysis_status": "documentary_read",
+      "access_status": "accessed",
+      "collected_at": "2026-10-24T04:13:47.919Z",
+      "ref": "turn726340view1",
+      "speaker": "Equipe de reportagem da Lupa",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "access_method": "Abertura direta do texto jornalístico; documentos citados não reabertos sistematicamente."
+    }
+  ],
+  "queries": [
+    {
+      "query": "Acompanhamento dos links internos da Lupa a partir das checagens abertas em 24/10/2026",
+      "executed_at": "2026-10-24T04:13:47.919Z",
+      "engine": "navegação em links da própria publicação",
+      "result": "Dois artigos de contexto acessados diretamente; contagens não validadas por auditoria externa."
+    }
+  ],
+  "gaps": [
+    "Recontar propostas Senado e leis ALERJ em arquivos oficiais antes de usar números como estatísticas verificadas pelo projeto.",
+    "Decompor as alegações agrupadas na síntese de campanha somente após checar fontes específicas, contextos e áudio original."
+  ],
+  "blocked": []
+}
