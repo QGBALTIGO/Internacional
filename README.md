@@ -1,5 +1,9 @@
 # Arquivo Bolsonaro | Declarações e documentos
 
+Site: https://arquivo-bolsonaro-fatos.copperkoala32.chatgpt.site
+
+Código: https://github.com/QGBALTIGO/Internacional
+
 Acervo documental sobre declarações públicas de Jair Bolsonaro e Flávio Bolsonaro. Reúne fichas com fontes, entrevistas, vídeos, áudios, documentos, comparações entre falas e acompanhamento de publicações. A interface é estática, em português, com pesquisa e filtros executados no navegador.
 
 Repositório público: [QGBALTIGO/Internacional](https://github.com/QGBALTIGO/Internacional).
