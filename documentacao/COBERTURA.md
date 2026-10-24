@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T11:04:13.745609Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T11:04:46.595342Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-267 URLs únicas no lote; 250 ainda não vinculadas à edição anterior. 264 materiais acessados e 238 com texto analisado.
+277 URLs únicas no lote; 260 ainda não vinculadas à edição anterior. 274 materiais acessados e 248 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -35,7 +35,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2023 | 19 | 19 | 17 | 0 | 0 |
 | 2024 | 14 | 14 | 13 | 0 | 0 |
 | 2025 | 16 | 16 | 13 | 0 | 0 |
-| 2026 | 135 | 135 | 130 | 0 | 0 |
+| 2026 | 145 | 145 | 140 | 0 | 0 |
 
 Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
