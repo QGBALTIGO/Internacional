@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T10:38:04.256182Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T10:53:58.082521Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-255 URLs únicas no lote; 238 ainda não vinculadas à edição anterior. 252 materiais acessados e 226 com texto analisado.
+267 URLs únicas no lote; 250 ainda não vinculadas à edição anterior. 264 materiais acessados e 238 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -31,11 +31,11 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2019 | 13 | 13 | 11 | 0 | 0 |
 | 2020 | 5 | 5 | 4 | 0 | 0 |
 | 2021 | 14 | 14 | 10 | 0 | 0 |
-| 2022 | 7 | 7 | 7 | 0 | 0 |
+| 2022 | 13 | 13 | 13 | 0 | 0 |
 | 2023 | 19 | 19 | 17 | 0 | 0 |
 | 2024 | 14 | 14 | 13 | 0 | 0 |
-| 2025 | 11 | 11 | 8 | 0 | 0 |
-| 2026 | 134 | 134 | 129 | 0 | 0 |
+| 2025 | 16 | 16 | 13 | 0 | 0 |
+| 2026 | 135 | 135 | 130 | 0 | 0 |
 
 Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -46,6 +46,10 @@ Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste 
 - Concluir status legislativo de PL 2862/2010, PL 2320/2013, PL 3676/2006 e dos vetos PL 3351-A/2006 e PL 3003/2014 diretamente pelos resultados oficiais.
 - Pesquisar ALERJ 2003-2004 e 2008, além de novas fontes de contraditório e checagens profissionais, sem converter documentação em acusações ou vereditos.
 - Gravações não consultadas: zero segundos ouvidos e transcritos; nenhuma citação audiovisual, timestamp ou conclusão factual nova aprovada.
+- PDL 206/2023: reexaminar andamento da CCJC/Câmara depois do parecer de 03/03/2026; não presumir aprovação final nem vigência do projeto.
+- PDL 206/2023: confrontar estatísticas sobre visitantes e efeitos econômicos citadas no debate com séries oficiais de turismo, abrindo dados originais.
+- PLP 18/2022: abrir registro de votação por destaque da Emenda 55, texto final da LC 194/2022 e eventuais decisões posteriores sobre vetos para evitar simplificações.
+- Áudio não examinado: buscar íntegras correspondentes aos pronunciamentos 491711, 491843, 492383, 492398, 512517, 512527 e 519420; registrar tempo somente se reprodução ocorrer.
 - Ouvir trechos decisivos com pergunta anterior e resposta completa, anotando início/fim.
 - Localizar gravações integrais das sessões das três transcrições oficiais.
 - Conferir datas e IDs diretamente nos players de CNN, Globoplay e Record.
@@ -101,6 +105,7 @@ Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste 
 ## Limitações de acesso
 
 - batch: alerj-tramitacao-20261024-03; source: Execução e publicação de dados derivados; error: Sem checkout Git acessível via rede no terminal de execução e sem dispositivo remoto conectado para executar scripts/build_research.py, scripts/sync_content.py ou os testes. Este arquivo é checkpoint canônico de descoberta, não atualização do JSON público. Normalização e verificações continuam pendentes.
+- batch: atividade-senado-contexto-20261024-08; source: Ministério das Relações Exteriores, página consular de vistos; url: https://www.gov.br/mre/pt-br/consulado-washington/alerta-aos-brasileiros-binacionais-sobre-vistos; status: acesso impedido; error: Página exigiu desafio CAPTCHA no acesso direto em 24/10/2026. Nenhuma informação daquela página foi tratada como documento examinado.
 - batch: checagens; url: https://www.reuters.com/fact-check/portugues/XZJWABZNDNMIZIA755ZKNAELMU-2026-10-22/; web_ref: turn5view8; error: 401 Unauthorized na abertura. Resultado de busca existe, mas artigo não analisado; não incorporar como checagem examinada.
 - batch: checagens; url: Fato ou Fake vinculado no Comprova sobre camisa; web_ref: turn18view7; error: Falha ao abrir link de origem; agência localizada, material específico não examinado.
 - batch: checagens; url: Comunicado da campanha de 2016 em assets.lupa.news; web_ref: turn22view5; error: Link não abriu; resposta só lida como reproduzida na Lupa.

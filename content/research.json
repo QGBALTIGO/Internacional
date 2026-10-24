@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T10:38:04.256182Z",
-    "inputHash": "c55e564ba165eaa8a610a662ad72cd5054a579423d1bfa56c7687afa5ebecf7c",
+    "generatedAt": "2026-10-24T10:53:58.082521Z",
+    "inputHash": "6226f5f2a331419c5a35776f4a0cedafe76cfb3237554b4be7b541c8963b2e8f",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -8733,6 +8733,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-bfe3d4b870eaa92c",
+      "title": "PDL 206/2023 continua em tramitação na Câmara: situação na CCJC",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2490435",
+      "publisher": "Câmara dos Deputados",
+      "date": "2026-03-03",
+      "eventDate": "2026-03-03",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PDL 206/2023",
+      "topics": [
+        "PDL 206/2023",
+        "vistos de entrada",
+        "tramitação legislativa",
+        "Câmara dos Deputados"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha da Câmara registra o PDL 206/2023 como 'Pronta para Pauta' na CCJC. A última ação visível em 03/03/2026 era parecer do relator deputado Zé Trovão favorável à aprovação. Parecer de relator não significa aprovação final pela comissão ou pelo Plenário. Situação textual consultada em 24/10/2026.",
+      "limitations": "Ficha oficial de tramitação em HTML consultada em 24/10/2026. Os PDFs e anexos não foram abertos; uma etapa aprovada no Senado não equivale à aprovação final pela Câmara ou à eficácia jurídica do projeto. Sem veredito editorial.",
+      "locator": "Câmara, proposição 2490435; campo Situação e Última Ação Legislativa (03/03/2026); texto integral e parecer em PDF não abertos.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Câmara dos Deputados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "c2025-pdl206-ficha-camara",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-bd1eb60391b8d039",
       "title": "Declaração de fevereiro de 2026 sobre manutenção do Bolsa Família",
       "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-afirma-que-se-eleito-mantera-bolsa-familia/",
@@ -8928,6 +8995,73 @@
         }
       ],
       "accessMethod": "",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-4818fd7518fb84d7",
+      "title": "Orientação favorável do PL à PEC 169/2019 sobre acumulação de cargo de professor",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/519420",
+      "publisher": "Senado Federal",
+      "date": "2025-12-11",
+      "eventDate": "2025-12-10",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PEC 169/2019",
+      "topics": [
+        "PEC 169/2019",
+        "servidores públicos",
+        "educação",
+        "orientação de bancada"
+      ],
+      "stage": "analisado",
+      "summary": "Registro do Senado identifica Flávio orientando a bancada do PL pelo 'Sim' à PEC 169/2019, relacionada à acumulação remunerada de um cargo de professor com outro de qualquer natureza. A orientação não substitui a verificação da votação nominal nem do desfecho legislativo.",
+      "limitations": "HTML de pronunciamento oficial consultado em 24/10/2026. A página remete ao Diário do Senado, mas o PDF correspondente não foi aberto. Nenhum áudio/vídeo foi reproduzido: 0 segundos ouvidos. Sem validação independente de projeções, dados ou efeitos atribuídos ao orador; sem veredito editorial.",
+      "locator": "Pronunciamento 519420; 190ª Sessão Deliberativa Ordinária, 10/12/2025; DSF 11/12/2025, p. 57 (referência na página).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2025-pec169-orientacao-519420",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
       "newToArchive": true
     },
     {
@@ -9457,6 +9591,206 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-edc8cf9389779e93",
+      "title": "Tramitação do PDL 206/2023 no Senado e remessa à Câmara",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158876",
+      "publisher": "Senado Federal",
+      "date": "2025-03-26",
+      "eventDate": "2025-03-19",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PDL 206/2023",
+      "topics": [
+        "PDL 206/2023",
+        "vistos de entrada",
+        "tramitação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha oficial identifica Carlos Portinho como autor e a aprovação do PDL 206/2023 pelo Plenário do Senado em 19/03/2025; a matéria foi remetida à Câmara dos Deputados em 26/03/2025. O encerramento da tramitação no Senado não significa conclusão do processo legislativo bicameral.",
+      "limitations": "Ficha oficial de tramitação em HTML consultada em 24/10/2026. Os PDFs e anexos não foram abertos; uma etapa aprovada no Senado não equivale à aprovação final pela Câmara ou à eficácia jurídica do projeto. Sem veredito editorial.",
+      "locator": "Senado, matéria 158876, identificação da autoria e andamento final de 26/03/2025; documentos associados listados, PDFs não abertos.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2025-pdl206-ficha-senado",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-e612fa1e8997b1e4",
+      "title": "Parecer oral de Flávio como relator do PDL 206/2023 sobre vistos",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/512517",
+      "publisher": "Senado Federal",
+      "date": "2025-03-20",
+      "eventDate": "2025-03-19",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PDL 206/2023",
+      "topics": [
+        "PDL 206/2023",
+        "vistos de entrada",
+        "relações internacionais",
+        "relatoria"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio atuou como relator e apresentou parecer sobre o PDL 206/2023, que busca sustar decreto relativo à exigência de visto. O autor da proposição original é Carlos Portinho. Argumentos e números econômicos apresentados pelo relator permanecem atribuídos ao parlamentar, sem verificação de seus dados de base.",
+      "limitations": "HTML de pronunciamento oficial consultado em 24/10/2026. A página remete ao Diário do Senado, mas o PDF correspondente não foi aberto. Nenhum áudio/vídeo foi reproduzido: 0 segundos ouvidos. Sem validação independente de projeções, dados ou efeitos atribuídos ao orador; sem veredito editorial.",
+      "locator": "Pronunciamento 512517; 10ª Sessão Deliberativa Ordinária, 19/03/2025; DSF 20/03/2025, p. 64 (referência na página).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2025-pdl206-relatoria-512517",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-aeae813067e33733",
+      "title": "Intervenção de Flávio sobre vistos e turismo no PDL 206/2023",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/512527",
+      "publisher": "Senado Federal",
+      "date": "2025-03-20",
+      "eventDate": "2025-03-19",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PDL 206/2023",
+      "topics": [
+        "PDL 206/2023",
+        "vistos de entrada",
+        "turismo",
+        "debate parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Em outra intervenção na sessão do PDL 206/2023, Flávio argumentou contra o restabelecimento da exigência de vistos para determinados estrangeiros. Possíveis efeitos turísticos apresentados são argumentos e projeções do senador, não resultados confirmados pelo Arquivo.",
+      "limitations": "HTML de pronunciamento oficial consultado em 24/10/2026. A página remete ao Diário do Senado, mas o PDF correspondente não foi aberto. Nenhum áudio/vídeo foi reproduzido: 0 segundos ouvidos. Sem validação independente de projeções, dados ou efeitos atribuídos ao orador; sem veredito editorial.",
+      "locator": "Pronunciamento 512527; 10ª Sessão Deliberativa Ordinária, 19/03/2025; DSF 20/03/2025, p. 70 (referência na página).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2025-pdl206-aparte-512527",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-33e3226fd94a0b7c",
       "title": "Discussão de penas para abandono de incapaz e maus-tratos",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/512504",
@@ -9520,6 +9854,73 @@
         }
       ],
       "accessMethod": "Pesquisa e leitura documental assistida por IA. Sem revisão humana ou audição de arquivos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-03f806591dedd29a",
+      "title": "Agência Senado registra debate e votos divergentes sobre exigência de vistos",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/03/19/senado-aprova-sustar-exigencia-de-visto-de-australia-canada-eua-e-japao",
+      "publisher": "Agência Senado",
+      "date": "2025-03-19",
+      "eventDate": "2025-03-19",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PDL 206/2023",
+      "topics": [
+        "PDL 206/2023",
+        "vistos de entrada",
+        "contraditório",
+        "debate parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem institucional relata aprovação do PDL no Senado, argumentos favoráveis de Flávio sobre turismo e posições contrárias de parlamentares que defenderam reciprocidade e competências do Executivo. Registrar as duas perspectivas e a necessidade da apreciação na Câmara, sem avaliar efeitos econômicos como comprovados.",
+      "limitations": "Texto jornalístico institucional consultado em 24/10/2026, não convertido em checagem independente. Documentos anexos, eventual gravação e estatísticas externas não foram examinados neste lote. Sem novo veredito.",
+      "locator": "Agência Senado, matéria de 19/03/2025 às 19h22; discussão do PDL 206/2023 e manifestações de parlamentares.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado e parlamentares citados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2025-pdl206-noticia-senado",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
       "newToArchive": true
     },
     {
@@ -12082,6 +12483,206 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-e46829aa4e6c9371",
+      "title": "Discussão de Flávio na PEC 1/2022 durante sessão de 30/06/2022",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/492383",
+      "publisher": "Senado Federal",
+      "date": "2022-07-01",
+      "eventDate": "2022-06-30",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PEC 1/2022",
+      "topics": [
+        "PEC 1/2022",
+        "benefícios sociais",
+        "transportes",
+        "debate parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Pronunciamento de Flávio na sessão que discutia a PEC 1/2022 e propostas relacionadas a subsídios, benefícios e transportes. Trata-se de registro do debate, não de resultado de votação nem de checagem dos impactos alegados.",
+      "limitations": "HTML de pronunciamento oficial consultado em 24/10/2026. A página remete ao Diário do Senado, mas o PDF correspondente não foi aberto. Nenhum áudio/vídeo foi reproduzido: 0 segundos ouvidos. Sem validação independente de projeções, dados ou efeitos atribuídos ao orador; sem veredito editorial.",
+      "locator": "Pronunciamento 492383; 76ª Sessão Deliberativa Ordinária, 30/06/2022; DSF 01/07/2022, p. 14 (referência na página).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2022-pec1-debate-492383",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-aa168805149d0d82",
+      "title": "Outra intervenção de Flávio na discussão da PEC 1/2022 em 30/06/2022",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/492398",
+      "publisher": "Senado Federal",
+      "date": "2022-07-01",
+      "eventDate": "2022-06-30",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PEC 1/2022",
+      "topics": [
+        "PEC 1/2022",
+        "benefícios sociais",
+        "debate parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Registro oficial distinto, na mesma sessão de 30/06/2022, de discussão de Flávio sobre a PEC 1/2022. Não contar automaticamente como nova alegação factual nem como contradição com manifestação anterior.",
+      "limitations": "HTML de pronunciamento oficial consultado em 24/10/2026. A página remete ao Diário do Senado, mas o PDF correspondente não foi aberto. Nenhum áudio/vídeo foi reproduzido: 0 segundos ouvidos. Sem validação independente de projeções, dados ou efeitos atribuídos ao orador; sem veredito editorial.",
+      "locator": "Pronunciamento 492398; 76ª Sessão Deliberativa Ordinária, 30/06/2022; DSF 01/07/2022, p. 25 (referência na página).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2022-pec1-debate-492398",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-91e5f65af764fb83",
+      "title": "Sanção com vetos da LC 194/2022 após aprovação do PLP 18/2022",
+      "url": "https://www12.senado.leg.br/noticias/noticias/materias/2022/06/24/bolsonaro-sanciona-limite-para-icms-de-combustiveis-mas-veta-compensacao-a-estados",
+      "publisher": "Agência Senado",
+      "date": "2022-06-24",
+      "eventDate": "2022-06-23",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PLP 18/2022",
+      "topics": [
+        "PLP 18/2022",
+        "Lei Complementar 194/2022",
+        "ICMS",
+        "vetos"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia institucional registra a sanção da Lei Complementar 194/2022, em 23/06/2022, oriunda do PLP 18/2022, com vetos presidenciais a disposições de compensação a estados. É desfecho legislativo naquele momento, não atestado sobre efeito econômico ou vigência de cada dispositivo em 2026.",
+      "limitations": "Texto jornalístico institucional consultado em 24/10/2026, não convertido em checagem independente. Documentos anexos, eventual gravação e estatísticas externas não foram examinados neste lote. Sem novo veredito.",
+      "locator": "Agência Senado, matéria de 24/06/2022, 10h30; LC 194/2022 e vetos relatados.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2022-lc194-sancao-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-74645bff60a83dbd",
       "title": "Pronunciamento sobre biocombustíveis e PEC 15/2022",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491906",
@@ -12145,6 +12746,207 @@
         }
       ],
       "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-ac6191af3758494f",
+      "title": "Orientação do PL sobre destaque da Emenda 55 no PLP 18/2022",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491843",
+      "publisher": "Senado Federal",
+      "date": "2022-06-14",
+      "eventDate": "2022-06-13",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PLP 18/2022",
+      "topics": [
+        "PLP 18/2022",
+        "ICMS",
+        "orientação de bancada",
+        "destaque"
+      ],
+      "stage": "analisado",
+      "summary": "Na orientação de bancada, Flávio registrou posição 'Não' do PL especificamente ao RQS 464/2022, destaque da Emenda 55-PLEN ao PLP 18/2022. A orientação não deve ser descrita como voto contrário ao texto principal do projeto.",
+      "limitations": "HTML de pronunciamento oficial consultado em 24/10/2026. A página remete ao Diário do Senado, mas o PDF correspondente não foi aberto. Nenhum áudio/vídeo foi reproduzido: 0 segundos ouvidos. Sem validação independente de projeções, dados ou efeitos atribuídos ao orador; sem veredito editorial.",
+      "locator": "Pronunciamento 491843; RQS 464/2022, destaque Emenda 55-PLEN; 67ª sessão de 13/06/2022; DSF 14/06/2022, p. 112.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2022-plp18-destaque-491843",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-3369072c4adfa34b",
+      "title": "Discurso de Flávio no Senado sobre aprovação do PLP 18/2022 e ICMS",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491711",
+      "publisher": "Senado Federal",
+      "date": "2022-06-14",
+      "eventDate": "2022-06-13",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PLP 18/2022",
+      "topics": [
+        "PLP 18/2022",
+        "ICMS",
+        "tributação",
+        "atuação parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "A transcrição oficial registra manifestação de Flávio favorável à aprovação do PLP 18/2022 sobre essencialidade de combustíveis, energia, comunicações e transporte coletivo. Registrar defesa política, separada da comprovação de efeitos econômicos da lei e de votações de emendas.",
+      "limitations": "HTML de pronunciamento oficial consultado em 24/10/2026. A página remete ao Diário do Senado, mas o PDF correspondente não foi aberto. Nenhum áudio/vídeo foi reproduzido: 0 segundos ouvidos. Sem validação independente de projeções, dados ou efeitos atribuídos ao orador; sem veredito editorial.",
+      "locator": "Pronunciamento 491711; 67ª Sessão Deliberativa Extraordinária, 13/06/2022; DSF 14/06/2022, p. 29 (referência na página).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2022-plp18-pron-491711",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-ba2b15440548a89f",
+      "title": "Agência Senado registra aprovação do PLP 18/2022 e críticas aos efeitos estaduais",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/06/13/aprovado-projeto-que-reduz-imposto-para-baixar-preco-dos-combustiveis",
+      "publisher": "Agência Senado",
+      "date": "2022-06-13",
+      "eventDate": "2022-06-13",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PLP 18/2022",
+      "topics": [
+        "PLP 18/2022",
+        "ICMS",
+        "tramitação legislativa",
+        "impacto fiscal"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia oficial informa aprovação do texto principal do PLP 18/2022 no Senado (65 votos a favor, 12 contrários) e retorno à Câmara; descreve argumentos pela redução do imposto e preocupações sobre receitas estaduais e financiamento de saúde e educação. A votação principal deve ser separada de destaques como o RQS 464/2022.",
+      "limitations": "Texto jornalístico institucional consultado em 24/10/2026, não convertido em checagem independente. Documentos anexos, eventual gravação e estatísticas externas não foram examinados neste lote. Sem novo veredito.",
+      "locator": "Agência Senado, 13/06/2022, publicação 21h18 e atualização 23h10; votação principal e destaques do PLP 18/2022.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T10:52:28.495Z",
+      "lastModifiedAt": "2026-10-24T10:52:28.495Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado e parlamentares citados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "atividade-senado-contexto-20261024-08",
+          "inputId": "s2022-plp18-aprovacao-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
       "newToArchive": true
     },
     {
@@ -17027,19 +17829,20 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T03:39:49Z",
+      "lastConsultedAt": "2026-10-24T10:52:28.495Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "periods": [
-        2007
+        2007,
+        2026
       ],
       "formats": [
         "documento"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 1,
-      "analysedCount": 1
+      "accessedCount": 2,
+      "analysedCount": 2
     },
     {
       "id": "fonte-ee8b17bd10a7a2e4",
@@ -17412,6 +18215,40 @@
       "analysedCount": 0
     },
     {
+      "id": "fonte-2acd9e7dc92e583a",
+      "name": "Senado Federal",
+      "url": "https://www25.senado.leg.br/",
+      "responsible": "Senado Federal",
+      "nature": "órgão público",
+      "method": "RSS/Atom público",
+      "intervalMinutes": 60,
+      "lastSuccessfulCollectionAt": "2026-10-24T08:50:00.363197Z",
+      "lastConsultedAt": "2026-10-24T10:52:28.495Z",
+      "accessNote": "0 publicações relacionadas nesta consulta",
+      "status": "coleta com resultado",
+      "sourceCount": 90,
+      "periods": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "formats": [
+        "audio",
+        "documento",
+        "registro",
+        "reportagem",
+        "video"
+      ],
+      "monitoringEnabled": true,
+      "accessedCount": 89,
+      "analysedCount": 75
+    },
+    {
       "id": "fonte-3ed65b2f1d041330",
       "name": "Supremo Tribunal Federal",
       "url": "https://noticias.stf.jus.br/",
@@ -17436,40 +18273,6 @@
       "monitoringEnabled": false,
       "accessedCount": 4,
       "analysedCount": 3
-    },
-    {
-      "id": "fonte-2acd9e7dc92e583a",
-      "name": "TV Senado",
-      "url": "https://www12.senado.leg.br/",
-      "responsible": "TV Senado",
-      "nature": "órgão público",
-      "method": "RSS/Atom público",
-      "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T08:50:00.363197Z",
-      "lastConsultedAt": "2026-10-24T09:28:22.752Z",
-      "accessNote": "0 publicações relacionadas nesta consulta",
-      "status": "coleta com resultado",
-      "sourceCount": 79,
-      "periods": [
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
-        2025,
-        2026
-      ],
-      "formats": [
-        "audio",
-        "documento",
-        "registro",
-        "reportagem",
-        "video"
-      ],
-      "monitoringEnabled": true,
-      "accessedCount": 78,
-      "analysedCount": 64
     },
     {
       "id": "fonte-d17e0097bbcd6c10",
@@ -19252,6 +20055,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-1543fa96948e535c",
+      "itemId": "pesquisa-bfe3d4b870eaa92c",
+      "title": "PDL 206/2023 continua em tramitação na Câmara: situação na CCJC",
+      "date": "2026-03-03",
+      "datePrecision": "day",
+      "context": "A ficha da Câmara registra o PDL 206/2023 como 'Pronta para Pauta' na CCJC. A última ação visível em 03/03/2026 era parecer do relator deputado Zé Trovão favorável à aprovação. Parecer de relator não significa aprovação final pela comissão ou pelo Plenário. Situação textual consultada em 24/10/2026.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-e318992040ada027",
       "itemId": "pesquisa-bd1eb60391b8d039",
       "title": "Declaração de fevereiro de 2026 sobre manutenção do Bolsa Família",
@@ -19277,6 +20089,15 @@
       "datePrecision": "unknown",
       "context": "Distribuidor confirma convidado, apresentação de Carol Dias e duração 1h47. Título indica #232, mas campo estruturado Episódio informa 233; manter identificação da plataforma como chave, sem criar dois episódios.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-323baf47dcc1a46d",
+      "itemId": "pesquisa-4818fd7518fb84d7",
+      "title": "Orientação favorável do PL à PEC 169/2019 sobre acumulação de cargo de professor",
+      "date": "2025-12-10",
+      "datePrecision": "day",
+      "context": "Registro do Senado identifica Flávio orientando a bancada do PL pelo 'Sim' à PEC 169/2019, relacionada à acumulação remunerada de um cargo de professor com outro de qualquer natureza. A orientação não substitui a verificação da votação nominal nem do desfecho legislativo.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-190a1147ead622d2",
@@ -19351,6 +20172,33 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-35e6a1e02fb49c2c",
+      "itemId": "pesquisa-edc8cf9389779e93",
+      "title": "Tramitação do PDL 206/2023 no Senado e remessa à Câmara",
+      "date": "2025-03-19",
+      "datePrecision": "day",
+      "context": "Ficha oficial identifica Carlos Portinho como autor e a aprovação do PDL 206/2023 pelo Plenário do Senado em 19/03/2025; a matéria foi remetida à Câmara dos Deputados em 26/03/2025. O encerramento da tramitação no Senado não significa conclusão do processo legislativo bicameral.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-4527beff1e15f02f",
+      "itemId": "pesquisa-e612fa1e8997b1e4",
+      "title": "Parecer oral de Flávio como relator do PDL 206/2023 sobre vistos",
+      "date": "2025-03-19",
+      "datePrecision": "day",
+      "context": "Flávio atuou como relator e apresentou parecer sobre o PDL 206/2023, que busca sustar decreto relativo à exigência de visto. O autor da proposição original é Carlos Portinho. Argumentos e números econômicos apresentados pelo relator permanecem atribuídos ao parlamentar, sem verificação de seus dados de base.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-97fb631a316e4049",
+      "itemId": "pesquisa-aeae813067e33733",
+      "title": "Intervenção de Flávio sobre vistos e turismo no PDL 206/2023",
+      "date": "2025-03-19",
+      "datePrecision": "day",
+      "context": "Em outra intervenção na sessão do PDL 206/2023, Flávio argumentou contra o restabelecimento da exigência de vistos para determinados estrangeiros. Possíveis efeitos turísticos apresentados são argumentos e projeções do senador, não resultados confirmados pelo Arquivo.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-5ec02cb30b5326d9",
       "itemId": "pesquisa-33e3226fd94a0b7c",
       "title": "Discussão de penas para abandono de incapaz e maus-tratos",
@@ -19358,6 +20206,15 @@
       "datePrecision": "unknown",
       "context": "Fala favorável ao projeto que aumenta penas relativas a abandono de incapazes e maus-tratos, elogiando seu autor Hélio Leite.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-46d386c76f0a271c",
+      "itemId": "pesquisa-03f806591dedd29a",
+      "title": "Agência Senado registra debate e votos divergentes sobre exigência de vistos",
+      "date": "2025-03-19",
+      "datePrecision": "day",
+      "context": "Reportagem institucional relata aprovação do PDL no Senado, argumentos favoráveis de Flávio sobre turismo e posições contrárias de parlamentares que defenderam reciprocidade e competências do Executivo. Registrar as duas perspectivas e a necessidade da apreciação na Câmara, sem avaliar efeitos econômicos como comprovados.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-0e98a722f943ebb1",
@@ -19711,6 +20568,33 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-e657d33f90ea544f",
+      "itemId": "pesquisa-e46829aa4e6c9371",
+      "title": "Discussão de Flávio na PEC 1/2022 durante sessão de 30/06/2022",
+      "date": "2022-06-30",
+      "datePrecision": "day",
+      "context": "Pronunciamento de Flávio na sessão que discutia a PEC 1/2022 e propostas relacionadas a subsídios, benefícios e transportes. Trata-se de registro do debate, não de resultado de votação nem de checagem dos impactos alegados.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-2c9869ddff313e97",
+      "itemId": "pesquisa-aa168805149d0d82",
+      "title": "Outra intervenção de Flávio na discussão da PEC 1/2022 em 30/06/2022",
+      "date": "2022-06-30",
+      "datePrecision": "day",
+      "context": "Registro oficial distinto, na mesma sessão de 30/06/2022, de discussão de Flávio sobre a PEC 1/2022. Não contar automaticamente como nova alegação factual nem como contradição com manifestação anterior.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-a99620e7aba708a3",
+      "itemId": "pesquisa-91e5f65af764fb83",
+      "title": "Sanção com vetos da LC 194/2022 após aprovação do PLP 18/2022",
+      "date": "2022-06-23",
+      "datePrecision": "day",
+      "context": "Notícia institucional registra a sanção da Lei Complementar 194/2022, em 23/06/2022, oriunda do PLP 18/2022, com vetos presidenciais a disposições de compensação a estados. É desfecho legislativo naquele momento, não atestado sobre efeito econômico ou vigência de cada dispositivo em 2026.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-8ef12b88fe4ac542",
       "itemId": "pesquisa-74645bff60a83dbd",
       "title": "Pronunciamento sobre biocombustíveis e PEC 15/2022",
@@ -19718,6 +20602,33 @@
       "datePrecision": "unknown",
       "context": "Na discussão sobre biocombustíveis, o senador defendeu ajuste no texto da PEC 15/2022 e avaliou efeitos tributários e experiências anteriores no Rio de Janeiro. As análises econômicas e históricas são alegações do orador, não conclusões verificadas pelo catálogo.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-43f5ffbff3923271",
+      "itemId": "pesquisa-ac6191af3758494f",
+      "title": "Orientação do PL sobre destaque da Emenda 55 no PLP 18/2022",
+      "date": "2022-06-13",
+      "datePrecision": "day",
+      "context": "Na orientação de bancada, Flávio registrou posição 'Não' do PL especificamente ao RQS 464/2022, destaque da Emenda 55-PLEN ao PLP 18/2022. A orientação não deve ser descrita como voto contrário ao texto principal do projeto.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f605360007219a71",
+      "itemId": "pesquisa-3369072c4adfa34b",
+      "title": "Discurso de Flávio no Senado sobre aprovação do PLP 18/2022 e ICMS",
+      "date": "2022-06-13",
+      "datePrecision": "day",
+      "context": "A transcrição oficial registra manifestação de Flávio favorável à aprovação do PLP 18/2022 sobre essencialidade de combustíveis, energia, comunicações e transporte coletivo. Registrar defesa política, separada da comprovação de efeitos econômicos da lei e de votações de emendas.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-df64ef043f68f116",
+      "itemId": "pesquisa-ba2b15440548a89f",
+      "title": "Agência Senado registra aprovação do PLP 18/2022 e críticas aos efeitos estaduais",
+      "date": "2022-06-13",
+      "datePrecision": "day",
+      "context": "Notícia oficial informa aprovação do texto principal do PLP 18/2022 no Senado (65 votos a favor, 12 contrários) e retorno à Câmara; descreve argumentos pela redução do imposto e preocupações sobre receitas estaduais e financiamento de saúde e educação. A votação principal deve ser separada de destaques como o RQS 464/2022.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-309dc9daaacda363",
@@ -24143,6 +25054,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-1543fa96948e535c",
+      "itemId": "pesquisa-bfe3d4b870eaa92c",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2490435",
+      "locator": "Câmara, proposição 2490435; campo Situação e Última Ação Legislativa (03/03/2026); texto integral e parecer em PDF não abertos.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-e318992040ada027",
       "itemId": "pesquisa-bd1eb60391b8d039",
       "sourceId": "fonte-7d7b950bffc2fe29",
@@ -24170,6 +25092,17 @@
       "sourceId": "fonte-ab7ca292b805c308",
       "url": "https://podcasts.apple.com/br/podcast/entrevista-exclusiva-com-fl%C3%A1vio-bolsonaro-irm%C3%A3os-dias/id1622247936?i=1000741078153",
       "locator": null,
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-323baf47dcc1a46d",
+      "itemId": "pesquisa-4818fd7518fb84d7",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/519420",
+      "locator": "Pronunciamento 519420; 190ª Sessão Deliberativa Ordinária, 10/12/2025; DSF 11/12/2025, p. 57 (referência na página).",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -24264,11 +25197,55 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-35e6a1e02fb49c2c",
+      "itemId": "pesquisa-edc8cf9389779e93",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158876",
+      "locator": "Senado, matéria 158876, identificação da autoria e andamento final de 26/03/2025; documentos associados listados, PDFs não abertos.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-4527beff1e15f02f",
+      "itemId": "pesquisa-e612fa1e8997b1e4",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/512517",
+      "locator": "Pronunciamento 512517; 10ª Sessão Deliberativa Ordinária, 19/03/2025; DSF 20/03/2025, p. 64 (referência na página).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-97fb631a316e4049",
+      "itemId": "pesquisa-aeae813067e33733",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/512527",
+      "locator": "Pronunciamento 512527; 10ª Sessão Deliberativa Ordinária, 19/03/2025; DSF 20/03/2025, p. 70 (referência na página).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-5ec02cb30b5326d9",
       "itemId": "pesquisa-33e3226fd94a0b7c",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/512504",
       "locator": "Texto integral; DSF 20/03/2025, p.54",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-46d386c76f0a271c",
+      "itemId": "pesquisa-03f806591dedd29a",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/03/19/senado-aprova-sustar-exigencia-de-visto-de-australia-canada-eua-e-japao",
+      "locator": "Agência Senado, matéria de 19/03/2025 às 19h22; discussão do PDL 206/2023 e manifestações de parlamentares.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -24704,11 +25681,77 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-e657d33f90ea544f",
+      "itemId": "pesquisa-e46829aa4e6c9371",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/492383",
+      "locator": "Pronunciamento 492383; 76ª Sessão Deliberativa Ordinária, 30/06/2022; DSF 01/07/2022, p. 14 (referência na página).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-2c9869ddff313e97",
+      "itemId": "pesquisa-aa168805149d0d82",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/492398",
+      "locator": "Pronunciamento 492398; 76ª Sessão Deliberativa Ordinária, 30/06/2022; DSF 01/07/2022, p. 25 (referência na página).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-a99620e7aba708a3",
+      "itemId": "pesquisa-91e5f65af764fb83",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/noticias/materias/2022/06/24/bolsonaro-sanciona-limite-para-icms-de-combustiveis-mas-veta-compensacao-a-estados",
+      "locator": "Agência Senado, matéria de 24/06/2022, 10h30; LC 194/2022 e vetos relatados.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-8ef12b88fe4ac542",
       "itemId": "pesquisa-74645bff60a83dbd",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491906",
       "locator": "Texto integral do Senado; 68ª Sessão Deliberativa Extraordinária, intervenção pela liderança; DSF de 15/06/2022, p. 28.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-43f5ffbff3923271",
+      "itemId": "pesquisa-ac6191af3758494f",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491843",
+      "locator": "Pronunciamento 491843; RQS 464/2022, destaque Emenda 55-PLEN; 67ª sessão de 13/06/2022; DSF 14/06/2022, p. 112.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f605360007219a71",
+      "itemId": "pesquisa-3369072c4adfa34b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491711",
+      "locator": "Pronunciamento 491711; 67ª Sessão Deliberativa Extraordinária, 13/06/2022; DSF 14/06/2022, p. 29 (referência na página).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-df64ef043f68f116",
+      "itemId": "pesquisa-ba2b15440548a89f",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/06/13/aprovado-projeto-que-reduz-imposto-para-baixar-preco-dos-combustiveis",
+      "locator": "Agência Senado, 13/06/2022, publicação 21h18 e atualização 23h10; votação principal e destaques do PLP 18/2022.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -26015,29 +27058,32 @@
     },
     {
       "year": 2022,
-      "found": 7,
-      "accessed": 7,
-      "analysed": 7,
+      "found": 13,
+      "accessed": 13,
+      "analysed": 13,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 0,
-        "analisado": 7,
+        "analisado": 13,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "assistencia-social": 4,
         "eleicoes": 1,
+        "PEC 1/2022": 2,
+        "PLP 18/2022": 4,
         "energia": 1,
         "atividade parlamentar": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 7
+        "fonte-2acd9e7dc92e583a": 13
       },
       "formats": {
-        "documento": 7
+        "documento": 11,
+        "reportagem": 2
       },
       "note": "Recorte não exaustivo."
     },
@@ -26123,20 +27169,21 @@
     },
     {
       "year": 2025,
-      "found": 11,
-      "accessed": 11,
-      "analysed": 8,
+      "found": 16,
+      "accessed": 16,
+      "analysed": 13,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 3,
-        "analisado": 8,
+        "analisado": 13,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "trajetória": 1,
+        "PEC 169/2019": 1,
         "política externa": 1,
         "Atividade pública": 1,
         "justica": 1,
@@ -26145,32 +27192,34 @@
         "economia": 1,
         "educação": 1,
         "saude": 1,
+        "PDL 206/2023": 4,
         "seguranca": 2
       },
       "sources": {
         "fonte-ab7ca292b805c308": 1,
-        "fonte-2acd9e7dc92e583a": 8,
+        "fonte-2acd9e7dc92e583a": 13,
         "fonte-3ed65b2f1d041330": 2
       },
       "formats": {
         "audio": 1,
-        "documento": 7,
+        "documento": 11,
         "registro": 2,
-        "video": 1
+        "video": 1,
+        "reportagem": 1
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2026,
-      "found": 134,
-      "accessed": 134,
-      "analysed": 129,
+      "found": 135,
+      "accessed": 135,
+      "analysed": 130,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 5,
-        "analisado": 129,
+        "analisado": 130,
         "revisado": 0,
         "publicado": 0
       },
@@ -26197,6 +27246,7 @@
         "Bolsa Família": 2,
         "trajetória": 1,
         "INSS": 1,
+        "PDL 206/2023": 1,
         "imagens-fora-de-contexto": 1
       },
       "sources": {
@@ -26218,6 +27268,7 @@
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
         "fonte-2837db98d9bb5569": 1,
+        "fonte-29a2bae5277f274b": 1,
         "fonte-7d7b950bffc2fe29": 1
       },
       "formats": {
@@ -26226,17 +27277,17 @@
         "reportagem": 8,
         "registro": 2,
         "audio": 2,
-        "documento": 3
+        "documento": 4
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 238,
-    "items": 255,
+    "newItems": 250,
+    "items": 267,
     "alreadyInArchive": 17,
-    "accessed": 252,
-    "analysed": 226,
+    "accessed": 264,
+    "analysed": 238,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -26248,12 +27299,12 @@
     "sourcesConsulted": 31,
     "video": 14,
     "audio": 5,
-    "documents": 72,
+    "documents": 81,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 87,
-    "accessFailures": 16,
+    "queryCount": 92,
+    "accessFailures": 17,
     "undatedItems": 12
   },
   "queries": [
@@ -26301,6 +27352,51 @@
       "engine": "web fast",
       "interval": "2013-2016",
       "resultsState": "A ficha de PL 2622/2013 indica resultado Lei 7352/2016; o texto autônomo da lei não foi acessado, portanto não foi adicionado como documento independente."
+    },
+    {
+      "id": "consulta-92d81dde93ed3234",
+      "batch": "atividade-senado-contexto-20261024-08",
+      "query": "site:www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/ \"Pronunciamento de Flávio Bolsonaro em\" \"2022\" ICMS PEC",
+      "executedAt": "2026-10-24T10:52:28.495Z",
+      "engine": "busca web e abertura direta da fonte oficial",
+      "interval": "2022",
+      "resultsState": "Quatro transcrições oficiais distintas de junho de 2022 examinadas; orientação sobre destaque identificada separadamente do voto principal."
+    },
+    {
+      "id": "consulta-af4dde81c388ab7f",
+      "batch": "atividade-senado-contexto-20261024-08",
+      "query": "site:www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/ \"Flávio Bolsonaro\" \"2025\" PDL 206 PEC 169",
+      "executedAt": "2026-10-24T10:52:28.495Z",
+      "engine": "busca web e abertura direta da fonte oficial",
+      "interval": "2025",
+      "resultsState": "Três pronunciamentos oficiais distintos examinados; não se inferiu que parecer, orientação e votação fossem a mesma etapa."
+    },
+    {
+      "id": "consulta-54fc2a374f048f5d",
+      "batch": "atividade-senado-contexto-20261024-08",
+      "query": "PDL 206/2023 tramitação Senado Flávio relator Câmara CCJC 2026",
+      "executedAt": "2026-10-24T10:52:28.495Z",
+      "engine": "busca web e abertura de fichas Senado/Câmara",
+      "interval": "2023–2026",
+      "resultsState": "Autor Carlos Portinho, relator Flávio; Senado remeteu à Câmara; CCJC exibia parecer do relator em 03/03/2026, sem aprovação final demonstrada."
+    },
+    {
+      "id": "consulta-666c335675c5354c",
+      "batch": "atividade-senado-contexto-20261024-08",
+      "query": "PLP 18/2022 ICMS 13 junho 2022 Senado emenda 55 sanção Lei Complementar 194/2022",
+      "executedAt": "2026-10-24T10:52:28.495Z",
+      "engine": "busca web, transcrições e notícias institucionais",
+      "interval": "2022",
+      "resultsState": "Localizadas e lidas fontes para distinguir posição no texto principal, destaque de emenda e sanção posterior."
+    },
+    {
+      "id": "consulta-1063c51c4992326f",
+      "batch": "atividade-senado-contexto-20261024-08",
+      "query": "site:gov.br/mre exigência visto turistas americanos canadenses australianos 2025",
+      "executedAt": "2026-10-24T10:52:28.495Z",
+      "engine": "busca web e tentativa de leitura direta",
+      "interval": "2025–2026",
+      "resultsState": "Página consular retornou verificação CAPTCHA na abertura. Não incluída entre os documentos lidos."
     },
     {
       "id": "consulta-551c8c0783261eee",
@@ -27048,6 +28144,13 @@
       "error": "Sem checkout Git acessível via rede no terminal de execução e sem dispositivo remoto conectado para executar scripts/build_research.py, scripts/sync_content.py ou os testes. Este arquivo é checkpoint canônico de descoberta, não atualização do JSON público. Normalização e verificações continuam pendentes."
     },
     {
+      "batch": "atividade-senado-contexto-20261024-08",
+      "source": "Ministério das Relações Exteriores, página consular de vistos",
+      "url": "https://www.gov.br/mre/pt-br/consulado-washington/alerta-aos-brasileiros-binacionais-sobre-vistos",
+      "status": "acesso impedido",
+      "error": "Página exigiu desafio CAPTCHA no acesso direto em 24/10/2026. Nenhuma informação daquela página foi tratada como documento examinado."
+    },
+    {
       "batch": "checagens",
       "url": "https://www.reuters.com/fact-check/portugues/XZJWABZNDNMIZIA755ZKNAELMU-2026-10-22/",
       "web_ref": "turn5view8",
@@ -27215,6 +28318,30 @@
       "note": "Gravações não consultadas: zero segundos ouvidos e transcritos; nenhuma citação audiovisual, timestamp ou conclusão factual nova aprovada.",
       "state": "pendente",
       "batch": "alerj-tramitacao-20261024-03"
+    },
+    {
+      "id": "lacuna-30657a77e3a2de1c",
+      "note": "PDL 206/2023: reexaminar andamento da CCJC/Câmara depois do parecer de 03/03/2026; não presumir aprovação final nem vigência do projeto.",
+      "state": "pendente",
+      "batch": "atividade-senado-contexto-20261024-08"
+    },
+    {
+      "id": "lacuna-28a4f7a0a6115fde",
+      "note": "PDL 206/2023: confrontar estatísticas sobre visitantes e efeitos econômicos citadas no debate com séries oficiais de turismo, abrindo dados originais.",
+      "state": "pendente",
+      "batch": "atividade-senado-contexto-20261024-08"
+    },
+    {
+      "id": "lacuna-16034b51943da79c",
+      "note": "PLP 18/2022: abrir registro de votação por destaque da Emenda 55, texto final da LC 194/2022 e eventuais decisões posteriores sobre vetos para evitar simplificações.",
+      "state": "pendente",
+      "batch": "atividade-senado-contexto-20261024-08"
+    },
+    {
+      "id": "lacuna-cbb569839bc83ace",
+      "note": "Áudio não examinado: buscar íntegras correspondentes aos pronunciamentos 491711, 491843, 492383, 492398, 512517, 512527 e 519420; registrar tempo somente se reprodução ocorrer.",
+      "state": "pendente",
+      "batch": "atividade-senado-contexto-20261024-08"
     },
     {
       "id": "lacuna-b268881395e0fac5",
