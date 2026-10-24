@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T09:28:36.532255Z",
-    "inputHash": "64c8c69734a9ab1b053e892cf16c379f98dc5c5c64a29c39dba47d3b490ac2f1",
+    "generatedAt": "2026-10-24T09:48:48.629456Z",
+    "inputHash": "ec2b3993a4ae3db6dee707756d2a1096f2fbf8fce1fa8c875f6d89c85d101589",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -21,7 +21,7 @@
       "eventDate": "2026-08",
       "year": 2026,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "checagens",
       "topics": [
         "checagens",
@@ -220,7 +220,7 @@
       "eventDate": null,
       "year": 2026,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "atividade-parlamentar",
       "topics": [
         "atividade-parlamentar",
@@ -1540,7 +1540,7 @@
       "eventDate": "2026-09-18",
       "year": 2026,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "checagem",
       "topic": "STF",
       "topics": [
         "STF",
@@ -2269,7 +2269,7 @@
       "eventDate": null,
       "year": 2026,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "checagem",
       "topic": "Bolsa Família",
       "topics": [
         "Bolsa Família",
@@ -2729,7 +2729,7 @@
       "eventDate": "2026-02-11",
       "year": 2026,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "Bolsa Família",
       "topics": [
         "Bolsa Família",
@@ -3914,7 +3914,7 @@
       "eventDate": "2024-07-09",
       "year": 2024,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "Conselho de Ética",
       "topics": [
         "Conselho de Ética",
@@ -5488,7 +5488,7 @@
       "eventDate": "2023-05-02",
       "year": 2023,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "legislação digital",
       "topics": [
         "legislação digital",
@@ -6536,7 +6536,7 @@
       "eventDate": "2021-10-26",
       "year": 2021,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "CPI da Pandemia",
       "topics": [
         "CPI da Pandemia",
@@ -7198,7 +7198,7 @@
       "eventDate": "2020-05-19",
       "year": 2020,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "Conselho de Ética",
       "topics": [
         "Conselho de Ética",
@@ -7264,7 +7264,7 @@
       "eventDate": "2020-05-18",
       "year": 2020,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "Conselho de Ética",
       "topics": [
         "Conselho de Ética",
@@ -7396,7 +7396,7 @@
       "eventDate": "2020-02-19",
       "year": 2020,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "Conselho de Ética",
       "topics": [
         "Conselho de Ética",
@@ -7461,7 +7461,7 @@
       "eventDate": "2019-12-16",
       "year": 2019,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "atividade parlamentar",
       "topics": [
         "atividade parlamentar",
@@ -7784,7 +7784,7 @@
       "eventDate": "2019-06-18",
       "year": 2019,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "previdência",
       "topics": [
         "previdência",
@@ -7981,7 +7981,7 @@
       "eventDate": "2019-06-03",
       "year": 2019,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "previdência",
       "topics": [
         "previdência",
@@ -9024,7 +9024,7 @@
       "eventDate": "2013-08-06",
       "year": 2013,
       "datePrecision": "day",
-      "format": "registro",
+      "format": "reportagem",
       "topic": "atividade parlamentar",
       "topics": [
         "atividade parlamentar",
@@ -10812,7 +10812,8 @@
       ],
       "formats": [
         "documento",
-        "registro"
+        "registro",
+        "reportagem"
       ],
       "monitoringEnabled": false,
       "accessedCount": 23,
@@ -10888,8 +10889,7 @@
         2026
       ],
       "formats": [
-        "checagem",
-        "registro"
+        "checagem"
       ],
       "monitoringEnabled": true,
       "accessedCount": 10,
@@ -10977,7 +10977,7 @@
         2026
       ],
       "formats": [
-        "registro"
+        "reportagem"
       ],
       "monitoringEnabled": false,
       "accessedCount": 1,
@@ -11161,7 +11161,7 @@
       ],
       "formats": [
         "checagem",
-        "registro"
+        "reportagem"
       ],
       "monitoringEnabled": true,
       "accessedCount": 11,
@@ -11360,6 +11360,7 @@
         "audio",
         "documento",
         "registro",
+        "reportagem",
         "video"
       ],
       "monitoringEnabled": true,
@@ -16569,6 +16570,20 @@
       ],
       "type": "apresentacao",
       "reviewer": null
+    },
+    {
+      "id": "hist-portal-20261024",
+      "date": "2026-10-24",
+      "title": "Catálogo consolidado e nova apresentação",
+      "description": "Os 56 materiais preservados em checkpoints foram integrados, levando o catálogo de 97 a 153 itens. Navegação por seções, busca geral, atalhos móveis e cartões foram reorganizados. Mantidos 71 registros anteriores, fontes, ressalvas, créditos e revisão pendente dos materiais novos. Nenhum novo veredito ou revisor foi cadastrado.",
+      "affected": [
+        "inicio",
+        "pesquisa",
+        "midiateca",
+        "fontes"
+      ],
+      "type": "apresentacao",
+      "reviewer": null
     }
   ],
   "coverage": [
@@ -16822,7 +16837,7 @@
       },
       "formats": {
         "documento": 5,
-        "registro": 1
+        "reportagem": 1
       },
       "note": "Recorte não exaustivo."
     },
@@ -16978,7 +16993,8 @@
         "fonte-9c2fbd587c9a9fb0": 2
       },
       "formats": {
-        "registro": 6,
+        "reportagem": 3,
+        "registro": 3,
         "documento": 3,
         "video": 1,
         "checagem": 2,
@@ -17010,7 +17026,8 @@
       },
       "formats": {
         "video": 1,
-        "registro": 4
+        "reportagem": 3,
+        "registro": 1
       },
       "note": "Recorte não exaustivo."
     },
@@ -17048,8 +17065,9 @@
       },
       "formats": {
         "documento": 3,
-        "registro": 6,
+        "registro": 5,
         "checagem": 1,
+        "reportagem": 1,
         "video": 4
       },
       "note": "Recorte não exaustivo."
@@ -17118,7 +17136,7 @@
       "formats": {
         "documento": 17,
         "video": 1,
-        "registro": 1
+        "reportagem": 1
       },
       "note": "Recorte não exaustivo."
     },
@@ -17156,7 +17174,8 @@
         "documento": 9,
         "checagem": 1,
         "audio": 1,
-        "registro": 2,
+        "registro": 1,
+        "reportagem": 1,
         "video": 1
       },
       "note": "Recorte não exaustivo."
@@ -17254,9 +17273,9 @@
         "fonte-7d7b950bffc2fe29": 1
       },
       "formats": {
-        "registro": 7,
-        "checagem": 24,
-        "reportagem": 5,
+        "reportagem": 8,
+        "checagem": 26,
+        "registro": 2,
         "audio": 2,
         "documento": 3,
         "video": 2

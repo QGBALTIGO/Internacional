@@ -1,6 +1,6 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T09:28:36.532255Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T09:48:48.629456Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
 164 URLs únicas no lote; 149 ainda não vinculadas à edição anterior. 161 materiais acessados e 135 com texto analisado.
 

@@ -6,11 +6,15 @@ Repositório: https://github.com/QGBALTIGO/Internacional
 
 Edição 03 de pesquisa. Datas de sistema em UTC; apresentação em America/Campo_Grande. O foco atual é Flávio Bolsonaro. O acervo anterior de Jair permanece disponível na seção identificada e não integra as contagens de novas checagens de Flávio.
 
-## O que foi acrescentado
+## Catálogo e apresentação
 
-O catálogo contém 82 materiais únicos, sendo 69 novos e 13 relacionados à base anterior. Foram acessados 79 materiais e examinados 53 textos. Há 18 mídias no lote, 18 documentos, 26 fontes/canais cadastrados, 22 consultados, 45 consultas de pesquisa e 9 falhas registradas. As durações nominais conhecidas somam 4h41min55s; nenhum segundo de áudio foi ouvido nesta execução.
+Na consolidação inicial desta apresentação, o catálogo passou a **153 materiais únicos**: 138 ainda não vinculados à edição anterior e 15 relacionados a ela. O lote inclui 70 documentos, 13 vídeos e 5 áudios. Há 150 materiais acessados, 124 textos examinados, 27 fontes mapeadas, 77 consultas e 14 falhas de acesso registradas. As durações são nominais: nenhum segundo foi ouvido nesta consolidação.
 
-Os materiais novos aguardam revisão editorial identificada. Não foram acrescentados vereditos, acusações ou comparações conclusivas. As 71 fichas anteriores, 26 de Flávio e 45 de Jair, foram preservadas com IDs e fontes. As contagens de links não são contagens de afirmações falsas.
+Foram integrados os 56 materiais que estavam somente em checkpoints. Lotes posteriores são preservados pelo gerador; consulte a contagem atual em content/research.json e documentacao/COBERTURA.md. As 71 fichas anteriores, 26 de Flávio e 45 de Jair, permanecem intactas. A midiateca combina registros históricos e de pesquisa e elimina reproduções da mesma URL/ID na apresentação, sem apagar seus metadados.
+
+A interface agora tem navegação lateral, atalhos no celular, busca geral e telas próprias para catálogo, fichas, mídias e fontes. A busca não converte uma notícia em veredito. Os novos materiais continuam aguardando revisão editorial identificada.
+
+O endereço chatgpt.site depende de republicação do layout; alterações no GitHub atualizam seus dados, não o HTML/CSS hospedado. A rotina existente do GitHub Pages publica o diretório do repositório. Nenhuma permissão ou audiência foi alterada.
 
 ## Consultar
 
@@ -38,11 +42,12 @@ O site é estático. Busca e filtros ocorrem no navegador. Uma visita não execu
 
 ```bash
 python3 scripts/build_research.py
-python3 scripts/sync_content.py
+python3 scripts/sync_content.py --allow-remote-assets
 python3 scripts/check_site.py
 python3 -m unittest discover -s tests -v
 node --check dist/assets/app.js
 node --check dist/assets/research.js
+node --check dist/assets/portal.js
 node tests/frontend.mjs
 ```
 
@@ -57,3 +62,13 @@ Leia `documentacao/RELATORIO-EDICAO-03.md`, `MONITORAMENTO.md`, `COBERTURA.md`, 
 A nova automação de pesquisa deve acrescentar materiais e pendências. Novas conclusões sensíveis exigem um revisor autorizado registrado em `metadata.approvedReviewerIds` e um objeto `review` aprovado. A lista começa vazia; nenhuma concordância entre modelos autoriza sua inclusão. O conteúdo catalogado permanece pesquisável enquanto aguarda revisão.
 
 A homologação visual da edição 03 ficou limitada pelo bloqueio de acesso da prévia no navegador do ambiente. Os testes de lógica usam DOM simulado e os testes de transporte usam HTTP local. Não há declaração de homologação em Safari físico.
+
+## Consolidação automática e anexos
+
+O workflow `catalogo.yml` reconstrói `research.json` quando os checkpoints mudam, executa testes e publica apenas os derivados. A validação impede apagar materiais, criar revisores ou aprovar novos vereditos. Os arquivos do coletor não são incluídos no commit.
+
+Sem `--allow-remote-assets`, o sincronizador continua exigindo todos os bytes locais. Com a opção explícita, ele aceita apenas anexos ausentes cujo caminho, URL HTTPS e SHA-256 constam no manifesto, e os relata como referências remotas não conferidas. Isso não comprova disponibilidade, integridade dos bytes remotos nem reprodução audiovisual.
+
+O PDF histórico não é recriado automaticamente nem apresentado como download local disponível. O botão de contexto aponta para a documentação da edição. Os links originais dos documentos continuam nas fichas.
+
+A verificação local da interface está em `documentacao/interface-qa.json`: Chromium com arquivos do checkout, cinco larguras e rede externa desativada. Não é uma certificação de Safari físico, disponibilidade das fontes ou do site publicado.

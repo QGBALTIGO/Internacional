@@ -44,8 +44,25 @@
   const base = window.ACERVO || {metadata:{},records:[],media:[],documents:[],images:[]};
   let data = structuredClone(base), news = window.ARQUIVO_NEWS || {metadata:{},items:[],feeds:[]};
   const research = window.ARQUIVO_RESEARCH || {media:[]};
-  const seenMedia=new Set(data.media.flatMap(m=>[m.sourceUrl,m.url,m.youtubeId].filter(Boolean)));
-  for(const m of (research.media||[])) {if([m.sourceUrl,m.url,m.youtubeId].filter(Boolean).some(u=>seenMedia.has(u)))continue;data.media.push(m);[m.sourceUrl,m.url,m.youtubeId].filter(Boolean).forEach(u=>seenMedia.add(u));}
+  function uniqueMedia(list) {
+    const seen = new Set();
+    return list.filter(m => {
+      const keys = [m.sourceUrl,m.url,m.youtubeId].filter(Boolean);
+      if (keys.some(k => seen.has(k))) return false;
+      keys.forEach(k => seen.add(k));
+      return true;
+    });
+  }
+  function installResearchMedia(candidate) {
+    const seen = new Set(data.media.flatMap(m => [m.sourceUrl,m.url,m.youtubeId].filter(Boolean)));
+    for (const m of (candidate.media || [])) {
+      if (!m || !/^[a-z0-9-]+$/.test(m.id || '') || !m.title || !['video','audio'].includes(m.type) || !safeUrl(m.sourceUrl || m.url)) continue;
+      const keys = [m.sourceUrl,m.url,m.youtubeId].filter(Boolean);
+      if (keys.some(u => seen.has(u))) continue;
+      data.media.push(m); keys.forEach(u => seen.add(u));
+    }
+  }
+  installResearchMedia(research);
   let recordMap = new Map(), mediaMap = new Map(), searchIndex = new Map(), currentCase = null, closingForHash = false;
   const state = {person:'flavio',query:'',topic:'all',verdict:'all',year:'all',source:'all',from:'',to:'',sort:'newest',view:'grid',limit:12,savedOnly:false,saved:new Set(readStorage('arquivo-saved',[])),mediaType:'all',mediaQuery:'',mediaPerson:'flavio',mediaRole:'all',mediaLimit:9,comparisonLimit:4,newsQuery:'',newsLimit:12};
   let refreshInFlight = false, toastTimer;
@@ -78,7 +95,7 @@
     $('topicFilter').innerHTML='<option value="all">Todos os assuntos</option>'+topics.map(t=>`<option>${esc(t)}</option>`).join(''); $('topicFilter').value=state.topic;
     $('yearFilter').innerHTML='<option value="all">Todos os anos</option>'+years.map(y=>`<option value="${y}">${y}</option>`).join(''); $('yearFilter').value=state.year;
     const sources=new Set([...data.records,...(data.comparisons||[]),...(data.investigations||[])].flatMap(r=>(r.sources||[]).map(s=>s.url)));
-    $('statCases').textContent=data.records.filter(r=>r.person==='flavio').length; $('statMedia').textContent=data.media.length; $('statSources').textContent=sources.size;
+    $('statCases').textContent=data.records.filter(r=>r.person==='flavio').length; $('statMedia').textContent=uniqueMedia(data.media).length; $('statSources').textContent=sources.size;
     $('countAll').textContent=data.records.length; $('countJair').textContent=data.records.filter(r=>r.person==='jair').length; $('countFlavio').textContent=data.records.filter(r=>r.person==='flavio').length;
     $('editionNumber').textContent=data.metadata.edition||'03'; $('editorialDate').textContent='Não confirmada / edição anterior';
     $('mediaPerson').value=state.mediaPerson;
@@ -129,7 +146,7 @@
     return `<article class="media-card" id="midia-${esc(m.id)}"><button class="video-cover" data-action="media" data-id="${esc(m.id)}" aria-label="Abrir vídeo: ${esc(m.title)}"><span class="video-typographic"><small>REGISTRO EM VÍDEO</small><strong>${esc(credit)}</strong></span>${thumb?`<img src="${esc(thumb)}" alt="" loading="lazy" decoding="async" width="480" height="270" referrerpolicy="no-referrer">`:''}<span class="video-label">${esc(m.role||'Vídeo')}</span><span class="play-round">${icon('play')}</span><span class="video-time">${esc(m.durationLabel||'VÍDEO')}</span></button>${common}${external(m.sourceUrl||m.url,'Publicação de origem','media-source')}</div></article>`;
   }
   function renderMedia() {
-    const q=norm(state.mediaQuery);const items=data.media.filter(m=>(state.mediaType==='all'||m.type===state.mediaType)&&(state.mediaPerson==='all'||mediaPeople(m).includes(state.mediaPerson))&&(state.mediaRole==='all'||mediaCategory(m)===state.mediaRole)&&(!q||norm([m.title,m.description,m.credit,m.creditShort,...(m.tags||[])].join(' ')).includes(q))).sort((a,b)=>String(b.date||'').localeCompare(String(a.date||'')));
+    const q=norm(state.mediaQuery);const items=uniqueMedia(data.media).filter(m=>(state.mediaType==='all'||m.type===state.mediaType)&&(state.mediaPerson==='all'||mediaPeople(m).includes(state.mediaPerson))&&(state.mediaRole==='all'||mediaCategory(m)===state.mediaRole)&&(!q||norm([m.title,m.description,m.credit,m.creditShort,...(m.tags||[])].join(' ')).includes(q))).sort((a,b)=>String(b.date||'').localeCompare(String(a.date||'')));
     $('mediaGrid').innerHTML=items.slice(0,state.mediaLimit).map(mediaCard).join('')||'<div class="empty-state"><h3>Nenhum material com esses filtros.</h3></div>';
     $('mediaCount').textContent=`${items.length} ${items.length===1?'material':'materiais'}`;$('loadMoreMedia').hidden=state.mediaLimit>=items.length;
     document.querySelectorAll('[data-media-type]').forEach(el=>{const active=state.mediaType===el.dataset.mediaType;el.classList.toggle('active',active);el.setAttribute('aria-pressed',active);});
@@ -197,7 +214,7 @@
     let received=false;
     if(results[0].status==='fulfilled'&&Array.isArray(results[0].value.items)&&results[0].value.schemaVersion===1){const candidate=results[0].value;if(new Date(candidate.metadata?.lastAttemptAt||0)>=new Date(news.metadata?.lastAttemptAt||0)){news=candidate;writeStorage('arquivo-news-cache',news);}received=true;}
     if(results[1].status==='fulfilled'&&results[1].value.schemaVersion===1){if(mergeUpdates(results[1].value)){rebuild();writeStorage('arquivo-updates-cache',results[1].value);}received=true;}
-    if(results[2].status==='fulfilled'&&results[2].value.schemaVersion===1&&Array.isArray(results[2].value.items)){document.dispatchEvent(new CustomEvent('arquivo-research',{detail:results[2].value}));}
+    if(results[2].status==='fulfilled'&&results[2].value.schemaVersion===1&&Array.isArray(results[2].value.items)){installResearchMedia(results[2].value);rebuild();document.dispatchEvent(new CustomEvent('arquivo-research',{detail:results[2].value}));}
     renderNews();refreshInFlight=false;$('refreshNews').disabled=false;if(manual)toast(received?'Última versão disponível carregada.':'Não foi possível atualizar agora. Os dados já carregados continuam disponíveis.');
   }
   document.addEventListener('click',event=>{
@@ -225,7 +242,7 @@
   document.querySelectorAll('dialog').forEach(d=>{d.addEventListener('click',e=>{if(e.target===d){const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)d.close();}});d.addEventListener('close',()=>{if(d.id==='mediaDialog'){$('mediaDialogContent').querySelectorAll('audio,video').forEach(p=>p.pause());$('mediaDialogContent').innerHTML='';}if(d.id==='mediaDialog'&&location.hash.startsWith('#midia='))history.replaceState(null,'','#midiateca');if(d.id==='contextDialog'&&/^#(comparacao|apuracao)=/.test(location.hash))history.replaceState(null,'','#comparacoes');if(d.id==='caseDialog'){currentCase=null;if(!closingForHash&&location.hash.startsWith('#ficha='))history.replaceState(null,'','#acervo');}updateBodyLock();});});
   window.addEventListener('hashchange',syncHash);window.addEventListener('popstate',syncHash);
   let scrollQueued=false;window.addEventListener('scroll',()=>{if(!scrollQueued){scrollQueued=true;requestAnimationFrame(()=>{const h=document.documentElement.scrollHeight-innerHeight;$('readingProgress').style.width=(h>0?Math.min(100,scrollY/h*100):0)+'%';scrollQueued=false;});}},{passive:true});
-  if(repositoryHost)$('downloadPdf').href='https://arquivo-bolsonaro-fatos.copperkoala32.chatgpt.site/documentos/dossie-documental.pdf';
+  // O PDF histórico pode exigir acesso ao site privado. A interface aponta para a documentação, sem prometer um download indisponível.
   hydrateIcons();setTheme(readStorage('arquivo-theme',matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light'));
   const cachedNews=readStorage('arquivo-news-cache',null);if(cachedNews?.schemaVersion===1&&new Date(cachedNews.metadata?.lastAttemptAt||0)>new Date(news.metadata?.lastAttemptAt||0))news=cachedNews;
   mergeUpdates(window.ARQUIVO_UPDATES);const cachedUpdates=readStorage('arquivo-updates-cache',null);if(cachedUpdates?.schemaVersion===1&&new Date(cachedUpdates.updatedAt||0)>new Date(window.ARQUIVO_UPDATES?.updatedAt||0))mergeUpdates(cachedUpdates);

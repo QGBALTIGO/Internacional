@@ -92,6 +92,8 @@ def stage_for(row):
 
 def format_for(row, batch):
     f = norm(get_first(row, 'format', 'type', 'kind', 'material_type'))
+    if f in FORMATS:
+        return f
     if f in {'audio', 'podcast_audio'} or f.startswith('audio'):
         return 'audio'
     if f in {'video', 'podcast', 'entrevista', 'debate', 'live'} or 'video' in f:
@@ -391,7 +393,7 @@ def build_payload(inputs, legacy=None, feeds=None, previous=None, history=None):
                  'Reabrir documentos posteriores a cada notícia judicial antes de informar situação processual atual.'):
         next_batch.append({'id': stable_id('lacuna', note), 'note': note, 'state': 'pendente', 'batch': 'consolidação'})
     now = datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
-    fingerprint = sha256(json.dumps({'inputs': inputs, 'history': history}, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
+    fingerprint = sha256(json.dumps({'inputs': inputs, 'history': history, 'normalizationVersion': 2}, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
     generated = previous.get('metadata', {}).get('generatedAt') if previous and previous.get('metadata', {}).get('inputHash') == fingerprint else now
     result = {'schemaVersion': 1,
               'metadata': {'title': 'Catálogo de pesquisa de Flávio Bolsonaro', 'generatedAt': generated,

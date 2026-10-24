@@ -12,5 +12,19 @@
     ],
     "type": "apresentacao",
     "reviewer": null
+  },
+  {
+    "id": "hist-portal-20261024",
+    "date": "2026-10-24",
+    "title": "Catálogo consolidado e nova apresentação",
+    "description": "Os 56 materiais preservados em checkpoints foram integrados, levando o catálogo de 97 a 153 itens. Navegação por seções, busca geral, atalhos móveis e cartões foram reorganizados. Mantidos 71 registros anteriores, fontes, ressalvas, créditos e revisão pendente dos materiais novos. Nenhum novo veredito ou revisor foi cadastrado.",
+    "affected": [
+      "inicio",
+      "pesquisa",
+      "midiateca",
+      "fontes"
+    ],
+    "type": "apresentacao",
+    "reviewer": null
   }
 ]

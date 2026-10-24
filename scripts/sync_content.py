@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Valida o conteúdo editorial e gera os dados usados pela página e as exportações."""
+import argparse
 import csv
 import io
 import json
@@ -15,6 +16,12 @@ SOURCE = ROOT / 'content' / 'acervo.editorial.json'
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--allow-remote-assets', action='store_true', help='Validar anexos ausentes apenas quando sua URL e SHA-256 constam no manifesto; não certifica download ou disponibilidade.')
+    args = parser.parse_args()
+    manifest_path = ROOT / 'content' / 'assets.json'
+    manifest = {a['path']: a for a in json.loads(manifest_path.read_text(encoding='utf-8')).get('assets', [])} if manifest_path.exists() else {}
+    remote_only = []
     data = json.loads(SOURCE.read_text(encoding='utf-8'))
     records = data['records']
     assert records, 'O acervo não pode estar vazio.'
@@ -52,6 +59,14 @@ def main():
                 continue
             path = (DIST / item[key]).resolve()
             assert path.is_relative_to(DIST.resolve()), f'Caminho fora do projeto: {path}'
+            if not path.is_file() and args.allow_remote_assets:
+                entry = manifest.get(str(path.relative_to(ROOT)))
+                external = urlparse(item.get('url', ''))
+                assert key == 'src' and entry and entry.get('url') == item.get('url'), f'Anexo sem correspondência no manifesto: {path}'
+                assert external.scheme == 'https' and external.hostname and not external.username and not external.password
+                assert re.fullmatch(r'[a-f0-9]{64}', entry.get('sha256', '')), f'Anexo sem hash documentado: {path}'
+                remote_only.append({'path': str(path.relative_to(ROOT)), 'status': 'referência remota, bytes não conferidos nesta execução'})
+                continue
             assert path.is_file() and path.stat().st_size > 0, f'Arquivo ausente: {path}'
             if path.suffix == '.pdf':
                 assert path.read_bytes().startswith(b'%PDF-'), f'PDF inválido: {path}'
@@ -76,6 +91,7 @@ def main():
         (out / 'editorial-updates.json').write_text(json.dumps(patch, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         (out / 'editorial-updates.js').write_text('window.ARQUIVO_UPDATES = ' + json.dumps(patch, ensure_ascii=False, separators=(',', ':')).replace('</','<\\/') + ';\n', encoding='utf-8')
     result = {'records':len(records),'people':dict(Counter(r['person'] for r in records)),'verdicts':dict(Counter(r['verdict'] for r in records)),'uniqueSources':len({s['url'] for r in records for s in r['sources']}),'media':len(data['media']),'documents':len(data['documents']),'comparisons':len(data.get('comparisons',[])),'investigations':len(data.get('investigations',[]))}
+    result['remoteOnlyAssets'] = remote_only
     print(json.dumps(result, ensure_ascii=False))
 
 
