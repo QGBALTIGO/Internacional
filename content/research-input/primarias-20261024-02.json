@@ -3,7 +3,7 @@
   "batch_id": "primarias-historicas-20261024-02",
   "collected_at_utc": "2026-10-24T05:22:51.935Z",
   "scope": "Avanço do nextBatch: ALERJ 2009-2018 e Senado 2022-2024; conteúdo integral HTML examinado nas páginas citadas, sem novo veredito.",
-  "method": "Leitura direta de páginas oficiais. Checagens já catalogadas não foram duplicadas. Dados de pesquisa em checkpoint, aguardando normalização pelos scripts; áudio e vídeo não reproduzidos.",
+  "method": "Leitura direta de páginas oficiais. Checagens já catalogadas não foram duplicadas. Dados de pesquisa em checkpoint, aguardando normalização pelos scripts; áudio e vídeo não reproduzidos. O carimbo UTC do lote registra consolidação do checkpoint, não a hora exata de abertura individual de cada fonte; para consultas, somente a data é conhecida.",
   "editorialClassification": null,
   "reviewer": null,
   "reviewedAt": null,
@@ -529,49 +529,49 @@
       "engine": "web fast",
       "interval": "2009-2015",
       "result": "Projetos originais estaduais lidos, anos anteriormente com baixa cobertura.",
-      "executed_at": "2026-10-24T05:22:51.935Z"
+      "executed_at": "2026-10-24"
     },
     {
       "query": "site:www3.alerj.rj.gov.br/lotus_notes/default.asp \"FLAVIO BOLSONARO\" \"2010\"",
       "engine": "web slow",
       "interval": "2009-2010",
       "result": "PEC estadual antiga lida.",
-      "executed_at": "2026-10-24T05:22:51.935Z"
+      "executed_at": "2026-10-24"
     },
     {
       "query": "site:www3.alerj.rj.gov.br/lotus_notes/default.asp \"FLAVIO BOLSONARO\" \"2014\"",
       "engine": "web slow",
       "interval": "2014-2018",
       "result": "Localizado ofício formal de veto a proposição de Flávio.",
-      "executed_at": "2026-10-24T05:22:51.935Z"
+      "executed_at": "2026-10-24"
     },
     {
       "query": "site:senado.leg.br \"Flávio Bolsonaro\" 2023 votação proposta lei",
       "engine": "web fast",
       "interval": "2023-2024",
       "result": "Discursos e atos processuais distintos localizados e abertos.",
-      "executed_at": "2026-10-24T05:22:51.935Z"
+      "executed_at": "2026-10-24"
     },
     {
       "query": "site:senado.leg.br \"PL 830/2022\" \"Flávio Bolsonaro\" andamento 2023",
       "engine": "web fast",
       "interval": "2022-2023",
       "result": "Ficha oficial, sessão da comissão e notícia institucional consultadas.",
-      "executed_at": "2026-10-24T05:22:51.935Z"
+      "executed_at": "2026-10-24"
     },
     {
       "query": "site:senado.leg.br \"Flávio Bolsonaro\" \"saída temporária\" \"20/02/2024\" relator",
       "engine": "web fast",
       "interval": "2024",
       "result": "Registro de relatoria e contexto da tramitação lidos.",
-      "executed_at": "2026-10-24T05:22:51.935Z"
+      "executed_at": "2026-10-24"
     },
     {
       "query": "site:checamos.afp.com \"Flávio Bolsonaro\" 2022 2020 2018",
       "engine": "web fast",
       "interval": "2018-2022",
       "result": "Achado sobre montagem de camisa coincide com recorte já catalogado, não duplicado.",
-      "executed_at": "2026-10-24T05:22:51.935Z"
+      "executed_at": "2026-10-24"
     }
   ],
   "blocked": [
