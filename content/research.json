@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T22:48:57.941245Z",
-    "inputHash": "4278ed3dc3337fd2414167a6611ab5233cef96aefa2ee72a9c055987aa1326c6",
+    "generatedAt": "2026-10-24T23:39:41.493492Z",
+    "inputHash": "c878a8bb19ab936bea36ecc6ae4dde2d030ea8aab0b0aae61836f8d381f2eb5e",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -13028,6 +13028,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-06d3e50937cf5271",
+      "title": "Rádio Senado: transcrição publicada registra justificativa de Flávio para porte de defensores",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/09/08/defensores-e-advogados-publicos-podem-ter-porte-de-arma-de-fogo",
+      "publisher": "Rádio Senado, Bruno Lourenço",
+      "date": "2026-09-08",
+      "eventDate": "2026-09-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2343/2025",
+      "topics": [
+        "PL 2343/2025",
+        "Defensoria Pública",
+        "transcrição institucional",
+        "pronunciamento"
+      ],
+      "stage": "analisado",
+      "summary": "Publicação de 08/09/2026 contém transcrição textual produzida pela Rádio Senado, que atribui a Flávio a defesa do projeto em razão de ameaças e riscos de retaliação sofridos por defensores públicos. O texto informa extensão proposta a membros da AGU e procuradorias, com requisitos legais. Os riscos são argumentos atribuídos à fala, não constatação independente deste arquivo.",
+      "limitations": "A página mostra áudio com duração declarada de 01:10, mas nenhum segundo foi ouvido. O texto da transcrição é da Rádio Senado; não foi cotejado com gravação. Não atribuir vigência de lei.",
+      "locator": "Página Rádio Senado, publicação 08/09/2026 às 11h25; HTML linhas 8–24, seção Transcrição.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Posição pública atribuída a Flávio explicitada na transcrição textual do próprio veículo.",
+      "actor": "Rádio Senado (Bruno Lourenço); Flávio Bolsonaro em fala atribuída na transcrição publicada",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2343/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-pl2343-radio",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-aa340b8d285167a7",
       "title": "Vídeo manipulado atribui promessa de salário mínimo de R$ 3 mil",
       "url": "https://www.agencialupa.org/verificacao/2026/09/04/e-deepfake-video-de-flavio-bolsonaro-prometendo-salario-minimo-de-r-3-mil/",
@@ -13160,6 +13227,208 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-d297e391025246bd",
+      "title": "Senado: notas integrais de 01/09/2026 documentam três relatorias de Flávio na CSP",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14952",
+      "publisher": "Senado Federal, notas taquigráficas revisadas",
+      "date": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2343/2025",
+      "topics": [
+        "PL 2343/2025",
+        "PL 3272/2024",
+        "PL 3341/2025",
+        "respostas públicas",
+        "debate em comissão"
+      ],
+      "stage": "analisado",
+      "summary": "Transcrição revista da 13ª CSP apresenta Flávio como relator favorável ao PL 3341/2025, de Augusta Brito, para prevenção do assédio sexual nos transportes; registra justificativa e emenda ao PL 2343/2025 sobre porte para defensores e advogados públicos; e discussão do PL 3272/2024 sobre armas para mulheres sob medida protetiva, com pedido de vista. Há manifestações diferentes de senadores, sem juízo editorial sobre veracidade de estudos citados nas falas.",
+      "limitations": "Somente texto de notas oficiais revisadas foi lido. Nenhum áudio ou vídeo foi reproduzido; horários exibidos pelo portal não são timestamps revisados. Estatísticas trazidas pelos participantes não foram verificadas nas bases primárias. Transcrição não prova efeitos posteriores da lei.",
+      "locator": "Notas taquigráficas revisadas, 13ª CSP, 01/09/2026; HTML linhas 23–29 (abertura), 96–115 (PL 3341), 116–126 (PL 2343) e 127–147 (PL 3272).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Falas de Flávio sobre todos os três projetos e comentários de colegas estão presentes na transcrição oficial; não se deve atribuir a ele opiniões de terceiros.",
+      "actor": "Flávio Bolsonaro; Hamilton Mourão; Alessandro Vieira; Lourdinha Pereira; Damares Alves e demais oradores identificados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "CSP, 13ª reunião extraordinária, 01/09/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-csp14952-notas",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-be6289aab87fd26c",
+      "title": "Senado: CSP aprovou relatório de Flávio sobre prevenção ao assédio em transporte",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/14952/item/112384",
+      "publisher": "Senado Federal, CSP, 13ª reunião",
+      "date": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 3341/2025",
+      "topics": [
+        "PL 3341/2025",
+        "assédio sexual",
+        "transportes públicos",
+        "parecer em comissão"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha oficial do item 3 da 13ª reunião da CSP em 01/09/2026 registra aprovação de relatório favorável ao PL 3341/2025, de autoria de Augusta Brito e relatado por Flávio. O ato fez do relatório parecer da CSP, sem promulgação de norma.",
+      "limitations": "Resultado textual da comissão, sem apuração de votação nominal nem leitura de PDF do relatório. Não implica conversão do projeto em lei vigente.",
+      "locator": "CSP, 13ª reunião extraordinária de 01/09/2026, item 3; HTML linhas 20–51.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "As falas de Flávio defendendo prevenção, canais de denúncia e treinamento estão no registro de notas taquigráficas da reunião, também incluído.",
+      "actor": "Augusta Brito, autora; Flávio Bolsonaro, relator",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3341/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-pl3341-item",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-b9acbe570d7309ab",
+      "title": "Senado: CSP concedeu vista ao PL 3272/2024 sobre porte para mulheres sob medida protetiva",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/14952/item/112376",
+      "publisher": "Senado Federal, CSP, 13ª reunião",
+      "date": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "proteção de mulheres",
+        "pedido de vista",
+        "tramitação"
+      ],
+      "stage": "analisado",
+      "summary": "O item 6 da reunião de 01/09/2026 lista relatório de Flávio pela aprovação nos termos do substitutivo da CDH com subemenda. O campo de resultado registra apenas 'Vista concedida'. A existência de relatório favorável não deve ser confundida com aprovação do colegiado ou sanção.",
+      "limitations": "Ficha oficial do item, sem leitura do parecer integral ou dos votos individualizados. Não há aprovação confirmada na CSP nessa reunião.",
+      "locator": "CSP, 13ª reunião, item 6, 01/09/2026; HTML linhas 20–52.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "As notas taquigráficas da mesma sessão registram argumentos de Flávio e manifestação de quem solicitou vista.",
+      "actor": "Rosana Martinelli, autora; Flávio Bolsonaro, relator",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-pl3272-item",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-737e9bdf05bd493e",
       "title": "PL 2.064/2025: três versões de relatório de Flávio na CSP em 2026",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168377",
@@ -13223,6 +13492,140 @@
         }
       ],
       "accessMethod": "Busca pública, abertura e leitura do texto HTML com web.run em 24/10/2026. Carimbo collected_at: fechamento do checkpoint, não horário individual. Nenhum PDF aberto, áudio ouvido ou vídeo reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-5dbd0df79a761b1b",
+      "title": "Senado: CSP aprovou relatório de Flávio ao PL 2343/2025 com emenda de Alessandro Vieira",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/14952/item/112382",
+      "publisher": "Senado Federal, CSP, 13ª reunião",
+      "date": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2343/2025",
+      "topics": [
+        "PL 2343/2025",
+        "Defensoria Pública",
+        "emenda",
+        "votação em comissão"
+      ],
+      "stage": "analisado",
+      "summary": "O item 5 da 13ª reunião extraordinária registra aprovação do relatório favorável de Flávio, transformado em parecer da CSP, com a Emenda 1-CSP de Alessandro Vieira. A emenda abrange também advocacia pública; não foi sancionada qualquer lei por este ato.",
+      "limitations": "Ficha institucional de deliberação em HTML, não transcrição ou confronto integral dos PDFs do relatório e da emenda. Não comprova voto individual em votação simbólica.",
+      "locator": "Ficha da 13ª reunião CSP em 01/09/2026, item 5; HTML linhas 20–53.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A fala da relatoria e intervenções de colegas constam das notas taquigráficas da sessão, também catalogadas.",
+      "actor": "Carlos Portinho, autor; Flávio Bolsonaro, relator; Alessandro Vieira, autor da emenda 1",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2343/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-pl2343-item",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-15719968ce2a05f4",
+      "title": "Agência Senado: PL 2343/2025 foi enviado à CCJ após parecer relatado por Flávio na CSP",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/01/vai-a-ccj-projeto-que-libera-porte-de-arma-para-defensores-publicos",
+      "publisher": "Agência Senado",
+      "date": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2343/2025",
+      "topics": [
+        "PL 2343/2025",
+        "Defensoria Pública",
+        "advocacia pública",
+        "tramitação"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 01/09/2026 relata o parecer favorável de Flávio ao PL 2343/2025, proposto por Carlos Portinho, com emenda de Alessandro Vieira incluindo advogados públicos e mantendo comprovação de capacidade técnica e psicológica. O prosseguimento para a CCJ é informado como etapa seguinte, sem vigência imediata.",
+      "limitations": "Reportagem institucional vinculada ao mesmo ato, não verificação independente. Não foi consultado o PDF da emenda por esta fonte.",
+      "locator": "Agência Senado, 01/09/2026 às 12h53; HTML linhas 19–34.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "O texto apresenta os argumentos registrados pelo Senado e a emenda defendida por Alessandro Vieira.",
+      "actor": "Agência Senado; Carlos Portinho, autor; Flávio Bolsonaro, relator",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2343/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-pl2343-agencia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
       "newToArchive": true
     },
     {
@@ -14277,6 +14680,73 @@
         }
       ],
       "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-0c1d32a61d16444e",
+      "title": "ADPETO: associação relata articulação da ANADEP junto ao projeto relatado por Flávio",
+      "url": "https://adpeto.org.br/noticias/2026/7/15/adpeto-informa-sobre-atuacao-da-anadep/",
+      "publisher": "ADPETO, Associação dos Defensores Públicos do Tocantins",
+      "date": "2026-07-15",
+      "eventDate": "2026-07-15",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 2343/2025",
+      "topics": [
+        "PL 2343/2025",
+        "Defensoria Pública",
+        "resposta de entidade",
+        "atuação institucional"
+      ],
+      "stage": "analisado",
+      "summary": "Comunicado associativo de 15/07/2026 informa articulações que atribui à ANADEP para apresentação e tramitação do PL 2343/2025 e relata a atribuição da relatoria da CSP a Flávio. É uma manifestação favorável de interesse de classe, publicada antes da aprovação do parecer em setembro; contrapõe a narrativa do andamento institucional, não constitui prova independente de que as tratativas narradas ocorreram como descritas.",
+      "limitations": "Fonte primária somente para o comunicado feito pela ADPETO, não pronunciamento autenticado da direção nacional da ANADEP nem comprovação documental da articulação relatada. A data da notícia antecede o avanço de 01/09/2026; não utilizá-la como status atual.",
+      "locator": "ADPETO, notícia de 15/07/2026; HTML linhas 75–85.",
+      "sourceId": "fonte-508d60279dcebcef",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A entidade publicou posicionamento favorável e registrou sua compreensão da atuação da ANADEP; não se enviou contato a qualquer entidade.",
+      "actor": "ADPETO, entidade publicadora; ANADEP citada; Flávio Bolsonaro como relator",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2343/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-pl2343-adpeto",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
       "newToArchive": true
     },
     {
@@ -19210,6 +19680,73 @@
       "newToArchive": false
     },
     {
+      "id": "pesquisa-61ec51dfad869a96",
+      "title": "Senado: Flávio relatou favoravelmente projeto de Augusta Brito contra assédio no transporte",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169523",
+      "publisher": "Senado Federal, acompanhamento legislativo",
+      "date": "2025-07-10",
+      "eventDate": "2026-09-01",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 3341/2025",
+      "topics": [
+        "PL 3341/2025",
+        "assédio sexual",
+        "transporte público",
+        "relatoria parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha mostra Augusta Brito como autora do PL 3341/2025 sobre prevenção do assédio sexual e da violência sexual no transporte coletivo; Flávio entregou parecer favorável em 27/08/2026, acolhido pela CSP em 01/09/2026. A tramitação passou à CDH, com Ivete da Silveira designada relatora em 17/09. Trata-se de cooperação em projeto de autoria de parlamentar de outra legenda, não de aprovação definitiva.",
+      "limitations": "O Senado exibe resumo explicativo gerado por IA com revisão humana, não usado como evidência exclusiva. Integra dos relatórios e publicações do Diário disponíveis em PDF não foi examinada. Projeto permanece em tramitação.",
+      "locator": "Ficha PL 3341/2025; HTML linhas 20–25 (autoria), 47–54 (CDH), 103–128 (relatoria e CSP).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A posição pública de Flávio favorável à proposta consta em notas taquigráficas revisadas da CSP em 01/09/2026.",
+      "actor": "Augusta Brito (PT/CE), autora; Flávio Bolsonaro (PL/RJ), relator na CSP",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3341/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-pl3341-ficha",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-30ee475a078d16d7",
       "title": "Manifestação contrária à MP 1.292/2025 sobre crédito consignado",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/514806",
@@ -19468,6 +20005,73 @@
         }
       ],
       "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-abe0d251cfccde26",
+      "title": "Senado: PL 2343/2025 tem relatoria de Flávio e aguarda novo relator na CCJ",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168625",
+      "publisher": "Senado Federal, acompanhamento legislativo",
+      "date": "2025-05-16",
+      "eventDate": "2026-09-01",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2343/2025",
+      "topics": [
+        "PL 2343/2025",
+        "Defensoria Pública",
+        "segurança pública",
+        "tramitação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha identifica Carlos Portinho como autor, relatório favorável de Flávio apresentado em 27/08/2026, parecer P.S. 29/2026-CSP de 01/09/2026 e emenda de Alessandro Vieira. O estado exibido na consulta de 24/10/2026 era 'aguardando designação do relator' na CCJ desde 01/09/2026. Autoria e relatoria estão separadas.",
+      "limitations": "A ficha reúne metadados e andamentos oficiais em HTML; não foi lido o conteúdo integral dos PDFs anexos. Estado é o mostrado pelo Senado na consulta, podendo mudar.",
+      "locator": "Identificação e situação, HTML linhas 20–48; relatório e emenda, 98–138; atos e tramitação na ficha.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A defesa do porte para defensores por Flávio pode ser conferida em suas intervenções das notas oficiais de 01/09/2026, também neste checkpoint.",
+      "actor": "Carlos Portinho, autor; Flávio Bolsonaro, relator da CSP",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2343/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-pl2343-ficha",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
       "newToArchive": true
     },
     {
@@ -19865,6 +20469,73 @@
         }
       ],
       "accessMethod": "Página pública em HTML aberta pelo web.run em 24/10/2026, com leitura de trechos pertinentes. collected_at registra o fechamento documental do lote, não o instante exato da consulta. Sem audição própria, sem download de vídeo nem conferência de PDFs.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-0d7d99fedad40a07",
+      "title": "Agência Senado: texto aprovado na CSP em abril de 2025 difere dos PLs originais sobre porte para advogados",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/04/08/csp-aprova-porte-de-arma-de-fogo-aos-advogados-para-defesa-pessoal",
+      "publisher": "Agência Senado",
+      "date": "2025-04-08",
+      "eventDate": "2025-04-08",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2734/2021",
+      "topics": [
+        "PL 2734/2021",
+        "advocacia",
+        "porte de armas",
+        "tramitação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "A reportagem detalha a aprovação, na CSP, do substitutivo relatado por Alessandro Vieira a projeto de autoria de Flávio Bolsonaro. O texto diz que Contarato e Moro propuseram ajustes sobre capacidade técnica, aptidão psicológica e locais de ingresso; confronta alcances dos PLs 2734/2021 e 2530/2024 e distingue a etapa da CCJ. Os números de homicídios de advogados são relatados como argumento atribuído a Flávio, não apuração estatística deste catálogo.",
+      "limitations": "Matéria institucional em HTML, não leitura independente dos substitutivos e emendas. O texto identifica Flávio como PL-SP, ao passo que a ficha legislativa oficial o identifica PL-RJ; a divergência de sigla estadual não foi replicada como fato. Não afirmar que projeto se tornou lei.",
+      "locator": "Agência Senado, publicação de 08/04/2025 às 15h46; HTML linhas 19–41.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A própria reportagem registra os fundamentos atribuídos a Flávio e os argumentos e emendas de Vieira, Moro e Contarato.",
+      "actor": "Agência Senado; senador Flávio Bolsonaro citado como autor; Alessandro Vieira como relator",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2734/2021; PL 2530/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-pl2734-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
       "newToArchive": true
     },
     {
@@ -20855,6 +21526,73 @@
         }
       ],
       "accessMethod": "Abertura e leitura direta da ficha pública HTML de tramitação do Senado em 24/10/2026, inclusive identificação de autores, relatórios e andamentos exibidos. Sem reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-a21de0cc7c102b7e",
+      "title": "Senado: PL 3272/2024 permanece com vista concedida e relatório de Flávio",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/165143",
+      "publisher": "Senado Federal, acompanhamento legislativo",
+      "date": "2024-08-22",
+      "eventDate": "2026-09-01",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "mulheres sob medida protetiva",
+        "porte de armas",
+        "tramitação"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha registra autoria de Rosana Martinelli em 2024 e parecer apresentado por Flávio Bolsonaro em 03/07/2026 favorável ao substitutivo da CDH com subemenda. Em 01/09/2026, o resultado na CSP foi pedido de vista concedido; esse status permanecia indicado na ficha na consulta de 24/10. Não houve aprovação pela CSP nessa sessão.",
+      "limitations": "A ficha inclui explicação resumida marcada pelo Senado como gerada por IA com revisão humana; o resumo deste checkpoint se apoia apenas em ementa e atos legislativos, não nessa explicação. PDF do substitutivo e da subemenda não lido. Sem verificação de resultados de segurança pública.",
+      "locator": "Ficha PL 3272/2024; HTML linhas 20–53 (ementa, relatoria e estado) e 144–156 (relatório de 03/07/2026).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T23:39:31.888Z",
+      "lastModifiedAt": "2026-10-24T23:39:31.888Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A intervenção de Flávio e pedido de vista são atribuídos no texto taquigráfico oficial de 01/09/2026.",
+      "actor": "Rosana Martinelli, autora; Flávio Bolsonaro, relator da CSP",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "csp-2026-relatorias-20261024-26",
+          "inputId": "csp-2026-relatorias-20261024-26-pl3272-ficha",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
       "newToArchive": true
     },
     {
@@ -35757,6 +36495,29 @@
   ],
   "sources": [
     {
+      "id": "fonte-508d60279dcebcef",
+      "name": "ADPETO, Associação dos Defensores Públicos do Tocantins",
+      "url": "https://adpeto.org.br/",
+      "responsible": "ADPETO, Associação dos Defensores Públicos do Tocantins",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-24T23:39:31.888Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "registro"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-875b77e7aba40e8b",
       "name": "AFP Checamos",
       "url": "https://checamos.afp.com/",
@@ -35796,7 +36557,7 @@
       "monitoringEnabled": true,
       "accessNote": "3 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T21:31:17.686266Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z"
     },
     {
       "id": "fonte-e1c9e5407b4d26a8",
@@ -35811,9 +36572,9 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "monitoringEnabled": true,
-      "accessNote": "3 publicações relacionadas nesta consulta",
+      "accessNote": "2 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T21:31:17.686266Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z"
     },
     {
       "id": "fonte-a08eae094412f4bb",
@@ -35830,7 +36591,7 @@
       "monitoringEnabled": true,
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T21:31:17.686266Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z"
     },
     {
       "id": "fonte-cbedaeeb02ac6aaf",
@@ -35864,7 +36625,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T21:31:17.686266Z",
+      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z",
       "lastConsultedAt": "2026-10-24T11:14:02.380Z",
       "accessNote": "11 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -36362,9 +37123,9 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T21:31:17.686266Z",
+      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z",
       "lastConsultedAt": "2026-10-24T16:19:40.738Z",
-      "accessNote": "5 publicações relacionadas nesta consulta",
+      "accessNote": "4 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
       "sourceCount": 24,
       "periods": [
@@ -36594,11 +37355,11 @@
       "nature": "órgão público",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T21:31:17.686266Z",
-      "lastConsultedAt": "2026-10-24T22:48:23.520Z",
+      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z",
+      "lastConsultedAt": "2026-10-24T23:39:31.888Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 211,
+      "sourceCount": 221,
       "periods": [
         2018,
         2019,
@@ -36619,8 +37380,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 210,
-      "analysedCount": 196
+      "accessedCount": 220,
+      "analysedCount": 206
     },
     {
       "id": "fonte-3ed65b2f1d041330",
@@ -39114,6 +39875,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-9de796f33962ade4",
+      "itemId": "pesquisa-06d3e50937cf5271",
+      "title": "Rádio Senado: transcrição publicada registra justificativa de Flávio para porte de defensores",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "Publicação de 08/09/2026 contém transcrição textual produzida pela Rádio Senado, que atribui a Flávio a defesa do projeto em razão de ameaças e riscos de retaliação sofridos por defensores públicos. O texto informa extensão proposta a membros da AGU e procuradorias, com requisitos legais. Os riscos são argumentos atribuídos à fala, não constatação independente deste arquivo.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-7e872f3e6a353fa8",
       "itemId": "pesquisa-aa340b8d285167a7",
       "title": "Vídeo manipulado atribui promessa de salário mínimo de R$ 3 mil",
@@ -39132,12 +39902,57 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-d7a4b3dc18784c20",
+      "itemId": "pesquisa-d297e391025246bd",
+      "title": "Senado: notas integrais de 01/09/2026 documentam três relatorias de Flávio na CSP",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "Transcrição revista da 13ª CSP apresenta Flávio como relator favorável ao PL 3341/2025, de Augusta Brito, para prevenção do assédio sexual nos transportes; registra justificativa e emenda ao PL 2343/2025 sobre porte para defensores e advogados públicos; e discussão do PL 3272/2024 sobre armas para mulheres sob medida protetiva, com pedido de vista. Há manifestações diferentes de senadores, sem juízo editorial sobre veracidade de estudos citados nas falas.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-581965dace5c5bfc",
+      "itemId": "pesquisa-be6289aab87fd26c",
+      "title": "Senado: CSP aprovou relatório de Flávio sobre prevenção ao assédio em transporte",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "A ficha oficial do item 3 da 13ª reunião da CSP em 01/09/2026 registra aprovação de relatório favorável ao PL 3341/2025, de autoria de Augusta Brito e relatado por Flávio. O ato fez do relatório parecer da CSP, sem promulgação de norma.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-31eadb95924ce40b",
+      "itemId": "pesquisa-b9acbe570d7309ab",
+      "title": "Senado: CSP concedeu vista ao PL 3272/2024 sobre porte para mulheres sob medida protetiva",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "O item 6 da reunião de 01/09/2026 lista relatório de Flávio pela aprovação nos termos do substitutivo da CDH com subemenda. O campo de resultado registra apenas 'Vista concedida'. A existência de relatório favorável não deve ser confundida com aprovação do colegiado ou sanção.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-6f18eb7b31fc0baf",
       "itemId": "pesquisa-737e9bdf05bd493e",
       "title": "PL 2.064/2025: três versões de relatório de Flávio na CSP em 2026",
       "date": "2026-09-01",
       "datePrecision": "day",
       "context": "O projeto sobre benefícios penais é de Jaime Bagattoli, não de Flávio. A ficha lista Flávio como relator na CSP e versões de parecer de 12/06, 03/07 e 09/07/2026, com alterações no número de emendas, e situação pronta para pauta em 01/09/2026.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-3c78223f46dfefee",
+      "itemId": "pesquisa-5dbd0df79a761b1b",
+      "title": "Senado: CSP aprovou relatório de Flávio ao PL 2343/2025 com emenda de Alessandro Vieira",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "O item 5 da 13ª reunião extraordinária registra aprovação do relatório favorável de Flávio, transformado em parecer da CSP, com a Emenda 1-CSP de Alessandro Vieira. A emenda abrange também advocacia pública; não foi sancionada qualquer lei por este ato.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f7180b7c1493847c",
+      "itemId": "pesquisa-15719968ce2a05f4",
+      "title": "Agência Senado: PL 2343/2025 foi enviado à CCJ após parecer relatado por Flávio na CSP",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "Reportagem de 01/09/2026 relata o parecer favorável de Flávio ao PL 2343/2025, proposto por Carlos Portinho, com emenda de Alessandro Vieira incluindo advogados públicos e mantendo comprovação de capacidade técnica e psicológica. O prosseguimento para a CCJ é informado como etapa seguinte, sem vigência imediata.",
       "state": "data informada pela fonte"
     },
     {
@@ -39283,6 +40098,15 @@
       "datePrecision": "unknown",
       "context": "Material de AFP Checamos relacionado a Flávio Bolsonaro: OAB não autorizou visitas de Flávio a Jair Bolsonaro; por ordem de Moraes, encontros foram suspensos por 90 dias. Rótulos, conclusões e correções permanecem atribuídos ao publicador; o Arquivo não cria nova classificação editorial a partir desta coleta.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-b4441c9bd1fe634d",
+      "itemId": "pesquisa-0c1d32a61d16444e",
+      "title": "ADPETO: associação relata articulação da ANADEP junto ao projeto relatado por Flávio",
+      "date": "2026-07-15",
+      "datePrecision": "day",
+      "context": "Comunicado associativo de 15/07/2026 informa articulações que atribui à ANADEP para apresentação e tramitação do PL 2343/2025 e relata a atribuição da relatoria da CSP a Flávio. É uma manifestação favorável de interesse de classe, publicada antes da aprovação do parecer em setembro; contrapõe a narrativa do andamento institucional, não constitui prova independente de que as tratativas narradas ocorreram como descritas.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-92d16500681e36d1",
@@ -39960,6 +40784,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-440a236fc82883ce",
+      "itemId": "pesquisa-61ec51dfad869a96",
+      "title": "Senado: Flávio relatou favoravelmente projeto de Augusta Brito contra assédio no transporte",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "Ficha mostra Augusta Brito como autora do PL 3341/2025 sobre prevenção do assédio sexual e da violência sexual no transporte coletivo; Flávio entregou parecer favorável em 27/08/2026, acolhido pela CSP em 01/09/2026. A tramitação passou à CDH, com Ivete da Silveira designada relatora em 17/09. Trata-se de cooperação em projeto de autoria de parlamentar de outra legenda, não de aprovação definitiva.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-14928a69e2d8a637",
       "itemId": "pesquisa-30ee475a078d16d7",
       "title": "Manifestação contrária à MP 1.292/2025 sobre crédito consignado",
@@ -39993,6 +40826,15 @@
       "date": "2025-07-01",
       "datePrecision": "day",
       "context": "Projeto de Angelo Coronel sobre destinação de recursos do Fundo Nacional de Segurança Pública às guardas municipais. A ficha registra que Flávio avocou relatoria na Comissão de Segurança Pública em 01/07/2025, sem comprovar aprovação final.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-48571f5ff5c9f63c",
+      "itemId": "pesquisa-abe0d251cfccde26",
+      "title": "Senado: PL 2343/2025 tem relatoria de Flávio e aguarda novo relator na CCJ",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "Ficha identifica Carlos Portinho como autor, relatório favorável de Flávio apresentado em 27/08/2026, parecer P.S. 29/2026-CSP de 01/09/2026 e emenda de Alessandro Vieira. O estado exibido na consulta de 24/10/2026 era 'aguardando designação do relator' na CCJ desde 01/09/2026. Autoria e relatoria estão separadas.",
       "state": "data informada pela fonte"
     },
     {
@@ -40047,6 +40889,15 @@
       "date": "2025-04-08",
       "datePrecision": "day",
       "context": "Na 5ª reunião da CSP, Alessandro Vieira informou acolhimento integral da emenda de Contarato, acolhimento parcial da de Moro e rejeição das duas de Kajuru. O texto discutido condicionava o porte à legislação e a regulamento e previa restrições de entrada armada em locais sujeitos a segurança própria. Moro justificou cuidados com treinamento, aptidão e espaços como fóruns e prisões. Contarato reiterou preocupações sobre segurança, mas declarou voto favorável após ajustes. Flávio presidiu a votação simbólica, declarou aprovado o parecer da comissão, agradeceu aos participantes e defendeu a continuidade na CCJ. A aprovação da CSP não torna o projeto lei.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-345ee90f80ffc3d1",
+      "itemId": "pesquisa-0d7d99fedad40a07",
+      "title": "Agência Senado: texto aprovado na CSP em abril de 2025 difere dos PLs originais sobre porte para advogados",
+      "date": "2025-04-08",
+      "datePrecision": "day",
+      "context": "A reportagem detalha a aprovação, na CSP, do substitutivo relatado por Alessandro Vieira a projeto de autoria de Flávio Bolsonaro. O texto diz que Contarato e Moro propuseram ajustes sobre capacidade técnica, aptidão psicológica e locais de ingresso; confronta alcances dos PLs 2734/2021 e 2530/2024 e distingue a etapa da CCJ. Os números de homicídios de advogados são relatados como argumento atribuído a Flávio, não apuração estatística deste catálogo.",
       "state": "data informada pela fonte"
     },
     {
@@ -40183,6 +41034,15 @@
       "datePrecision": "unknown",
       "context": "Ficha do Senado atribui a autoria original ao deputado Carlos Eduardo Cadoca e registra Flávio como relator na CCJ, relator ad hoc em comissão e relator de Plenário em 05/06/2024, com relatórios e pareceres. Identifica conversão na Lei 14.978/2024, com veto parcial.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-44ba04d19e8e44da",
+      "itemId": "pesquisa-a21de0cc7c102b7e",
+      "title": "Senado: PL 3272/2024 permanece com vista concedida e relatório de Flávio",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "Ficha registra autoria de Rosana Martinelli em 2024 e parecer apresentado por Flávio Bolsonaro em 03/07/2026 favorável ao substitutivo da CDH com subemenda. Em 01/09/2026, o resultado na CSP foi pedido de vista concedido; esse status permanecia indicado na ficha na consulta de 24/10. Não houve aprovação pela CSP nessa sessão.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-4d61709137548a73",
@@ -47442,6 +48302,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-9de796f33962ade4",
+      "itemId": "pesquisa-06d3e50937cf5271",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/09/08/defensores-e-advogados-publicos-podem-ter-porte-de-arma-de-fogo",
+      "locator": "Página Rádio Senado, publicação 08/09/2026 às 11h25; HTML linhas 8–24, seção Transcrição.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-7e872f3e6a353fa8",
       "itemId": "pesquisa-aa340b8d285167a7",
       "sourceId": "fonte-58d9376cef7ffa17",
@@ -47464,11 +48335,66 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-d7a4b3dc18784c20",
+      "itemId": "pesquisa-d297e391025246bd",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14952",
+      "locator": "Notas taquigráficas revisadas, 13ª CSP, 01/09/2026; HTML linhas 23–29 (abertura), 96–115 (PL 3341), 116–126 (PL 2343) e 127–147 (PL 3272).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-581965dace5c5bfc",
+      "itemId": "pesquisa-be6289aab87fd26c",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/14952/item/112384",
+      "locator": "CSP, 13ª reunião extraordinária de 01/09/2026, item 3; HTML linhas 20–51.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-31eadb95924ce40b",
+      "itemId": "pesquisa-b9acbe570d7309ab",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/14952/item/112376",
+      "locator": "CSP, 13ª reunião, item 6, 01/09/2026; HTML linhas 20–52.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-6f18eb7b31fc0baf",
       "itemId": "pesquisa-737e9bdf05bd493e",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168377",
       "locator": "Ficha PL 2064/2025; autoria Jaime Bagattoli; relatoria Flávio; documentos de 12/06, 03/07 e 09/07/2026; última situação de 01/09.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-3c78223f46dfefee",
+      "itemId": "pesquisa-5dbd0df79a761b1b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/14952/item/112382",
+      "locator": "Ficha da 13ª reunião CSP em 01/09/2026, item 5; HTML linhas 20–53.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f7180b7c1493847c",
+      "itemId": "pesquisa-15719968ce2a05f4",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/01/vai-a-ccj-projeto-que-libera-porte-de-arma-para-defensores-publicos",
+      "locator": "Agência Senado, 01/09/2026 às 12h53; HTML linhas 19–34.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -47645,6 +48571,17 @@
       "sourceId": "fonte-875b77e7aba40e8b",
       "url": "https://checamos.afp.com/doc.afp.com.C2WL9NR",
       "locator": "Página integral acessada; detalhes e documentos vinculados permanecem no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-b4441c9bd1fe634d",
+      "itemId": "pesquisa-0c1d32a61d16444e",
+      "sourceId": "fonte-508d60279dcebcef",
+      "url": "https://adpeto.org.br/noticias/2026/7/15/adpeto-informa-sobre-atuacao-da-anadep/",
+      "locator": "ADPETO, notícia de 15/07/2026; HTML linhas 75–85.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -48476,6 +49413,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-440a236fc82883ce",
+      "itemId": "pesquisa-61ec51dfad869a96",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169523",
+      "locator": "Ficha PL 3341/2025; HTML linhas 20–25 (autoria), 47–54 (CDH), 103–128 (relatoria e CSP).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-14928a69e2d8a637",
       "itemId": "pesquisa-30ee475a078d16d7",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -48514,6 +49462,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168690",
       "locator": "Ficha PL 2413/2025, Autoria, Relatoria, Tramitação, ação CSP de 01/07/2025.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-48571f5ff5c9f63c",
+      "itemId": "pesquisa-abe0d251cfccde26",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168625",
+      "locator": "Identificação e situação, HTML linhas 20–48; relatório e emenda, 98–138; atos e tramitação na ficha.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -48580,6 +49539,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/13420",
       "locator": "Notas taquigráficas revisadas, 5ª CSP, 08/04/2025: HTML linhas 98–114 (item e substitutivo), 115–145 (manifestações de Moro, Contarato, presidência, votação e agradecimentos).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-345ee90f80ffc3d1",
+      "itemId": "pesquisa-0d7d99fedad40a07",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/04/08/csp-aprova-porte-de-arma-de-fogo-aos-advogados-para-defesa-pessoal",
+      "locator": "Agência Senado, publicação de 08/04/2025 às 15h46; HTML linhas 19–41.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -48745,6 +49715,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136000",
       "locator": "Cabeçalho Autoria e Norma Gerada; tramitação de 15/03/2023, 22/11/2023 e 05/06/2024; Relação de Documentos e Relatorias; último estado de 19/09/2024.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-44ba04d19e8e44da",
+      "itemId": "pesquisa-a21de0cc7c102b7e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/165143",
+      "locator": "Ficha PL 3272/2024; HTML linhas 20–53 (ementa, relatoria e estado) e 144–156 (relatório de 03/07/2026).",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -51892,21 +52873,22 @@
     },
     {
       "year": 2024,
-      "found": 31,
-      "accessed": 31,
-      "analysed": 30,
+      "found": 32,
+      "accessed": 32,
+      "analysed": 31,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 1,
-        "analisado": 30,
+        "analisado": 31,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "PLP 210/2024": 1,
         "PL 1829/2019": 2,
+        "PL 3272/2024": 1,
         "economia": 2,
         "Justiça": 1,
         "Abin": 1,
@@ -51927,12 +52909,12 @@
         "elegibilidade de militares": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 29,
+        "fonte-2acd9e7dc92e583a": 30,
         "fonte-875b77e7aba40e8b": 1,
         "fonte-ad60f42b08c8e9e7": 1
       },
       "formats": {
-        "documento": 24,
+        "documento": 25,
         "checagem": 1,
         "audio": 1,
         "registro": 1,
@@ -51943,15 +52925,15 @@
     },
     {
       "year": 2025,
-      "found": 59,
-      "accessed": 59,
-      "analysed": 56,
+      "found": 62,
+      "accessed": 62,
+      "analysed": 59,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 3,
-        "analisado": 56,
+        "analisado": 59,
         "revisado": 0,
         "publicado": 0
       },
@@ -51972,12 +52954,14 @@
         "justica": 1,
         "PL 4809/2024": 1,
         "Conselho de Ética": 1,
-        "PL 2734/2021": 6,
+        "PL 2734/2021": 7,
         "Correios": 1,
+        "PL 3341/2025": 1,
         "MPV 1292/2025": 1,
         "economia": 1,
         "Lei 15152/2025": 1,
         "PL 2413/2025": 1,
+        "PL 2343/2025": 1,
         "imunidade parlamentar": 1,
         "educação": 1,
         "saude": 1,
@@ -51990,7 +52974,7 @@
       },
       "sources": {
         "fonte-ab7ca292b805c308": 1,
-        "fonte-2acd9e7dc92e583a": 46,
+        "fonte-2acd9e7dc92e583a": 49,
         "fonte-29a2bae5277f274b": 3,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
@@ -52001,25 +52985,25 @@
       },
       "formats": {
         "audio": 1,
-        "documento": 36,
+        "documento": 38,
         "registro": 4,
         "checagem": 6,
-        "reportagem": 11,
+        "reportagem": 12,
         "video": 1
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2026,
-      "found": 255,
-      "accessed": 255,
-      "analysed": 251,
+      "found": 262,
+      "accessed": 262,
+      "analysed": 258,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 4,
-        "analisado": 251,
+        "analisado": 258,
         "revisado": 0,
         "publicado": 0
       },
@@ -52055,7 +53039,10 @@
         "meio ambiente": 1,
         "STF": 2,
         "candidatura": 1,
+        "PL 2343/2025": 5,
         "banco-master": 2,
+        "PL 3341/2025": 1,
+        "PL 3272/2024": 1,
         "reincidência": 1,
         "dosimetria da pena": 1,
         "desinformacao": 1,
@@ -52094,12 +53081,13 @@
         "fonte-9c2fbd587c9a9fb0": 6,
         "fonte-244f3d7e18ba861f": 1,
         "fonte-d17e0097bbcd6c10": 1,
-        "fonte-2acd9e7dc92e583a": 19,
+        "fonte-2acd9e7dc92e583a": 25,
         "fonte-63c50c68422ef210": 1,
         "fonte-e24089d8c0bdeda6": 2,
         "fonte-4315e33aeb7227ab": 1,
         "fonte-cd19e6197d9bdf02": 1,
         "fonte-7d7b950bffc2fe29": 8,
+        "fonte-508d60279dcebcef": 1,
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
         "fonte-29a2bae5277f274b": 2,
@@ -52108,20 +53096,20 @@
       "formats": {
         "video": 6,
         "checagem": 206,
-        "reportagem": 20,
-        "registro": 2,
-        "documento": 19,
+        "reportagem": 22,
+        "registro": 3,
+        "documento": 23,
         "audio": 2
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 525,
-    "items": 543,
+    "newItems": 536,
+    "items": 554,
     "alreadyInArchive": 18,
-    "accessed": 540,
-    "analysed": 515,
+    "accessed": 551,
+    "analysed": 526,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -52129,16 +53117,16 @@
     "statementCandidates": 186,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 44,
-    "sourcesConsulted": 39,
+    "sources": 45,
+    "sourcesConsulted": 40,
     "video": 17,
     "audio": 5,
-    "documents": 190,
+    "documents": 197,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 157,
-    "accessFailures": 33,
+    "queryCount": 162,
+    "accessFailures": 35,
     "undatedItems": 37
   },
   "queries": [
@@ -52672,6 +53660,51 @@
       "engine": "web fast e tentativas de abertura direta",
       "interval": "2003-2014",
       "resultsState": "Resultados de busca localizados, mas aberturas das páginas antigas retornaram HTTP 502. Excluídos dos registros como material lido."
+    },
+    {
+      "id": "consulta-4837c6cf820facc0",
+      "batch": "csp-2026-relatorias-20261024-26",
+      "query": "PL 2734/2021 CSP aprovação abril 2025 texto emendas advogados Flávio Alessandro Vieira Agência Senado",
+      "executedAt": "2026-10-24T23:39:31.888Z",
+      "engine": "web.run, abrir notícia da Agência Senado; comparar URLs do checkpoint 25 e catálogo",
+      "interval": "2025",
+      "resultsState": "Reportagem de 08/04/2025 nova em relação aos documentos já registrados; descreve diferenças entre substitutivo e projeto original."
+    },
+    {
+      "id": "consulta-3ad5c39969df40cc",
+      "batch": "csp-2026-relatorias-20261024-26",
+      "query": "PL 2343/2025 Flávio Bolsonaro relator 2026 CSP CCJ Alessandro Vieira ADPETO ANADEP",
+      "executedAt": "2026-10-24T23:39:31.888Z",
+      "engine": "web.run, abertura de ficha legislativa, reunião, reportagem e associação",
+      "interval": "2025–2026",
+      "resultsState": "Confirmada autoria de Carlos Portinho, relatoria favorável de Flávio, emenda de Alessandro Vieira, parecer aprovado pela CSP em 01/09 e CCJ aguardando relatoria na ficha aberta em 24/10; comunicado da ADPETO identificado como relato da entidade."
+    },
+    {
+      "id": "consulta-545fc30912c0d2fd",
+      "batch": "csp-2026-relatorias-20261024-26",
+      "query": "PL 3272/2024 mulheres medidas protetivas Flávio Bolsonaro comissão segurança pública 01/09/2026",
+      "executedAt": "2026-10-24T23:39:31.888Z",
+      "engine": "web.run, abertura de ficha legislativa e item da CSP e notas taquigráficas",
+      "interval": "2024–2026",
+      "resultsState": "Confirmado relatório favorável de Flávio, mas resultado da CSP foi vista concedida; não classificada como aprovação."
+    },
+    {
+      "id": "consulta-c5ac6459b413f753",
+      "batch": "csp-2026-relatorias-20261024-26",
+      "query": "PL 3341/2025 Augusta Brito Flávio Bolsonaro relatoria assédio sexual transporte público CSP CDH",
+      "executedAt": "2026-10-24T23:39:31.888Z",
+      "engine": "web.run, ficha, item de reunião e notas taquigráficas oficiais",
+      "interval": "2025–2026",
+      "resultsState": "Projeto de autoria de Augusta Brito com relatoria favorável de Flávio aprovada na CSP em 01/09; andamento seguinte na CDH sob Ivete da Silveira."
+    },
+    {
+      "id": "consulta-25c3dd5a3a7b080f",
+      "batch": "csp-2026-relatorias-20261024-26",
+      "query": "13ª Reunião CSP 1 setembro 2026 notas taquigráficas 14952 Flávio relatório 2343 3272 3341",
+      "executedAt": "2026-10-24T23:39:31.888Z",
+      "engine": "web.run, leitura direta do texto de notas taquigráficas revisadas",
+      "interval": "2026",
+      "resultsState": "Localizados trechos com intervenção de Flávio e outros senadores. Somente texto revisto conferido, sem audição, marca temporal ou validação de dados estatísticos declarados."
     },
     {
       "id": "consulta-3fc61bdb0bf2f690",
@@ -53673,6 +54706,18 @@
       "error": "Nenhum áudio ou vídeo reproduzido. PDFs do relatório da CPI, da PET 38/2026 e do DSF não examinados na íntegra; não criar transcrições, timestamps ou alegações sobre trechos não vistos."
     },
     {
+      "batch": "csp-2026-relatorias-20261024-26",
+      "source": "Relatórios, substitutivos e emendas em PDF de PL 2343/2025, PL 3272/2024, PL 3341/2025 e PL 2734/2021",
+      "status": "Integra não consultada nesta execução",
+      "note": "Metadados e histórico em HTML conferidos. Não se declara falha de acesso ao PDF onde não houve tentativa direta de leitura, nem se afirma conhecer conteúdo integral."
+    },
+    {
+      "batch": "csp-2026-relatorias-20261024-26",
+      "source": "Áudio da Rádio Senado e gravação audiovisual da 13ª CSP",
+      "status": "Não reproduzidos",
+      "note": "Zero segundos conferidos; horários exibidos na página não constituem timestamps de audição própria."
+    },
+    {
       "batch": "oficiais",
       "url": "https://alerjln1.alerj.rj.gov.br/contlei.nsf/flaviobolsonaroint?ExpandView=&OpenForm=",
       "ref": "turn7view0",
@@ -54172,6 +55217,36 @@
       "note": "topic: Publicação e testes; note: Executar build_research.py no workflow do repositório; confirmar que os 11 registros passam por normalização sem perda, testes e leitura do JSON persistido. Preservar dados recentes do coletor e não mudar approvedReviewerIds.",
       "state": "pendente",
       "batch": "contexto-provas-20261024-06"
+    },
+    {
+      "id": "lacuna-a0806887fae9d92f",
+      "note": "Comparar texto integral das emendas e dos pareceres dos PL 2343/2025, 3272/2024, 3341/2025 e 2734/2021 com as intervenções em HTML antes de descrever cláusulas decisivas.",
+      "state": "pendente",
+      "batch": "csp-2026-relatorias-20261024-26"
+    },
+    {
+      "id": "lacuna-01ac3732d0f170db",
+      "note": "Buscar manifestação diretamente publicada pela ANADEP e contrapontos de instituições de prevenção à violência e especialistas, especialmente sobre porte de arma e medidas protetivas. O comunicado da ADPETO não autentica por si só a articulação nacional alegada.",
+      "state": "pendente",
+      "batch": "csp-2026-relatorias-20261024-26"
+    },
+    {
+      "id": "lacuna-409991963f5695d9",
+      "note": "Reabrir CCJ do PL 2343/2025, CDH do PL 3341/2025 e CSP do PL 3272/2024 para confirmar novos andamentos; parecer de comissão não é lei.",
+      "state": "pendente",
+      "batch": "csp-2026-relatorias-20261024-26"
+    },
+    {
+      "id": "lacuna-0e995f7263069bc1",
+      "note": "Verificar nas fontes primárias os percentuais de assédio citados no relatório do PL 3341/2025 e as afirmações sobre violência profissional no PL 2343/2025 antes de criar qualquer conclusão factual própria.",
+      "state": "pendente",
+      "batch": "csp-2026-relatorias-20261024-26"
+    },
+    {
+      "id": "lacuna-75d1b3046ed4a60c",
+      "note": "Zero segundos de áudio/vídeo ou minutagem revisados neste checkpoint. Toda nova comparação, acusação e classificação sensível requer revisor editorial humano autorizado; nenhum revisor ou veredito foi adicionado.",
+      "state": "pendente",
+      "batch": "csp-2026-relatorias-20261024-26"
     },
     {
       "id": "lacuna-2b14223c05d3d8f3",
@@ -54684,6 +55759,12 @@
       "label": "Câmara, histórico de ALERJ, checagem externa e respostas públicas",
       "method": "Sete textos HTML efetivamente abertos e confrontados por URL com o catálogo; localizadores e ressalvas no próprio registro; coleta audiovisual zero.",
       "collected_at_utc": "2026-10-24T18:58:29.750Z"
+    },
+    {
+      "id": "checkpoint-20261024-26",
+      "label": "CSP de 01/09/2026: três relatorias de Flávio, ênfase em situações processuais distintas; complemento PL 2734/2021 e posicionamento de entidade",
+      "collected_at_utc": "2026-10-24T23:39:31.888Z",
+      "method": "11 URLs únicas abertas em HTML e não presentes nos 543 registros do head inicial; 0 segundos de audiovisual; classificação editorial nula e revisão pendente."
     },
     {
       "name": "Senado Federal, atividade parlamentar",

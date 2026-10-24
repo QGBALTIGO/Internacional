@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T22:48:57.941245Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T23:39:41.493492Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-543 URLs únicas no lote; 525 ainda não vinculadas à edição anterior. 540 materiais acessados e 515 com texto analisado.
+554 URLs únicas no lote; 536 ainda não vinculadas à edição anterior. 551 materiais acessados e 526 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -33,9 +33,9 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2021 | 32 | 32 | 28 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
-| 2024 | 31 | 31 | 30 | 0 | 0 |
-| 2025 | 59 | 59 | 56 | 0 | 0 |
-| 2026 | 255 | 255 | 251 | 0 | 0 |
+| 2024 | 32 | 32 | 31 | 0 | 0 |
+| 2025 | 62 | 62 | 59 | 0 | 0 |
+| 2026 | 262 | 262 | 258 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -102,6 +102,11 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - topic: CPI da Pandemia; note: Ler PDF integral do relatório aprovado e votos divergentes; checar andamento posterior junto às autoridades, mantendo pedidos de indiciamento distintos de decisões criminais.
 - topic: ALERJ; note: Repetir acesso oficial a fichas históricas apenas quando servidor responder; páginas indexadas com HTTP 502 não entram como documentos examinados.
 - topic: Publicação e testes; note: Executar build_research.py no workflow do repositório; confirmar que os 11 registros passam por normalização sem perda, testes e leitura do JSON persistido. Preservar dados recentes do coletor e não mudar approvedReviewerIds.
+- Comparar texto integral das emendas e dos pareceres dos PL 2343/2025, 3272/2024, 3341/2025 e 2734/2021 com as intervenções em HTML antes de descrever cláusulas decisivas.
+- Buscar manifestação diretamente publicada pela ANADEP e contrapontos de instituições de prevenção à violência e especialistas, especialmente sobre porte de arma e medidas protetivas. O comunicado da ADPETO não autentica por si só a articulação nacional alegada.
+- Reabrir CCJ do PL 2343/2025, CDH do PL 3341/2025 e CSP do PL 3272/2024 para confirmar novos andamentos; parecer de comissão não é lei.
+- Verificar nas fontes primárias os percentuais de assédio citados no relatório do PL 3341/2025 e as afirmações sobre violência profissional no PL 2343/2025 antes de criar qualquer conclusão factual própria.
+- Zero segundos de áudio/vídeo ou minutagem revisados neste checkpoint. Toda nova comparação, acusação e classificação sensível requer revisor editorial humano autorizado; nenhum revisor ou veredito foi adicionado.
 - Ouvir e conferir em arquivos originais as falas parlamentares de 2021–2023; nesta etapa foram analisadas transcrições HTML e notícias institucionais, com zero segundos de áudio revisado.
 - Abrir anexos PDF do DSF, emendas e documentos de votação antes de qualquer citação literal adicional ou comparação factual sobre o texto de emendas.
 - Para RQS 789/2022, RQS 791/2022, RQS 950/2023 e PEC 1/2022, confrontar registros nominais, texto objeto e destaque antes de concluir mudança de posição ou contradição.
@@ -205,6 +210,8 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - batch: checagens; url: Vídeos YouTube vinculados por Intercept/AFP; web_ref: turn22view4 e turn22view6; error: Falha ao abrir; nenhuma revisão audiovisual alegada.
 - batch: contexto-provas-20261024-06; source: Arquivo ALERJ histórico; date: 2026-10-24; error: Tentativas diretas de abertura das fichas PL 2974/2014, PR 536/2011, Moção 2650/2003 e projetos correlatos retornaram HTTP 502 no navegador. Nenhuma ficha foi tratada como texto efetivamente acessado; há apenas metadados indexados.; urls: https://alerjln1.alerj.rj.gov.br/scpro1115.nsf/18c1dd68f96be3e7832566ec0018d833/45741a7e2ccdc50a83257c980062a2c2; https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/0c5bf5cde95601f903256caa0023131b/7c5e3718a895341783256dc9004b6f49
 - batch: contexto-provas-20261024-06; source: Conteúdo audiovisual e documentos integrais; date: 2026-10-24; error: Nenhum áudio ou vídeo reproduzido. PDFs do relatório da CPI, da PET 38/2026 e do DSF não examinados na íntegra; não criar transcrições, timestamps ou alegações sobre trechos não vistos.
+- batch: csp-2026-relatorias-20261024-26; source: Relatórios, substitutivos e emendas em PDF de PL 2343/2025, PL 3272/2024, PL 3341/2025 e PL 2734/2021; status: Integra não consultada nesta execução; note: Metadados e histórico em HTML conferidos. Não se declara falha de acesso ao PDF onde não houve tentativa direta de leitura, nem se afirma conhecer conteúdo integral.
+- batch: csp-2026-relatorias-20261024-26; source: Áudio da Rádio Senado e gravação audiovisual da 13ª CSP; status: Não reproduzidos; note: Zero segundos conferidos; horários exibidos na página não constituem timestamps de audição própria.
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/contlei.nsf/flaviobolsonaroint?ExpandView=&OpenForm=; ref: turn7view0; status: fetch_error; discovery: Índice de leis atribuído a Flávio, menção à Lei 4250/2003; conteúdo não acessado.
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/f25edae7e64db53b032564fe005262ef/f7c66e86d7cd4c378325724b006e81cc?OpenDocument=; ref: turn7view1; status: fetch_error; discovery: Ficha de lei vinculada a PL 826-A/2003; não lida.
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/89b3addb48a95fe483256cef004aedf1/f6ff55775a5a7d8983256dc1005c4717?OpenDocument=; ref: turn7view2; status: fetch_error; discovery: Parecer 26/11/2003 de comissão presidida por Flávio; não lido.
