@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T17:42:38.466134Z",
-    "inputHash": "61ba5ebcd3d8592502bb4fd61615f245349331a3c51eacb6bbb3336fb3819056",
+    "generatedAt": "2026-10-24T18:58:40.560089Z",
+    "inputHash": "2de2dd04a27cbd9dbec7ce4803653a3e3b987fd0a9991aabe7ffc2861609180d",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -545,6 +545,74 @@
         }
       ],
       "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-e86c60e867e6c98e",
+      "title": "No debate de 23/10/2026, Flávio reconheceu como erro seu voto de 2009 sobre licença-maternidade, segundo UOL",
+      "url": "https://noticias.uol.com.br/eleicoes/2026/10/23/flavio-diz-que-errou-ao-votar-contra-licenca-maternidade-o-que-falou-em-2009.ghtm",
+      "publisher": "UOL Notícias",
+      "date": "2026-10-23",
+      "eventDate": "2026-10-23",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "licença-maternidade",
+      "topics": [
+        "licença-maternidade",
+        "ALERJ",
+        "debate presidencial 2026",
+        "resposta pública",
+        "correção posterior"
+      ],
+      "stage": "analisado",
+      "summary": "UOL noticiou em 23/10/2026 que Flávio Bolsonaro disse ter errado ao votar contra a extensão da licença-maternidade para servidoras públicas estaduais em 2009, durante o debate presidencial daquele dia, e apresentou seu raciocínio da época e revisão posterior. O relato situa a PEC estadual 4/2007 e sua promulgação como Emenda Constitucional estadual 41/2009. Registrar a explicação posterior junto ao histórico de voto, sem tratá-la automaticamente como contradição ou falsidade comprovada.",
+      "limitations": "Reportagem em HTML consultada. Áudio/vídeo do debate, mapa original de votação da ALERJ, texto da PEC e Diário estadual não foram conferidos. Nenhuma citação literal audiovisual ou timestamp autenticado nesta pesquisa.",
+      "locator": "Reportagem de 23/10/2026, publicada à noite; trechos sobre pergunta no debate, justificativa retrospectiva e PEC 4/2007.",
+      "sourceId": "fonte-d8d286c6eb7bc5c3",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T18:58:29.750Z",
+      "lastModifiedAt": "2026-10-24T18:58:29.750Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Segundo o UOL, Flávio declarou no debate de 23/10/2026 que sua posição de 2009 foi um erro e explicou sua mudança de entendimento.",
+      "actor": "Flávio Bolsonaro (declaração atribuída em reportagem sobre debate); UOL Notícias (apuração)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 4/2007 (ALERJ); Emenda Constitucional RJ 41/2009",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "alerj-respostas-camara-20261024-21",
+          "inputId": "alerj-respostas-camara-20261024-21-uol-maternidade",
+          "toolReference": "turn567355view5"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e lida em 24/10/2026. Horário UTC do checkpoint marca o encerramento do lote, não a consulta individual. Nenhuma reprodução de áudio ou vídeo.",
       "newToArchive": true
     },
     {
@@ -5629,6 +5697,74 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-1e1dfcdadc2a7571",
+      "title": "Lupa examina declaração de Lula sobre voto de Flávio na licença-maternidade em 2009",
+      "url": "https://www.agencialupa.org/checagem/2026/10/23/erros-e-acertos-de-lula-na-campanha-pela-reeleicao-a-presidencia-em-2026/",
+      "publisher": "Agência Lupa",
+      "date": "2026-10-23",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "checagem",
+      "topic": "checagem externa",
+      "topics": [
+        "checagem externa",
+        "ALERJ",
+        "licença-maternidade",
+        "alegação de Lula",
+        "eleições 2026"
+      ],
+      "stage": "analisado",
+      "summary": "Checagem da Lupa publicada em 23/10/2026 examina, entre outras declarações de Lula, afirmação feita no debate de 18/10/2026 sobre a votação de Flávio Bolsonaro na ALERJ em proposta de licença-maternidade. A qualificação publicada é exclusiva da Agência Lupa, não um veredito adotado pelo Arquivo. A reportagem do UOL de 23/10/2026 registra posteriormente o reconhecimento do voto e explicação pública de Flávio.",
+      "limitations": "Checagem HTML lida; registros originais das duas votações estaduais e vídeo integral do debate não conferidos por este catálogo. A checagem reúne outras declarações que não são incorporadas como achados novos sobre Flávio.",
+      "locator": "Agência Lupa, 23/10/2026, seção sobre afirmação de Lula relativa à licença-maternidade e referências legislativas citadas.",
+      "sourceId": "fonte-cbedaeeb02ac6aaf",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T18:58:29.750Z",
+      "lastModifiedAt": "2026-10-24T18:58:29.750Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Luiz Inácio Lula da Silva (alegação objeto da checagem); Agência Lupa (verificação)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 4/2007 (ALERJ)",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "alerj-respostas-camara-20261024-21",
+          "inputId": "alerj-respostas-camara-20261024-21-lupa-maternidade",
+          "toolReference": "turn985293view1"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e lida em 24/10/2026. Horário UTC do checkpoint marca o encerramento do lote, não a consulta individual. Nenhuma reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-1aa4eb619d486a0c",
       "title": "Debate Globo: Na enchente de 2024 no RS, Lula \"não entregou nem 30% do que ele prometeu\"",
       "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-na-enchente-de-2024-no-rs-lula-nao-entregou-nem-30-do-que-ele-globo/",
@@ -6288,6 +6424,74 @@
         }
       ],
       "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-00ef2b9955b12fe6",
+      "title": "Lupa compara iniciativas legislativas de Flávio Bolsonaro com ações do Executivo desde 2003",
+      "url": "https://www.agencialupa.org/eleicoes/2026/10/23/o-que-lula-e-flavio-bolsonaro-fizeram-no-executivo-e-no-legislativo-desde-2003/",
+      "publisher": "Agência Lupa",
+      "date": "2026-10-23",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "trajetória parlamentar",
+      "topics": [
+        "trajetória parlamentar",
+        "ALERJ",
+        "Senado",
+        "eleições 2026",
+        "comparação institucional"
+      ],
+      "stage": "analisado",
+      "summary": "Levantamento publicado em 23/10/2026 reúne dados de atuação legislativa e ações do Executivo, com recortes de responsabilidades diferentes entre funções parlamentares e presidenciais. A Lupa explicita a abrangência temporal da coleta de dados, finalizada em 13/10/2026. As contagens e interpretações pertencem à reportagem, não são auditoria independente concluída pelo Arquivo.",
+      "limitations": "Texto HTML da reportagem consultado. As bases originais e cada lei ou projeto contabilizado não foram reabertos individualmente nesta consulta; não transformar contagens em indicadores de efetividade nem em comparação editorial aprovada.",
+      "locator": "Reportagem eleitoral de 23/10/2026, explicação metodológica e seções dedicadas às iniciativas parlamentares de Flávio Bolsonaro.",
+      "sourceId": "fonte-cbedaeeb02ac6aaf",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T18:58:29.750Z",
+      "lastModifiedAt": "2026-10-24T18:58:29.750Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Lupa (levantamento jornalístico)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "alerj-respostas-camara-20261024-21",
+          "inputId": "alerj-respostas-camara-20261024-21-lupa-historico",
+          "toolReference": "turn985293view0"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e lida em 24/10/2026. Horário UTC do checkpoint marca o encerramento do lote, não a consulta individual. Nenhuma reprodução de áudio ou vídeo.",
       "newToArchive": true
     },
     {
@@ -11444,6 +11648,73 @@
       "newToArchive": false
     },
     {
+      "id": "pesquisa-4155dff4cab35163",
+      "title": "Folha relata voto de Flávio Bolsonaro em 2009 sobre porte de armas e publica resposta de sua campanha em 2026",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-votou-contra-projeto-que-suspende-posse-de-arma-de-policial-que-comete-violencia-domestica.shtml",
+      "publisher": "Folha de S.Paulo",
+      "date": "2026-10-16",
+      "eventDate": "2009",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "ALERJ",
+      "topics": [
+        "ALERJ",
+        "violência doméstica",
+        "histórico parlamentar",
+        "resposta pública"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 16/10/2026 descreve voto contrário atribuído a Flávio Bolsonaro na Assembleia Legislativa do Rio de Janeiro durante tramitação de regra protetiva relativa a armas de agente da lei em contexto de violência doméstica, vinculada à Lei estadual 5.402/2009. A matéria também reproduz resposta da campanha, que afirma defesa do enfrentamento à violência contra mulheres e ressalta o devido processo legal. Trata-se de apuração e resposta atribuídas, sem veredito próprio ou confirmação independente do mapa de votação.",
+      "limitations": "Texto jornalístico efetivamente lido. Ata nominal, projeto original, justificativa de voto e íntegra oficial da lei de 2009 não foram localizados e lidos nesta consulta; não usar notícia como substituto do registro primário.",
+      "locator": "Reportagem publicada em 16/10/2026; parágrafos sobre votação na ALERJ, redação da proposta e nota enviada pela assessoria de Flávio.",
+      "sourceId": "fonte-244f3d7e18ba861f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T18:58:29.750Z",
+      "lastModifiedAt": "2026-10-24T18:58:29.750Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A Folha reproduz nota da campanha de Flávio em defesa do combate à violência doméstica e do devido processo legal; conferir teor e contextualização na reportagem.",
+      "actor": "Folha de S.Paulo (apuração); assessoria de Flávio Bolsonaro (resposta reproduzida)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei estadual RJ 5.402/2009",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "alerj-respostas-camara-20261024-21",
+          "inputId": "alerj-respostas-camara-20261024-21-folha-lei5402",
+          "toolReference": "turn567355view2"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e lida em 24/10/2026. Horário UTC do checkpoint marca o encerramento do lote, não a consulta individual. Nenhuma reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-2781e91965b4e2d5",
       "title": "Vídeo sobre cortar aposentadorias é atribuição falsa",
       "url": "https://checamos.afp.com/doc.afp.com.D3HE2WE",
@@ -15319,6 +15590,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-4415230a4bfbe2c5",
+      "title": "PL 1473/2025: situação na Câmara e designação de relator na CIDOSO",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2581904",
+      "publisher": "Câmara dos Deputados",
+      "date": "2026-04-30",
+      "eventDate": "2026-04-30",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1473/2025",
+      "topics": [
+        "PL 1473/2025",
+        "tramitação na Câmara",
+        "socioeducação"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha da Câmara identifica Fabiano Contarato como autor original do PL 1473/2025, apresentado para alterar regras de internação socioeducativa. Após aprovação e envio pelo Senado, a proposição seguiu para comissões da Câmara. O registro consultado indica aguardo de parecer na Comissão de Defesa dos Direitos da Pessoa Idosa, com designação do deputado Reimont em 30/04/2026. Não é lei aprovada na Câmara. Flávio Bolsonaro participou como relator no Senado, não como autor do projeto.",
+      "limitations": "Somente ficha HTML, sem leitura de textos integrais, parecer ou anexos PDF. Situação dinâmica válida para a consulta; acompanhar eventos posteriores, não presumir sanção nem aprovação final.",
+      "locator": "Ficha de tramitação, campos Autor, Ementa, Situação e Tramitação; despacho de 28/04/2026 e designação na CIDOSO em 30/04/2026.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T18:58:29.750Z",
+      "lastModifiedAt": "2026-10-24T18:58:29.750Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Fabiano Contarato (autor); Reimont (relator na Câmara); Flávio Bolsonaro (relator no Senado)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1473/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "alerj-respostas-camara-20261024-21",
+          "inputId": "alerj-respostas-camara-20261024-21-camara-pl1473",
+          "toolReference": "turn567355view0"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e lida em 24/10/2026. Horário UTC do checkpoint marca o encerramento do lote, não a consulta individual. Nenhuma reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-cc6a8299719a3356",
       "title": "É falso que Flávio Bolsonaro disse que aumentará idade da aposentadoria e cortará direitos trabalhistas no Rio Grande do Sul",
       "url": "https://checamos.afp.com/doc.afp.com.A8EY39E",
@@ -16949,6 +17286,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-3b436a2c00059b85",
+      "title": "PL 1473/2025: registro bicameral do Congresso identifica transferência ao exame da Câmara",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-1473-2025",
+      "publisher": "Congresso Nacional",
+      "date": "2025-11-05",
+      "eventDate": "2025-11-05",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 1473/2025",
+      "topics": [
+        "PL 1473/2025",
+        "trajetória bicameral",
+        "socioeducação"
+      ],
+      "stage": "analisado",
+      "summary": "O acompanhamento bicameral distingue a deliberação no Senado do exame posterior na Câmara e registra a remessa ocorrida em novembro de 2025. Em conjunto com a ficha da Câmara, demonstra que o encaminhamento de um projeto não equivale à aprovação final. As mudanças sugeridas na fase de relatoria de Flávio Bolsonaro devem ser examinadas em textos oficiais distintos.",
+      "limitations": "Página HTML de acompanhamento consultada; não houve leitura de PDFs de versões ou cotejo do texto inicial com substitutivo. Não constitui comprovação de entrada em vigor.",
+      "locator": "Portal de matérias bicamerais, PL 1473/2025, identificação das casas legislativas, autoria e movimentação após 05/11/2025.",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T18:58:29.750Z",
+      "lastModifiedAt": "2026-10-24T18:58:29.750Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Fabiano Contarato (autor formal da proposição)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1473/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "alerj-respostas-camara-20261024-21",
+          "inputId": "alerj-respostas-camara-20261024-21-congresso-pl1473",
+          "toolReference": "turn567355view1"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e lida em 24/10/2026. Horário UTC do checkpoint marca o encerramento do lote, não a consulta individual. Nenhuma reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-25fb076f7788b47e",
       "title": "AFP identifica imagem fabricada sobre torcida do Flamengo e Flávio",
       "url": "https://checamos.afp.com/doc.afp.com.827N8ZQ",
@@ -17792,6 +18195,73 @@
         }
       ],
       "accessMethod": "Abertura direta da página institucional em HTML e leitura do texto publicado; sem reprodução de áudio/vídeo, sem conferir íntegras de PDFs citados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-698ca258e6aafcbd",
+      "title": "Coalizão pela Socioeducação apresenta crítica pública ao PL 1473/2025",
+      "url": "https://coalizaopelasocioeducacao.com/pl-1473-2025-aumento-tempo-internacao-adolescentes/",
+      "publisher": "Coalizão pela Socioeducação",
+      "date": "2025-08-14",
+      "eventDate": "2025-08-14",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1473/2025",
+      "topics": [
+        "PL 1473/2025",
+        "socioeducação",
+        "contraponto público",
+        "direitos de adolescentes"
+      ],
+      "stage": "analisado",
+      "summary": "Manifestação pública de 14/08/2025 critica proposta de ampliar prazos de internação de adolescentes e apresenta argumentos jurídicos e socioeducativos contrários ao PL 1473/2025. É a posição identificada de uma organização civil, não conclusão judicial nem classificação factual do acervo. A publicação precede a tramitação posterior no Senado e na Câmara, de modo que versões diferentes do texto devem ser confrontadas.",
+      "limitations": "Somente HTML da manifestação lido; parecer técnico em PDF vinculado não foi aberto. A análise da entidade pode referir-se a versão anterior a alterações legislativas posteriores.",
+      "locator": "Publicação de 14/08/2025, corpo do texto e ligação anunciada para parecer técnico.",
+      "sourceId": "fonte-752f21616c18af3d",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T18:58:29.750Z",
+      "lastModifiedAt": "2026-10-24T18:58:29.750Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Coalizão pela Socioeducação",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1473/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "alerj-respostas-camara-20261024-21",
+          "inputId": "alerj-respostas-camara-20261024-21-coalizao-pl1473",
+          "toolReference": "turn567355view4"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e lida em 24/10/2026. Horário UTC do checkpoint marca o encerramento do lote, não a consulta individual. Nenhuma reprodução de áudio ou vídeo.",
       "newToArchive": true
     },
     {
@@ -33950,7 +34420,7 @@
       "monitoringEnabled": true,
       "accessNote": "6 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T18:57:35.876123Z"
     },
     {
       "id": "fonte-e1c9e5407b4d26a8",
@@ -33967,7 +34437,7 @@
       "monitoringEnabled": true,
       "accessNote": "4 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T18:57:35.876123Z"
     },
     {
       "id": "fonte-a08eae094412f4bb",
@@ -33982,9 +34452,33 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "monitoringEnabled": true,
-      "accessNote": "3 publicações relacionadas nesta consulta",
+      "accessNote": "1 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T18:57:35.876123Z"
+    },
+    {
+      "id": "fonte-cbedaeeb02ac6aaf",
+      "name": "Agência Lupa",
+      "url": "https://www.agencialupa.org/",
+      "responsible": "Agência Lupa",
+      "nature": "checagem jornalística",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-24T18:58:29.750Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 2,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "checagem",
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 2,
+      "analysedCount": 2
     },
     {
       "id": "fonte-9c2fbd587c9a9fb0",
@@ -33994,7 +34488,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z",
+      "lastSuccessfulCollectionAt": "2026-10-24T18:57:35.876123Z",
       "lastConsultedAt": "2026-10-24T11:14:02.380Z",
       "accessNote": "12 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -34102,6 +34596,29 @@
       "analysedCount": 8
     },
     {
+      "id": "fonte-752f21616c18af3d",
+      "name": "Coalizão pela Socioeducação",
+      "url": "https://coalizaopelasocioeducacao.com/",
+      "responsible": "Coalizão pela Socioeducação",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-24T18:58:29.750Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2025
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-ad60f42b08c8e9e7",
       "name": "Congresso Nacional",
       "url": "https://www.congressonacional.leg.br/",
@@ -34110,19 +34627,21 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T09:28:22.752Z",
+      "lastConsultedAt": "2026-10-24T18:58:29.750Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "periods": [
-        2024
+        2024,
+        2025
       ],
       "formats": [
-        "documento"
+        "documento",
+        "registro"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 1,
-      "analysedCount": 1
+      "accessedCount": 2,
+      "analysedCount": 2
     },
     {
       "id": "fonte-29a2bae5277f274b",
@@ -34133,10 +34652,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T10:52:28.495Z",
+      "lastConsultedAt": "2026-10-24T18:58:29.750Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "periods": [
         2007,
         2026
@@ -34145,8 +34664,8 @@
         "documento"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 2,
-      "analysedCount": 2
+      "accessedCount": 3,
+      "analysedCount": 3
     },
     {
       "id": "fonte-ee8b17bd10a7a2e4",
@@ -34193,6 +34712,29 @@
       "monitoringEnabled": false,
       "accessedCount": 153,
       "analysedCount": 153
+    },
+    {
+      "id": "fonte-244f3d7e18ba861f",
+      "name": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/",
+      "responsible": "Folha de S.Paulo",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-24T18:58:29.750Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
     },
     {
       "id": "fonte-f4bf17de55c94544",
@@ -34361,7 +34903,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z",
+      "lastSuccessfulCollectionAt": "2026-10-24T18:57:35.876123Z",
       "lastConsultedAt": "2026-10-24T16:19:40.738Z",
       "accessNote": "5 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -34593,7 +35135,7 @@
       "nature": "órgão público",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z",
+      "lastSuccessfulCollectionAt": "2026-10-24T18:57:35.876123Z",
       "lastConsultedAt": "2026-10-24T17:42:22.403Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -34689,6 +35231,29 @@
       ],
       "formats": [
         "registro"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-d8d286c6eb7bc5c3",
+      "name": "UOL Notícias",
+      "url": "https://noticias.uol.com.br/",
+      "responsible": "UOL Notícias",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-24T18:58:29.750Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
       ],
       "monitoringEnabled": false,
       "accessedCount": 1,
@@ -35388,6 +35953,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-80e4726bfb2886be",
+      "itemId": "pesquisa-e86c60e867e6c98e",
+      "title": "No debate de 23/10/2026, Flávio reconheceu como erro seu voto de 2009 sobre licença-maternidade, segundo UOL",
+      "date": "2026-10-23",
+      "datePrecision": "day",
+      "context": "UOL noticiou em 23/10/2026 que Flávio Bolsonaro disse ter errado ao votar contra a extensão da licença-maternidade para servidoras públicas estaduais em 2009, durante o debate presidencial daquele dia, e apresentou seu raciocínio da época e revisão posterior. O relato situa a PEC estadual 4/2007 e sua promulgação como Emenda Constitucional estadual 41/2009. Registrar a explicação posterior junto ao histórico de voto, sem tratá-la automaticamente como contradição ou falsidade comprovada.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-ed54231586272861",
       "itemId": "pesquisa-e626ee9f8573d37f",
       "title": "Debate Globo: Eu vou criar a casa da mulher brasileira, onde você vai ser acolhida.",
@@ -36081,6 +36655,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-0f889fe99c760349",
+      "itemId": "pesquisa-1e1dfcdadc2a7571",
+      "title": "Lupa examina declaração de Lula sobre voto de Flávio na licença-maternidade em 2009",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "Checagem da Lupa publicada em 23/10/2026 examina, entre outras declarações de Lula, afirmação feita no debate de 18/10/2026 sobre a votação de Flávio Bolsonaro na ALERJ em proposta de licença-maternidade. A qualificação publicada é exclusiva da Agência Lupa, não um veredito adotado pelo Arquivo. A reportagem do UOL de 23/10/2026 registra posteriormente o reconhecimento do voto e explicação pública de Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-d2af0f2e3b6eac51",
       "itemId": "pesquisa-1aa4eb619d486a0c",
       "title": "Debate Globo: Na enchente de 2024 no RS, Lula \"não entregou nem 30% do que ele prometeu\"",
@@ -36169,6 +36752,15 @@
       "datePrecision": "day",
       "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Globo de 23/10/2026. Resultado agregado exibido pela fonte: Verdadeiro. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
       "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9b03cb7ca549e38e",
+      "itemId": "pesquisa-00ef2b9955b12fe6",
+      "title": "Lupa compara iniciativas legislativas de Flávio Bolsonaro com ações do Executivo desde 2003",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Levantamento publicado em 23/10/2026 reúne dados de atuação legislativa e ações do Executivo, com recortes de responsabilidades diferentes entre funções parlamentares e presidenciais. A Lupa explicita a abrangência temporal da coleta de dados, finalizada em 13/10/2026. As contagens e interpretações pertencem à reportagem, não são auditoria independente concluída pelo Arquivo.",
+      "state": "identificação de evento pendente"
     },
     {
       "id": "evento-9558108decba11b1",
@@ -36873,6 +37465,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-edd39b472663ce45",
+      "itemId": "pesquisa-4155dff4cab35163",
+      "title": "Folha relata voto de Flávio Bolsonaro em 2009 sobre porte de armas e publica resposta de sua campanha em 2026",
+      "date": "2009",
+      "datePrecision": "day",
+      "context": "Reportagem de 16/10/2026 descreve voto contrário atribuído a Flávio Bolsonaro na Assembleia Legislativa do Rio de Janeiro durante tramitação de regra protetiva relativa a armas de agente da lei em contexto de violência doméstica, vinculada à Lei estadual 5.402/2009. A matéria também reproduz resposta da campanha, que afirma defesa do enfrentamento à violência contra mulheres e ressalta o devido processo legal. Trata-se de apuração e resposta atribuídas, sem veredito próprio ou confirmação independente do mapa de votação.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-dae5804882be65e8",
       "itemId": "pesquisa-2781e91965b4e2d5",
       "title": "Vídeo sobre cortar aposentadorias é atribuição falsa",
@@ -37404,6 +38005,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-d741c0b065026d7d",
+      "itemId": "pesquisa-4415230a4bfbe2c5",
+      "title": "PL 1473/2025: situação na Câmara e designação de relator na CIDOSO",
+      "date": "2026-04-30",
+      "datePrecision": "day",
+      "context": "A ficha da Câmara identifica Fabiano Contarato como autor original do PL 1473/2025, apresentado para alterar regras de internação socioeducativa. Após aprovação e envio pelo Senado, a proposição seguiu para comissões da Câmara. O registro consultado indica aguardo de parecer na Comissão de Defesa dos Direitos da Pessoa Idosa, com designação do deputado Reimont em 30/04/2026. Não é lei aprovada na Câmara. Flávio Bolsonaro participou como relator no Senado, não como autor do projeto.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-d098bd33d332d75f",
       "itemId": "pesquisa-cc6a8299719a3356",
       "title": "É falso que Flávio Bolsonaro disse que aumentará idade da aposentadoria e cortará direitos trabalhistas no Rio Grande do Sul",
@@ -37629,6 +38239,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-20860203eaeb5adc",
+      "itemId": "pesquisa-3b436a2c00059b85",
+      "title": "PL 1473/2025: registro bicameral do Congresso identifica transferência ao exame da Câmara",
+      "date": "2025-11-05",
+      "datePrecision": "day",
+      "context": "O acompanhamento bicameral distingue a deliberação no Senado do exame posterior na Câmara e registra a remessa ocorrida em novembro de 2025. Em conjunto com a ficha da Câmara, demonstra que o encaminhamento de um projeto não equivale à aprovação final. As mudanças sugeridas na fase de relatoria de Flávio Bolsonaro devem ser examinadas em textos oficiais distintos.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-eb602904650304f2",
       "itemId": "pesquisa-25fb076f7788b47e",
       "title": "AFP identifica imagem fabricada sobre torcida do Flamengo e Flávio",
@@ -37743,6 +38362,15 @@
       "date": "2025-08-26",
       "datePrecision": "day",
       "context": "Representação desmembrada da PCE 1/2020, com relatoria do senador Dr. Hiran. Página registra defesa preliminar apresentada por Flávio em 18/07/2024 e relatório preliminar juntado em 26/08/2025; na ficha consultada consta 'Em tramitação' e 'Pronta para a pauta no conselho'.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-11a4bd7bddd6960c",
+      "itemId": "pesquisa-698ca258e6aafcbd",
+      "title": "Coalizão pela Socioeducação apresenta crítica pública ao PL 1473/2025",
+      "date": "2025-08-14",
+      "datePrecision": "day",
+      "context": "Manifestação pública de 14/08/2025 critica proposta de ampliar prazos de internação de adolescentes e apresenta argumentos jurídicos e socioeducativos contrários ao PL 1473/2025. É a posição identificada de uma organização civil, não conclusão judicial nem classificação factual do acervo. A publicação precede a tramitação posterior no Senado e na Câmara, de modo que versões diferentes do texto devem ser confrontadas.",
       "state": "data informada pela fonte"
     },
     {
@@ -43086,6 +43714,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-80e4726bfb2886be",
+      "itemId": "pesquisa-e86c60e867e6c98e",
+      "sourceId": "fonte-d8d286c6eb7bc5c3",
+      "url": "https://noticias.uol.com.br/eleicoes/2026/10/23/flavio-diz-que-errou-ao-votar-contra-licenca-maternidade-o-que-falou-em-2009.ghtm",
+      "locator": "Reportagem de 23/10/2026, publicada à noite; trechos sobre pergunta no debate, justificativa retrospectiva e PEC 4/2007.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-ed54231586272861",
       "itemId": "pesquisa-e626ee9f8573d37f",
       "sourceId": "fonte-70a74a349f893659",
@@ -43933,6 +44572,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-0f889fe99c760349",
+      "itemId": "pesquisa-1e1dfcdadc2a7571",
+      "sourceId": "fonte-cbedaeeb02ac6aaf",
+      "url": "https://www.agencialupa.org/checagem/2026/10/23/erros-e-acertos-de-lula-na-campanha-pela-reeleicao-a-presidencia-em-2026/",
+      "locator": "Agência Lupa, 23/10/2026, seção sobre afirmação de Lula relativa à licença-maternidade e referências legislativas citadas.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-d2af0f2e3b6eac51",
       "itemId": "pesquisa-1aa4eb619d486a0c",
       "sourceId": "fonte-70a74a349f893659",
@@ -44037,6 +44687,17 @@
       "sourceId": "fonte-70a74a349f893659",
       "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-tem-45-anos-fui-deputado-quatro-vezes-e-e-senador-globo/",
       "locator": "Debate da Globo, bloco 1, 0:22:59 do vídeo, conforme localizador publicado pelo FlagCheck.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9b03cb7ca549e38e",
+      "itemId": "pesquisa-00ef2b9955b12fe6",
+      "sourceId": "fonte-cbedaeeb02ac6aaf",
+      "url": "https://www.agencialupa.org/eleicoes/2026/10/23/o-que-lula-e-flavio-bolsonaro-fizeram-no-executivo-e-no-legislativo-desde-2003/",
+      "locator": "Reportagem eleitoral de 23/10/2026, explicação metodológica e seções dedicadas às iniciativas parlamentares de Flávio Bolsonaro.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -44901,6 +45562,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-edd39b472663ce45",
+      "itemId": "pesquisa-4155dff4cab35163",
+      "sourceId": "fonte-244f3d7e18ba861f",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-votou-contra-projeto-que-suspende-posse-de-arma-de-policial-que-comete-violencia-domestica.shtml",
+      "locator": "Reportagem publicada em 16/10/2026; parágrafos sobre votação na ALERJ, redação da proposta e nota enviada pela assessoria de Flávio.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-dae5804882be65e8",
       "itemId": "pesquisa-2781e91965b4e2d5",
       "sourceId": "fonte-875b77e7aba40e8b",
@@ -45550,6 +46222,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-d741c0b065026d7d",
+      "itemId": "pesquisa-4415230a4bfbe2c5",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2581904",
+      "locator": "Ficha de tramitação, campos Autor, Ementa, Situação e Tramitação; despacho de 28/04/2026 e designação na CIDOSO em 30/04/2026.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-d098bd33d332d75f",
       "itemId": "pesquisa-cc6a8299719a3356",
       "sourceId": "fonte-875b77e7aba40e8b",
@@ -45825,6 +46508,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-20860203eaeb5adc",
+      "itemId": "pesquisa-3b436a2c00059b85",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-1473-2025",
+      "locator": "Portal de matérias bicamerais, PL 1473/2025, identificação das casas legislativas, autoria e movimentação após 05/11/2025.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-eb602904650304f2",
       "itemId": "pesquisa-25fb076f7788b47e",
       "sourceId": "fonte-875b77e7aba40e8b",
@@ -45962,6 +46656,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164613",
       "locator": "Senado: estado 20-38; defesa 104-117; último andamento 135-145.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-11a4bd7bddd6960c",
+      "itemId": "pesquisa-698ca258e6aafcbd",
+      "sourceId": "fonte-752f21616c18af3d",
+      "url": "https://coalizaopelasocioeducacao.com/pl-1473-2025-aumento-tempo-internacao-adolescentes/",
+      "locator": "Publicação de 14/08/2025, corpo do texto e ligação anunciada para parecer técnico.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -49348,15 +50053,15 @@
     },
     {
       "year": 2025,
-      "found": 40,
-      "accessed": 40,
-      "analysed": 37,
+      "found": 42,
+      "accessed": 42,
+      "analysed": 39,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 3,
-        "analisado": 37,
+        "analisado": 39,
         "revisado": 0,
         "publicado": 0
       },
@@ -49367,9 +50072,9 @@
         "sistema eleitoral": 1,
         "PL 5582/2025": 1,
         "PL 1087/2025": 1,
+        "PL 1473/2025": 6,
         "imagem sintética": 1,
         "PL 2169/2019": 2,
-        "PL 1473/2025": 4,
         "RS 7/2025": 1,
         "política externa": 1,
         "Atividade pública": 1,
@@ -49397,40 +50102,45 @@
         "fonte-2acd9e7dc92e583a": 32,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
+        "fonte-ad60f42b08c8e9e7": 1,
         "fonte-875b77e7aba40e8b": 1,
-        "fonte-3ed65b2f1d041330": 2
+        "fonte-3ed65b2f1d041330": 2,
+        "fonte-752f21616c18af3d": 1
       },
       "formats": {
         "audio": 1,
-        "documento": 22,
+        "documento": 23,
         "checagem": 5,
         "reportagem": 9,
-        "registro": 2,
+        "registro": 3,
         "video": 1
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2026,
-      "found": 250,
-      "accessed": 250,
-      "analysed": 246,
+      "found": 255,
+      "accessed": 255,
+      "analysed": 251,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 4,
-        "analisado": 246,
+        "analisado": 251,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "debate da Globo": 91,
         "checagens": 1,
+        "licença-maternidade": 1,
         "assistência social": 1,
         "eleições": 6,
         "atividade-parlamentar": 1,
         "Banco Master": 10,
+        "checagem externa": 1,
+        "trajetória parlamentar": 1,
         "desinformação": 1,
         "economia": 3,
         "previdencia": 1,
@@ -49440,6 +50150,7 @@
         "sistema eleitoral": 5,
         "entrevista": 2,
         "campanha": 1,
+        "ALERJ": 1,
         "previdência": 1,
         "Justiça Eleitoral": 1,
         "desinformação eleitoral": 1,
@@ -49464,6 +50175,7 @@
         "Bolsa Família": 2,
         "resposta pública": 2,
         "orientação de bancada": 1,
+        "PL 1473/2025": 1,
         "pronunciamento 2026": 1,
         "Pix": 1,
         "trajetória": 1,
@@ -49479,13 +50191,16 @@
         "fonte-ee8b17bd10a7a2e4": 1,
         "fonte-70a74a349f893659": 153,
         "fonte-58d9376cef7ffa17": 21,
+        "fonte-d8d286c6eb7bc5c3": 1,
         "fonte-875b77e7aba40e8b": 17,
         "fonte-daa0cb3445c7df71": 1,
         "fonte-a55f10b8449ffda6": 6,
         "fonte-a362d6ca938ac00d": 3,
+        "fonte-cbedaeeb02ac6aaf": 2,
         "fonte-c50d938768fd1c00": 1,
         "fonte-f1199c02c1d5a933": 1,
         "fonte-9c2fbd587c9a9fb0": 6,
+        "fonte-244f3d7e18ba861f": 1,
         "fonte-d17e0097bbcd6c10": 1,
         "fonte-2acd9e7dc92e583a": 19,
         "fonte-63c50c68422ef210": 1,
@@ -49495,26 +50210,26 @@
         "fonte-7d7b950bffc2fe29": 8,
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
-        "fonte-2837db98d9bb5569": 1,
-        "fonte-29a2bae5277f274b": 1
+        "fonte-29a2bae5277f274b": 2,
+        "fonte-2837db98d9bb5569": 1
       },
       "formats": {
         "video": 6,
-        "checagem": 205,
-        "reportagem": 17,
+        "checagem": 206,
+        "reportagem": 20,
         "registro": 2,
-        "documento": 18,
+        "documento": 19,
         "audio": 2
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 497,
-    "items": 515,
+    "newItems": 504,
+    "items": 522,
     "alreadyInArchive": 18,
-    "accessed": 512,
-    "analysed": 487,
+    "accessed": 519,
+    "analysed": 494,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -49522,19 +50237,73 @@
     "statementCandidates": 186,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 38,
-    "sourcesConsulted": 33,
+    "sources": 42,
+    "sourcesConsulted": 37,
     "video": 17,
     "audio": 5,
-    "documents": 172,
+    "documents": 174,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 130,
-    "accessFailures": 17,
+    "queryCount": 136,
+    "accessFailures": 19,
     "undatedItems": 37
   },
   "queries": [
+    {
+      "id": "consulta-1e0829e1f2377b77",
+      "batch": "alerj-respostas-camara-20261024-21",
+      "query": "PL 1473/2025 tramitação Câmara dos Deputados CIDOSO Reimont Contarato Flávio",
+      "executedAt": "2026-10-24T18:58:29.750Z",
+      "engine": "web.run, busca e abertura de fichas públicas Câmara e Congresso",
+      "interval": "2025-2026",
+      "resultsState": "Fichas oficiais abertas; separadas autoria de Contarato, relatoria de Flávio no Senado e estágio posterior na Câmara, sem lei vigente."
+    },
+    {
+      "id": "consulta-976bc5eef5b5cb52",
+      "batch": "alerj-respostas-camara-20261024-21",
+      "query": "PL 1473 2025 Coalizão pela Socioeducação internação parecer técnico",
+      "executedAt": "2026-10-24T18:58:29.750Z",
+      "engine": "web.run, busca e abertura de publicação institucional de organização civil",
+      "interval": "2025",
+      "resultsState": "Manifestação contrária consultada em HTML; PDF técnico vinculado não lido, portanto não resumido."
+    },
+    {
+      "id": "consulta-497c16a7ccca15f0",
+      "batch": "alerj-respostas-camara-20261024-21",
+      "query": "Flávio Bolsonaro ALERJ 2009 voto violência doméstica policiais armas Folha resposta campanha outubro 2026",
+      "executedAt": "2026-10-24T18:58:29.750Z",
+      "engine": "web.run, busca e leitura da reportagem Folha de S.Paulo",
+      "interval": "2009-2026",
+      "resultsState": "Reportagem e resposta da assessoria lidas; ata original de votação de 2009 e texto consolidado da lei não lidos."
+    },
+    {
+      "id": "consulta-2f8f4af0f713e77d",
+      "batch": "alerj-respostas-camara-20261024-21",
+      "query": "Flávio Bolsonaro 2009 licença-maternidade voto errei debate 23 outubro 2026 UOL",
+      "executedAt": "2026-10-24T18:58:29.750Z",
+      "engine": "web.run, busca e leitura da reportagem UOL",
+      "interval": "2007-2026",
+      "resultsState": "Notícia do reconhecimento do erro e justificativa posterior acessada; sem audição de gravação ou verificação própria de voto nominal."
+    },
+    {
+      "id": "consulta-186d916f0824e46b",
+      "batch": "alerj-respostas-camara-20261024-21",
+      "query": "Agência Lupa 23 outubro 2026 Flávio Bolsonaro legislativo desde 2003 Lula voto licença maternidade checagem",
+      "executedAt": "2026-10-24T18:58:29.750Z",
+      "engine": "web.run, busca e abertura de reportagem comparativa e checagem da Lupa",
+      "interval": "2003-2026",
+      "resultsState": "Reportagem sobre atuação institucional e checagem de declaração de Lula acessadas; classificação externa atribuída à agência e não importada como veredito próprio."
+    },
+    {
+      "id": "consulta-ba646ede855cd281",
+      "batch": "alerj-respostas-camara-20261024-21",
+      "query": "URLs de Câmara, Congresso, Folha, UOL, Coalizão e Lupa contra catálogo de research.json e checkpoints senado-2025-documentos e senado-2021-2022",
+      "executedAt": "2026-10-24T18:58:29.750Z",
+      "engine": "comparação de URLs públicas canônicas no JSON versionado e verificação de batches anteriores",
+      "interval": "2009-2026",
+      "resultsState": "Sete URLs distintas e ausentes dos 515 itens existentes; registros antigos da PL 1473/2025 no Senado e da licença-maternidade preservados sem replicação."
+    },
     {
       "id": "consulta-4a1e5c5ee82f0cf8",
       "batch": "alerj-tramitacao-20261024-03",
@@ -50708,6 +51477,20 @@
   ],
   "accessFailures": [
     {
+      "batch": "alerj-respostas-camara-20261024-21",
+      "url": "https://leisestaduais.com.br/rj/lei-ordinaria-n-5402-2009-rio-de-janeiro-dispoe-sobre-a-adocao-de-medidas-protetivas-de-urgencia-em-face-do-agente-da-lei-que-praticar-violencia-domestica-e-familiar-contra-a-mulher",
+      "source": "Repositório não oficial de leis estaduais RJ",
+      "status": "HTTP 403 na abertura",
+      "note": "A página não foi lida; fragmento de mecanismo de busca não sustenta conteúdo nem cadastro como documento consultado."
+    },
+    {
+      "batch": "alerj-respostas-camara-20261024-21",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2734-2021",
+      "source": "Registro bicameral do PL 2734/2021",
+      "status": "Falha/tempo esgotado na abertura",
+      "note": "Material não incluído por ausência de acesso efetivo."
+    },
+    {
       "batch": "alerj-tramitacao-20261024-03",
       "source": "Execução e publicação de dados derivados",
       "error": "Sem checkout Git acessível via rede no terminal de execução e sem dispositivo remoto conectado para executar scripts/build_research.py, scripts/sync_content.py ou os testes. Este arquivo é checkpoint canônico de descoberta, não atualização do JSON público. Normalização e verificações continuam pendentes."
@@ -50858,6 +51641,42 @@
     }
   ],
   "nextBatch": [
+    {
+      "id": "lacuna-960410f14eca56a9",
+      "note": "Abrir o Diário Oficial e atas ou votações originais da ALERJ referentes à PEC 4/2007 (Emenda Constitucional RJ 41/2009) e à Lei estadual RJ 5.402/2009 para conferir autoria, posição nominal, redações e datas sem depender apenas da imprensa.",
+      "state": "pendente",
+      "batch": "alerj-respostas-camara-20261024-21"
+    },
+    {
+      "id": "lacuna-d62f0236e3c58348",
+      "note": "Conferir na íntegra audiovisual o debate de 23/10/2026 e o contexto da explicação de Flávio sobre licença-maternidade; nesta coleta, zero segundos de áudio reproduzidos ou transcritos.",
+      "state": "pendente",
+      "batch": "alerj-respostas-camara-20261024-21"
+    },
+    {
+      "id": "lacuna-087de45de8b1c807",
+      "note": "Consultar em texto primário todas as versões do PL 1473/2025, substitutivo do Senado, parecer na Câmara e parecer da Coalizão em PDF, antes de avaliar efeitos e controvérsias.",
+      "state": "pendente",
+      "batch": "alerj-respostas-camara-20261024-21"
+    },
+    {
+      "id": "lacuna-594d6de3b3967feb",
+      "note": "Revisão editorial humana identificada é obrigatória antes de qualquer nova comparação sensível ou veredito sobre as reportagens, críticas ou checagens externas.",
+      "state": "pendente",
+      "batch": "alerj-respostas-camara-20261024-21"
+    },
+    {
+      "id": "lacuna-23622bf36d8d8680",
+      "note": "Reconsultar andamento na Câmara do PL 1473/2025 sem presumir aprovação final; conferir eventual novo parecer da CIDOSO.",
+      "state": "pendente",
+      "batch": "alerj-respostas-camara-20261024-21"
+    },
+    {
+      "id": "lacuna-cb4043172840d93e",
+      "note": "Continuar pesquisa de ALERJ 2003-2015 e registros de votos de Flávio e respostas públicas em fontes institucionais.",
+      "state": "pendente",
+      "batch": "alerj-respostas-camara-20261024-21"
+    },
     {
       "id": "lacuna-8247832d18947e16",
       "note": "Executar scripts/build_research.py e verificações do projeto em checkout completo; publicar no mesmo commit content/research.json e dist/data/research.json e research.js após testes.",
@@ -51562,6 +52381,12 @@
     }
   ],
   "references": [
+    {
+      "id": "checkpoint-20261024-21",
+      "label": "Câmara, histórico de ALERJ, checagem externa e respostas públicas",
+      "method": "Sete textos HTML efetivamente abertos e confrontados por URL com o catálogo; localizadores e ressalvas no próprio registro; coleta audiovisual zero.",
+      "collected_at_utc": "2026-10-24T18:58:29.750Z"
+    },
     {
       "name": "Senado Federal, atividade parlamentar",
       "url": "https://www25.senado.leg.br/web/atividade/",

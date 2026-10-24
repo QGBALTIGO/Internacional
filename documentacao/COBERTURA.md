@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T17:42:38.466134Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T18:58:40.560089Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-515 URLs únicas no lote; 497 ainda não vinculadas à edição anterior. 512 materiais acessados e 487 com texto analisado.
+522 URLs únicas no lote; 504 ainda não vinculadas à edição anterior. 519 materiais acessados e 494 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -34,13 +34,19 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 31 | 31 | 30 | 0 | 0 |
-| 2025 | 40 | 40 | 37 | 0 | 0 |
-| 2026 | 250 | 250 | 246 | 0 | 0 |
+| 2025 | 42 | 42 | 39 | 0 | 0 |
+| 2026 | 255 | 255 | 251 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
 ## Próximo lote
 
+- Abrir o Diário Oficial e atas ou votações originais da ALERJ referentes à PEC 4/2007 (Emenda Constitucional RJ 41/2009) e à Lei estadual RJ 5.402/2009 para conferir autoria, posição nominal, redações e datas sem depender apenas da imprensa.
+- Conferir na íntegra audiovisual o debate de 23/10/2026 e o contexto da explicação de Flávio sobre licença-maternidade; nesta coleta, zero segundos de áudio reproduzidos ou transcritos.
+- Consultar em texto primário todas as versões do PL 1473/2025, substitutivo do Senado, parecer na Câmara e parecer da Coalizão em PDF, antes de avaliar efeitos e controvérsias.
+- Revisão editorial humana identificada é obrigatória antes de qualquer nova comparação sensível ou veredito sobre as reportagens, críticas ou checagens externas.
+- Reconsultar andamento na Câmara do PL 1473/2025 sem presumir aprovação final; conferir eventual novo parecer da CIDOSO.
+- Continuar pesquisa de ALERJ 2003-2015 e registros de votos de Flávio e respostas públicas em fontes institucionais.
 - Executar scripts/build_research.py e verificações do projeto em checkout completo; publicar no mesmo commit content/research.json e dist/data/research.json e research.js após testes.
 - Conferir texto consolidado da Lei 7352/2016 e eventual alteração posterior, sem inferir vigência pela ficha do projeto.
 - Concluir status legislativo de PL 2862/2010, PL 2320/2013, PL 3676/2006 e dos vetos PL 3351-A/2006 e PL 3003/2014 diretamente pelos resultados oficiais.
@@ -161,6 +167,8 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 
 ## Limitações de acesso
 
+- batch: alerj-respostas-camara-20261024-21; url: https://leisestaduais.com.br/rj/lei-ordinaria-n-5402-2009-rio-de-janeiro-dispoe-sobre-a-adocao-de-medidas-protetivas-de-urgencia-em-face-do-agente-da-lei-que-praticar-violencia-domestica-e-familiar-contra-a-mulher; source: Repositório não oficial de leis estaduais RJ; status: HTTP 403 na abertura; note: A página não foi lida; fragmento de mecanismo de busca não sustenta conteúdo nem cadastro como documento consultado.
+- batch: alerj-respostas-camara-20261024-21; url: https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2734-2021; source: Registro bicameral do PL 2734/2021; status: Falha/tempo esgotado na abertura; note: Material não incluído por ausência de acesso efetivo.
 - batch: alerj-tramitacao-20261024-03; source: Execução e publicação de dados derivados; error: Sem checkout Git acessível via rede no terminal de execução e sem dispositivo remoto conectado para executar scripts/build_research.py, scripts/sync_content.py ou os testes. Este arquivo é checkpoint canônico de descoberta, não atualização do JSON público. Normalização e verificações continuam pendentes.
 - batch: atividade-senado-contexto-20261024-08; source: Ministério das Relações Exteriores, página consular de vistos; url: https://www.gov.br/mre/pt-br/consulado-washington/alerta-aos-brasileiros-binacionais-sobre-vistos; status: acesso impedido; error: Página exigiu desafio CAPTCHA no acesso direto em 24/10/2026. Nenhuma informação daquela página foi tratada como documento examinado.
 - batch: checagens; url: https://www.reuters.com/fact-check/portugues/XZJWABZNDNMIZIA755ZKNAELMU-2026-10-22/; web_ref: turn5view8; error: 401 Unauthorized na abertura. Resultado de busca existe, mas artigo não analisado; não incorporar como checagem examinada.
