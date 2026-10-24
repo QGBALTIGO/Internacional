@@ -2509,5 +2509,9 @@
   "next_actions": [
     "Cruzar as páginas individuais com Aos Fatos, Lupa, Fato ou Fake, UOL Confere, Folha e demais checadores citados.",
     "Ouvir a íntegra somente em revisão audiovisual própria e registrar o tempo efetivamente reproduzido."
-  ]
+  ],
+  "normalization_retry": {
+    "requested_at_utc": "2026-10-24T11:07:34.140Z",
+    "reason": "Reexecutar consolidação a partir do head atual após corrida entre workflows; registros de pesquisa permanecem inalterados."
+  }
 }
