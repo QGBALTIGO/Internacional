@@ -107,9 +107,11 @@
     }
     history.pushState(null,'','#'+id);openPane(id,true);
     $('mobileMenu').hidden=true;$('menuToggle').setAttribute('aria-expanded','false');
+    a.closest('.editorial-nav-more')?.removeAttribute('open');
     if(id==='explorar')$('portalSearch').focus();
   });
   document.addEventListener('keydown',e=>{
+    if(e.key==='Escape')document.querySelector('.editorial-nav-more')?.removeAttribute('open');
     if(e.key==='/'&&!e.ctrlKey&&!e.metaKey&&!document.querySelector('dialog[open]')&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)){
       e.preventDefault();openPane('inicio');$('portalSearch').focus();
     }

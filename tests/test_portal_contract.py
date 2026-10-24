@@ -81,7 +81,7 @@ class PortalContractTest(unittest.TestCase):
         self.assertLess(html.index('id="portalMetrics"'),html.index('id="portalCollections"'))
         self.assertLess(html.index('id="portalCollections"'),html.index('id="portalRecent"'))
         self.assertLess(html.index('id="portalRecent"'),html.index('id="portalVideos"'))
-        order=['#inicio','#pesquisa','#acervo','#midiateca','#apuracoes','#comparacoes','#documentos','#noticias','#fontes']
+        order=['#inicio','#pesquisa','#acervo','#midiateca','#apuracoes','#comparacoes','#documentos','#noticias','#fontes','#cobertura','#correcoes','#metodologia']
         nav=re.search(r'<nav class="editorial-nav".*?</nav>',html,re.S).group(0)
         self.assertEqual(re.findall(r'href="(#[^"]+)"',nav),order)
         self.assertIn('@media(max-width:700px)',css)
