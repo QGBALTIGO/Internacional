@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "batch_id": "alerj-documentos-primarios-20261024-22",
+  "collected_at_utc": "2026-10-24T19:54:19.803Z",
+  "scope": "Quatro fontes novas: dois registros primários da ALERJ, uma circular contemporânea da comunicação institucional arquivada por terceiro e uma íntegra PDF da Câmara, relacionadas a lacunas do lote 21.",
+  "method": "Comparação com as 522 URLs versionadas no JSON anterior; consulta efetiva às páginas HTML e ao PDF e screenshot de uma página. Não atribuir tempo individual da consulta; não houve audição, perícia, transcrição própria, novo veredito ou revisão humana.",
+  "records": [
+    {
+      "id": "alerj-documentos-primarios-20261024-22-ec41",
+      "title": "ALERJ: íntegra da Emenda Constitucional RJ 41/2009 sobre licença-maternidade",
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=55&url=L2NvbnRsZWkubnNmL2YyNTU3MWNhYzRhNjEwMTEwMzI1NjRmZTAwNTJjODljL2E2Zjk1ZDVhNTkwZThkYjE4MzI1NzU5ODAwNzNkN2E5P09wZW5Eb2N1bWVudA%3D%3D",
+      "publisher": "Assembleia Legislativa do Estado do Rio de Janeiro",
+      "format": "documento",
+      "published_date": "2009-04-15",
+      "event_date": "2009-04-14",
+      "topics": [
+        "ALERJ",
+        "licença-maternidade",
+        "texto legal primário"
+      ],
+      "speaker": "ALERJ; Marcelo Freixo (autor da PEC 4/2007)",
+      "summary": "A ALERJ registra promulgação da Emenda Constitucional 41/2009 em 14/04/2009, com origem na PEC 4/2007 de Marcelo Freixo; altera o art. 83, XII, da Constituição fluminense para licença à gestante de 180 dias, prorrogável, no caso de aleitamento, entre 30 e 90 dias. A página informa republicação por correções. O texto comprova a norma e a autoria da PEC, não o voto nominal de Flávio Bolsonaro.",
+      "locator": "Ficha oficial, campos de número e promulgação, arts. 1º-2º, autoria, publicação e republicação; linhas HTML 451-489.",
+      "limitations": "HTML oficial efetivamente lido; não foram lidos Diário Oficial original, votações nominais, justificativas de voto ou redações intermediárias. A situação 'Em Vigor' corresponde ao texto mostrado no portal, sem auditoria legislativa independente.",
+      "web_ref": "turn378889view0",
+      "document_number": "EC RJ 41/2009; PEC ALERJ 4/2007",
+      "public_response": "Reportagem do UOL de 23/10/2026 já catalogada atribui a Flávio reconhecimento de erro em seu voto de 2009, mas o audiovisual da resposta não foi conferido.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Fonte efetivamente aberta e lida em 24/10/2026 (HTML ou PDF conforme limitações). O horário UTC é do fechamento do lote, não de cada acesso; áudio e vídeo não reproduzidos.",
+      "collected_at": "2026-10-24T19:54:19.803Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "alerj-documentos-primarios-20261024-22-pl1442",
+      "title": "ALERJ: Ordem do Dia de 18/12/2008 registra voto contrário de Flávio em comissão ao PL 1442/2008",
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=59&url=L29yZGVtZGlhLm5zZi9jOTdlOTdkYzEyNzVkOTI1MDMyNTZiYWMwMDcyNTRlYS9lNmM2ZWZmM2Q1ZjU0M2YyODMyNTc1MWQwMDU3MmFlOD9PcGVuRG9jdW1lbnQ%3D",
+      "publisher": "Assembleia Legislativa do Estado do Rio de Janeiro",
+      "format": "documento",
+      "published_date": "2008-12-18",
+      "event_date": "2008-12-18",
+      "topics": [
+        "ALERJ",
+        "violência doméstica",
+        "registro legislativo"
+      ],
+      "speaker": "ALERJ; Inês Pandeló (autora); Flávio Bolsonaro (voto contrário identificado em parecer de comissão)",
+      "summary": "Na Ordem do Dia oficial da ALERJ, o PL 1442/2008 de Inês Pandeló é descrito como medidas protetivas urgentes sobre agentes da lei em caso de violência doméstica contra mulheres. O parecer da Comissão de Segurança Pública e Assuntos de Polícia foi favorável, com voto contrário registrado de Flávio Bolsonaro. Trata-se de registro de COMISSÃO; não é mapa de votação em plenário nem prova da redação final da Lei estadual 5.402/2009.",
+      "locator": "Ordem do Dia da sessão ordinária de 18/12/2008 às 16h30; 'EM 1ª DISCUSSÃO', PL 1442/2008 e 'PARECERES'; HTML linhas 451-456 e 518-521.",
+      "limitations": "HTML primário da pauta efetivamente lido; não foram lidos projeto original, voto em separado, ata nominal plenária ou texto consolidado da lei. A resposta da campanha divulgada pela Folha em 16/10/2026 já estava no catálogo.",
+      "web_ref": "turn378889view1",
+      "document_number": "PL ALERJ 1442/2008; Lei RJ 5.402/2009",
+      "public_response": "A Folha de S.Paulo publicou em 16/10/2026 nota atribuída à campanha de Flávio, sobre combate à violência doméstica e devido processo legal. Não é resposta comprovadamente dirigida ao documento de comissão de 2008.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Fonte efetivamente aberta e lida em 24/10/2026 (HTML ou PDF conforme limitações). O horário UTC é do fechamento do lote, não de cada acesso; áudio e vídeo não reproduzidos.",
+      "collected_at": "2026-10-24T19:54:19.803Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "alerj-documentos-primarios-20261024-22-circular",
+      "title": "Circular de 14/04/2009 da comunicação da ALERJ relata votação sobre licença-maternidade e justificativa atribuída a Flávio",
+      "url": "https://groups.google.com/g/alerj/c/Kz_Rj1G6f7U",
+      "publisher": "Diretoria de Comunicação Social da ALERJ (mensagem arquivada no Google Groups)",
+      "format": "registro",
+      "published_date": "2009-04-14",
+      "event_date": "2009-04-14",
+      "topics": [
+        "ALERJ",
+        "licença-maternidade",
+        "fonte contemporânea"
+      ],
+      "speaker": "Diretoria de Comunicação Social da ALERJ (comunicado); Flávio Bolsonaro (posição atribuída)",
+      "summary": "Mensagem pública contemporânea, atribuída à Diretoria de Comunicação Social da ALERJ e datada de 14/04/2009, registra votação da licença-maternidade por 54 votos a um, identifica Flávio como único contrário e lhe atribui preocupação sobre ofertas de emprego para mulheres. É comunicado institucional ARQUIVADO por terceiro, não ata de votação nominal, gravação ou transcrição literal do deputado.",
+      "locator": "Google Groups, 'Alerj - Cadastro de envio para a população', publicação 'LICENÇA MATERNIDADE PARA SERVIDORAS SERÁ DE SEIS MESES', 14/04/2009 às 18h05 conforme exibido sem fuso; parágrafos inicial e final antes da assinatura.",
+      "limitations": "Texto público da mensagem foi lido; grupo está em hospedagem de terceiro e o remetente institucional aparece parcialmente oculto. Não houve autenticação técnica do email, das contagens nominais ou da justificativa. Telefones e contatos do rodapé não são reproduzidos.",
+      "web_ref": "turn378889view2",
+      "document_number": "PEC ALERJ 4/2007; EC RJ 41/2009",
+      "public_response": "A resposta de Flávio no debate de 23/10/2026 foi descrita pelo UOL em registro já existente; nenhum áudio do debate foi ouvido.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "registro",
+      "access_method": "Fonte efetivamente aberta e lida em 24/10/2026 (HTML ou PDF conforme limitações). O horário UTC é do fechamento do lote, não de cada acesso; áudio e vídeo não reproduzidos.",
+      "collected_at": "2026-10-24T19:54:19.803Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "alerj-documentos-primarios-20261024-22-avulso1473",
+      "title": "Câmara: avulso oficial em PDF do PL 1473/2025 recebido do Senado",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3119413&filename=Avulso+PL+1473%2F2025",
+      "publisher": "Câmara dos Deputados",
+      "format": "documento",
+      "published_date": "2025-11-04",
+      "event_date": "2025-11-04",
+      "topics": [
+        "PL 1473/2025",
+        "socioeducação",
+        "texto legislativo primário"
+      ],
+      "speaker": "Congresso Nacional; Fabiano Contarato (autor original); Flávio Bolsonaro (relator no Senado)",
+      "summary": "Avulso oficial de seis páginas do PL 1473/2025, com carimbo de apresentação à Câmara em 04/11/2025, propõe mudanças no ECA e no Código Penal. Foram lidos dispositivos sobre audiência de custódia, internação provisória, reavaliação e limites para medidas socioeducativas; o texto do art. 121 prevê máximo geral de cinco anos e até dez em casos delimitados. É PROJETO em tramitação, não lei promulgada. A manifestação crítica da Coalizão pela Socioeducação já está catalogada como posicionamento de terceiro.",
+      "locator": "PDF 'Avulso PL 1473/2025', seis páginas; capa e art. 106 na p. 1-2; art. 121 na p. 3; art. 183 na p. 4; página física 4, índice 3, também visualizada por screenshot; carimbo de 04/11/2025.",
+      "limitations": "Camada textual do PDF consultada e uma página visualmente conferida. Não foi realizado cotejo artigo a artigo com original, substitutivos posteriores, versão de comissões, parecer técnico da Coalizão ou assinatura digital. Sem concluir constitucionalidade, vigência ou efeito real.",
+      "web_ref": "turn768611view0",
+      "document_number": "PL 1473/2025",
+      "public_response": "Crítica da Coalizão pela Socioeducação de 14/08/2025 consta em registro anterior; pode tratar de versão anterior, não se converte em conclusão editorial.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Fonte efetivamente aberta e lida em 24/10/2026 (HTML ou PDF conforme limitações). O horário UTC é do fechamento do lote, não de cada acesso; áudio e vídeo não reproduzidos.",
+      "collected_at": "2026-10-24T19:54:19.803Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    }
+  ],
+  "queries": [
+    {
+      "query": "site:alerj.rj.gov.br 'Emenda Constitucional' '41' '2009' licença Marcelo Freixo",
+      "executed_at": "2026-10-24T19:54:19.803Z",
+      "engine": "web.run (busca e leitura) e GitHub conectado (deduplicação)",
+      "interval": "2008–2025",
+      "result": "Documento original EC 41/2009 lido, identifica PEC 4/2007, autoria, redação e promulgação; não informa voto nominal."
+    },
+    {
+      "query": "'PROJETO DE LEI Nº 1442/2008' 'FLÁVIO BOLSONARO' 'COMISSÃO'",
+      "executed_at": "2026-10-24T19:54:19.803Z",
+      "engine": "web.run (busca e leitura) e GitHub conectado (deduplicação)",
+      "interval": "2008–2025",
+      "result": "Ordem do Dia de 18/12/2008 aberta, com registro de voto contrário no parecer da comissão; não extrapolar para plenário."
+    },
+    {
+      "query": "'LICENÇA MATERNIDADE PARA SERVIDORAS SERÁ DE SEIS MESES' ALERJ 14 abril 2009",
+      "executed_at": "2026-10-24T19:54:19.803Z",
+      "engine": "web.run (busca e leitura) e GitHub conectado (deduplicação)",
+      "interval": "2008–2025",
+      "result": "Circular contemporânea localizada e lida em arquivo Google Groups, atribuição a Diretoria de Comunicação Social com limites de autenticação."
+    },
+    {
+      "query": "'PL 1473/2025' 'Avulso' Câmara PDF codteor 3119413",
+      "executed_at": "2026-10-24T19:54:19.803Z",
+      "engine": "web.run (busca e leitura) e GitHub conectado (deduplicação)",
+      "interval": "2008–2025",
+      "result": "Documento de seis páginas consultado no site da Câmara, texto e screenshot de uma das páginas examinados."
+    },
+    {
+      "query": "Quatro URLs de ALERJ, Google Groups e Câmara contra content/research.json versionado na main",
+      "executed_at": "2026-10-24T19:54:19.803Z",
+      "engine": "web.run (busca e leitura) e GitHub conectado (deduplicação)",
+      "interval": "2008–2025",
+      "result": "Quatro URLs novas entre 522 itens anteriores; reportagens e respostas anteriores não recadastradas."
+    }
+  ],
+  "blocked": [
+    {
+      "source": "Ata de votação nominal da PEC ALERJ 4/2007 e do PL 1442/2008 no plenário",
+      "status": "Não examinada",
+      "note": "A EC 41/2009 não identifica voto pessoal; a Ordem do Dia identifica voto em comissão; circular contemporânea não substitui ata nominal."
+    },
+    {
+      "source": "Lei estadual RJ 5.402/2009 em repositório de terceiros",
+      "url": "https://leisestaduais.com.br/rj/lei-ordinaria-n-5402-2009-rio-de-janeiro-dispoe-sobre-a-adocao-de-medidas-protetivas-de-urgencia-em-face-do-agente-da-lei-que-praticar-violencia-domestica-e-familiar-contra-a-mulher",
+      "status": "HTTP 403 na tentativa de abertura",
+      "note": "Texto não cadastrado como lido; o resultado indexado não comprova texto legal."
+    },
+    {
+      "source": "Substitutivos, relatórios e parecer crítico sobre PL 1473/2025",
+      "status": "Não examinados neste lote",
+      "note": "Avulso recebido na Câmara foi lido, mas não houve cotejo integral das versões ou parecer externo em PDF."
+    },
+    {
+      "source": "Debate eleitoral de 23/10/2026",
+      "status": "Áudio e vídeo não reproduzidos",
+      "note": "Zero segundos de audiovisual revisados, sem citações literais ou timestamps verificados."
+    }
+  ],
+  "gaps": [
+    "ALERJ: localizar e ler ata/votação nominal de 14/04/2009 sobre PEC 4/2007; circular de comunicação datada e texto da EC 41/2009 não substituem painel nominal.",
+    "ALERJ: obter voto em separado, atas de comissões e votação em plenário do PL 1442/2008, sem confundir comissão com deliberação final.",
+    "ALERJ: consultar integral da Lei estadual RJ 5.402/2009 e eventuais alterações para cotejo com PL 1442/2008; não usar reproduções bloqueadas.",
+    "PL 1473/2025: cotejar versões, substitutivo da relatoria no Senado, posição da Coalizão e pareceres posteriores na Câmara, sem inferir vigência ou efeitos.",
+    "Em revisão própria, conferir vídeo/áudio de 23/10/2026 e respostas públicas; novo veredito ou comparação sensível exige revisor humano autorizado."
+  ],
+  "references": [
+    {
+      "id": "checkpoint-20261024-22",
+      "label": "ALERJ 2008-2009 e PDF integral da Câmara do PL 1473/2025",
+      "method": "Quatro URLs distintas, todas abertas e lidas nos limites documentados; PDF de seis páginas com screenshot de uma página, áudio ouvido zero.",
+      "collected_at_utc": "2026-10-24T19:54:19.803Z"
+    }
+  ]
+}
