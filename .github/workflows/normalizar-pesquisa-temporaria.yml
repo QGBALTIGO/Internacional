@@ -1,0 +1,37 @@
+name: Normalizar pesquisa documental (execução isolada)
+on:
+  push:
+    branches: [research-20261024-0415]
+permissions:
+  contents: write
+jobs:
+  verify-research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+      - name: Gerar dados derivados do catálogo
+        run: |
+          python scripts/build_research.py
+          python scripts/sync_content.py
+      - name: Verificar catálogo, site e testes
+        run: |
+          python scripts/check_site.py
+          python -m unittest discover -s tests -v
+          node tests/frontend.mjs
+      - name: Consolidar somente os dados gerados
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          rm .github/workflows/normalizar-pesquisa-temporaria.yml
+          git add -u .github/workflows/normalizar-pesquisa-temporaria.yml
+          git add content/research.json dist/data/research.json dist/data/research.js documentacao/COBERTURA.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Gerar catálogo derivado da pesquisa com validações locais'
+          fi
+          git push origin HEAD:research-20261024-0415
