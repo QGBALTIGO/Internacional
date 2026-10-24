@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "batch_id": "pl1473-audiencias-20261024-24",
+  "collected_at_utc": "2026-10-24T21:35:25.822Z",
+  "scope": "Sete documentos institucionais distintos ainda ausentes dos 531 itens: debate público e registros de tramitação do PL 1473/2025 (audiência Senado 07/10, reunião Câmara 09/12, posições públicas, adiamento anterior e acervo fotográfico). Não criar checagens/vereditos; manter histórico e recortes anteriores.",
+  "method": "Leitura direta de sete páginas institucionais HTML via web.run, com revisão dos trechos relevantes e comparação de URLs contra os 531 itens do content/research.json do head main. Não reproduzidos áudios/vídeos, não baixados ou analisados PDFs, sem identificação editorial humana nem inferência de culpa, falsidade ou vigência de lei.",
+  "records": [
+    {
+      "id": "pl1473-audiencias-20261024-24-ccj-07out-notas",
+      "title": "Senado: íntegra textual da audiência pública de 07/10/2025 sobre PL 1473/2025 reúne argumentos divergentes",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14047",
+      "publisher": "Senado Federal, notas taquigráficas revisadas da CCJ",
+      "format": "documento",
+      "published_date": "2025-10-07",
+      "event_date": "2025-10-07",
+      "topics": [
+        "PL 1473/2025",
+        "CCJ",
+        "socioeducação",
+        "audiência pública",
+        "contraditório"
+      ],
+      "speaker": "Alessandro Vieira (presidência), Mara Gabrilli, especialistas convidados e representantes de órgãos e entidades; Flávio Bolsonaro é mencionado pela relatoria, sem fala sua identificada nesta audiência",
+      "summary": "A transcrição textual oficial da 33ª reunião da CCJ registra audiência para instruir o PL 1473/2025. Mara Gabrilli agradece a Flávio Bolsonaro, relator, por apoiar retirada de pauta para ouvir argumentos antes da deliberação. São apresentados fundamentos de segurança e responsabilização e críticas de convidados sobre brevidade da internação, custos, estrutura do Sinase e impactos da ampliação de prazos. As projeções e juízos são atribuídos a cada participante e não constituem fatos independentemente verificados pelo Arquivo.",
+      "locator": "Notas taquigráficas revisadas, 33ª CCJ, 07/10/2025: abertura e participantes, HTML linhas 23–30; fala de Mara sobre apoio do relator e documentos de entidades, linhas 31–44; intervenções de Danielle Tuoto, linhas 63–80; intervenções de Alessandro Vieira, 146–149; de Roberto Bassan Peixoto, 179–195; demais intervenções na mesma íntegra HTML.",
+      "limitations": "Texto revisado em HTML, não conferido contra áudio ou vídeo; zero segundos reproduzidos e nenhuma minutagem do player validada. Não se inferem votos ou pronunciamentos de Flávio na audiência a partir da presença ou citação por terceiros. Estimativas de custo, impacto, criminalidade e afirmações de entidades não tiveram verificação autônoma.",
+      "document_number": "CCJ, 33ª reunião extraordinária, PL 1473/2025; REQ 48/2025 - CCJ",
+      "public_response": "Na própria sessão, Mara Gabrilli reconhece publicamente o apoio de Flávio ao espaço de escuta; posição substantiva do relator está documentada em sessões posteriores de 08/10 e 22/10/2025 já catalogadas.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Página HTML oficial aberta e lida via web.run em 24/10/2026, com trechos textuais individualizados no localizador. collected_at é o horário UTC de conclusão do checkpoint, não o instante exato de abertura de cada fonte. Zero segundos de áudio ou vídeo reproduzidos; nenhum PDF integral analisado.",
+      "collected_at": "2026-10-24T21:35:25.822Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "pl1473-audiencias-20261024-24-ccj-07out-ficha",
+      "title": "Senado: ficha da 33ª reunião confirma realização da audiência sobre PL 1473/2025 e presença de Flávio",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/34/reuniao/14047",
+      "publisher": "Senado Federal, Comissão de Constituição, Justiça e Cidadania",
+      "format": "documento",
+      "published_date": "2025-10-07",
+      "event_date": "2025-10-07",
+      "topics": [
+        "PL 1473/2025",
+        "CCJ",
+        "audiência pública",
+        "registro de presença"
+      ],
+      "speaker": "Senado Federal (registro institucional); Flávio Bolsonaro (listado presente como suplente da CCJ); especialistas convidados",
+      "summary": "A ficha oficial da 33ª reunião de 07/10/2025 indica audiência pública realizada para instruir o PL 1473/2025, com participantes da Defensoria, Ministério Público, Sinase, Fundação CASA, Fonacriad, Conanda e Coalizão pela Socioeducação. O quadro de presença identifica Flávio Bolsonaro como presente. A presença não equivale a voto, fala ou aprovação do conteúdo do projeto.",
+      "locator": "33ª reunião extraordinária da CCJ, 07/10/2025: cabeçalho e estado 'Realizada', HTML linhas 20–35; finalidade, convidados e resultado, linhas 104–143; quadro de presença de suplentes do bloco PL/NOVO, linhas 191–205.",
+      "limitations": "Página de metadados e presença em HTML; trechos de vídeo somente listados por título/duração, nenhum reproduzido. Não substituir o texto taquigráfico por metadados nem presumir que todos os convidados concordaram.",
+      "document_number": "CCJ, reunião 14047, 07/10/2025",
+      "public_response": "A ficha registra posições institucionais diversas no rol de participantes; parecer de Flávio e críticas posteriores já constam de outros materiais.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Página HTML oficial aberta e lida via web.run em 24/10/2026, com trechos textuais individualizados no localizador. collected_at é o horário UTC de conclusão do checkpoint, não o instante exato de abertura de cada fonte. Zero segundos de áudio ou vídeo reproduzidos; nenhum PDF integral analisado.",
+      "collected_at": "2026-10-24T21:35:25.822Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "pl1473-audiencias-20261024-24-ccj-req48",
+      "title": "Senado: REQ 48/2025 documenta pedido e realização da audiência do PL 1473/2025",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170714",
+      "publisher": "Senado Federal, atividade legislativa",
+      "format": "documento",
+      "published_date": "2025-09-05",
+      "event_date": "2025-10-07",
+      "topics": [
+        "PL 1473/2025",
+        "REQ 48/2025",
+        "audiência pública",
+        "tramitação"
+      ],
+      "speaker": "Mara Gabrilli e Eliziane Gama (autoras do requerimento), Comissão de Constituição, Justiça e Cidadania (andamento)",
+      "summary": "A ficha oficial identifica Mara Gabrilli e Eliziane Gama como autoras do requerimento de 05/09/2025 para audiência sobre PL 1473/2025. Registra expressamente, em 07/10/2025, a realização da 33ª reunião para instruir a matéria e identifica os representantes ouvidos. Resolve a dúvida sobre se o evento anunciado efetivamente ocorreu, sem antecipar deliberação de mérito ou vigência de lei.",
+      "locator": "Ficha REQ 48/2025 - CCJ: autoria e ementa, HTML linhas 20–25; situação de audiência realizada, 30–35; tramitação 07/10 e lista de participantes, 70–79; histórico da apresentação 05/09, 80–87.",
+      "limitations": "HTML oficial da tramitação e resumo dos convidados; PDF do texto inicial não examinado. 'Situação atual em tramitação' refere-se à ficha do requerimento e não demonstra que o PL permaneça no Senado.",
+      "document_number": "REQ 48/2025 - CCJ; PL 1473/2025",
+      "public_response": null,
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Página HTML oficial aberta e lida via web.run em 24/10/2026, com trechos textuais individualizados no localizador. collected_at é o horário UTC de conclusão do checkpoint, não o instante exato de abertura de cada fonte. Zero segundos de áudio ou vídeo reproduzidos; nenhum PDF integral analisado.",
+      "collected_at": "2026-10-24T21:35:25.822Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "pl1473-audiencias-20261024-24-camara-req496",
+      "title": "Câmara: REQ 496/2025 confirma audiência de 09/12 sobre PL 1473/2025 e arquivamento por cumprimento",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2582249",
+      "publisher": "Câmara dos Deputados, Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "format": "documento",
+      "published_date": "2025-11-05",
+      "event_date": "2025-12-09",
+      "topics": [
+        "PL 1473/2025",
+        "REQ 496/2025",
+        "Câmara",
+        "audiência pública",
+        "financiamento"
+      ],
+      "speaker": "Deputado Roberto Monteiro Pai (autor do requerimento); Comissão de Segurança Pública e Combate ao Crime Organizado (andamento)",
+      "summary": "A Câmara registra requerimento apresentado em 05/11/2025 por Roberto Monteiro Pai para discutir consequências do PL 1473/2025 no sistema socioeducativo e financiamento. O pedido foi aprovado em 25/11, a audiência foi realizada em 09/12/2025 com especialistas e gestores de vários estados, e o requerimento foi arquivado em 06/02/2026 por cumprimento do objeto. O arquivamento é do requerimento de audiência, não do projeto de lei. Um convidado chamado Flávio Emiliano Moreira Damião Soares não é o senador Flávio Bolsonaro.",
+      "locator": "Câmara, ficha do REQ 496/2025 CSPCCO, autoria/ementa HTML linhas 23–39, aprovação 52–53 e andamento 84–91 com realização e arquivamento.",
+      "limitations": "Tramitação em HTML; ata integral, gravações, apresentações e inteiro teor do REQ não lidos. Participação dos convidados decorre do registro da Câmara, sem atribuição de declarações específicas a eles. A ficha não comprova comparecimento nem manifestação de Flávio Bolsonaro.",
+      "document_number": "REQ 496/2025 CSPCCO; PL 1473/2025",
+      "public_response": "A audiência institucional documenta oportunidade de discussão dos impactos e financiamento; não é resposta individual do relator.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Página HTML oficial aberta e lida via web.run em 24/10/2026, com trechos textuais individualizados no localizador. collected_at é o horário UTC de conclusão do checkpoint, não o instante exato de abertura de cada fonte. Zero segundos de áudio ou vídeo reproduzidos; nenhum PDF integral analisado.",
+      "collected_at": "2026-10-24T21:35:25.822Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "pl1473-audiencias-20261024-24-senado-radio-22out",
+      "title": "Rádio Senado: transcrição jornalística de 22/10 apresenta justificativa de Flávio e proposta do PL 1473/2025",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/10/22/adolescentes-infratores-podem-ter-tempo-de-internacao-ampliado-para-ate-10-anos",
+      "publisher": "Rádio Senado, reportagem de Bruno Lourenço",
+      "format": "reportagem",
+      "published_date": "2025-10-22",
+      "event_date": "2025-10-22",
+      "topics": [
+        "PL 1473/2025",
+        "CCJ",
+        "relatoria",
+        "resposta pública",
+        "socioeducação"
+      ],
+      "speaker": "Flávio Bolsonaro (declaração atribuída na transcrição publicada); Fabiano Contarato (autor do projeto, declaração atribuída); jornalista Bruno Lourenço",
+      "summary": "Reportagem institucional, com transcrição textual publicada, sintetiza aprovação na CCJ de proposta relatada por Flávio Bolsonaro, autoria de Fabiano Contarato e alterações sugeridas para internação de adolescentes em certas hipóteses. A transcrição atribui a Flávio justificativa de preocupação com violência juvenil e avaliação crítica da leniência legal; atribui a Contarato manifestação de apoio ao endurecimento com exemplo relatado por ele. São declarações públicas e conteúdo de projeto, não fatos criminosos verificados nem lei vigente.",
+      "locator": "Rádio Senado, 22/10/2025, título, autoria, data, duração anunciada de 01:56 e seção 'Transcrição', HTML linhas 8–25, com identificação dos falantes no texto.",
+      "limitations": "Foi lida somente a transcrição jornalística fornecida pela Rádio Senado; não foi reproduzido áudio de 01:56 nem verificada correspondência literal ou minutagem de declarações. Relatos sobre casos individuais, criminalidade e efeitos da medida exigem fontes próprias. Situação processual após 22/10 deve ser obtida nas fichas oficiais.",
+      "document_number": "Rádio Senado, 22/10/2025; PL 1473/2025",
+      "public_response": "A própria transcrição contém justificativas do relator Flávio e do autor Fabiano Contarato; as manifestações técnicas contrárias constam da audiência de 07/10/2025.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "reportagem",
+      "access_method": "Página HTML oficial aberta e lida via web.run em 24/10/2026, com trechos textuais individualizados no localizador. collected_at é o horário UTC de conclusão do checkpoint, não o instante exato de abertura de cada fonte. Zero segundos de áudio ou vídeo reproduzidos; nenhum PDF integral analisado.",
+      "collected_at": "2026-10-24T21:35:25.822Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "pl1473-audiencias-20261024-24-camara-fotos-09dez",
+      "title": "Câmara: banco de imagens documenta audiência de 09/12 sobre PL 1473/2025",
+      "url": "https://www.camara.leg.br/banco-imagens/eventos/487214B1-88D9-4CF4-A4F8-E140625ED264",
+      "publisher": "Câmara dos Deputados, banco institucional de imagens",
+      "format": "registro",
+      "published_date": "2025-12-09",
+      "event_date": "2025-12-09",
+      "topics": [
+        "PL 1473/2025",
+        "Câmara",
+        "audiência pública",
+        "documentação fotográfica"
+      ],
+      "speaker": "Câmara dos Deputados (legendas institucionais); participantes identificados nas legendas, inclusive Roberto Monteiro Pai e dirigentes do sistema socioeducativo",
+      "summary": "O banco de imagens da Câmara exibe galeria com 19 entradas identificadas pela comissão e pela audiência pública de 09/12/2025 sobre impactos do PL 1473/2025. As legendas apresentam participantes, inclusive representantes de instituições socioeducativas e o deputado proponente do debate. Complementa a ficha de tramitação e documenta a realização do encontro, mas fotos não equivalem à transcrição dos depoimentos.",
+      "locator": "Banco de Imagens da Câmara, cabeçalho 09/12/2025 e tema, HTML linhas 78–84; legendas de representantes e do deputado Roberto Monteiro Pai, linhas 87–129; total indicado como 19 itens.",
+      "limitations": "Lidas página e legendas HTML; sem download, exame individual ampliado de todas as fotografias ou identificação visual independente das pessoas. Legendas da fonte são atribuições institucionais, não verificação de falas, posições ou votos.",
+      "document_number": "Audiência CSPCCO, 09/12/2025; PL 1473/2025",
+      "public_response": null,
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "registro",
+      "access_method": "Página HTML oficial aberta e lida via web.run em 24/10/2026, com trechos textuais individualizados no localizador. collected_at é o horário UTC de conclusão do checkpoint, não o instante exato de abertura de cada fonte. Zero segundos de áudio ou vídeo reproduzidos; nenhum PDF integral analisado.",
+      "collected_at": "2026-10-24T21:35:25.822Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    },
+    {
+      "id": "pl1473-audiencias-20261024-24-ccj-10set-adiado",
+      "title": "Senado: resultado da CCJ em 10/09 registra adiamento do PL 1473/2025 relatado por Flávio",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/34/reuniao/13909/item/100198",
+      "publisher": "Senado Federal, Comissão de Constituição, Justiça e Cidadania",
+      "format": "documento",
+      "published_date": "2025-09-10",
+      "event_date": "2025-09-10",
+      "topics": [
+        "PL 1473/2025",
+        "CCJ",
+        "tramitação",
+        "adiamento"
+      ],
+      "speaker": "Fabiano Contarato (autor), Flávio Bolsonaro (relator); Comissão de Constituição e Justiça (resultado)",
+      "summary": "A ficha oficial do item 8 da 28ª reunião extraordinária da CCJ, em 10/09/2025, identifica Flávio Bolsonaro como relator do PL 1473/2025 e registra o resultado 'Adiado'. O relatório então em pauta indicava aprovação com acolhimento parcial da Emenda 1-CDH, na forma de substitutivo. Esse adiamento precede a audiência de 07/10 e não equivale a rejeição, aprovação ou arquivamento do projeto.",
+      "locator": "CCJ, 28ª reunião extraordinária, item 8, 10/09/2025; HTML linhas 20–26, 34–49 (autor, relator, relatório, resultado).",
+      "limitations": "Ficha institucional HTML, sem leitura dos anexos PDF de relatório ou parecer; não se sabe apenas por essa ficha o motivo ou requerente do adiamento. Deliberações posteriores de 08/10 e 22/10 estão catalogadas separadamente.",
+      "document_number": "PL 1473/2025; CCJ reunião 13909 item 100198",
+      "public_response": null,
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "access_method": "Página HTML oficial aberta e lida via web.run em 24/10/2026, com trechos textuais individualizados no localizador. collected_at é o horário UTC de conclusão do checkpoint, não o instante exato de abertura de cada fonte. Zero segundos de áudio ou vídeo reproduzidos; nenhum PDF integral analisado.",
+      "collected_at": "2026-10-24T21:35:25.822Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null
+    }
+  ],
+  "queries": [
+    {
+      "query": "Senado CCJ 07/10/2025 33ª reunião notas taquigráficas PL 1473/2025 audiência pública falas favoráveis e críticas; comparação URLs com research.json",
+      "engine": "web.run, abertura/leitura de HTML oficial; GitHub conectado, deduplicação integral",
+      "interval": "2025",
+      "result": "Transcrição oficial e ficha de presença abertas. Registros de falas e participantes atribuídos a cada pessoa; não houve reprodução de áudio, e a presença de Flávio não foi tratada como fala ou voto.",
+      "executed_at": "2026-10-24T21:35:25.822Z"
+    },
+    {
+      "query": "REQ 48/2025 CCJ Mara Gabrilli Eliziane Gama audiência pública realizada 07/10/2025 PL 1473/2025",
+      "engine": "web.run, abertura/leitura de ficha oficial Senado; GitHub conectado, deduplicação",
+      "interval": "2025",
+      "result": "Requerimento oficial apresentado em 05/09; andamento confirma audiência efetivamente realizada em 07/10, resolvendo lacuna sobre realização.",
+      "executed_at": "2026-10-24T21:35:25.822Z"
+    },
+    {
+      "query": "REQ 496/2025 CSPCCO Câmara PL 1473/2025 audiência 09/12/2025 arquivamento",
+      "engine": "web.run, leitura de ficha e acervo de legendas da Câmara; deduplicação GitHub",
+      "interval": "2025–2026",
+      "result": "Aprovado em 25/11, audiência de 09/12, requerimento arquivado em 06/02/2026 por cumprimento. Nenhuma fala ou voto atribuído ao senador.",
+      "executed_at": "2026-10-24T21:35:25.822Z"
+    },
+    {
+      "query": "Rádio Senado 22/10/2025 relator Flávio Bolsonaro Fabiano Contarato PL 1473/2025 transcrição",
+      "engine": "web.run, abertura de reportagem e transcrição textual da Rádio Senado; deduplicação GitHub",
+      "interval": "2025",
+      "result": "Texto atribui posições aos dois senadores, mas áudio 01:56 não foi reproduzido nem usado como prova de transcrição conferida.",
+      "executed_at": "2026-10-24T21:35:25.822Z"
+    },
+    {
+      "query": "Senado CCJ 10/09/2025 item PL 1473/2025 Flávio Bolsonaro resultado adiado",
+      "engine": "web.run, leitura de ficha de pauta e resultado da CCJ; deduplicação GitHub",
+      "interval": "2025",
+      "result": "Resultado adiado, relator identificado; cotejado temporalmente com audiência 07/10 e aprovação em 08/10 e 22/10.",
+      "executed_at": "2026-10-24T21:35:25.822Z"
+    },
+    {
+      "query": "PDFs Senado PL 1473/2025 relatório e substitutivos 25/08/2025 e 08/10/2025",
+      "engine": "web.run, tentativa de abrir links dos PDFs oficiais",
+      "interval": "2025",
+      "result": "Acesso devolveu página de verificação de segurança, sem páginas PDF legíveis; nenhum PDF incluído como texto analisado e nenhum cotejo integral reivindicado.",
+      "executed_at": "2026-10-24T21:35:25.822Z"
+    }
+  ],
+  "blocked": [
+    {
+      "source": "PDFs dos relatórios e substitutivos da CCJ para o PL 1473/2025",
+      "status": "Conteúdo não acessado nesta execução",
+      "note": "As tentativas de abrir anexos retornaram verificação de segurança e não o PDF. O cotejo documental entre versões permanece pendente, sem alegar consulta à íntegra."
+    },
+    {
+      "source": "Áudios e vídeos da audiência 07/10, sessão 22/10 e reportagem Rádio Senado",
+      "status": "Não reproduzidos",
+      "note": "Zero segundos efetivamente conferidos. Os horários e durações exibidos pelo portal não foram convertidos em timestamps audiovisuais próprios."
+    },
+    {
+      "source": "Dossiê de 09/12 da Câmara com falas individuais e notas técnicas originais de entidades",
+      "status": "Não lidos integralmente",
+      "note": "A ficha oficial confirma a realização e a galeria identifica participantes, mas não traz o teor individual de todas as intervenções nem fundamenta estimativas independentes."
+    }
+  ],
+  "gaps": [
+    "Audiência do Senado em 07/10/2025 confirmada por ficha, requerimento e transcrição, resolvendo a dúvida de realização; falta revisar contra audiovisual a integralidade das falas.",
+    "PL 1473/2025: cotejar PDFs acessíveis do texto original, pareceres, versão relatada por Flávio, substitutivo, texto remetido à Câmara e eventuais notas técnicas; sem confundir projeto com lei.",
+    "Auditoria da audiência da Câmara de 09/12/2025: buscar ata e falas textuais dos convidados de diferentes posições; relatório de presença e fotos não equivalem a transcrição.",
+    "Conferir dados orçamentários e alegações sobre reincidência e efeitos de internação em fontes estatísticas primárias antes de análise crítica.",
+    "Manter novos vereditos, acusações e comparações sensíveis pendentes de revisão editorial humana identificada; lista approvedReviewerIds intocada; zero segundos de áudio escutados.",
+    "Continuar busca de votações nominais ALERJ de 2008 e 2009 e imagens oficiais do Diário, sem reconstruir votos a partir de notícias."
+  ],
+  "references": [
+    {
+      "id": "checkpoint-20261024-24",
+      "label": "PL 1473/2025, audiência pública Senado e Câmara, notas taquigráficas oficiais, posições do relator e registro de adiamento",
+      "method": "Sete URLs de páginas HTML distintas abertas e lidas; comparadas contra 531 URLs consolidadas; sem audição, sem leitura das íntegras PDF bloqueadas e sem veredito.",
+      "collected_at_utc": "2026-10-24T21:35:25.822Z"
+    }
+  ]
+}
