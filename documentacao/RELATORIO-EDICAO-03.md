@@ -87,7 +87,7 @@ O cliente consulta os dados versionados do GitHub ao abrir e a cada 20 minutos e
 
 ## Verificação e capacidade
 
-Passaram 25 testes Python, sintaxe dos scripts JavaScript, validação de 113 IDs HTML e 56 referências locais/âncoras. A integração com DOM simulado conferiu 1.000 materiais de teste, paginação de 12, foco Flávio, busca, filtros, etapas, fontes, detalhes, escape de texto hostil e rejeição de URLs de script. Esse teste não é um navegador.
+Passaram 25 testes Python, sintaxe dos scripts JavaScript, validação de 115 IDs HTML e 56 referências locais/âncoras. A integração com DOM simulado conferiu 1.000 materiais de teste, paginação de 12, foco Flávio, busca, filtros, etapas, fontes, detalhes, escape de texto hostil e rejeição de URLs de script. Esse teste não é um navegador.
 
 Meta inicial: 1.000 materiais e 100 requisições simultâneas. O teste de transporte fez 300 requisições, com até 100 tarefas concorrentes, ao HTML e a uma fixture separada de 1.000 metadados. Resultado: zero erros, p50 89,46 ms e p95 101,64 ms, em 0,857 s, loopback e CPython ThreadingHTTPServer. Não mede TLS, CDN, Safari, reprodução audiovisual ou usuários reais. O JSON do ensaio identifica o ambiente e os limites. Não se promete capacidade ilimitada.
 
@@ -120,3 +120,14 @@ Backups de código, catálogo e checkpoint permanecem no histórico Git. Um roll
 Priorizar ALERJ 2003 a 2015 por ano e número de proposição; entrevistas e campanhas 2016 a 2018; íntegras por evento; patrimônio declarado com versões oficiais e data de extração; votos com texto/emenda/etapa; desdobramentos posteriores das decisões judiciais. Ouvir os trechos decisivos e registrar pergunta, resposta, início/fim e revisão identificada. Normalizar as distribuições do mesmo podcast como um evento. Confirmar candidatos de repetição e comparações antes de aprovar qualquer conclusão.
 
 A classificação de novos itens depende de revisão autorizada, atualmente sem revisor cadastrado. Isso não impede descoberta e catalogação recorrentes. Não há afirmação de exaustividade, cobertura percentual total ou atualização segundo a segundo.
+
+
+## Implantação e evidência posterior
+
+O commit 471b5f9902a394c25719a27a2f4410be6c066a16 foi gravado em main e o JSON canônico e exportado foi lido novamente, com as mesmas contagens e bytes. A execução 40060900699 do novo coletor concluiu com sucesso. Em 24/10/2026 às 04:04:43 UTC (00:04:43 em Campo Grande), sete de oito fontes responderam. O TSE ficou em retry, com nova tentativa registrada, sem interromper as outras fontes. O checkpoint persistido contém oito jobs e ledger de 30 URLs, migrados e preservados do acompanhamento anterior. Não houve novo material nessa rodada específica nem revisão editorial automática.
+
+Execução: https://github.com/QGBALTIGO/Internacional/actions/runs/40060900699
+
+A tarefa de pesquisa já existente foi reutilizada e atualizada, sem criar duplicata. Permanece habilitada de hora em hora, no minuto 35, America/Campo_Grande. Seu último horário de execução ainda não estava registrado na conferência. A agenda comprova configuração; a execução de pesquisa ainda deve ser acompanhada separadamente. O prompt preserva os checkpoints e proíbe novas conclusões sensíveis sem revisão identificada.
+
+A coleta de feeds continua independente da tarefa de pesquisa e do desenho hospedado. A próxima versão do Site inclui o retrato atual da fila e os dados de fallback.

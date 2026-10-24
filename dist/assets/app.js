@@ -169,6 +169,8 @@
     $('lastAttempt').textContent=timeLabel(m.lastAttemptAt);$('lastSuccess').textContent=timeLabel(m.lastSuccessfulCheckAt);$('feedHealth').textContent=feeds.length?`${ok} de ${feeds.length}`:'Nenhuma coleta registrada';
     $('monitorTitle').textContent=m.execution?.url?'Execução registrada':'Coleta de fontes públicas';
     $('executionEvidence').innerHTML=m.execution?.url?external(m.execution.url,'Ver execução da coleta'):'Agendamento configurado no GitHub. Consulte o histórico para conferir as execuções reais.';
+    $('queueSummary').textContent=m.queue?`${m.queue.waiting||0} fontes aguardando a janela e ${m.queue.retry||0} com nova tentativa pendente. ${m.pendingEditorialReview||0} materiais do acompanhamento aguardam análise.`:'';
+    $('dailySummary').textContent=m.dailyBalance?`Balanço em UTC (${m.dailyBalance.dateUTC}): ${m.dailyBalance.newMaterials||0} novos materiais, ${m.dailyBalance.successfulCollections||0} coletas com resultado e ${m.dailyBalance.failedCollections||0} falhas. Revisões editoriais e correções: ${m.dailyBalance.editorialReviews||0} e ${m.dailyBalance.corrections||0}.`:'';
     const last=m.lastSuccessfulCheckAt?new Date(m.lastSuccessfulCheckAt):null;const stale=!last||Number.isNaN(last.getTime())||(Date.now()-last.getTime()>4*60*60*1000);
     $('statusDot').classList.toggle('stale',stale);$('freshnessLabel').textContent=last?(stale?'Coleta precisa de atualização':'Fontes consultadas'):'Acervo disponível';
     $('freshnessDetail').textContent=last?timeLabel(m.lastSuccessfulCheckAt):`Revisão em ${dateLabel(data.metadata.reviewedAt)}`;
