@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "batch_id": "senado-pl2734-csp-20261024-25",
+  "collected_at_utc": "2026-10-24T22:48:23.520Z",
+  "scope": "PL 2734/2021: debate 01/04 e aprovação na CSP 08/04/2025, texto da Rádio Senado e checagem institucional do andamento de agosto de 2025. Continuidade de nextBatch dos lotes 18 e 19 sem duplicar ficha da 5ª reunião já presente.",
+  "method": "Cinco páginas HTML originais abertas e lidas via web.run em 24/10/2026; comparação exata de URLs contra os 538 itens únicos do content/research.json do head main. Os localizadores são de linhas de texto HTML, não timestamps. PDFs, áudio e vídeo não reproduzidos. Sem revisor humano, novo veredito ou inferência de efeitos de lei.",
+  "records": [
+    {
+      "topics": [
+        "PL 2734/2021",
+        "porte de arma para advogados",
+        "Comissão de Segurança Pública",
+        "tramitação legislativa"
+      ],
+      "document_number": "PL 2734/2021 (em conjunto com PL 2530/2024)",
+      "collected_at": "2026-10-24T22:48:23.520Z",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null,
+      "access_method": "Página pública em HTML aberta pelo web.run em 24/10/2026, com leitura de trechos pertinentes. collected_at registra o fechamento documental do lote, não o instante exato da consulta. Sem audição própria, sem download de vídeo nem conferência de PDFs.",
+      "id": "senado-pl2734-csp-20261024-25-01abr-ficha",
+      "title": "Senado: CSP concedeu vista ao PL 2734/2021 em 01/04/2025",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/13405/item/97237",
+      "publisher": "Senado Federal, CSP, ficha oficial da 4ª reunião",
+      "format": "documento",
+      "published_date": "2025-04-01",
+      "event_date": "2025-04-01",
+      "speaker": "Senado Federal (registro institucional); relator Alessandro Vieira; autor Flávio Bolsonaro",
+      "summary": "Ficha do item 2 da 4ª reunião da CSP, realizada em 01/04/2025. Identifica Flávio Bolsonaro como autor, Alessandro Vieira como relator e resultado 'Vista concedida'. O substitutivo apresentado previa tramitação posterior à CCJ. Não houve aprovação do PL nessa reunião.",
+      "locator": "4ª Reunião Extraordinária da CSP, 01/04/2025, item 2; cabeçalho da reunião e item, HTML linhas 20–45.",
+      "limitations": "Ficha de andamento em HTML, não prova o teor integral do substitutivo anexado em PDF nem voto nominal. A ocorrência de vista não pode ser chamada de aprovação final.",
+      "public_response": "Posição do autor e ponderações do relator e colegas constam das notas taquigráficas da mesma reunião, catalogadas neste lote."
+    },
+    {
+      "topics": [
+        "PL 2734/2021",
+        "porte de arma para advogados",
+        "Comissão de Segurança Pública",
+        "tramitação legislativa"
+      ],
+      "document_number": "PL 2734/2021 (em conjunto com PL 2530/2024)",
+      "collected_at": "2026-10-24T22:48:23.520Z",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null,
+      "access_method": "Página pública em HTML aberta pelo web.run em 24/10/2026, com leitura de trechos pertinentes. collected_at registra o fechamento documental do lote, não o instante exato da consulta. Sem audição própria, sem download de vídeo nem conferência de PDFs.",
+      "id": "senado-pl2734-csp-20261024-25-01abr-notas",
+      "title": "Senado: notas de 01/04/2025 registram objeções, resposta de Flávio e pedido de vista sobre porte de arma para advogados",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/13405",
+      "publisher": "Senado Federal, CSP, notas taquigráficas revisadas",
+      "format": "documento",
+      "published_date": "2025-04-01",
+      "event_date": "2025-04-01",
+      "speaker": "Flávio Bolsonaro (autor e presidente da CSP), Alessandro Vieira (relator), Fabiano Contarato e Sergio Moro",
+      "summary": "Na discussão do PL 2734/2021, o relator defendeu aproximar as regras de porte da advocacia das de magistrados e integrantes do Ministério Público. Contarato cobrou a exigência expressa de capacidade técnica e aptidão psicológica e levantou dúvidas sobre o número potencial de advogados interessados. Flávio respondeu que não haveria concessão automática a todos os advogados e que a proposta pretende afastar a avaliação subjetiva da efetiva necessidade. Moro pediu vista para aperfeiçoar requisitos e restrições de locais; Flávio concedeu vista coletiva. Argumentos são atribuídos aos oradores, sem avaliação independente de números ou efeitos.",
+      "locator": "Notas taquigráficas revisadas da 4ª reunião da CSP, 01/04/2025, item 2: HTML linhas 74–90 (relatório), 91–115 (Contarato, Flávio e Moro), 120–130 (ajustes debatidos e vista coletiva).",
+      "limitations": "Acesso ao texto revisto pelo Senado; gravações e marcas temporais do portal não foram reproduzidas nem verificadas. Os números citados pelos participantes não foram comparados com bases primárias. Não equivale ao PDF do parecer ou à deliberação final da CCJ.",
+      "transcript_method": "texto taquigráfico oficial revisado em HTML",
+      "public_response": "Resposta pública do próprio Flávio consta das falas identificadas na transcrição, especialmente linhas 100–104."
+    },
+    {
+      "topics": [
+        "PL 2734/2021",
+        "porte de arma para advogados",
+        "Comissão de Segurança Pública",
+        "tramitação legislativa"
+      ],
+      "document_number": "PL 2734/2021 (em conjunto com PL 2530/2024)",
+      "collected_at": "2026-10-24T22:48:23.520Z",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "documento",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null,
+      "access_method": "Página pública em HTML aberta pelo web.run em 24/10/2026, com leitura de trechos pertinentes. collected_at registra o fechamento documental do lote, não o instante exato da consulta. Sem audição própria, sem download de vídeo nem conferência de PDFs.",
+      "id": "senado-pl2734-csp-20261024-25-08abr-notas",
+      "title": "Senado: notas da votação de 08/04/2025 registram mudanças nas emendas e ressalvas ao PL 2734/2021",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/13420",
+      "publisher": "Senado Federal, CSP, notas taquigráficas revisadas",
+      "format": "documento",
+      "published_date": "2025-04-08",
+      "event_date": "2025-04-08",
+      "speaker": "Flávio Bolsonaro (autor e presidente da CSP), Alessandro Vieira (relator), Sergio Moro, Fabiano Contarato, Damares Alves",
+      "summary": "Na 5ª reunião da CSP, Alessandro Vieira informou acolhimento integral da emenda de Contarato, acolhimento parcial da de Moro e rejeição das duas de Kajuru. O texto discutido condicionava o porte à legislação e a regulamento e previa restrições de entrada armada em locais sujeitos a segurança própria. Moro justificou cuidados com treinamento, aptidão e espaços como fóruns e prisões. Contarato reiterou preocupações sobre segurança, mas declarou voto favorável após ajustes. Flávio presidiu a votação simbólica, declarou aprovado o parecer da comissão, agradeceu aos participantes e defendeu a continuidade na CCJ. A aprovação da CSP não torna o projeto lei.",
+      "locator": "Notas taquigráficas revisadas, 5ª CSP, 08/04/2025: HTML linhas 98–114 (item e substitutivo), 115–145 (manifestações de Moro, Contarato, presidência, votação e agradecimentos).",
+      "limitations": "Texto oficial em HTML consultado, não conferido contra som ou vídeo; os horários exibidos pelo portal não são timestamps validados. Votação simbólica sem apuração nominal neste registro. Parecer e emendas em PDF não lidos integralmente.",
+      "transcript_method": "texto taquigráfico oficial revisado em HTML",
+      "public_response": "O próprio Flávio expressou a avaliação sobre os ajustes e o desfecho do colegiado nas linhas 141–145; objeções e respostas de outros senadores também registradas."
+    },
+    {
+      "topics": [
+        "PL 2734/2021",
+        "porte de arma para advogados",
+        "Comissão de Segurança Pública",
+        "tramitação legislativa"
+      ],
+      "document_number": "PL 2734/2021 (em conjunto com PL 2530/2024)",
+      "collected_at": "2026-10-24T22:48:23.520Z",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "reportagem",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null,
+      "access_method": "Página pública em HTML aberta pelo web.run em 24/10/2026, com leitura de trechos pertinentes. collected_at registra o fechamento documental do lote, não o instante exato da consulta. Sem audição própria, sem download de vídeo nem conferência de PDFs.",
+      "id": "senado-pl2734-csp-20261024-25-08abr-noticia",
+      "title": "Rádio Senado: notícia de 08/04/2025 contextualiza a aprovação do porte para advogados somente na CSP",
+      "url": "https://www12.senado.leg.br/noticias/audios/2025/04/csp-autoriza-porte-de-arma-para-advogados",
+      "publisher": "Rádio Senado, Marcella Cunha",
+      "format": "reportagem",
+      "published_date": "2025-04-08",
+      "event_date": "2025-04-08",
+      "speaker": "Rádio Senado (texto jornalístico); projeto de Flávio Bolsonaro, substitutivo de Alessandro Vieira",
+      "summary": "Reportagem de Marcella Cunha, publicada em 08/04/2025 às 17h09 (horário exibido pelo publicador), informa que a CSP aprovou substitutivo do PL 2734/2021 e remete o projeto à CCJ. O texto destaca requisitos de capacidade técnica e psicológica, inexistência de antecedentes criminais e mudança da avaliação de necessidade. Não demonstra aprovação definitiva ou lei em vigor.",
+      "locator": "Página Rádio Senado, título 'CSP autoriza porte de arma para advogados', data e texto jornalístico, HTML linhas 19–26.",
+      "limitations": "Somente texto da matéria foi lido; conteúdo de áudio disponibilizado para download não foi reproduzido, transcrito ou comparado. A publicação é institucional e não uma checagem independente.",
+      "public_response": "O texto resume a justificativa da relatoria; a posição pública do autor está nas notas taquigráficas catalogadas nesta série."
+    },
+    {
+      "topics": [
+        "PL 2734/2021",
+        "porte de arma para advogados",
+        "Comissão de Segurança Pública",
+        "tramitação legislativa"
+      ],
+      "document_number": "PL 2734/2021 (em conjunto com PL 2530/2024)",
+      "collected_at": "2026-10-24T22:48:23.520Z",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "stage": "analisado",
+      "kind": "checagem",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "reviewed_audio_seconds": 0,
+      "source_conclusion": null,
+      "access_method": "Página pública em HTML aberta pelo web.run em 24/10/2026, com leitura de trechos pertinentes. collected_at registra o fechamento documental do lote, não o instante exato da consulta. Sem audição própria, sem download de vídeo nem conferência de PDFs.",
+      "id": "senado-pl2734-csp-20261024-25-08ago-senado-verifica",
+      "title": "Senado Verifica (08/08/2025): checagem institucional distingue aprovação na CSP de lei vigente sobre porte de arma para advogados",
+      "url": "https://www12.senado.leg.br/verifica/materias/2025/projeto-de-lei-autoriza-advogados-a-portar-armas-de-fogo",
+      "publisher": "Senado Verifica, Senado Federal",
+      "format": "checagem",
+      "published_date": "2025-08-08",
+      "event_date": "2025-08-08",
+      "speaker": "Senado Verifica (checagem institucional); Flávio Bolsonaro citado como autor; Alessandro Vieira como relator",
+      "summary": "A publicação institucional identifica como 'Fato' apenas a aprovação do projeto pela Comissão de Segurança Pública, alerta que ainda havia etapas legislativas e explicita que não se tratava de lei vigente. Resume a defesa da equiparação profissional, a necessidade de comprovação de exercício regular, capacidade técnica e psicológica e restrições a locais. O rótulo 'Fato' pertence ao Senado Verifica e não constitui novo veredito editorial do Arquivo.",
+      "locator": "Senado Verifica, 'Projeto autoriza advogado a portar armas de fogo', 08/08/2025: HTML linhas 4–20, seções 'Requisitos' e 'Próximos passos'.",
+      "limitations": "Checagem publicada por órgão legislativo sobre seus próprios atos, não verificação independente de efeitos do porte. A indicação de próximas etapas é o estado descrito em agosto de 2025, não confirmação de alteração posterior em 2026. Não atribuir o selo 'Fato' ao Arquivo.",
+      "public_response": "A página descreve justificativas de Flávio e Alessandro Vieira; não contém entrevista contemporânea com resposta exclusiva."
+    }
+  ],
+  "queries": [
+    {
+      "query": "site:senado.leg.br PL 2734/2021 2026 CCJ emenda 5 CSP Flávio Bolsonaro",
+      "engine": "web.run fast + abertura do portal e notas oficiais do Senado; comparação com research.json via GitHub",
+      "interval": "2025–2026",
+      "result": "Localizadas e consultadas as notas de 01/04 e 08/04, ficha da reunião de 01/04 e página já catalogada da reunião de 08/04; esta última não recadastrada."
+    },
+    {
+      "query": "site:senado.leg.br \"2734/2021\" \"constituição\" 2026 CCJ",
+      "engine": "web.run fast, consulta ao histórico legislativo do Senado",
+      "interval": "2025–2026",
+      "result": "Página oficial da tramitação já existente no acervo aponta CCJ aguardando designação de relator. Não presumida sanção."
+    },
+    {
+      "query": "OAB Conselho Federal porte de armas advogados projeto 2734 2021 Alessandro Vieira 2025 posição",
+      "engine": "web.run fast, leitura das intervenções no texto taquigráfico",
+      "interval": "2025",
+      "result": "Transcrição documenta argumentos de autores, relator e senadores a favor e ponderações sobre requisitos; presença de conselheiro e de associação não comprova posição formal de toda a OAB."
+    },
+    {
+      "query": "Projeto autoriza advogado a portar armas de fogo Senado Verifica 08/08/2025",
+      "engine": "web.run fast + abertura de texto oficial",
+      "interval": "2025",
+      "result": "Checagem institucional distingue aprovação em comissão de tramitação futura; classificação da publicação externa não incorporada como veredito do Arquivo."
+    },
+    {
+      "query": "Comissão de Segurança Pública 01/04/2025 porte arma advogados vista concedida e 08/04/2025 notas taquigráficas",
+      "engine": "web.run open/click/find em páginas oficiais",
+      "interval": "2025",
+      "result": "Confirmados vista em 01/04 e parecer aprovado por votação simbólica em 08/04, sem voto nominal demonstrado."
+    }
+  ],
+  "blocked": [
+    {
+      "source": "Relatório, emendas e decisão da CSP em PDF no portal legis.senado.leg.br/sdleg-getter",
+      "status": "Não foi possível ler o PDF nesta sessão",
+      "note": "A abertura do anexo retornou verificação de segurança com JavaScript, não bytes do documento. Texto debatido foi documentado apenas a partir de HTML oficial e notas revisadas."
+    },
+    {
+      "source": "Áudios e vídeos das reuniões 13405 e 13420 e reportagem Rádio Senado",
+      "status": "Não reproduzidos",
+      "note": "Zero segundos de gravação conferidos. Horas e ícones do HTML são marcadores publicados pelo portal, não minutos analisados."
+    },
+    {
+      "source": "Posição institucional atual do Conselho Federal da OAB e estatísticas de violência profissional",
+      "status": "Não autenticadas nesta sessão",
+      "note": "Intervenções e referências em materiais consultados não equivalem à leitura de ofício institucional integral ou verificação própria de dados estatísticos."
+    }
+  ],
+  "gaps": [
+    "PL 2734/2021: ler o substitutivo e as Emendas 1 a 5 diretamente em PDF oficial quando acessíveis, para cotejar textos com falas de 01/04 e 08/04/2025.",
+    "PL 2734/2021: confirmar movimentação mais recente na CCJ e eventual mudança de relatoria na página oficial em consulta futura; não afirmar vigência legislativa por aprovação em CSP.",
+    "PL 2734/2021: procurar manifestação formal e atual da OAB e análise técnica de segurança pública, sem atribuir a toda a categoria posições de conselheiros individuais.",
+    "A gravação original das reuniões não foi reproduzida; zero segundos revisados. Comparações sensíveis e novas verificações próprias permanecem com classification nulo até aprovação por revisor editorial humano identificado."
+  ],
+  "references": [
+    {
+      "id": "checkpoint-20261024-25",
+      "label": "PL 2734/2021: vista, debate e substitutivo da CSP, resposta pública e checagem institucional do status",
+      "collected_at_utc": "2026-10-24T22:48:23.520Z",
+      "method": "5 fontes HTML distintas lidas e não catalogadas antes; comparação de URL com 538 itens; 0 segundos de áudio; sem novo veredito."
+    }
+  ]
+}
