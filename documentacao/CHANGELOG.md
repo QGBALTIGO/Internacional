@@ -30,3 +30,14 @@ Ajustes incorporados antes da publicação:
 - Separado o trecho de fala original de reportagens institucionais de contexto.
 
 O histórico de atualizações futuras deverá registrar a ficha afetada, a mudança, a motivação e a fonte que a sustenta.
+
+
+## Edição 03 de pesquisa
+
+- Foco inicial em Flávio, preservação de IDs e recorte anterior.
+- Catálogo normalizado de 82 materiais, com 69 novos e 13 já vinculados, sem novos vereditos.
+- Matriz por ano, mapa de fontes, consultas, limitações e histórico de alterações reais.
+- Fila persistente de coleta, backoff, retomada, deduplicação e evidência de execução.
+- Filtros de período/fonte, links permanentes para mídia/contexto e atualização do catálogo remoto.
+- PDF existente identificado como edição 01; datas de revisão herdadas separadas da coleta.
+- Testes e limites documentados em RELATORIO-EDICAO-03.md.

@@ -1,227 +1,59 @@
-# Arquivo Bolsonaro | Declarações e documentos
+# Arquivo Bolsonaro | Flávio, declarações e documentos
 
-Prévia do site, com acesso restrito ao proprietário: https://arquivo-bolsonaro-fatos.copperkoala32.chatgpt.site
+Site com acesso restrito ao proprietário: https://arquivo-bolsonaro-fatos.copperkoala32.chatgpt.site
 
-Código: https://github.com/QGBALTIGO/Internacional
+Repositório: https://github.com/QGBALTIGO/Internacional
 
-Acervo documental sobre declarações públicas de Jair Bolsonaro e Flávio Bolsonaro. Reúne fichas com fontes, entrevistas, vídeos, áudios, documentos, comparações entre falas e acompanhamento de publicações. A interface é estática, em português, com pesquisa e filtros executados no navegador.
+Edição 03 de pesquisa. Datas de sistema em UTC; apresentação em America/Campo_Grande. O foco atual é Flávio Bolsonaro. O acervo anterior de Jair permanece disponível na seção identificada e não integra as contagens de novas checagens de Flávio.
 
-Repositório público: [QGBALTIGO/Internacional](https://github.com/QGBALTIGO/Internacional).
+## O que foi acrescentado
 
-## Abrangência desta edição
+O catálogo contém 82 materiais únicos, sendo 69 novos e 13 relacionados à base anterior. Foram acessados 79 materiais e examinados 53 textos. Há 18 mídias no lote, 18 documentos, 26 fontes/canais cadastrados, 22 consultados, 45 consultas de pesquisa e 9 falhas registradas. As durações nominais conhecidas somam 4h41min55s; nenhum segundo de áudio foi ouvido nesta execução.
 
-A edição 02 tem revisão editorial de **24 de outubro de 2026**. O conjunto incluído em `content/acervo.editorial.json` contém:
+Os materiais novos aguardam revisão editorial identificada. Não foram acrescentados vereditos, acusações ou comparações conclusivas. As 71 fichas anteriores, 26 de Flávio e 45 de Jair, foram preservadas com IDs e fontes. As contagens de links não são contagens de afirmações falsas.
 
-| Conteúdo | Quantidade |
-| --- | ---: |
-| Fichas de declarações | 71 |
-| Fichas de Jair Bolsonaro | 45 |
-| Fichas de Flávio Bolsonaro | 26 |
-| Vídeos e áudios | 43 |
-| Comparações entre falas | 5 |
-| Documentos de referência | 12 |
-| Episódio com apuração, cronologia e respostas | 1 |
+## Consultar
 
-Este é um acervo selecionado. A contagem não representa a totalidade das declarações, suas repetições ou a intenção dos autores. Os 43 itens multimídia incluem entrevistas completas e materiais de contexto; sua presença não significa que todas as falas contidas nesses registros tenham sido verificadas.
+A página oferece busca de falas, catálogo com período/tema/formato/fonte/etapa/classificação, linha do tempo, biblioteca audiovisual, comparações anteriores, frente Vorcaro, notícias coletadas, documentos, matriz de cobertura, mapa de fontes, metodologia e histórico. Players externos são carregados sob demanda, com link ao publicador. O PDF está rotulado como edição histórica 01 e não representa o catálogo atual.
 
-## Executar localmente
+Novos materiais de `dist/data/research.json`, notícias e complementos são consultados no GitHub ao abrir a página e a cada 20 minutos enquanto visível. Dados incluídos na versão hospedada continuam disponíveis quando a consulta remota falha. O desenho do site só muda após nova publicação.
 
-Use Python 3.12, versão configurada no workflow. O site não exige Node.js, framework, banco de dados ou serviço de aplicação. A geração do PDF utiliza ReportLab, Pillow e as fontes DejaVu.
+## Dados e rotinas
 
-Na raiz do repositório, restaure os anexos, instale as dependências do PDF e gere a edição para download:
-
-```sh
-python scripts/fetch_assets.py
-python -m pip install -r requirements.txt
-python scripts/build_pdf.py
-python scripts/sync_content.py
-python -m http.server 8080 --directory dist
-```
-
-Abra [http://localhost:8080](http://localhost:8080). Em ambientes que oferecem apenas o comando `python3`, use-o no lugar de `python`.
-
-O gerador de PDF procura `DejaVuSans.ttf`, `DejaVuSans-Bold.ttf`, `DejaVuSerif.ttf` e `DejaVuSerif-Bold.ttf` em `/usr/share/fonts/truetype/dejavu`. Em Debian e Ubuntu, essas fontes são fornecidas pelo pacote `fonts-dejavu-core`. Em outros sistemas, ajuste a função `register_fonts()` de `scripts/build_pdf.py` para o diretório das fontes instaladas.
-
-### Arquivos grandes e restauração
-
-O clone conserva os dados, scripts, fontes tipográficas, miniaturas e imagens pequenas. Os anexos públicos maiores que 500 KB são relacionados em `content/assets.json`, com endereço de origem, destino, crédito, licença e SHA-256. O PDF compilado é gerado localmente.
-
-`scripts/fetch_assets.py` baixa os anexos do manifesto, verifica o SHA-256 e grava o arquivo somente depois dessa conferência. Arquivos locais com o hash esperado são reaproveitados. Uma divergência exige revisar a fonte antes de atualizar o manifesto. Os novos áudios hospedados pelos publicadores continuam acessíveis pelas URLs originais.
-
-A pasta preparada para publicação deve conter os anexos restaurados e o PDF gerado. Os scripts de coleta, sincronização e restauração usam apenas a biblioteca padrão do Python; `requirements.txt` reúne exclusivamente as dependências externas do PDF.
-
-## Recursos da interface
-
-- Busca sem distinção de acentos, com filtros de pessoa, assunto, classificação e ano.
-- Visualização em cartões ou linha do tempo, ordenação e carregamento progressivo.
-- Fichas com síntese da declaração, evidência, contexto, fontes, revisão e correções documentadas.
-- Links diretos no formato `#ficha=identificador`, exportação da ficha em TXT e impressão.
-- Exportações JSON e CSV do acervo carregado, incluindo atualizações editoriais aplicadas pelo navegador.
-- Midiateca com pesquisa, filtros por pessoa e tipo de registro, créditos e acesso à publicação original.
-- Comparações com duas datas, referências e explicação do contexto.
-- Favoritos e preferência de tema mantidos no navegador, sem conta de usuário.
-- Navegação por teclado, diálogos nativos, indicação de foco, tema claro ou escuro e respeito à preferência de movimento reduzido.
-
-O atalho `/` leva à busca principal quando o foco não está em um campo de formulário ou diálogo. Os favoritos pertencem ao navegador e não são sincronizados entre dispositivos.
-
-## Estrutura do projeto
-
-| Caminho | Responsabilidade |
+| Arquivo | Função |
 | --- | --- |
-| `dist/index.html` | Estrutura e navegação do site |
-| `dist/assets/app.js` | Pesquisa, filtros, diálogos, exportações e atualização remota |
-| `dist/assets/styles.css` | Layout, temas, animações, responsividade e impressão |
-| `dist/assets/` | Imagens, fonte local, miniaturas e anexos de mídia |
-| `dist/data/` | Dados distribuídos em JSON, versões JavaScript e CSV |
-| `dist/documentos/` | PDF da edição, documentos locais e eventual pacote portátil |
-| `content/acervo.editorial.json` | Base editorial canônica |
-| `content/editorial-updates.json` | Complemento editorial aplicado por identificador |
-| `content/sources.json` | Catálogo de fontes RSS e Atom, com fontes ativas e desativadas |
-| `content/assets.json` | Manifesto dos anexos públicos para restauração |
-| `scripts/sync_content.py` | Validação e geração dos dados distribuídos |
-| `scripts/update_news.py` | Coleta das publicações e situação de cada fonte |
-| `scripts/build_pdf.py` | Geração do dossiê a partir da base canônica |
-| `scripts/fetch_assets.py` | Restauração dos anexos com verificação de integridade |
-| `scripts/package_portable.py` | Geração de uma cópia portátil |
-| `.github/workflows/atualizar-fontes.yml` | Configuração da coleta periódica no GitHub Actions |
-| `tests/test_news.py` | Testes de integridade da coleta |
-| `documentacao/` | Histórico de alterações e registros de validação |
+| `content/acervo.editorial.json` | Fichas e documentos da base anterior, com metadados da edição atual |
+| `content/research-input/` | Checkpoints de pesquisa, consultas, acessos e limitações |
+| `content/research.json` | Entidades normalizadas, materiais, fontes, cobertura e candidatos |
+| `content/research-history.json` | Alterações reais de apresentação e estado editorial |
+| `content/sources.json` | Feeds autorizados e intervalos |
+| `.monitor/state.json` | Checkpoint persistente de coletas, fila e ledger histórico criado pelo runner |
+| `scripts/build_research.py` | Normalização e deduplicação, sem publicar conclusões sensíveis |
+| `scripts/update_news.py` | Coleta permitida, retentativas e diagnóstico por fonte |
+| `.github/workflows/atualizar-fontes.yml` | Acorda a fila a cada 15 minutos, respeitando o intervalo de cada fonte |
 
-`scripts/integrate_edition.py` registra a integração editorial da edição 02. A manutenção cotidiana deve partir dos arquivos em `content/`; não depende de repetir a integração dos lotes de pesquisa originais.
+O site é estático. Busca e filtros ocorrem no navegador. Uma visita não executa coleta, transcrição ou modelos. A edição depende das permissões de escrita do GitHub; não há formulário público de ingestão ou painel editorial com credenciais no cliente.
 
-## Critérios editoriais e dados
+## Verificar e reconstruir
 
-Cada ficha deve identificar a pessoa, a declaração, sua data ou precisão temporal, o contexto e as fontes que sustentam a conclusão. O texto da declaração é uma paráfrase quando identificado como síntese. A formulação original deve ser consultada no registro indicado.
-
-| Classificação | Critério |
-| --- | --- |
-| Falso | A evidência contradiz a afirmação central |
-| Enganoso | O recorte, a comparação ou a omissão distorce a compreensão |
-| Sem comprovação | A sustentação disponível é insuficiente para confirmar a alegação |
-
-As classificações descrevem o conteúdo e não presumem intenção de mentir. Uma mudança de posição pode ser legítima. Comparações, correções posteriores e apurações têm campos e contexto próprios. Investigação, acusação e condenação devem conservar suas distinções.
-
-Na coleção `records`, mantenha `id` estável, `person`, `title`, `claim`, `summary`, `context`, `topic`, `verdict`, `dateLabel`, `year` e `sources`. Quando conhecida, registre a data exata em `statementDate`; quando parcial, preserve essa limitação em vez de inventar um dia. `reviewedAt` informa a revisão editorial da ficha. Relações com a midiateca usam os identificadores de `relatedMedia`.
-
-Cada fonte contém título, publicador, URL e, quando disponível, data. `type` distingue documento ou registro primário de checagem publicada e apuração jornalística. As referências devem sustentar a autoria e a conclusão específica da ficha. Mudanças substanciais precisam preservar correções, respostas e ressalvas relevantes.
-
-### Atualizar a base e sincronizar
-
-Edite `content/acervo.editorial.json` após conferir as fontes. Atualize a data de revisão da ficha e, quando pertinente, `metadata.reviewedAt` e a edição. Execute:
-
-```sh
-python scripts/sync_content.py
+```bash
+python3 scripts/build_research.py
+python3 scripts/sync_content.py
+python3 scripts/check_site.py
+python3 -m unittest discover -s tests -v
+node --check dist/assets/app.js
+node --check dist/assets/research.js
+node tests/frontend.mjs
 ```
 
-O script verifica identificadores, campos obrigatórios, classificações, referências HTTPS, relações com mídias e existência dos anexos locais. Em seguida, gera `dist/data/acervo.json`, `dist/data/acervo.js` e `dist/data/acervo.csv`. A versão JavaScript permite iniciar a interface com os dados incluídos, sem depender de uma requisição ao JSON.
+`python3 scripts/benchmark_static.py` usa loopback com 100 tarefas HTTP simultâneas e uma fixture separada de 1.000 metadados. A fixture nunca integra o catálogo de produção. O teste não homologa CDN, reprodução audiovisual ou Safari.
 
-A validação estrutural não substitui a revisão das evidências. O CSV usa UTF-8 com BOM, separador `;` e proteção contra interpretação dos textos como fórmulas por planilhas.
+Para coleta manual: `python3 scripts/update_news.py --force`. O script mantém sucessos e itens anteriores diante de falhas, não contorna bloqueios e não atribui falsidade a notícias.
 
-### Publicar um complemento editorial
+## Operação, limites e continuidade
 
-`content/editorial-updates.json` permite distribuir acréscimos e correções sem substituir os arquivos de interface. O formato inclui `schemaVersion: 1`, `updatedAt` e as listas `records`, `media`, `documents`, `comparisons` e `investigations`.
+Leia `documentacao/RELATORIO-EDICAO-03.md`, `MONITORAMENTO.md`, `COBERTURA.md`, `ESQUEMA.md` e `ATUALIZACAO.md`. O balanço final de implantação identifica a execução real do runner. Configurar uma agenda não prova que ela executou.
 
-Insira o **objeto completo** de cada item alterado. O cliente substitui o item com o mesmo `id` ou acrescenta um identificador novo; não combina campos de objetos parciais. A ausência de um identificador no complemento não exclui o registro da base. A implementação atual não oferece remoção por esse arquivo.
+A nova automação de pesquisa deve acrescentar materiais e pendências. Novas conclusões sensíveis exigem um revisor autorizado registrado em `metadata.approvedReviewerIds` e um objeto `review` aprovado. A lista começa vazia; nenhuma concordância entre modelos autoriza sua inclusão. O conteúdo catalogado permanece pesquisável enquanto aguarda revisão.
 
-Use `updatedAt` para a data e hora da revisão editorial, em ISO 8601, e mantenha `reviewedAt` nos registros revisados. Essa data pode atualizar a revisão geral exibida pelo site. Ela não deve ser alterada apenas porque houve uma coleta de notícias.
-
-Depois de editar, execute `python scripts/sync_content.py`. O comando também sincroniza o complemento para `dist/data/editorial-updates.json` e `dist/data/editorial-updates.js`. Versione os arquivos de origem e os arquivos gerados juntos.
-
-O complemento é aplicado pelo navegador. Para incorporá-lo à próxima edição do PDF, consolide as alterações em `content/acervo.editorial.json` e gere novamente o documento. O gerador de PDF não consulta automaticamente o complemento remoto.
-
-## Acompanhamento de notícias
-
-A coleta RSS e Atom publica **títulos, datas, publicadores, links e metadados de acompanhamento**. Ela não reproduz os artigos completos e não atribui vereditos. A indicação de que uma publicação vem de uma fonte de checagem descreve o tipo da publicação; sua inclusão entre as fichas depende de revisão editorial.
-
-As fontes estão em `content/sources.json`. Para realizar uma coleta manual:
-
-```sh
-python scripts/update_news.py
-```
-
-O coletor filtra referências aos autores, normaliza endereços, remove parâmetros de rastreamento, deduplica URLs e mantém até 500 publicações dos últimos 180 dias. A cobertura depende do conteúdo disponibilizado por cada feed. Os resultados são gravados em `dist/data/news.json` e `dist/data/news.js`.
-
-O painel apresenta a última tentativa, a última coleta com resultado e a situação de cada fonte. Falhas não apagam imediatamente os itens anteriores: eles permanecem enquanto estiverem dentro da janela de retenção e dos limites da coleção. Se nenhuma fonte responder, o script registra a tentativa e encerra com código de erro.
-
-### Agendamento no GitHub Actions
-
-O arquivo `.github/workflows/atualizar-fontes.yml` configura:
-
-- Execução horária, no minuto 17 de cada hora em UTC, pelo cron `17 * * * *`.
-- Execução manual por `workflow_dispatch`.
-- Execução em alterações de `main` que atinjam o coletor, o catálogo de fontes ou o próprio workflow.
-- Commit dos arquivos `dist/data/news.json` e `dist/data/news.js` quando houver mudanças, usando a permissão `contents: write` do token do workflow.
-
-Não são necessárias chaves de API ou credenciais de leitores para consultar as fontes públicas. A configuração do cron expressa a periodicidade pretendida. Confirme execuções efetivas e eventuais falhas no [histórico do GitHub Actions](https://github.com/QGBALTIGO/Internacional/actions); este README não certifica que o agendamento já foi executado.
-
-### Atualização no navegador e funcionamento sem conexão
-
-Ao abrir a página por HTTP ou HTTPS, o cliente consulta `news.json` e `editorial-updates.json` em:
-
-```text
-https://raw.githubusercontent.com/QGBALTIGO/Internacional/main/dist/data/
-```
-
-A consulta se repete a cada 20 minutos enquanto a aba está visível. O botão de atualização também solicita a versão disponível. Esse intervalo é a frequência de leitura do navegador, independente da coleta horária dos feeds.
-
-O site inicia com os dados incluídos em `dist/data/*.js`. Notícias e complementos recebidos podem ser guardados em `localStorage` e reutilizados nas visitas seguintes. Se o GitHub ou a conexão falhar, os dados já carregados continuam disponíveis. Restrições ao armazenamento local não impedem a navegação na sessão.
-
-Uma cópia local com seus arquivos disponíveis permite consultar as fichas sem conexão. A abertura direta por `file:` usa os dados incluídos e desativa a consulta remota. Vídeos incorporados, áudios externos, notícias e documentos mantidos apenas na origem exigem acesso à internet. Não há Service Worker que faça o download integral do site para uso offline.
-
-## Gerar o PDF e a cópia portátil
-
-Com os anexos restaurados, as fontes DejaVu instaladas e as dependências de `requirements.txt` disponíveis:
-
-```sh
-python scripts/build_pdf.py
-```
-
-O comando lê `content/acervo.editorial.json`, gera `dist/documentos/dossie-documental.pdf` e registra o resumo da geração em `qa/pdf/manifest.json`. O documento inclui fichas, comparações, apurações, referências e créditos. A capa informa a edição e a revisão documental.
-
-Para escolher outros arquivos de entrada e saída:
-
-```sh
-python scripts/build_pdf.py --data content/acervo.editorial.json --output dist/documentos/dossie-documental.pdf
-```
-
-O PDF é um retrato da edição na data indicada. Coletas RSS posteriores não o atualizam. Após alterações editoriais, sincronize os dados, gere o PDF e confira a composição das páginas antes de distribuir a nova edição.
-
-Para gerar o pacote portátil depois dessa preparação:
-
-```sh
-python scripts/package_portable.py
-```
-
-O arquivo resultante fica em `dist/documentos/arquivo-bolsonaro.zip`. O pacote inclui um manifesto de integridade em `documentacao/ARQUIVOS-SHA256.json`. No pacote extraído, `index.html` fica na raiz; nesse formato, sirva a pasta extraída com `python -m http.server 8080`.
-
-## Verificação e publicação
-
-Os testes do coletor podem ser executados sem acessar fontes reais:
-
-```sh
-python -m unittest discover -s tests -p 'test_*.py'
-```
-
-Eles cobrem leitura de RSS e Atom, atribuição aos autores, metadados sem texto integral ou veredito, tratamento de URLs, retenção em falhas e duplicação de itens. Para conferir uma edição, execute também a sincronização estrutural e revise no navegador a busca, os filtros, as fichas, os links, a reprodução das mídias e os downloads.
-
-A raiz a publicar em uma hospedagem estática é `dist/`, após restaurar anexos e gerar os documentos. Não é necessário processo de aplicação em produção. O endereço de uma implantação deve ser confirmado na plataforma escolhida antes de ser anunciado como ativo. A existência do repositório e dos arquivos de automação não comprova, por si só, uma hospedagem pública em funcionamento.
-
-## Desempenho, privacidade e créditos
-
-A interface usa HTML, CSS e JavaScript sem framework. A pesquisa opera sobre um índice local, e os cartões são exibidos progressivamente. Miniaturas usam carregamento tardio; os players do YouTube são criados somente quando solicitados e usam `youtube-nocookie.com`. Os cartões de áudio utilizam `preload="none"`. Ao abrir um player em diálogo, metadados podem ser carregados.
-
-Fontes e retratos de apresentação estão no próprio site. Os efeitos respeitam `prefers-reduced-motion`. Busca, tema e favoritos são processados no navegador; a aplicação não exige login nem mantém um banco de dados de leitores. Consultas ao GitHub, miniaturas externas e reprodução de mídias estabelecem conexões com seus respectivos provedores.
-
-Fotografias, vídeos, áudios, documentos e matérias conservam os direitos e as condições de uso dos respectivos autores e publicadores. Consulte `images`, `media` e `documents` na base editorial, o manifesto de anexos e a seção **Fontes e créditos** da interface. A fonte Manrope é distribuída sob Open Font License 1.1, incluída em `dist/assets/OFL-Manrope.txt`.
-
-Este README não concede uma licença geral sobre materiais de terceiros. A disponibilidade de um link, de uma incorporação ou de uma cópia local não transfere os direitos do publicador. Preserve os créditos, a procedência e as condições próprias de cada material em qualquer redistribuição.
-
-Para sugerir correções no repositório, informe o identificador da ficha, o trecho a corrigir, o motivo e a fonte que sustenta a alteração. O histórico de alterações deve permitir reconstruir a revisão e manter visíveis as correções relevantes.
-
-## Situação verificada em 24/10/2026
-
-A edição 02 foi publicada na prévia do site. O acesso continua privado; a mudança para acesso público depende de autorização explícita do proprietário. O código está no repositório público solicitado.
-
-A coleta do GitHub Actions teve sua primeira execução concluída com sucesso às 03:34 UTC, com seis de oito fontes respondendo e os itens anteriores preservados. A tarefa de pesquisa complementar está salva e habilitada para consultas de hora em hora, no minuto 35, no fuso America/Campo_Grande. A criação da tarefa não comprova que uma rodada de pesquisa já foi executada.
-
-O agendamento da pesquisa é independente do coletor RSS. As novas fichas exigem conferência das fontes antes da publicação.
+A homologação visual da edição 03 ficou limitada pelo bloqueio de acesso da prévia no navegador do ambiente. Os testes de lógica usam DOM simulado e os testes de transporte usam HTTP local. Não há declaração de homologação em Safari físico.

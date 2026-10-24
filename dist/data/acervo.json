@@ -1,15 +1,19 @@
 {
   "metadata": {
     "title": "Arquivo Bolsonaro | Declarações e documentos",
-    "edition": "02",
+    "edition": "03",
     "reviewedAt": "2026-10-24",
     "timezone": "America/Campo_Grande",
     "siteUrl": "https://arquivo-bolsonaro-fatos.copperkoala32.chatgpt.site",
-    "scope": "Acervo selecionado, com checagens, comparações de falas, apurações e acompanhamento periódico de fontes públicas.",
+    "scope": "Foco documental em Flávio Bolsonaro. Fichas anteriores preservadas; novos materiais catalogados em research.json aguardam revisão editorial identificada.",
     "classification": "As classificações são editoriais e descrevem o conteúdo, sem inferir intenção.",
     "dateOrdering": "Datas parciais são ordenadas pelo mês, sem inventar um dia exato.",
-    "version": "2.0.0",
-    "repository": "https://github.com/QGBALTIGO/Internacional"
+    "version": "3.0.0",
+    "repository": "https://github.com/QGBALTIGO/Internacional",
+    "focus": "flavio",
+    "legacyReviewedAt": "2026-10-24",
+    "approvedReviewerIds": [],
+    "publishedAt": "2026-10-24T03:52:31.344691Z"
   },
   "records": [
     {

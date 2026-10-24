@@ -136,3 +136,13 @@ A base editorial está em `content/acervo.editorial.json`. O histórico de ediç
 ## Limites de leitura
 
 O acervo documenta episódios selecionados e o estado das evidências na revisão indicada. Ele não mede caráter, honestidade global, preferência eleitoral ou a totalidade da atuação de qualquer pessoa. O leitor deve poder acompanhar o percurso da alegação até a evidência, consultar a resposta e identificar exatamente o que continua incerto.
+
+
+
+## Complemento da edição 03
+
+O foco novo é Flávio Bolsonaro. O material histórico de outros autores é preservado em recorte identificado. Confirmado, Inconclusivo e Sem comprovação suficiente complementam Falso e Enganoso; ausência de prova continua distinta de falsidade. Comparações distinguem contradição, atualização, promessa e mudança de posição. Opinião, previsão e promessa têm tratamento próprio.
+
+O catálogo de pesquisa usa etapas encontrado, acessado e analisado, e mantém editorialClassification nulo até revisão identificada. Novas conclusões sensíveis exigem review.state aprovado e um reviewerId presente em metadata.approvedReviewerIds. Essa lista está vazia nesta entrega. Um modelo não pode aprovar a própria apuração nem alterar a lista. Os campos de revisão herdados da edição anterior não são renovados pela coleta, pela alteração do layout ou pela geração de arquivo.
+
+Horários reais de coleta, alteração e geração permanecem em UTC. Datas originais sem fuso não são reconstruídas como horários exatos. O catálogo não inventa citação literal nem marcação audiovisual. Candidatos de repetição não são ocorrências confirmadas.

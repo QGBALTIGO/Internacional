@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hist-edicao-03-apresentacao",
+    "date": "2026-10-24T03:52:31.348599Z",
+    "title": "Correção de apresentação e de estado editorial",
+    "description": "A página inicial passou a focar Flávio. O PDF existente recebeu o rótulo explícito de edição 01. A data herdada da revisão anterior foi separada dos horários reais de coleta; não está sendo apresentada como nova revisão. As novas fontes ficam no catálogo, sem acrescentar vereditos ou revisores inexistentes.",
+    "affected": [
+      "inicio",
+      "documentos",
+      "noticias",
+      "pesquisa"
+    ],
+    "type": "apresentacao",
+    "reviewer": null
+  }
+]

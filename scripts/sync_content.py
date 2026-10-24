@@ -25,7 +25,7 @@ def main():
     for record in records:
         assert re.fullmatch(r'[a-z0-9-]+', record['id']), record['id']
         assert record['person'] in {'jair', 'flavio'}, record['id']
-        assert record['verdict'] in {'Falso', 'Enganoso', 'Sem comprovação'}, record['id']
+        assert record['verdict'] in {'Confirmado','Falso','Enganoso','Sem comprovação','Sem comprovação suficiente','Inconclusivo','Contradição documentada','Mudança de posição','Opinião, previsão ou promessa'}, record['id']
         assert record['sources'], f"Sem fonte: {record['id']}"
         for key in ('title', 'claim', 'summary', 'context', 'dateLabel', 'topic'):
             assert isinstance(record[key], str) and record[key].strip(), f'{record["id"]}: {key}'
@@ -81,3 +81,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

@@ -1,12 +1,14 @@
 name: Atualizar fontes públicas
 on:
   schedule:
-    - cron: '17 * * * *'
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - 'scripts/update_news.py'
+      - 'tests/test_news.py'
+      - 'tests/test_monitor.py'
       - 'content/sources.json'
       - '.github/workflows/atualizar-fontes.yml'
 permissions:
@@ -25,18 +27,22 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: '3.12'
-      - name: Consultar RSS e Atom
+      - name: Verificar integridade do coletor
+        run: python -m unittest discover -s tests -v
+      - name: Retomar fontes pendentes
         id: collect
         continue-on-error: true
         run: python scripts/update_news.py
-      - name: Publicar dados e situação das fontes
+      - name: Publicar dados e checkpoints
         if: always()
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add dist/data/news.json dist/data/news.js
+          for path in dist/data/news.json dist/data/news.js .monitor/state.json; do
+            if test -f "$path"; then git add "$path"; fi
+          done
           if ! git diff --cached --quiet; then
-            git commit -m 'Atualizar acompanhamento das fontes públicas'
+            git commit -m 'Atualizar coleta e checkpoints das fontes públicas'
             git pull --rebase origin main
             git push origin HEAD:main
           fi

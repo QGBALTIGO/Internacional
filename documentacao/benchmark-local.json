@@ -1,0 +1,19 @@
+{
+  "executedAtUTC": "2026-10-24T03:56:37.027628+00:00",
+  "environment": "CPython ThreadingHTTPServer, loopback, sem TLS/cache/CDN; não é navegador",
+  "targetConcurrentRequests": 100,
+  "catalogVolumeTarget": 1000,
+  "fixtureRecords": 1000,
+  "fixtureStoredInProduction": false,
+  "requests": 300,
+  "errors": 0,
+  "elapsedSeconds": 0.857,
+  "p50Ms": 89.46,
+  "p95Ms": 101.64,
+  "bytesTransferred": 37115250,
+  "limitations": [
+    "100 tarefas HTTP concorrentes não equivalem a 100 sessões completas de navegador.",
+    "Meta inicial: 1.000 materiais e 100 requisições simultâneas. O acervo real atual tem 82 materiais; este teste mede uma fixture de 1.000 metadados, não 1.000 sessões de navegador.",
+    "Nenhuma solicitação pública executa coleta, transcrição ou modelo."
+  ]
+}

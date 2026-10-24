@@ -1,0 +1,43 @@
+{
+  "batch_id": "referencias-interface-2026-10-23",
+  "collected_at_utc": "2026-10-24T03:39:49Z",
+  "references": [
+    {
+      "name": "Checagem ao Vivo",
+      "url": "https://checagemaovivo.org/",
+      "observedUrl": "https://www.checagemaovivo.org/",
+      "nature": "referência de interface, conclusões não importadas",
+      "observed": "Extração retornou sala de debate e ordem do mais recente para o mais antigo. Na inspeção posterior, o navegador exibiu aviso de indisponibilidade.",
+      "usefulPatterns": ["descobertas recentes em ordem cronológica", "visualização sem player", "estado de indisponibilidade explícito"],
+      "limitations": "Mecanismo de atualização, fontes por ficha e reprodução não puderam ser auditados. Rotas adicionais retornaram HTTP 503. Não se demonstra funcionamento contínuo.",
+      "inspectionLog": "https://agent.tinyfish.ai/runs/1ed8798f-d99b-436a-8419-58f2dc078d64"
+    },
+    {
+      "name": "Desmentindo, área pública",
+      "url": "https://mentirasdolula.com.br/publico",
+      "nature": "fonte de campanha e referência de interface",
+      "observed": "Página e amostra de ficha examinadas: tema claro e escuro, modal com contexto e links, galeria audiovisual, navegação por eventos e ligações por fala. Identificação eleitoral no rodapé.",
+      "usefulPatterns": ["ficha breve com acesso às fontes", "galeria separada das checagens", "agrupamento por evento", "links diretos por fala", "alternativa ao player com falha"],
+      "limitations": "Não foram auditados contadores nem classificações. Um recorte falhou ao carregar. Não se observaram logs do coletor ou data geral de atualização. Nenhum texto ou acervo foi copiado.",
+      "inspectionLog": "https://agent.tinyfish.ai/runs/fb034389-dd17-4a09-8b93-ffd378d7f0ce"
+    }
+  ],
+  "records": [
+    {
+      "id": "CTX-CAMARA-PL2623-2007",
+      "title": "Autoria e tramitação do PL 2623/2007",
+      "institution": "Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=380897",
+      "date": "2007-12-12",
+      "kind": "proposicao",
+      "themes": ["atividade parlamentar", "desinformação", "religião"],
+      "summary": "Ficha da Câmara identifica Professor Victório Galli, PMDB/MT, como autor do PL 2623/2007; registra apresentação em 12/12/2007 e arquivamento em 22/08/2008.",
+      "locator": "Campos Autor e Apresentação; seção de tramitação, movimentação de 22/08/2008.",
+      "limitations": "O documento delimita a autoria desse projeto. Isoladamente não demonstra inexistência de qualquer outra iniciativa ou relação política. A controvérsia de 2026 é tratada nas checagens vinculadas, sem novo veredito automático.",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "ref": "turn31view3",
+      "document_number": "PL 2623/2007"
+    }
+  ]
+}
