@@ -5,7 +5,7 @@ import assert from 'node:assert/strict';
 const root=new URL('../',import.meta.url), read=p=>fs.readFileSync(new URL(p,root),'utf8');
 const html=read('dist/index.html');
 class Element {
-  constructor(id,tag='DIV'){this.id=id;this.tagName=tag;this.value='';this.hidden=false;this.open=false;this.dataset={};this.style={};this.listeners={};this.options=[];this.attributes={};this._html='';this._text='';this.classList={toggle(){},add(){},remove(){}};}
+  constructor(id,tag='DIV'){this.id=id;this.tagName=tag;this.value='';this.hidden=false;this.open=false;this.dataset={};this.style={};this.listeners={};this.options=[];this.attributes={};this._html='';this._text='';this._classes=new Set();this.classList={toggle:(name,force)=>{const enabled=force??!this._classes.has(name);if(enabled)this._classes.add(name);else this._classes.delete(name);return enabled;},add:name=>this._classes.add(name),remove:name=>this._classes.delete(name),contains:name=>this._classes.has(name)};}
   set innerHTML(v){this._html=v;if(this.tagName==='SELECT'){this.options=[...v.matchAll(/<option(?: value="([^"]*)")?[^>]*>(.*?)<\/option>/g)].map(m=>({value:m[1]??m[2]}));this.value=this.options[0]?.value||'';}}
   get innerHTML(){return this._html;}
   set textContent(v){this._text=String(v);} get textContent(){return this._text;}
@@ -56,10 +56,10 @@ get('portalSearchJump').dispatch('click');
 assert.equal(get('portalPageName').textContent,'Visão geral');
 assert(get('portalSearch').focused,'Botão de busca móvel deve focar a busca geral');
 input('portalSearch','Vorcaro','input');
-assert.equal(get('portalSearchArea').hidden,false);
+assert.equal(get('portalSearchArea').hidden,false);assert(document.body.classList.contains('portal-searching'));
 assert.match(get('portalSearchResults').innerHTML,/Vorcaro/i);
 get('portalSearchClear').dispatch('click');
-assert.equal(get('portalSearchArea').hidden,true);
+assert.equal(get('portalSearchArea').hidden,true);assert(!document.body.classList.contains('portal-searching'));
 location.hash='#registro=synthetic-sanitizer';
 for(const f of events.hashchange||[])f({});
 assert.equal(get('portalPageName').textContent,'Catálogo documental');

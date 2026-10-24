@@ -82,6 +82,7 @@
   function renderSearch(){
     const raw=$('portalSearch').value.trim(),tokens=norm(raw).split(/\s+/).filter(Boolean);
     $('portalSearchArea').hidden=!tokens.length;$('portalDiscovery').hidden=!!tokens.length;
+    document.body.classList.toggle('portal-searching',!!tokens.length);
     if(!tokens.length)return;
     const results=searchItems.filter(i=>tokens.every(t=>i._search.includes(t)));
     $('portalSearchStatus').textContent=`${results.length} resultados para “${raw}”`;
@@ -89,7 +90,7 @@
     $('portalSearchMore').hidden=results.length<=searchLimit;
   }
   let timer;
-  $('portalSearch').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{searchLimit=12;openPane('inicio');if(location.hash!=='#inicio')history.replaceState(null,'','#inicio');renderSearch();},140);});
+  $('portalSearch').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{searchLimit=12;openPane('inicio',true);if(location.hash!=='#inicio')history.replaceState(null,'','#inicio');renderSearch();},140);});
   $('portalSearchClear').addEventListener('click',()=>{$('portalSearch').value='';renderSearch();$('portalSearch').focus();});
   $('portalSearchMore').addEventListener('click',()=>{searchLimit+=12;renderSearch();});
   $('portalSearchJump').addEventListener('click',()=>{history.pushState(null,'','#inicio');openPane('inicio',true);$('portalSearch').focus();});

@@ -105,3 +105,8 @@
   .portal-edition .portal-hero h1{font-size:43px}
   .portal-edition .portal-hero-statement{font-size:17px}
 }
+
+/* A busca geral mostra os resultados imediatamente, sem a capa entre o campo e a lista. */
+.portal-edition.portal-searching #inicio,.portal-edition.portal-searching #portalMetrics,.portal-edition.portal-searching .portal-editorial-band{display:none!important}
+.portal-edition.portal-searching .portal-search-results{padding-top:8px}
+@media(max-width:700px){.portal-edition.portal-searching .header{margin-bottom:64px}.portal-edition.portal-searching .portal-search-results{padding-top:4px}}
