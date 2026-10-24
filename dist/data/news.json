@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "metadata": {
-    "lastAttemptAt": "2026-10-24T03:16:45.047308Z",
-    "lastSuccessfulCheckAt": "2026-10-24T03:16:45.047308Z",
+    "lastAttemptAt": "2026-10-24T03:34:39.114285Z",
+    "lastSuccessfulCheckAt": "2026-10-24T03:34:39.114285Z",
     "intervalMinutes": 60,
-    "scheduleVerified": false,
+    "scheduleVerified": true,
     "publicationPolicy": "Títulos, datas e links. Nenhuma classificação automática de falsidade.",
-    "successfulSources": 8,
+    "successfulSources": 6,
     "totalSources": 8
   },
   "items": [
@@ -21,7 +21,7 @@
       ],
       "kind": "news",
       "sourceId": "agencia-brasil-justica",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-07d146bfc84acefd",
@@ -47,7 +47,7 @@
       ],
       "kind": "factcheck",
       "sourceId": "lupa",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-f56195e5a52416bb",
@@ -60,7 +60,7 @@
       ],
       "kind": "news",
       "sourceId": "agencia-brasil-justica",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-ab3237266fd21a3d",
@@ -86,7 +86,7 @@
       ],
       "kind": "news",
       "sourceId": "agencia-brasil-politica",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-2e66dfe5ddb6bb6a",
@@ -99,7 +99,7 @@
       ],
       "kind": "news",
       "sourceId": "agencia-brasil-ultimas",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-be77aa9b01b52b7f",
@@ -112,7 +112,7 @@
       ],
       "kind": "news",
       "sourceId": "agencia-brasil-justica",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-f2b0cb47bbbaeb6a",
@@ -125,7 +125,7 @@
       ],
       "kind": "factcheck",
       "sourceId": "lupa",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-7a12bb49f756d6d4",
@@ -138,7 +138,7 @@
       ],
       "kind": "factcheck",
       "sourceId": "lupa",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-be2207e8d58f6ec7",
@@ -151,7 +151,7 @@
       ],
       "kind": "news",
       "sourceId": "agencia-brasil-justica",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-03ca9ce4c5798ba5",
@@ -164,7 +164,7 @@
       ],
       "kind": "news",
       "sourceId": "agencia-brasil-justica",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-e198bbc8a0d7cb5e",
@@ -190,7 +190,7 @@
       ],
       "kind": "news",
       "sourceId": "agencia-brasil-justica",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-6768ccc1200d37b6",
@@ -204,7 +204,7 @@
       ],
       "kind": "news",
       "sourceId": "agencia-brasil-politica",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-c8e63d86856bce30",
@@ -217,7 +217,7 @@
       ],
       "kind": "news",
       "sourceId": "agencia-brasil-politica",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-00ef2b9955b12fe6",
@@ -230,7 +230,7 @@
       ],
       "kind": "factcheck",
       "sourceId": "lupa",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-d767226e29040d6f",
@@ -241,7 +241,7 @@
       "people": [],
       "kind": "factcheck",
       "sourceId": "lupa",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-ce6e0e641ba30515",
@@ -254,7 +254,7 @@
       ],
       "kind": "factcheck",
       "sourceId": "lupa",
-      "collectedAt": "2026-10-24T03:16:45.047308Z"
+      "collectedAt": "2026-10-24T03:34:39.114285Z"
     },
     {
       "id": "news-e29369853006b17d",
@@ -408,7 +408,7 @@
       "id": "agencia-brasil-justica",
       "name": "Agência Brasil, justiça",
       "url": "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml",
-      "checkedAt": "2026-10-24T03:16:45.047308Z",
+      "checkedAt": "2026-10-24T03:34:39.114285Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 6,
@@ -418,7 +418,7 @@
       "id": "agencia-brasil-politica",
       "name": "Agência Brasil, política",
       "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml",
-      "checkedAt": "2026-10-24T03:16:45.047308Z",
+      "checkedAt": "2026-10-24T03:34:39.114285Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 3,
@@ -428,7 +428,7 @@
       "id": "agencia-brasil-ultimas",
       "name": "Agência Brasil, últimas notícias",
       "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml",
-      "checkedAt": "2026-10-24T03:16:45.047308Z",
+      "checkedAt": "2026-10-24T03:34:39.114285Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 5,
@@ -438,17 +438,17 @@
       "id": "aos-fatos",
       "name": "Aos Fatos",
       "url": "https://www.aosfatos.org/noticias/feed/",
-      "checkedAt": "2026-10-24T03:16:45.047308Z",
-      "status": "ok",
-      "itemCount": 20,
-      "matchedCount": 12,
-      "note": "12 publicações relacionadas nesta consulta"
+      "checkedAt": "2026-10-24T03:34:39.114285Z",
+      "status": "error",
+      "itemCount": 0,
+      "matchedCount": 0,
+      "note": "Coleta indisponível (ValueError); itens anteriores preservados"
     },
     {
       "id": "lupa",
       "name": "Lupa",
       "url": "https://www.agencialupa.org/feed/",
-      "checkedAt": "2026-10-24T03:16:45.047308Z",
+      "checkedAt": "2026-10-24T03:34:39.114285Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 6,
@@ -458,7 +458,7 @@
       "id": "senado-noticias",
       "name": "Senado Notícias",
       "url": "https://www12.senado.leg.br/noticias/atom.xml",
-      "checkedAt": "2026-10-24T03:16:45.047308Z",
+      "checkedAt": "2026-10-24T03:34:39.114285Z",
       "status": "ok",
       "itemCount": 15,
       "matchedCount": 0,
@@ -468,7 +468,7 @@
       "id": "senado-verifica",
       "name": "Senado Verifica, podcast",
       "url": "https://www12.senado.leg.br/radio/1/senado-verifica/podcast.xml",
-      "checkedAt": "2026-10-24T03:16:45.047308Z",
+      "checkedAt": "2026-10-24T03:34:39.114285Z",
       "status": "ok",
       "itemCount": 67,
       "matchedCount": 0,
@@ -478,11 +478,11 @@
       "id": "tse",
       "name": "Tribunal Superior Eleitoral",
       "url": "https://www.tse.jus.br/rss",
-      "checkedAt": "2026-10-24T03:16:45.047308Z",
-      "status": "ok",
-      "itemCount": 10,
-      "matchedCount": 2,
-      "note": "2 publicações relacionadas nesta consulta"
+      "checkedAt": "2026-10-24T03:34:39.114285Z",
+      "status": "error",
+      "itemCount": 0,
+      "matchedCount": 0,
+      "note": "Coleta indisponível (HTTPError); itens anteriores preservados"
     }
   ]
 }
