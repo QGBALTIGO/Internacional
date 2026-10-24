@@ -1,0 +1,89 @@
+name: Consolidar catálogo
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'content/research-input/**'
+      - 'content/research-history.json'
+      - 'scripts/build_research.py'
+      - 'scripts/check_catalogue_integrity.py'
+      - '.github/workflows/catalogo.yml'
+permissions:
+  contents: write
+concurrency:
+  group: consolidar-catalogo
+  cancel-in-progress: false
+jobs:
+  catalogue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Guardar versão de origem para diagnóstico
+        run: |
+          mkdir -p /tmp/catalogue-qa
+          git archive --format=zip HEAD -o /tmp/catalogue-qa/repository.zip
+          git rev-parse HEAD > /tmp/catalogue-qa/source-commit.txt
+      - name: Consolidar sem criar revisores nem vereditos
+        run: |
+          cp content/research.json /tmp/catalogue-qa/research-before.json
+          python3 scripts/build_research.py | tee /tmp/catalogue-qa/build.log
+          python3 - <<'PY'
+          import json, pathlib, subprocess
+          old = json.loads(pathlib.Path('/tmp/catalogue-qa/research-before.json').read_text())
+          new = json.loads(pathlib.Path('content/research.json').read_text())
+          assert {i['id'] for i in old['items']} <= {i['id'] for i in new['items']}, 'Um material anterior desapareceu'
+          assert len({i['url'] for i in new['items']}) == len(new['items']), 'URL duplicada'
+          assert all(i['editorialClassification'] is None and i['review']['reviewer'] is None for i in new['items'])
+          assert new['metrics']['reviewedAudioSeconds'] == 0
+          assert new['metrics']['publishedChecks'] == 0
+          assert json.loads(pathlib.Path('dist/data/research.json').read_text()) == new
+          protected = ['content/acervo.editorial.json', 'content/editorial-updates.json', '.monitor/state.json', 'dist/data/news.json', 'dist/data/news.js']
+          subprocess.run(['git','diff','--exit-code','--',*protected], check=True)
+          print(json.dumps({'before':len(old['items']),'after':len(new['items']),'added':len(new['items'])-len(old['items']),'protectedFilesUnchanged':True}, ensure_ascii=False))
+          PY
+      - name: Testes Python
+        run: python3 -m unittest discover -s tests -v
+      - name: Sintaxe e testes de interface
+        run: |
+          node --check dist/assets/app.js
+          node --check dist/assets/research.js
+          node tests/frontend.mjs
+      - name: Versionar apenas os dados derivados
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add content/research.json dist/data/research.json dist/data/research.js documentacao/COBERTURA.md
+          if git diff --cached --quiet; then
+            echo 'Sem alterações no catálogo.'
+          else
+            git commit -m 'Consolidar materiais documentais pendentes sem novos vereditos'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          git rev-parse HEAD > /tmp/catalogue-qa/persisted-commit.txt
+          python3 - <<'PY'
+          import json, subprocess, pathlib
+          expected = json.loads(pathlib.Path('content/research.json').read_text())
+          persisted = json.loads(subprocess.check_output(['git','show','HEAD:content/research.json']))
+          assert expected == persisted
+          print('JSON persistido confere:', persisted['metrics']['items'], 'materiais')
+          PY
+          git archive --format=zip HEAD -o /tmp/catalogue-qa/repository.zip
+      - name: Guardar diagnóstico e fonte reproduzível
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalogue-qa-${{ github.run_id }}
+          path: /tmp/catalogue-qa/
+          retention-days: 3
+          if-no-files-found: error
