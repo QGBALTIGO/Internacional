@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T18:58:40.560089Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T19:54:29.015029Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-522 URLs únicas no lote; 504 ainda não vinculadas à edição anterior. 519 materiais acessados e 494 com texto analisado.
+526 URLs únicas no lote; 508 ainda não vinculadas à edição anterior. 523 materiais acessados e 498 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -17,8 +17,8 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2005 | 1 | 1 | 1 | 0 | 0 |
 | 2006 | 1 | 1 | 1 | 0 | 0 |
 | 2007 | 4 | 4 | 4 | 0 | 0 |
-| 2008 | 0 | 0 | 0 | 0 | 0 |
-| 2009 | 1 | 1 | 1 | 0 | 0 |
+| 2008 | 1 | 1 | 1 | 0 | 0 |
+| 2009 | 3 | 3 | 3 | 0 | 0 |
 | 2010 | 2 | 2 | 2 | 0 | 0 |
 | 2011 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 3 | 3 | 3 | 0 | 0 |
@@ -34,13 +34,18 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 31 | 31 | 30 | 0 | 0 |
-| 2025 | 42 | 42 | 39 | 0 | 0 |
+| 2025 | 43 | 43 | 40 | 0 | 0 |
 | 2026 | 255 | 255 | 251 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
 ## Próximo lote
 
+- ALERJ: localizar e ler ata/votação nominal de 14/04/2009 sobre PEC 4/2007; circular de comunicação datada e texto da EC 41/2009 não substituem painel nominal.
+- ALERJ: obter voto em separado, atas de comissões e votação em plenário do PL 1442/2008, sem confundir comissão com deliberação final.
+- ALERJ: consultar integral da Lei estadual RJ 5.402/2009 e eventuais alterações para cotejo com PL 1442/2008; não usar reproduções bloqueadas.
+- PL 1473/2025: cotejar versões, substitutivo da relatoria no Senado, posição da Coalizão e pareceres posteriores na Câmara, sem inferir vigência ou efeitos.
+- Em revisão própria, conferir vídeo/áudio de 23/10/2026 e respostas públicas; novo veredito ou comparação sensível exige revisor humano autorizado.
 - Abrir o Diário Oficial e atas ou votações originais da ALERJ referentes à PEC 4/2007 (Emenda Constitucional RJ 41/2009) e à Lei estadual RJ 5.402/2009 para conferir autoria, posição nominal, redações e datas sem depender apenas da imprensa.
 - Conferir na íntegra audiovisual o debate de 23/10/2026 e o contexto da explicação de Flávio sobre licença-maternidade; nesta coleta, zero segundos de áudio reproduzidos ou transcritos.
 - Consultar em texto primário todas as versões do PL 1473/2025, substitutivo do Senado, parecer na Câmara e parecer da Coalizão em PDF, antes de avaliar efeitos e controvérsias.
@@ -167,6 +172,10 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 
 ## Limitações de acesso
 
+- batch: alerj-documentos-primarios-20261024-22; source: Ata de votação nominal da PEC ALERJ 4/2007 e do PL 1442/2008 no plenário; status: Não examinada; note: A EC 41/2009 não identifica voto pessoal; a Ordem do Dia identifica voto em comissão; circular contemporânea não substitui ata nominal.
+- batch: alerj-documentos-primarios-20261024-22; source: Lei estadual RJ 5.402/2009 em repositório de terceiros; url: https://leisestaduais.com.br/rj/lei-ordinaria-n-5402-2009-rio-de-janeiro-dispoe-sobre-a-adocao-de-medidas-protetivas-de-urgencia-em-face-do-agente-da-lei-que-praticar-violencia-domestica-e-familiar-contra-a-mulher; status: HTTP 403 na tentativa de abertura; note: Texto não cadastrado como lido; o resultado indexado não comprova texto legal.
+- batch: alerj-documentos-primarios-20261024-22; source: Substitutivos, relatórios e parecer crítico sobre PL 1473/2025; status: Não examinados neste lote; note: Avulso recebido na Câmara foi lido, mas não houve cotejo integral das versões ou parecer externo em PDF.
+- batch: alerj-documentos-primarios-20261024-22; source: Debate eleitoral de 23/10/2026; status: Áudio e vídeo não reproduzidos; note: Zero segundos de audiovisual revisados, sem citações literais ou timestamps verificados.
 - batch: alerj-respostas-camara-20261024-21; url: https://leisestaduais.com.br/rj/lei-ordinaria-n-5402-2009-rio-de-janeiro-dispoe-sobre-a-adocao-de-medidas-protetivas-de-urgencia-em-face-do-agente-da-lei-que-praticar-violencia-domestica-e-familiar-contra-a-mulher; source: Repositório não oficial de leis estaduais RJ; status: HTTP 403 na abertura; note: A página não foi lida; fragmento de mecanismo de busca não sustenta conteúdo nem cadastro como documento consultado.
 - batch: alerj-respostas-camara-20261024-21; url: https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2734-2021; source: Registro bicameral do PL 2734/2021; status: Falha/tempo esgotado na abertura; note: Material não incluído por ausência de acesso efetivo.
 - batch: alerj-tramitacao-20261024-03; source: Execução e publicação de dados derivados; error: Sem checkout Git acessível via rede no terminal de execução e sem dispositivo remoto conectado para executar scripts/build_research.py, scripts/sync_content.py ou os testes. Este arquivo é checkpoint canônico de descoberta, não atualização do JSON público. Normalização e verificações continuam pendentes.
