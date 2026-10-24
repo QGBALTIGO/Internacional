@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T11:20:15.258093Z",
-    "inputHash": "6e647dfe7d26b021126868dbae3c7e6d9bcef5d41d27e2ea462ab0a89d8eec28",
+    "generatedAt": "2026-10-24T11:41:21.708243Z",
+    "inputHash": "e07c7a9dcc888f2c0d6a50cd8a7644bdd868806bd5d6a2434fad71ae17f88726",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -16226,6 +16226,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-312e27db1e0f3ced",
+      "title": "Ficha do PLP 157/2021: parecer pela rejeição recebido, sem deliberação final",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/150245",
+      "publisher": "Senado Federal",
+      "date": "2025-04-04",
+      "eventDate": null,
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "meio ambiente",
+      "topics": [
+        "meio ambiente",
+        "PLP 157/2021",
+        "tramitação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha oficial confirma autoria de Flávio Bolsonaro e registra o último estado visível em 04/04/2025: pronta para pauta na Comissão de Meio Ambiente após recebimento de relatório da senadora Eliziane Gama pela rejeição. Relatório pela rejeição não é votação de rejeição; a situação exibida permanece 'Em tramitação'.",
+      "limitations": "Ficha HTML e metadados do relatório consultados; PDF do relatório e parecer do Instituto dos Advogados Brasileiros listados na página não foram abertos. Última atualização legislativa apresentada na ficha: 04/04/2025; não presumir deliberação posterior.",
+      "locator": "Cabeçalho; 'Situação Atual: Em tramitação'; 'Último estado: 04/04/2025'; Documentos, relatório legislativo de 04/04/2025; Tramitação, 04/04/2025.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-costa-verde-ficha",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-edc8cf9389779e93",
       "title": "Tramitação do PDL 206/2023 no Senado e remessa à Câmara",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158876",
@@ -19052,6 +19118,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-8f096510ee201c87",
+      "title": "Ficha da PEC 32/2022 identifica emenda de Flávio e requerimentos de destaque",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155248",
+      "publisher": "Senado Federal",
+      "date": "2022-12-07",
+      "eventDate": "2022-12-06",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "orçamento",
+      "topics": [
+        "orçamento",
+        "PEC 32/2022",
+        "emendas parlamentares"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha oficial registra a Emenda 43 à PEC 32/2022, de autoria de Flávio Bolsonaro em 06/12/2022, com estado 'prejudicada' na CCJ. Também lista requerimentos de destaque apresentados pela liderança do PL, Flávio Bolsonaro, em 07/12/2022. O registro de apresentação não demonstra aprovação da emenda.",
+      "limitations": "Ficha de tramitação HTML com centenas de itens; PDFs da emenda e requerimentos não abertos. Não atribuir a Flávio conteúdo de emendas de outros autores apenas por assinatura conjunta.",
+      "locator": "Seção 'Documentos': 'EMENDA 43 - PEC 32/2022'; lista de emendas: 'Prejudicada - SF-CCJ - 06/12/2022'; 'RQS 791/2022', 'RQS 792/2022' e 'RQS 794/2022'.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-pec-transicao-ficha",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-45abe3f4d1409899",
       "title": "Manifestação sobre PDL 371/2022 e resolução do TSE sobre desinformação",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494491",
@@ -19115,6 +19247,72 @@
         }
       ],
       "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-eda0a588dd6fa1b0",
+      "title": "Flávio pediu adiamento de votação da PEC da Transição e diferenciou manutenção de R$ 600",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/12/06/ccj-aprova-pec-da-transicao-texto-vai-ao-plenario",
+      "publisher": "Agência Senado",
+      "date": "2022-12-06",
+      "eventDate": "2022-12-06",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "orçamento",
+      "topics": [
+        "orçamento",
+        "PEC 32/2022",
+        "Auxílio Brasil"
+      ],
+      "stage": "analisado",
+      "summary": "Agência Senado documenta que Flávio Bolsonaro defendeu adiar a deliberação da PEC da Transição na CCJ, disse haver consenso sobre a continuidade do benefício de R$ 600 e apontou a alternativa de medida provisória, com ressalva sobre possíveis óbices jurídicos. Isso não equivale a oposição genérica ao pagamento de R$ 600.",
+      "limitations": "Notícia de debate da CCJ, não registro de voto nominal final nem parecer integral. O relato não demonstra o resultado de cada emenda ou votações posteriores.",
+      "locator": "Corpo, seção sobre pedidos de prazo, parágrafo que inicia 'Flávio Bolsonaro (PL-RJ) reforçou o pedido de adiamento' e contexto imediatamente posterior.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-pec-transicao-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
       "newToArchive": true
     },
     {
@@ -19582,6 +19780,270 @@
         }
       ],
       "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-8a1e4944d543b25a",
+      "title": "Flávio comentou buscas de Bruno Araújo e Dom Phillips e fiscalização ambiental",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/06/13/pacheco-defende-reacao-do-senado-contra-crime-organizado-na-amazonia",
+      "publisher": "Agência Senado",
+      "date": "2022-06-13",
+      "eventDate": "2022-06-13",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Amazônia",
+      "topics": [
+        "Amazônia",
+        "segurança pública",
+        "pronunciamento"
+      ],
+      "stage": "analisado",
+      "summary": "Agência Senado atribui a Flávio a afirmação de que mais de 200 agentes participavam das buscas de Bruno Araújo e Dom Phillips e registra sua defesa de regras mais claras para atividades extrativistas a fim de combater exploração ilegal. O número de agentes e a eficácia sugerida não foram checados independentemente.",
+      "limitations": "Contexto de debate público ainda durante buscas; texto não demonstra o desfecho do caso nem identifica vínculo penal com o senador. Não houve escuta da sessão nem verificação externa de números.",
+      "locator": "Corpo, parágrafos após manifestação de Eduardo Girão; duas intervenções atribuídas a Flávio Bolsonaro.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-amazonia-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-329754a99bd22869",
+      "title": "Defesa de Flávio ao PLP 18/2022: ICMS, inflação e combustíveis",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/06/13/desoneracao-de-impostos-sobre-combustiveis-beneficiara-os-mais-pobres-diz-flavio",
+      "publisher": "Agência Senado",
+      "date": "2022-06-13",
+      "eventDate": "2022-06-13",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "ICMS",
+      "topics": [
+        "ICMS",
+        "PLP 18/2022",
+        "economia"
+      ],
+      "stage": "analisado",
+      "summary": "Rádio Senado registra discurso de Flávio Bolsonaro em favor de limite ao ICMS sobre combustíveis e outros itens e sua expectativa de redução de inflação e custos. O senador disse que a iniciativa beneficiaria cerca de 60 milhões de brasileiros; a cifra e os efeitos são alegações atribuídas ao orador, não resultados checados por esta pesquisa.",
+      "limitations": "Resumo de transcrição/reportagem institucional; não houve escuta de áudio. A fonte registra expectativa e argumentação, não demonstra causalidade econômica nem valida a cifra mencionada.",
+      "locator": "Corpo da matéria, parágrafos após 'Da Rádio Senado | 13/06/2022, 19h06'; link PLP 18/2022.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-combustiveis-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-17bb4ef908b6b2b5",
+      "title": "PL 548/2019 (substitutivo da Câmara): parecer de Flávio e Lei 14.309/2022",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/151553",
+      "publisher": "Senado Federal",
+      "date": "2022-03-09",
+      "eventDate": "2022-02-15",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "condomínios",
+      "topics": [
+        "condomínios",
+        "PL 548/2019",
+        "Lei 14.309/2022"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha oficial registra autoria original de Soraya Thronicke, relatório legislativo de Flávio Bolsonaro datado de 08/02/2022 e parecer nº 18/2022 apresentado em 15/02/2022. Registra tramitação encerrada e transformação do substitutivo na Lei 14.309, de 08/03/2022.",
+      "limitations": "Metadados e tramitação HTML consultados, sem abrir os pareceres e autógrafos PDF. Relatoria favorável não é autoria da proposta nem garantia de qualquer efeito social da lei.",
+      "locator": "Cabeçalho, 'Norma Gerada'; 'Último estado: 09/03/2022 - TRANSFORMADA EM NORMA JURÍDICA'; Documentos 'Relatório Legislativo' de 08/02/2022 e 'P.S 18/2022 - PLEN'.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-condominios-ficha",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-8d3c572fe3e83348",
+      "title": "Reportagem do Senado reconhece parecer favorável de Flávio ao PL 548/2019",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/02/15/soraya-comemora-novas-regras-para-assembleias-em-condominios",
+      "publisher": "Agência Senado",
+      "date": "2022-02-15",
+      "eventDate": "2022-02-15",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "condomínios",
+      "topics": [
+        "condomínios",
+        "PL 548/2019",
+        "relatoria parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "A senadora Soraya Thronicke comemorou a aprovação do PL 548/2019, de sua autoria, sobre assembleias de condomínios por meio eletrônico e agradeceu a Flávio Bolsonaro por seu relatório favorável. A reportagem informava envio à sanção naquele momento.",
+      "limitations": "O projeto é de autoria de Soraya, não de Flávio. Texto jornalístico institucional; ficha do substitutivo e lei gerada estão indexadas separadamente.",
+      "locator": "Corpo da reportagem, parágrafos após 'Em pronunciamento' e último parágrafo com agradecimento pelo relatório.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-condominios-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
       "newToArchive": true
     },
     {
@@ -20181,6 +20643,138 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-e2d1a900fe91a4ad",
+      "title": "Projeto de Flávio sobre região de desenvolvimento sustentável na Costa Verde",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/15/projeto-estimula-desenvolvimento-turistico-e-ambiental-na-costa-verde-no-rio-de-janeiro",
+      "publisher": "Agência Senado",
+      "date": "2021-10-15",
+      "eventDate": null,
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "meio ambiente",
+      "topics": [
+        "meio ambiente",
+        "turismo",
+        "PLP 157/2021"
+      ],
+      "stage": "analisado",
+      "summary": "Agência Senado apresenta o PLP 157/2021, proposto por Flávio Bolsonaro para permitir criação de região administrativa de desenvolvimento sustentável que envolve Angra dos Reis, Mangaratiba e Paraty, condicionado à aprovação legislativa. O texto da notícia não é evidência de aprovação ou implantação da região.",
+      "limitations": "Notícia institucional de apresentação de proposta; não confundir previsão de projeto com política implementada. A ficha legislativa posterior foi consultada em item separado.",
+      "locator": "Corpo inicial; menção expressa ao PLP 157/2021 e caráter condicional 'caso seja aprovado'.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-costa-verde-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-00729fc2c6b12fe4",
+      "title": "Proposta de Flávio para destinar renda da Loteca à ABBR pautada na CAE",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/09/23/proibicao-de-apostas-em-sites-internacionais-sera-votada-na-comissao-de-assuntos-economicos",
+      "publisher": "Agência Senado",
+      "date": "2021-09-23",
+      "eventDate": null,
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "assistência social",
+      "topics": [
+        "assistência social",
+        "PL 3071/2019",
+        "loterias"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia da Agência Senado menciona que o PL 3.071/2019, de autoria de Flávio Bolsonaro, propunha acrescentar a Associação Brasileira Beneficente de Reabilitação entre beneficiárias da renda líquida de um concurso anual da Loteca; à época o parecer do senador Irajá era favorável e havia previsão de votação na CAE.",
+      "limitations": "Não confundir com o projeto de apostas internacionais tratado no título da notícia, cuja autoria é de Ciro Nogueira. PAUTA e parecer favorável não significam aprovação definitiva; ficha de tramitação não foi acessada.",
+      "locator": "Seção 'ABBR', parágrafos sobre PL 3.071/2019 e parecer do senador Irajá.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-abbr-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-65f41f71dac7c3d5",
       "title": "Entrada como suplente na CPI da Pandemia",
       "url": "https://www12.senado.leg.br/noticias/videos/2021/08/veja-a-nova-composicao-da-cpi-da-pandemia-apos-a-saida-de-ciro-nogueira",
@@ -20243,6 +20837,72 @@
         }
       ],
       "accessMethod": "",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-4c1b127ef9ace569",
+      "title": "Voto de Flávio em projeto de cotas de cadeiras para mulheres em eleições proporcionais",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/07/14/aprovado-projeto-que-estabelece-cota-para-mulheres-em-eleicoes-proporcionais",
+      "publisher": "Agência Senado",
+      "date": "2021-07-14",
+      "eventDate": "2021-07-14",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "eleições",
+      "topics": [
+        "eleições",
+        "participação feminina",
+        "votação parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Agência Senado registra que o Senado aprovou projeto de reserva escalonada de cadeiras para mulheres no sistema proporcional, e que Flávio Bolsonaro e Eduardo Girão votaram contrariamente. A notícia registra uma etapa do projeto, não sua conversão em lei.",
+      "limitations": "Reportagem institucional acessada, não foi aberta a ficha de tramitação ou o painel nominal; percentuais descritos são parâmetros da proposta aprovada na ocasião, não afirmação de regra atualmente vigente.",
+      "locator": "Seções 'Progressão' e parágrafo final anterior ao crédito Agência Senado, sobre os dois votos contrários.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-cota-mulheres",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
       "newToArchive": true
     },
     {
@@ -20377,6 +21037,72 @@
       ],
       "accessMethod": "",
       "newToArchive": false
+    },
+    {
+      "id": "pesquisa-8051a28cd68cf724",
+      "title": "Manifestação de Flávio na instalação da CPI da Pandemia e resposta de senadoras",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/04/27/senadoras-criticam-retorno-ao-congresso-de-projeto-sobre-igualdade-salarial",
+      "publisher": "Agência Senado",
+      "date": "2021-04-27",
+      "eventDate": "2021-04-27",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "CPI da Pandemia",
+      "topics": [
+        "CPI da Pandemia",
+        "declaração pública",
+        "resposta institucional"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem institucional, em seção distinta do debate sobre igualdade salarial, reproduz comentário de Flávio Bolsonaro sobre participação feminina na instalação da CPI da Pandemia e registra resposta pública crítica de Simone Tebet e Eliziane Gama no mesmo dia. A interpretação das senadoras é atribuída a elas, não adotada como classificação do acervo.",
+      "limitations": "Reportagem da Agência Senado acessada, mas sessão integral e gravações não foram reproduzidas. Há temas distintos na mesma matéria; não transformar a crítica pública em veredito próprio ou conclusão sobre intenção.",
+      "locator": "Seção 'Mulheres na CPI' e parágrafos seguintes com fala de Flávio e réplicas de Simone Tebet e Eliziane Gama.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-cpi-mulheres-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
     },
     {
       "id": "pesquisa-4e5908b4d7916480",
@@ -20645,6 +21371,72 @@
       "newToArchive": false
     },
     {
+      "id": "pesquisa-936c3336a5a219b0",
+      "title": "Relatoria de Flávio em proposta de assinaturas eletrônicas, MP 983/2020",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/09/01/aprovada-mp-que-amplia-uso-de-assinatura-eletronica-em-documentos-publicos",
+      "publisher": "Agência Senado",
+      "date": "2020-09-01",
+      "eventDate": "2020-09-01",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "governo digital",
+      "topics": [
+        "governo digital",
+        "assinaturas eletrônicas",
+        "relatoria parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Agência Senado informa que Flávio atuou como relator no Senado do PLV 32/2020, derivado da MP 983/2020; deu parecer favorável ao texto da Câmara com ajustes de redação e rejeitou emendas para evitar retorno à Câmara e expiração da MP. A matéria foi enviada à sanção naquela data.",
+      "limitations": "Texto institucional lido. Não foram abertos parecer original, íntegra da MP e registros de vetos/sanção. 'Foi à sanção' refere-se à situação de 01/09/2020, não ao status atual.",
+      "locator": "Corpo inicial, parágrafos sobre PLV 32/2020, parecer do relator e ajustes de redação; subtítulo 'Assinaturas'.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-assinaturas",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-4ae7adb42e6a59fb",
       "title": "Ex-advogado de Flávio não atua na defesa de homem que esfaqueou Bolsonaro",
       "url": "https://www.aosfatos.org/noticias/ex-advogado-de-flavio-nao-atua-na-defesa-de-homem-que-esfaqueou-bolsonaro/",
@@ -20706,6 +21498,138 @@
         }
       ],
       "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-e04309c91c184309",
+      "title": "Ficha legislativa do PL 1.277/2020 e remessa à Câmara",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/141354",
+      "publisher": "Senado Federal",
+      "date": "2020-05-20",
+      "eventDate": "2020-05-19",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "educação",
+      "topics": [
+        "educação",
+        "Enem 2020",
+        "tramitação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha oficial identifica a autoria de Daniella Ribeiro e o encerramento da tramitação no Senado com aprovação em Plenário; último estado registra remessa à Câmara em 20/05/2020. É documento contextual para o voto atribuído a Flávio na reportagem, e não identifica isoladamente o votante.",
+      "limitations": "Ficha HTML examinada, sem baixar autógrafos ou relatórios em PDF; não comprova conclusão da tramitação na Câmara nem sanção posterior.",
+      "locator": "Cabeçalho 'Projeto de Lei n° 1277, de 2020'; 'Situação Atual'; 'Último estado: 20/05/2020 - REMETIDA À CÂMARA DOS DEPUTADOS'.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-enem-ficha",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-6d7679d4598bd120",
+      "title": "Senado aprovou adiamento do Enem 2020; reportagem registra voto contrário de Flávio",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/05/19/senado-aprova-adiamento-do-enem-2020-materia-vai-a-camara",
+      "publisher": "Agência Senado",
+      "date": "2020-05-19",
+      "eventDate": "2020-05-19",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "educação",
+      "topics": [
+        "educação",
+        "Enem 2020",
+        "votação parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Agência Senado informa que o PL 1.277/2020 foi aprovado por 75 votos a 1 em 19/05/2020, com o senador Flávio Bolsonaro como único voto contrário. Naquela etapa a proposta foi encaminhada à Câmara, não constituía lei vigente.",
+      "limitations": "Apuração documental pela reportagem institucional; votação nominal não foi conferida individualmente em ata ou painel. Resultado do Senado em 2020 não prova destino posterior na Câmara.",
+      "locator": "Título e corpo, parágrafos iniciais sobre placar (75 a 1), seção final com atribuição do voto contrário; referência PL 1.277/2020.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:41:10.087Z",
+      "lastModifiedAt": "2026-10-24T11:41:10.087Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-historico-20261024-14",
+          "inputId": "senado-historico-20261024-14-enem-noticia",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
       "newToArchive": true
     },
     {
@@ -27161,10 +28085,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-24T08:50:00.363197Z",
-      "lastConsultedAt": "2026-10-24T10:52:28.495Z",
+      "lastConsultedAt": "2026-10-24T11:41:10.087Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 90,
+      "sourceCount": 104,
       "periods": [
         2019,
         2020,
@@ -27183,8 +28107,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 89,
-      "analysedCount": 75
+      "accessedCount": 103,
+      "analysedCount": 89
     },
     {
       "id": "fonte-3ed65b2f1d041330",
@@ -30095,6 +31019,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-3d2a52a57d5392d6",
+      "itemId": "pesquisa-312e27db1e0f3ced",
+      "title": "Ficha do PLP 157/2021: parecer pela rejeição recebido, sem deliberação final",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Ficha oficial confirma autoria de Flávio Bolsonaro e registra o último estado visível em 04/04/2025: pronta para pauta na Comissão de Meio Ambiente após recebimento de relatório da senadora Eliziane Gama pela rejeição. Relatório pela rejeição não é votação de rejeição; a situação exibida permanece 'Em tramitação'.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-35e6a1e02fb49c2c",
       "itemId": "pesquisa-edc8cf9389779e93",
       "title": "Tramitação do PDL 206/2023 no Senado e remessa à Câmara",
@@ -30482,6 +31415,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-b4527a0b9e33fb93",
+      "itemId": "pesquisa-8f096510ee201c87",
+      "title": "Ficha da PEC 32/2022 identifica emenda de Flávio e requerimentos de destaque",
+      "date": "2022-12-06",
+      "datePrecision": "day",
+      "context": "Ficha oficial registra a Emenda 43 à PEC 32/2022, de autoria de Flávio Bolsonaro em 06/12/2022, com estado 'prejudicada' na CCJ. Também lista requerimentos de destaque apresentados pela liderança do PL, Flávio Bolsonaro, em 07/12/2022. O registro de apresentação não demonstra aprovação da emenda.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-0f66c474f3e430d4",
       "itemId": "pesquisa-45abe3f4d1409899",
       "title": "Manifestação sobre PDL 371/2022 e resolução do TSE sobre desinformação",
@@ -30489,6 +31431,15 @@
       "datePrecision": "unknown",
       "context": "Em intervenção pela ordem, Flávio defendeu a urgência do PDL 371/2022 para sustar resolução eleitoral sobre desinformação e criticou inquéritos judiciais. Suas avaliações de constitucionalidade não equivalem a decisão judicial.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-080d6d235c068628",
+      "itemId": "pesquisa-eda0a588dd6fa1b0",
+      "title": "Flávio pediu adiamento de votação da PEC da Transição e diferenciou manutenção de R$ 600",
+      "date": "2022-12-06",
+      "datePrecision": "day",
+      "context": "Agência Senado documenta que Flávio Bolsonaro defendeu adiar a deliberação da PEC da Transição na CCJ, disse haver consenso sobre a continuidade do benefício de R$ 600 e apontou a alternativa de medida provisória, com ressalva sobre possíveis óbices jurídicos. Isso não equivale a oposição genérica ao pagamento de R$ 600.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-e657d33f90ea544f",
@@ -30551,6 +31502,42 @@
       "date": "2022-06-13",
       "datePrecision": "day",
       "context": "Notícia oficial informa aprovação do texto principal do PLP 18/2022 no Senado (65 votos a favor, 12 contrários) e retorno à Câmara; descreve argumentos pela redução do imposto e preocupações sobre receitas estaduais e financiamento de saúde e educação. A votação principal deve ser separada de destaques como o RQS 464/2022.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-74e656bce983ee97",
+      "itemId": "pesquisa-8a1e4944d543b25a",
+      "title": "Flávio comentou buscas de Bruno Araújo e Dom Phillips e fiscalização ambiental",
+      "date": "2022-06-13",
+      "datePrecision": "day",
+      "context": "Agência Senado atribui a Flávio a afirmação de que mais de 200 agentes participavam das buscas de Bruno Araújo e Dom Phillips e registra sua defesa de regras mais claras para atividades extrativistas a fim de combater exploração ilegal. O número de agentes e a eficácia sugerida não foram checados independentemente.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-50d00f4c6c4cc422",
+      "itemId": "pesquisa-329754a99bd22869",
+      "title": "Defesa de Flávio ao PLP 18/2022: ICMS, inflação e combustíveis",
+      "date": "2022-06-13",
+      "datePrecision": "day",
+      "context": "Rádio Senado registra discurso de Flávio Bolsonaro em favor de limite ao ICMS sobre combustíveis e outros itens e sua expectativa de redução de inflação e custos. O senador disse que a iniciativa beneficiaria cerca de 60 milhões de brasileiros; a cifra e os efeitos são alegações atribuídas ao orador, não resultados checados por esta pesquisa.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-00f05793cd8fed71",
+      "itemId": "pesquisa-17bb4ef908b6b2b5",
+      "title": "PL 548/2019 (substitutivo da Câmara): parecer de Flávio e Lei 14.309/2022",
+      "date": "2022-02-15",
+      "datePrecision": "day",
+      "context": "Ficha oficial registra autoria original de Soraya Thronicke, relatório legislativo de Flávio Bolsonaro datado de 08/02/2022 e parecer nº 18/2022 apresentado em 15/02/2022. Registra tramitação encerrada e transformação do substitutivo na Lei 14.309, de 08/03/2022.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-fa1a5da8a69cc1b6",
+      "itemId": "pesquisa-8d3c572fe3e83348",
+      "title": "Reportagem do Senado reconhece parecer favorável de Flávio ao PL 548/2019",
+      "date": "2022-02-15",
+      "datePrecision": "day",
+      "context": "A senadora Soraya Thronicke comemorou a aprovação do PL 548/2019, de sua autoria, sobre assembleias de condomínios por meio eletrônico e agradeceu a Flávio Bolsonaro por seu relatório favorável. A reportagem informava envio à sanção naquele momento.",
       "state": "data informada pela fonte"
     },
     {
@@ -30635,6 +31622,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-2e778a95b65fd0d4",
+      "itemId": "pesquisa-e2d1a900fe91a4ad",
+      "title": "Projeto de Flávio sobre região de desenvolvimento sustentável na Costa Verde",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Agência Senado apresenta o PLP 157/2021, proposto por Flávio Bolsonaro para permitir criação de região administrativa de desenvolvimento sustentável que envolve Angra dos Reis, Mangaratiba e Paraty, condicionado à aprovação legislativa. O texto da notícia não é evidência de aprovação ou implantação da região.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-f39d6e46a83a6016",
+      "itemId": "pesquisa-00729fc2c6b12fe4",
+      "title": "Proposta de Flávio para destinar renda da Loteca à ABBR pautada na CAE",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Notícia da Agência Senado menciona que o PL 3.071/2019, de autoria de Flávio Bolsonaro, propunha acrescentar a Associação Brasileira Beneficente de Reabilitação entre beneficiárias da renda líquida de um concurso anual da Loteca; à época o parecer do senador Irajá era favorável e havia previsão de votação na CAE.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-4a2e29609cda9713",
       "itemId": "pesquisa-65f41f71dac7c3d5",
       "title": "Entrada como suplente na CPI da Pandemia",
@@ -30642,6 +31647,15 @@
       "datePrecision": "unknown",
       "context": "Notícia oficial informa que Flávio passou à suplência da comissão após mudanças na composição. Não é uma declaração pessoal do senador.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-87b1af90848c8812",
+      "itemId": "pesquisa-4c1b127ef9ace569",
+      "title": "Voto de Flávio em projeto de cotas de cadeiras para mulheres em eleições proporcionais",
+      "date": "2021-07-14",
+      "datePrecision": "day",
+      "context": "Agência Senado registra que o Senado aprovou projeto de reserva escalonada de cadeiras para mulheres no sistema proporcional, e que Flávio Bolsonaro e Eduardo Girão votaram contrariamente. A notícia registra uma etapa do projeto, não sua conversão em lei.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-b78c11548899b437",
@@ -30659,6 +31673,15 @@
       "date": "2021-05-12",
       "datePrecision": "day",
       "context": "Página oficial descreve a defesa do depoente por Flávio e discussão com o relator. A suspensão e o pedido de encaminhamento ao MP são descritos pela reportagem; afirmações individuais ainda precisam da sessão integral.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-328e1d1c80b198f8",
+      "itemId": "pesquisa-8051a28cd68cf724",
+      "title": "Manifestação de Flávio na instalação da CPI da Pandemia e resposta de senadoras",
+      "date": "2021-04-27",
+      "datePrecision": "day",
+      "context": "Reportagem institucional, em seção distinta do debate sobre igualdade salarial, reproduz comentário de Flávio Bolsonaro sobre participação feminina na instalação da CPI da Pandemia e registra resposta pública crítica de Simone Tebet e Eliziane Gama no mesmo dia. A interpretação das senadoras é atribuída a elas, não adotada como classificação do acervo.",
       "state": "data informada pela fonte"
     },
     {
@@ -30698,6 +31721,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-3f82cfaeb890b333",
+      "itemId": "pesquisa-936c3336a5a219b0",
+      "title": "Relatoria de Flávio em proposta de assinaturas eletrônicas, MP 983/2020",
+      "date": "2020-09-01",
+      "datePrecision": "day",
+      "context": "Agência Senado informa que Flávio atuou como relator no Senado do PLV 32/2020, derivado da MP 983/2020; deu parecer favorável ao texto da Câmara com ajustes de redação e rejeitou emendas para evitar retorno à Câmara e expiração da MP. A matéria foi enviada à sanção naquela data.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-c189038592233410",
       "itemId": "pesquisa-4ae7adb42e6a59fb",
       "title": "Ex-advogado de Flávio não atua na defesa de homem que esfaqueou Bolsonaro",
@@ -30705,6 +31737,24 @@
       "datePrecision": "unknown",
       "context": "Material de Aos Fatos relacionado a Flávio Bolsonaro: Ex-advogado de Flávio não atua na defesa de homem que esfaqueou Bolsonaro. Rótulos, conclusões e correções permanecem atribuídos ao publicador; o Arquivo não cria nova classificação editorial a partir desta coleta.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-994ba8312dfc2ce7",
+      "itemId": "pesquisa-e04309c91c184309",
+      "title": "Ficha legislativa do PL 1.277/2020 e remessa à Câmara",
+      "date": "2020-05-19",
+      "datePrecision": "day",
+      "context": "Ficha oficial identifica a autoria de Daniella Ribeiro e o encerramento da tramitação no Senado com aprovação em Plenário; último estado registra remessa à Câmara em 20/05/2020. É documento contextual para o voto atribuído a Flávio na reportagem, e não identifica isoladamente o votante.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-2c992e60316fdf96",
+      "itemId": "pesquisa-6d7679d4598bd120",
+      "title": "Senado aprovou adiamento do Enem 2020; reportagem registra voto contrário de Flávio",
+      "date": "2020-05-19",
+      "datePrecision": "day",
+      "context": "Agência Senado informa que o PL 1.277/2020 foi aprovado por 75 votos a 1 em 19/05/2020, com o senador Flávio Bolsonaro como único voto contrário. Naquela etapa a proposta foi encaminhada à Câmara, não constituía lei vigente.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-0f94d717af897d08",
@@ -37252,6 +38302,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-3d2a52a57d5392d6",
+      "itemId": "pesquisa-312e27db1e0f3ced",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/150245",
+      "locator": "Cabeçalho; 'Situação Atual: Em tramitação'; 'Último estado: 04/04/2025'; Documentos, relatório legislativo de 04/04/2025; Tramitação, 04/04/2025.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-35e6a1e02fb49c2c",
       "itemId": "pesquisa-edc8cf9389779e93",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -37725,11 +38786,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-b4527a0b9e33fb93",
+      "itemId": "pesquisa-8f096510ee201c87",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155248",
+      "locator": "Seção 'Documentos': 'EMENDA 43 - PEC 32/2022'; lista de emendas: 'Prejudicada - SF-CCJ - 06/12/2022'; 'RQS 791/2022', 'RQS 792/2022' e 'RQS 794/2022'.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-0f66c474f3e430d4",
       "itemId": "pesquisa-45abe3f4d1409899",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494491",
       "locator": "Texto integral do Senado, 117ª Sessão Deliberativa Ordinária; RQS 704/2022 e PDL 371/2022; DSF 07/12/2022, p. 39.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-080d6d235c068628",
+      "itemId": "pesquisa-eda0a588dd6fa1b0",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/12/06/ccj-aprova-pec-da-transicao-texto-vai-ao-plenario",
+      "locator": "Corpo, seção sobre pedidos de prazo, parágrafo que inicia 'Flávio Bolsonaro (PL-RJ) reforçou o pedido de adiamento' e contexto imediatamente posterior.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -37807,6 +38890,50 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2022/06/13/aprovado-projeto-que-reduz-imposto-para-baixar-preco-dos-combustiveis",
       "locator": "Agência Senado, 13/06/2022, publicação 21h18 e atualização 23h10; votação principal e destaques do PLP 18/2022.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-74e656bce983ee97",
+      "itemId": "pesquisa-8a1e4944d543b25a",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/06/13/pacheco-defende-reacao-do-senado-contra-crime-organizado-na-amazonia",
+      "locator": "Corpo, parágrafos após manifestação de Eduardo Girão; duas intervenções atribuídas a Flávio Bolsonaro.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-50d00f4c6c4cc422",
+      "itemId": "pesquisa-329754a99bd22869",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/06/13/desoneracao-de-impostos-sobre-combustiveis-beneficiara-os-mais-pobres-diz-flavio",
+      "locator": "Corpo da matéria, parágrafos após 'Da Rádio Senado | 13/06/2022, 19h06'; link PLP 18/2022.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-00f05793cd8fed71",
+      "itemId": "pesquisa-17bb4ef908b6b2b5",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/151553",
+      "locator": "Cabeçalho, 'Norma Gerada'; 'Último estado: 09/03/2022 - TRANSFORMADA EM NORMA JURÍDICA'; Documentos 'Relatório Legislativo' de 08/02/2022 e 'P.S 18/2022 - PLEN'.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-fa1a5da8a69cc1b6",
+      "itemId": "pesquisa-8d3c572fe3e83348",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/02/15/soraya-comemora-novas-regras-para-assembleias-em-condominios",
+      "locator": "Corpo da reportagem, parágrafos após 'Em pronunciamento' e último parágrafo com agradecimento pelo relatório.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -37912,11 +39039,44 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-2e778a95b65fd0d4",
+      "itemId": "pesquisa-e2d1a900fe91a4ad",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/15/projeto-estimula-desenvolvimento-turistico-e-ambiental-na-costa-verde-no-rio-de-janeiro",
+      "locator": "Corpo inicial; menção expressa ao PLP 157/2021 e caráter condicional 'caso seja aprovado'.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f39d6e46a83a6016",
+      "itemId": "pesquisa-00729fc2c6b12fe4",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/09/23/proibicao-de-apostas-em-sites-internacionais-sera-votada-na-comissao-de-assuntos-economicos",
+      "locator": "Seção 'ABBR', parágrafos sobre PL 3.071/2019 e parecer do senador Irajá.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-4a2e29609cda9713",
       "itemId": "pesquisa-65f41f71dac7c3d5",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/videos/2021/08/veja-a-nova-composicao-da-cpi-da-pandemia-apos-a-saida-de-ciro-nogueira",
       "locator": null,
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-87b1af90848c8812",
+      "itemId": "pesquisa-4c1b127ef9ace569",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/07/14/aprovado-projeto-que-estabelece-cota-para-mulheres-em-eleicoes-proporcionais",
+      "locator": "Seções 'Progressão' e parágrafo final anterior ao crédito Agência Senado, sobre os dois votos contrários.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -37939,6 +39099,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/videos/2021/05/cpi-da-pandemia-reuniao-e-suspensa-apos-discussao-entre-senadores",
       "locator": null,
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-328e1d1c80b198f8",
+      "itemId": "pesquisa-8051a28cd68cf724",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/04/27/senadoras-criticam-retorno-ao-congresso-de-projeto-sobre-igualdade-salarial",
+      "locator": "Seção 'Mulheres na CPI' e parágrafos seguintes com fala de Flávio e réplicas de Simone Tebet e Eliziane Gama.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -37989,11 +39160,44 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-3f82cfaeb890b333",
+      "itemId": "pesquisa-936c3336a5a219b0",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/09/01/aprovada-mp-que-amplia-uso-de-assinatura-eletronica-em-documentos-publicos",
+      "locator": "Corpo inicial, parágrafos sobre PLV 32/2020, parecer do relator e ajustes de redação; subtítulo 'Assinaturas'.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-c189038592233410",
       "itemId": "pesquisa-4ae7adb42e6a59fb",
       "sourceId": "fonte-9c2fbd587c9a9fb0",
       "url": "https://www.aosfatos.org/noticias/ex-advogado-de-flavio-nao-atua-na-defesa-de-homem-que-esfaqueou-bolsonaro/",
       "locator": "Página integral acessada; detalhes e documentos vinculados permanecem no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-994ba8312dfc2ce7",
+      "itemId": "pesquisa-e04309c91c184309",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/141354",
+      "locator": "Cabeçalho 'Projeto de Lei n° 1277, de 2020'; 'Situação Atual'; 'Último estado: 20/05/2020 - REMETIDA À CÂMARA DOS DEPUTADOS'.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-2c992e60316fdf96",
+      "itemId": "pesquisa-6d7679d4598bd120",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/05/19/senado-aprova-adiamento-do-enem-2020-materia-vai-a-camara",
+      "locator": "Título e corpo, parágrafos iniciais sobre placar (75 a 1), seção final com atribuição do voto contrário; referência PL 1.277/2020.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -39420,47 +40624,50 @@
     },
     {
       "year": 2020,
-      "found": 6,
-      "accessed": 6,
-      "analysed": 5,
+      "found": 9,
+      "accessed": 9,
+      "analysed": 8,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 1,
-        "analisado": 5,
+        "analisado": 8,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "política externa": 1,
+        "governo digital": 1,
         "documentação pública": 1,
+        "educação": 2,
         "Conselho de Ética": 3,
         "saude": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 5,
+        "fonte-2acd9e7dc92e583a": 8,
         "fonte-9c2fbd587c9a9fb0": 1
       },
       "formats": {
         "video": 1,
+        "reportagem": 5,
         "checagem": 1,
-        "reportagem": 3,
+        "documento": 1,
         "registro": 1
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2021,
-      "found": 14,
-      "accessed": 14,
-      "analysed": 10,
+      "found": 18,
+      "accessed": 18,
+      "analysed": 14,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 4,
-        "analisado": 10,
+        "analisado": 14,
         "revisado": 0,
         "publicado": 0
       },
@@ -39470,14 +40677,17 @@
         "cultura": 1,
         "Justiça": 1,
         "assistencia-social": 1,
-        "CPI da Pandemia": 5,
+        "CPI da Pandemia": 6,
+        "meio ambiente": 1,
+        "assistência social": 1,
         "atividade parlamentar": 1,
+        "eleições": 1,
         "saúde": 1,
         "Conselho de Ética": 1,
         "rachadinha": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 11,
+        "fonte-2acd9e7dc92e583a": 15,
         "fonte-3ed65b2f1d041330": 1,
         "fonte-9c2fbd587c9a9fb0": 1,
         "fonte-4fd0eba6b669e169": 1
@@ -39486,39 +40696,43 @@
         "documento": 3,
         "registro": 5,
         "checagem": 1,
-        "reportagem": 1,
+        "reportagem": 5,
         "video": 4
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2022,
-      "found": 13,
-      "accessed": 13,
-      "analysed": 13,
+      "found": 19,
+      "accessed": 19,
+      "analysed": 19,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 0,
-        "analisado": 13,
+        "analisado": 19,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "assistencia-social": 4,
+        "orçamento": 2,
         "eleicoes": 1,
         "PEC 1/2022": 2,
         "PLP 18/2022": 4,
         "energia": 1,
+        "Amazônia": 1,
+        "ICMS": 1,
+        "condomínios": 2,
         "atividade parlamentar": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 13
+        "fonte-2acd9e7dc92e583a": 19
       },
       "formats": {
-        "documento": 11,
-        "reportagem": 2
+        "documento": 13,
+        "reportagem": 6
       },
       "note": "Recorte não exaustivo."
     },
@@ -39604,15 +40818,15 @@
     },
     {
       "year": 2025,
-      "found": 20,
-      "accessed": 20,
-      "analysed": 17,
+      "found": 21,
+      "accessed": 21,
+      "analysed": 18,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 3,
-        "analisado": 17,
+        "analisado": 18,
         "revisado": 0,
         "publicado": 0
       },
@@ -39629,19 +40843,20 @@
         "economia": 1,
         "educação": 1,
         "saude": 1,
+        "meio ambiente": 1,
         "PDL 206/2023": 4,
         "seguranca": 2
       },
       "sources": {
         "fonte-ab7ca292b805c308": 1,
-        "fonte-2acd9e7dc92e583a": 13,
+        "fonte-2acd9e7dc92e583a": 14,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
         "fonte-3ed65b2f1d041330": 2
       },
       "formats": {
         "audio": 1,
-        "documento": 11,
+        "documento": 12,
         "checagem": 4,
         "registro": 2,
         "video": 1,
@@ -39735,11 +40950,11 @@
     }
   ],
   "metrics": {
-    "newItems": 384,
-    "items": 402,
+    "newItems": 398,
+    "items": 416,
     "alreadyInArchive": 18,
-    "accessed": 399,
-    "analysed": 374,
+    "accessed": 413,
+    "analysed": 388,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -39751,11 +40966,11 @@
     "sourcesConsulted": 33,
     "video": 17,
     "audio": 5,
-    "documents": 99,
+    "documents": 103,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 97,
+    "queryCount": 101,
     "accessFailures": 17,
     "undatedItems": 37
   },
@@ -40632,6 +41847,42 @@
       "engine": "web fast, tentativa de abertura oficial",
       "interval": "2003–2008",
       "resultsState": "Índices apontaram possíveis registros; abertura de páginas antigas retornou erros de gateway. Material não adicionado como fonte examinada."
+    },
+    {
+      "id": "consulta-690ec1b64b7b8f1c",
+      "batch": "senado-historico-20261024-14",
+      "query": "site:senado.leg.br/noticias/materias/2020/ \"Flávio Bolsonaro\" \"votação\" \"relator\"",
+      "executedAt": "2026-10-24T11:41:10.087Z",
+      "engine": "web slow + abertura de páginas oficiais",
+      "interval": "2020",
+      "resultsState": "Identificados e lidos registros sobre ENEM e relatoria da MP 983; ficha PL 1.277/2020 aberta separadamente."
+    },
+    {
+      "id": "consulta-9d64229d39ba2baa",
+      "batch": "senado-historico-20261024-14",
+      "query": "site:senado.leg.br/noticias/materias/2021/ \"Flávio Bolsonaro\" \"projeto\" \"aprovado\"",
+      "executedAt": "2026-10-24T11:41:10.087Z",
+      "engine": "web slow + navegação Senado",
+      "interval": "2021",
+      "resultsState": "Revisados registros sobre cota feminina, PLP 157/2021, Loteca/ABBR e fala na CPI."
+    },
+    {
+      "id": "consulta-c9df141a7e0ceba9",
+      "batch": "senado-historico-20261024-14",
+      "query": "site:senado.leg.br/noticias/materias/2022/ \"Flávio Bolsonaro\" \"pronunciamento\"",
+      "executedAt": "2026-10-24T11:41:10.087Z",
+      "engine": "web slow + leitura de fichas e reportagens",
+      "interval": "2022",
+      "resultsState": "Revisados registros sobre PL 548/2019, PLP 18/2022, PEC 32/2022 e falas sobre buscas na Amazônia."
+    },
+    {
+      "id": "consulta-17447c67c750b5db",
+      "batch": "senado-historico-20261024-14",
+      "query": "site:alerj.rj.gov.br \"Flávio Bolsonaro\" 2014 2012 2010 projeto",
+      "executedAt": "2026-10-24T11:41:10.087Z",
+      "engine": "web fast",
+      "interval": "2010–2014",
+      "resultsState": "Não foi identificado documento da ALERJ diretamente acessível e verificável nesta busca; nenhum resultado foi importado."
     }
   ],
   "accessFailures": [
@@ -41175,6 +42426,36 @@
       "note": "Pesquisar checagens e respostas específicas a falas de 2023 e 2024, evitando ampliar seletivamente acusações.",
       "state": "pendente",
       "batch": "senado-2023-2024-20261024-04"
+    },
+    {
+      "id": "lacuna-a396cbd71022c6f1",
+      "note": "Confirmar voto nominal de 19/05/2020 ao PL 1.277/2020 e ao projeto de cotas de 14/07/2021 no painel/Diário do Senado antes de análise de recorrência de posicionamentos.",
+      "state": "pendente",
+      "batch": "senado-historico-20261024-14"
+    },
+    {
+      "id": "lacuna-c26918dd06563793",
+      "note": "PLP 157/2021: abrir PDF do relatório da Comissão de Meio Ambiente de 04/04/2025 e conferir novos andamentos antes de resumir fundamentos ou declarar rejeição definitiva.",
+      "state": "pendente",
+      "batch": "senado-historico-20261024-14"
+    },
+    {
+      "id": "lacuna-7b656c6248fd55a2",
+      "note": "PEC 32/2022: distinguir emenda apresentada, emenda prejudicada e destaque retirado antes de comparações sobre posicionamento orçamentário.",
+      "state": "pendente",
+      "batch": "senado-historico-20261024-14"
+    },
+    {
+      "id": "lacuna-46a3f833fbd5457d",
+      "note": "Conferir publicamente fichas de tramitação e versões finais do PL 3.071/2019 e da MP 983/2020 em etapa própria; notícias de pauta ou sanção pendente não indicam situação atual.",
+      "state": "pendente",
+      "batch": "senado-historico-20261024-14"
+    },
+    {
+      "id": "lacuna-137fca28ad525d0e",
+      "note": "Áudios e vídeos das sessões não foram ouvidos neste lote: zero segundos revisados. Eventuais conclusões sensíveis permanecem sem veredito e pendentes de revisão editorial identificada.",
+      "state": "pendente",
+      "batch": "senado-historico-20261024-14"
     },
     {
       "id": "lacuna-b8e7a0612a3f4bfa",

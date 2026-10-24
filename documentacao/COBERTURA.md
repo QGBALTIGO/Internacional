@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T11:20:15.258093Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T11:41:21.708243Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-402 URLs únicas no lote; 384 ainda não vinculadas à edição anterior. 399 materiais acessados e 374 com texto analisado.
+416 URLs únicas no lote; 398 ainda não vinculadas à edição anterior. 413 materiais acessados e 388 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -29,12 +29,12 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 4 | 4 | 3 | 0 | 0 |
 | 2019 | 21 | 21 | 19 | 0 | 0 |
-| 2020 | 6 | 6 | 5 | 0 | 0 |
-| 2021 | 14 | 14 | 10 | 0 | 0 |
-| 2022 | 13 | 13 | 13 | 0 | 0 |
+| 2020 | 9 | 9 | 8 | 0 | 0 |
+| 2021 | 18 | 18 | 14 | 0 | 0 |
+| 2022 | 19 | 19 | 19 | 0 | 0 |
 | 2023 | 19 | 19 | 17 | 0 | 0 |
 | 2024 | 14 | 14 | 13 | 0 | 0 |
-| 2025 | 20 | 20 | 17 | 0 | 0 |
+| 2025 | 21 | 21 | 18 | 0 | 0 |
 | 2026 | 232 | 232 | 228 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
@@ -106,6 +106,11 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - Ler os Diários DSF/DCN e ouvir os trechos de sessão para citações literais ou timestamps; revisado nesta coleta: 0 segundos.
 - Reabrir arquivos ALERJ 2003–2008 em serviços oficiais para confirmar íntegras; não usar snippets como documento acessado.
 - Pesquisar checagens e respostas específicas a falas de 2023 e 2024, evitando ampliar seletivamente acusações.
+- Confirmar voto nominal de 19/05/2020 ao PL 1.277/2020 e ao projeto de cotas de 14/07/2021 no painel/Diário do Senado antes de análise de recorrência de posicionamentos.
+- PLP 157/2021: abrir PDF do relatório da Comissão de Meio Ambiente de 04/04/2025 e conferir novos andamentos antes de resumir fundamentos ou declarar rejeição definitiva.
+- PEC 32/2022: distinguir emenda apresentada, emenda prejudicada e destaque retirado antes de comparações sobre posicionamento orçamentário.
+- Conferir publicamente fichas de tramitação e versões finais do PL 3.071/2019 e da MP 983/2020 em etapa própria; notícias de pauta ou sanção pendente não indicam situação atual.
+- Áudios e vídeos das sessões não foram ouvidos neste lote: zero segundos revisados. Eventuais conclusões sensíveis permanecem sem veredito e pendentes de revisão editorial identificada.
 - Revisar autoria, pergunta e intervalo de cada afirmação antes de criar uma nova checagem.
 - Conferir no áudio original trechos decisivos; os segundos revisados neste lote são zero.
 - Explorar ALERJ de 2003 a 2015 por ano, mês e número de proposição.
