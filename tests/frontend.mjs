@@ -67,5 +67,6 @@ assert.equal(get('portalPageName').textContent,'Catálogo documental');
 assert(get('researchDialog').open,'Link direto de registro deve abrir a ficha');
 get('researchDialog').close();
 assert.equal(location.hash,'#pesquisa');
+assert(!html.includes('portal-editorial-band'));assert(!html.includes('portal-hero-statement'));
 assert(!html.includes('>GitHub</a>') && !html.includes('class="sidebar-repository"') && !html.includes('aria-label="Código e histórico no GitHub"'));
 console.log('Integração DOM simulada: catálogo, busca geral, botão móvel, rotas profundas, links oficiais, ações e integridade editorial passaram.');

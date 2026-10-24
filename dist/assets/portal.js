@@ -90,7 +90,7 @@
     $('portalSearchMore').hidden=results.length<=searchLimit;
   }
   let timer;
-  $('portalSearch').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{searchLimit=12;openPane('inicio',true);if(location.hash!=='#inicio')history.replaceState(null,'','#inicio');renderSearch();},140);});
+  $('portalSearch').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{searchLimit=12;openPane('inicio',!document.body.classList.contains('portal-searching'));if(location.hash!=='#inicio')history.replaceState(null,'','#inicio');renderSearch();},140);});
   $('portalSearchClear').addEventListener('click',()=>{$('portalSearch').value='';renderSearch();$('portalSearch').focus();});
   $('portalSearchMore').addEventListener('click',()=>{searchLimit+=12;renderSearch();});
   $('portalSearchJump').addEventListener('click',()=>{history.pushState(null,'','#inicio');openPane('inicio',true);$('portalSearch').focus();});

@@ -57,3 +57,12 @@ class PortalContractTest(unittest.TestCase):
         self.assertIn('if (/^(?:assets|documentos)\\//.test(local) && published) return published;',js)
         self.assertIn("const routePane=pane=>",js)
         self.assertIn("received=true;",js)
+
+    def test_visual_layout_uses_stable_grid_without_overlay(self):
+        html=(ROOT/'dist/index.html').read_text()
+        css=(ROOT/'dist/assets/portal.css').read_text()
+        self.assertNotIn('portal-editorial-band',html)
+        self.assertNotIn('portal-hero-statement',html)
+        self.assertNotIn('position:absolute;inset:0;z-index:0',css)
+        self.assertIn('O que foi dito.',html)
+        self.assertIn('portal-search-jump',css)
