@@ -1,6 +1,6 @@
 # Arquivo Bolsonaro | Declarações e documentos
 
-Site: https://arquivo-bolsonaro-fatos.copperkoala32.chatgpt.site
+Prévia do site, com acesso restrito ao proprietário: https://arquivo-bolsonaro-fatos.copperkoala32.chatgpt.site
 
 Código: https://github.com/QGBALTIGO/Internacional
 
@@ -217,3 +217,11 @@ Fotografias, vídeos, áudios, documentos e matérias conservam os direitos e as
 Este README não concede uma licença geral sobre materiais de terceiros. A disponibilidade de um link, de uma incorporação ou de uma cópia local não transfere os direitos do publicador. Preserve os créditos, a procedência e as condições próprias de cada material em qualquer redistribuição.
 
 Para sugerir correções no repositório, informe o identificador da ficha, o trecho a corrigir, o motivo e a fonte que sustenta a alteração. O histórico de alterações deve permitir reconstruir a revisão e manter visíveis as correções relevantes.
+
+## Situação verificada em 24/10/2026
+
+A edição 02 foi publicada na prévia do site. O acesso continua privado; a mudança para acesso público depende de autorização explícita do proprietário. O código está no repositório público solicitado.
+
+A coleta do GitHub Actions teve sua primeira execução concluída com sucesso às 03:34 UTC, com seis de oito fontes respondendo e os itens anteriores preservados. A tarefa de pesquisa complementar está salva e habilitada para consultas de hora em hora, no minuto 35, no fuso America/Campo_Grande. A criação da tarefa não comprova que uma rodada de pesquisa já foi executada.
+
+O agendamento da pesquisa é independente do coletor RSS. As novas fichas exigem conferência das fontes antes da publicação.

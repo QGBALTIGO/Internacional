@@ -12,7 +12,7 @@ As instruções editoriais estão em `documentacao/CRITERIOS-EDITORIAIS.md`. A e
 
 O workflow `.github/workflows/atualizar-fontes.yml` consulta RSS e Atom a cada hora. O script usa somente a biblioteca padrão do Python. Publica títulos, datas, veículos, links e a situação de cada consulta em `dist/data/news.json` e `dist/data/news.js`. Não atribui vereditos. O GitHub pode atrasar ou interromper execuções; o painel exibe o horário efetivo da coleta.
 
-A tarefa de pesquisa vinculada ao site procura novos materiais e confere a documentação antes de ampliar as fichas. Ela pode usar busca pública e o conector GitHub. Essa pesquisa não deve alterar a configuração de permissões, enviar mensagens aos veículos ou republicar artigos integrais.
+A tarefa de pesquisa complementar procura novos materiais e confere a documentação antes de ampliar as fichas. Ela pode usar busca pública e o conector GitHub. Essa pesquisa não deve alterar a configuração de permissões, enviar mensagens aos veículos ou republicar artigos integrais.
 
 ## Procedimento de pesquisa
 
