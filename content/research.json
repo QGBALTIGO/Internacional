@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T13:43:05.972944Z",
-    "inputHash": "00b42cacce47d9440ee94f6699163289c8e933cf045da1dce3c2d7bb3d825505",
+    "generatedAt": "2026-10-24T14:36:44.181208Z",
+    "inputHash": "bcd8744fb469fc65ea51289e32d303b567e77decb8d434bb0d81b86bebef34e1",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -16691,6 +16691,137 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-4e9dc244c53725a9",
+      "title": "Orientação da Minoria sobre destaque da Emenda 14 ao PLP 210/2024",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/511508",
+      "publisher": "Senado Federal",
+      "date": "2024-12-20",
+      "eventDate": "2024-12-19",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PLP 210/2024",
+      "topics": [
+        "PLP 210/2024",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "A transcrição registra orientação Sim da Minoria no destaque do RQS 968/2024 referente à Emenda 14 ao PLP 210/2024. A intervenção registrada é breve e não contém justificativa extensa.",
+      "limitations": "O Sim é orientação relacionada ao requerimento e à emenda destacada; não representa, por si, voto favorável a todo o PLP ou comprovação de votação nominal individual. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 511508, quadro Minoria: Sim, Texto integral; DSF de 20/12/2024, p. 46.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PLP 210/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-511508",
+          "toolReference": "turn165234view4"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-cb4bd3450d54f6d0",
+      "title": "Ficha do PL 1829/2019 confirma relatoria de Flávio e Lei Geral do Turismo",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136000",
+      "publisher": "Senado Federal",
+      "date": "2024-09-19",
+      "eventDate": null,
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1829/2019",
+      "topics": [
+        "PL 1829/2019",
+        "relatoria",
+        "turismo"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha do Senado atribui a autoria original ao deputado Carlos Eduardo Cadoca e registra Flávio como relator na CCJ, relator ad hoc em comissão e relator de Plenário em 05/06/2024, com relatórios e pareceres. Identifica conversão na Lei 14.978/2024, com veto parcial.",
+      "limitations": "O processo legislativo não comprova isoladamente a eficácia ou impactos práticos de cada dispositivo; veto parcial e versão sancionada precisam de leitura própria. Consulta limitada à ficha HTML de tramitação; documentos PDF relacionados não foram abertos. Não constitui auditoria jurídica da íntegra.",
+      "locator": "Cabeçalho Autoria e Norma Gerada; tramitação de 15/03/2023, 22/11/2023 e 05/06/2024; Relação de Documentos e Relatorias; último estado de 19/09/2024.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-materia-pl1829",
+          "toolReference": "turn648851view0"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta da ficha pública HTML de tramitação do Senado em 24/10/2026, inclusive identificação de autores, relatórios e andamentos exibidos. Sem reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-8b73e9c5bb2d9a0d",
       "title": "Debate de 20/08/2024 sobre transição da desoneração da folha, PL 1847/2024",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/508580",
@@ -17086,6 +17217,137 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-3be8dc8334765d67",
+      "title": "Ficha do PL 914/2024 documenta votação de destaques do Programa Mover",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163889",
+      "publisher": "Senado Federal",
+      "date": "2024-06-28",
+      "eventDate": null,
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 914/2024",
+      "topics": [
+        "PL 914/2024",
+        "tributação",
+        "votações"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha identifica autoria do Executivo, Lei 14.902/2024 e deliberação sobre destaques. Registra votos contrários de Flávio em itens específicos e a rejeição da Emenda 32 destacada pelo RQS 424/2024. Não se infere posição sobre todos os dispositivos a partir de cada voto.",
+      "limitations": "Há divergência de identificador com o cabeçalho do pronunciamento 506741, que menciona RQS 416/2024; confrontar os dois requerimentos e a redação de cada emenda antes de consolidar comparação de voto. Consulta limitada à ficha HTML de tramitação; documentos PDF relacionados não foram abertos. Não constitui auditoria jurídica da íntegra.",
+      "locator": "Cabeçalho Autoria, Norma Gerada e Último estado; tramitação com RQS 423, 424 e 425 de 2024, especialmente registros dos destaques de 05/06/2024.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 914/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-materia-pl914",
+          "toolReference": "turn648851view2"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta da ficha pública HTML de tramitação do Senado em 24/10/2026, inclusive identificação de autores, relatórios e andamentos exibidos. Sem reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-598ee2f0bbbf68b4",
+      "title": "Posição contrária ao aborto durante debate de junho de 2024",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506928",
+      "publisher": "Senado Federal",
+      "date": "2024-06-19",
+      "eventDate": "2024-06-18",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "direitos reprodutivos",
+      "topics": [
+        "direitos reprodutivos",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio endossou posição contrária ao aborto, elogiou Eduardo Girão e apresentou afirmações sobre políticas anteriores de proteção às mulheres e entendimento do CFM. Os elementos estatísticos, científicos e normativos citados não foram aferidos pelo catálogo.",
+      "limitations": "Atribuir as afirmações ao parlamentar; evitar apresentar posicionamentos políticos ou menções ao CFM como consenso técnico ou validação legal sem fontes próprias e contraditório pertinente. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 506928, Texto integral; DSF de 19/06/2024, p. 54.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-506928",
+          "toolReference": "turn970777view4"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-3d48061fea9ce2d6",
       "title": "Tramitação do PL 3673/2021: relatórios de Flávio na CSP e emendas divergentes",
       "url": "https://www25.senado.leg.br/en/web/atividade/materias/-/materia/150353",
@@ -17149,6 +17411,72 @@
         }
       ],
       "accessMethod": "Abertura direta da página institucional em HTML e leitura do texto publicado; sem reprodução de áudio/vídeo, sem conferir íntegras de PDFs citados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-56a703c616b127a0",
+      "title": "Ficha do PLP 150/2021 distingue autoria, relatoria e fase bicameral",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/150077",
+      "publisher": "Senado Federal",
+      "date": "2024-06-13",
+      "eventDate": null,
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PLP 150/2021",
+      "topics": [
+        "PLP 150/2021",
+        "direitos humanos",
+        "atividade parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha identifica Fabiano Contarato como autor e Otto Alencar como relator do PLP 150/2021. Registra Flávio como relator ad hoc na CSP em 12/12/2023 e remessa da proposta à Câmara em 13/06/2024 após aprovação no Senado.",
+      "limitations": "O estado de remessa à Câmara não comprova aprovação final no Congresso nem sanção. É necessário verificar o andamento na Câmara para afirmar situação posterior. Consulta limitada à ficha HTML de tramitação; documentos PDF relacionados não foram abertos. Não constitui auditoria jurídica da íntegra.",
+      "locator": "Cabeçalho Autoria e Último estado; Relatorias CSP; 12/12/2023 e 13/06/2024 na Tramitação.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PLP 150/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-materia-plp150",
+          "toolReference": "turn648851view1"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta da ficha pública HTML de tramitação do Senado em 24/10/2026, inclusive identificação de autores, relatórios e andamentos exibidos. Sem reprodução de áudio ou vídeo.",
       "newToArchive": true
     },
     {
@@ -17218,6 +17546,593 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-b468e963ff0e6cf7",
+      "title": "Manifestação após deliberação da modernização do turismo, PL 1829/2019",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506758",
+      "publisher": "Senado Federal",
+      "date": "2024-06-06",
+      "eventDate": "2024-06-05",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1829/2019",
+      "topics": [
+        "PL 1829/2019",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio agradeceu a deliberação do projeto da área do turismo, citando colaboração com a Presidência do Senado, parlamentares e Ministério do Turismo. A ficha legislativa confirma sua relatoria em fases da tramitação; a autoria original pertence a Carlos Eduardo Cadoca.",
+      "limitations": "O relato de aprovação e elogios deve ser lido no contexto de 05/06/2024, não como descrição da redação final da Lei 14.978/2024 ou de seus vetos. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 506758, Texto integral; DSF de 06/06/2024, p. 56.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-506758",
+          "toolReference": "turn165234view2"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-75708d0e33a32db1",
+      "title": "Debate sobre tributação de compras internacionais e emenda ao Programa Mover",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506741",
+      "publisher": "Senado Federal",
+      "date": "2024-06-06",
+      "eventDate": "2024-06-05",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 914/2024",
+      "topics": [
+        "PL 914/2024",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "No encaminhamento, Flávio se opôs à taxação de compras internacionais em uma etapa do PL 914/2024 e defendeu teto para tributos federais sobre produtos nacionais, conforme sua proposta de emenda. Os percentuais e efeitos econômicos alegados não foram conferidos.",
+      "limitations": "O cabeçalho do pronunciamento menciona RQS 416/2024, enquanto a ficha de tramitação relaciona a Emenda 32 a outro destaque (RQS 424/2024). Necessário cotejar requerimentos e votação antes de associar o encaminhamento a um resultado. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 506741, Texto integral; DSF de 06/06/2024, p. 46; cabeçalho cita RQS 416/2024.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 914/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-506741",
+          "toolReference": "turn648851view3"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-2f4efe7e1fcf77d2",
+      "title": "Agência Senado registra posições divergentes sobre taxação no Programa Mover",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/06/04/sem-acordo-entre-os-lideres-projeto-mover-vai-a-votacao-nesta-quarta-feira",
+      "publisher": "Agência Senado",
+      "date": "2024-06-04",
+      "eventDate": "2024-06-04",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 914/2024",
+      "topics": [
+        "PL 914/2024",
+        "tributação",
+        "respostas públicas"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem anterior à votação relata desacordo entre lideranças sobre tributação de compras internacionais, identifica Rodrigo Cunha como relator do PL 914/2024 e Carlos Portinho como defensor de emenda de Flávio para reduzir tributação de produtos nacionais, além de registrar a posição do governo.",
+      "limitations": "Posições do dia 04/06 são contexto anterior à votação. Não atribuir a Flávio falas proferidas por Carlos Portinho ou outros senadores. Reportagem institucional aberta em HTML; citações e números ali reproduzidos não foram convertidos em verificação independente.",
+      "locator": "Data 04/06/2024, 19h31; abertura e seções sobre Vetos e Reciprocidade.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-contexto-mover-jun2024",
+          "toolReference": "turn970777view5"
+        }
+      ],
+      "accessMethod": "Artigo público da Agência Senado aberto e lido diretamente em 24/10/2026; não houve contato com os envolvidos e nenhum player foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-a3c7f10e31c30973",
+      "title": "Flávio libera bancada da Minoria e declara voto favorável ao PLP 150/2021",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506166",
+      "publisher": "Senado Federal",
+      "date": "2024-05-23",
+      "eventDate": "2024-05-22",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PLP 150/2021",
+      "topics": [
+        "PLP 150/2021",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Na discussão de mecanismos de proteção à população LGBTQIA+ encarcerada, o registro distingue orientação livre à bancada da Minoria do voto pessoal favorável declarado por Flávio. Comentários sobre riscos nas prisões são argumentos dele, não constatações independentes do catálogo.",
+      "limitations": "Não confundir a orientação de bancada Livre com voto Não; voto individual declarado não substitui consulta ao resultado nominal quando aplicável. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 506166, quadro Minoria: Livre e Texto integral; DSF de 23/05/2024, p. 48.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PLP 150/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-506166",
+          "toolReference": "turn648851view4"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-7a8046e98be27233",
+      "title": "Agência Senado relata aprovação de mecanismos de proteção nas prisões",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/05/22/senado-aprova-celas-especificas-para-populacao-lgbtqia-encarcerada",
+      "publisher": "Agência Senado",
+      "date": "2024-05-22",
+      "eventDate": "2024-05-22",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PLP 150/2021",
+      "topics": [
+        "PLP 150/2021",
+        "respostas públicas",
+        "direitos humanos"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem atribui a autoria a Fabiano Contarato, a relatoria a Otto Alencar e informa resultado do Senado de 62 votos a 2. Registra declaração de voto Sim de Flávio, além de fundamentos apresentados por Contarato, Otto, Damares e outros parlamentares.",
+      "limitations": "Resultado descrito é da votação no Senado naquele dia, não a situação atual de aprovação final pela Câmara. Reportagem institucional aberta em HTML; citações e números ali reproduzidos não foram convertidos em verificação independente.",
+      "locator": "Data 22/05/2024, 18h23; seções iniciais, Regras e Discussão.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-contexto-plp150-mai2024",
+          "toolReference": "turn774651view1"
+        }
+      ],
+      "accessMethod": "Artigo público da Agência Senado aberto e lido diretamente em 24/10/2026; não houve contato com os envolvidos e nenhum player foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-cc678d1968a4585b",
+      "title": "Debate sobre dívidas do Rio Grande do Sul após calamidade, PLP 85/2024",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505759",
+      "publisher": "Senado Federal",
+      "date": "2024-05-16",
+      "eventDate": "2024-05-15",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PLP 85/2024",
+      "topics": [
+        "PLP 85/2024",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "No debate sobre calamidade no Rio Grande do Sul, Flávio propôs discutir remissão ou cancelamento de parcelas da dívida estadual com a União em vez da mera suspensão temporária. Os valores utilizados como argumento não foram auditados.",
+      "limitations": "Proposta oral e perguntas ao relator não são equivalentes a emenda acolhida, resultado legislativo ou impacto fiscal validado. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 505759, Texto integral; DSF de 16/05/2024, p. 59.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PLP 85/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-505759",
+          "toolReference": "turn648851view5"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-2a5aa85c3668c210",
+      "title": "Debate sobre pauta de vetos à Lei de Segurança Nacional e às saídas temporárias",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506426",
+      "publisher": "Senado Federal",
+      "date": "2024-05-16",
+      "eventDate": "2024-05-09",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "VET 8/2024 e VET 46/2021",
+      "topics": [
+        "VET 8/2024 e VET 46/2021",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Em sessão conjunta, Flávio defendeu prioridade para apreciar veto relacionado às saídas temporárias, enquanto Rodrigo Pacheco discutiu a ordem e o acordo de votação de outros vetos. O texto registra a negociação de pauta, não deliberação isolada definitiva.",
+      "limitations": "Não confundir pedido de inclusão em pauta ou veto de proposição com derrubada, manutenção ou efeito definitivo do veto. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 506426, Texto integral e diálogo com Rodrigo Pacheco; DCN de 16/05/2024, p. 35.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "VET 8/2024; VET 46/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-506426",
+          "toolReference": "turn970777view2"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-c84906a224422d22",
+      "title": "Crítica à tramitação e pedido de debate do PL 4129/2021",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505995",
+      "publisher": "Senado Federal",
+      "date": "2024-05-15",
+      "eventDate": "2024-05-14",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 4129/2021",
+      "topics": [
+        "PL 4129/2021",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "No mesmo dia de outra intervenção sobre o PL 4129/2021, Flávio pediu passagem pela CCJ e maior debate com representantes do setor privado. O conteúdo é sua avaliação sobre participação e tramitação, sem comprovação independente de ausência total de consulta.",
+      "limitations": "Esta é intervenção distinta da de número 505988, mas ambas tratam do mesmo projeto e não equivalem a duas alegações independentes; consultar atas e audiências para validar a situação da tramitação. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 505995, Texto integral; DSF de 15/05/2024, p. 54.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4129/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-505995",
+          "toolReference": "turn970777view3"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-45abdbf25398e858",
+      "title": "Discussão do PL 4129/2021: prazo de apresentação de emenda",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505988",
+      "publisher": "Senado Federal",
+      "date": "2024-05-15",
+      "eventDate": "2024-05-14",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 4129/2021",
+      "topics": [
+        "PL 4129/2021",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "No debate do projeto sobre adaptação à mudança do clima, Flávio afirmou ter protocolado emenda há poucos instantes. Rodrigo Pacheco explicou que o prazo de emendas havia encerrado em 8 de março, mantendo possível o destaque no curso da discussão. O registro documenta as posições de ambos.",
+      "limitations": "O protocolo mencionado pelo orador não foi conferido em arquivo autônomo; não afirmar que a emenda foi aceita, numerada ou votada. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 505988, diálogo em Texto integral; DSF de 15/05/2024, p. 48.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4129/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-505988",
+          "toolReference": "turn970777view0"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-6676b6fdace4be02",
       "title": "Discussão do seguro obrigatório SPVAT",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505860",
@@ -17281,6 +18196,71 @@
         }
       ],
       "accessMethod": "Pesquisa e leitura documental assistida por IA. Sem revisão humana ou audição de arquivos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-94285a6188eb08e3",
+      "title": "Solidariedade a parlamentares e debate sobre legislação penal e desinformação",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/504455",
+      "publisher": "Senado Federal",
+      "date": "2024-03-13",
+      "eventDate": "2024-03-12",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "liberdade de expressão",
+      "topics": [
+        "liberdade de expressão",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Em fala de plenário, Flávio manifestou solidariedade a Rodrigo Pacheco e Jorge Kajuru por ataques na internet e comentou critérios de legislação penal e liberdade de imprensa. Comparações feitas no discurso são contextualizadas como opinião e argumento.",
+      "limitations": "Não transformar analogias entre casos criminais distintos em julgamento comparativo sem confrontar processos, artigos legais e seus contextos. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 504455, Texto integral; DSF de 13/03/2024, p. 47.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-504455",
+          "toolReference": "turn970777view1"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
       "newToArchive": true
     },
     {
@@ -17546,6 +18526,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-0fdd210cbf282715",
+      "title": "Debate com Otto Alencar sobre destaque do projeto de saídas temporárias",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503995",
+      "publisher": "Senado Federal",
+      "date": "2024-02-21",
+      "eventDate": "2024-02-20",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2253/2022",
+      "topics": [
+        "PL 2253/2022",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Na orientação do PL contra o destaque do RQS 84/2024, ligado à Emenda 8 ao PL 2253/2022, Flávio debateu com Otto Alencar sobre alcance da restrição de saídas temporárias e menções ao 8 de janeiro. A transcrição preserva intervenções e objeções de ambos, sem validar acusações recíprocas.",
+      "limitations": "Debate confrontativo: não atribuir falas de Otto a Flávio, nem transformar acusações retóricas ou negativas em conclusões sobre fatos criminais. O objeto é um destaque, não todo o PL. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 503995, quadro Partido Liberal: Não, Texto integral, interlocuções de Otto Alencar; DSF de 21/02/2024, p. 90.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2253/2022",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-503995",
+          "toolReference": "turn774651view0"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-0644b69c6d40f3f0",
       "title": "Agência Senado relata aprovação em 2024 de proposta sobre saídas de presos",
       "url": "https://www12.senado.leg.br/noticias/materias/2024/02/20/senado-aprova-restricao-as-saidinhas-de-presos-texto-volta-para-a-camara",
@@ -17608,6 +18653,137 @@
         }
       ],
       "accessMethod": "Abertura e leitura de HTML institucional e metadados legislativos, sem reprodução ou transcrição audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-5ba8c66c0db57967",
+      "title": "Manifestação sobre participação de militares em eleições",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503806",
+      "publisher": "Senado Federal",
+      "date": "2024-02-08",
+      "eventDate": "2024-02-07",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "elegibilidade de militares",
+      "topics": [
+        "elegibilidade de militares",
+        "pronunciamento parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Em intervenção após fala de Hamilton Mourão, Flávio posicionou-se contra propostas que entende restringirem a candidatura de militares. A referência à Constituinte de 1988 consta como interpretação do orador, não como análise histórica validada.",
+      "limitations": "Não identificado no próprio pronunciamento número ou texto final da PEC discutida; não presumir aprovação de alteração constitucional. Transcrição HTML institucional não foi cotejada com o áudio nem com o PDF oficial; nenhuma conclusão factual própria.",
+      "locator": "Pronunciamento 503806, Texto integral; DSF de 08/02/2024, p. 41.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-pron-503806",
+          "toolReference": "turn165234view5"
+        }
+      ],
+      "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-c7afa22fc8d02c26",
+      "title": "Agência Senado registra apresentação ad hoc de parecer sobre PLP 150/2021",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/12/15/projeto-que-protege-populacao-lgbtqia-encarcerada-vai-ao-plenario",
+      "publisher": "Agência Senado",
+      "date": "2023-12-15",
+      "eventDate": "2023-12-15",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PLP 150/2021",
+      "topics": [
+        "PLP 150/2021",
+        "relatoria",
+        "respostas públicas"
+      ],
+      "stage": "analisado",
+      "summary": "A Agência Senado relata que Flávio apresentou ad hoc na CSP um relatório favorável preparado por Otto Alencar e atribui a autoria do PLP a Fabiano Contarato. Inclui argumentos do autor, do relator e a posição de Flávio durante a discussão.",
+      "limitations": "Apresentação ad hoc de relatório não equivale à autoria do parecer original nem a autoria da proposta; notícia é contexto, não áudio conferido. Reportagem institucional aberta em HTML; citações e números ali reproduzidos não foram convertidos em verificação independente.",
+      "locator": "Data 15/12/2023, 11h02; parágrafos iniciais, justificativa e discussão na CSP.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T14:36:32.620Z",
+      "lastModifiedAt": "2026-10-24T14:36:32.620Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "senado-2024-plenario-20261024-17",
+          "inputId": "senado-2024-plenario-20261024-17-contexto-plp150-dez2023",
+          "toolReference": "turn774651view2"
+        }
+      ],
+      "accessMethod": "Artigo público da Agência Senado aberto e lido diretamente em 24/10/2026; não houve contato com os envolvidos e nenhum player foi reproduzido.",
       "newToArchive": true
     },
     {
@@ -30455,10 +31631,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z",
-      "lastConsultedAt": "2026-10-24T13:42:51.990Z",
+      "lastConsultedAt": "2026-10-24T14:36:32.620Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 139,
+      "sourceCount": 157,
       "periods": [
         2018,
         2019,
@@ -30478,8 +31654,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 138,
-      "analysedCount": 124
+      "accessedCount": 156,
+      "analysedCount": 142
     },
     {
       "id": "fonte-3ed65b2f1d041330",
@@ -33454,6 +34630,24 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-60bdbd3fc3b0c664",
+      "itemId": "pesquisa-4e9dc244c53725a9",
+      "title": "Orientação da Minoria sobre destaque da Emenda 14 ao PLP 210/2024",
+      "date": "2024-12-19",
+      "datePrecision": "day",
+      "context": "A transcrição registra orientação Sim da Minoria no destaque do RQS 968/2024 referente à Emenda 14 ao PLP 210/2024. A intervenção registrada é breve e não contém justificativa extensa.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-ac5963e5955d943f",
+      "itemId": "pesquisa-cb4bd3450d54f6d0",
+      "title": "Ficha do PL 1829/2019 confirma relatoria de Flávio e Lei Geral do Turismo",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Ficha do Senado atribui a autoria original ao deputado Carlos Eduardo Cadoca e registra Flávio como relator na CCJ, relator ad hoc em comissão e relator de Plenário em 05/06/2024, com relatórios e pareceres. Identifica conversão na Lei 14.978/2024, com veto parcial.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-4d61709137548a73",
       "itemId": "pesquisa-8b73e9c5bb2d9a0d",
       "title": "Debate de 20/08/2024 sobre transição da desoneração da folha, PL 1847/2024",
@@ -33508,6 +34702,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-38d110c85b19e606",
+      "itemId": "pesquisa-3be8dc8334765d67",
+      "title": "Ficha do PL 914/2024 documenta votação de destaques do Programa Mover",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Ficha identifica autoria do Executivo, Lei 14.902/2024 e deliberação sobre destaques. Registra votos contrários de Flávio em itens específicos e a rejeição da Emenda 32 destacada pelo RQS 424/2024. Não se infere posição sobre todos os dispositivos a partir de cada voto.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-b2ed5b90da5c2e31",
+      "itemId": "pesquisa-598ee2f0bbbf68b4",
+      "title": "Posição contrária ao aborto durante debate de junho de 2024",
+      "date": "2024-06-18",
+      "datePrecision": "day",
+      "context": "Flávio endossou posição contrária ao aborto, elogiou Eduardo Girão e apresentou afirmações sobre políticas anteriores de proteção às mulheres e entendimento do CFM. Os elementos estatísticos, científicos e normativos citados não foram aferidos pelo catálogo.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-15722686cf20ef80",
       "itemId": "pesquisa-3d48061fea9ce2d6",
       "title": "Tramitação do PL 3673/2021: relatórios de Flávio na CSP e emendas divergentes",
@@ -33515,6 +34727,15 @@
       "datePrecision": "day",
       "context": "Proposta de autoria de Wellington Fagundes relativa ao acordo de não persecução penal. A ficha oficial identifica Flávio como relator na Comissão de Segurança Pública e três versões/complementações de relatório favorável em 2024, com rejeição recomendada de emendas de Sergio Moro e Alessandro Vieira. Relatório foi aprovado pela CSP em 18/06/2024, sem significar lei sancionada.",
       "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-7e4e4e1ba5ee04ad",
+      "itemId": "pesquisa-56a703c616b127a0",
+      "title": "Ficha do PLP 150/2021 distingue autoria, relatoria e fase bicameral",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Ficha identifica Fabiano Contarato como autor e Otto Alencar como relator do PLP 150/2021. Registra Flávio como relator ad hoc na CSP em 12/12/2023 e remessa da proposta à Câmara em 13/06/2024 após aprovação no Senado.",
+      "state": "identificação de evento pendente"
     },
     {
       "id": "evento-363512c7f63a709a",
@@ -33526,6 +34747,87 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-d92b0736db926c49",
+      "itemId": "pesquisa-b468e963ff0e6cf7",
+      "title": "Manifestação após deliberação da modernização do turismo, PL 1829/2019",
+      "date": "2024-06-05",
+      "datePrecision": "day",
+      "context": "Flávio agradeceu a deliberação do projeto da área do turismo, citando colaboração com a Presidência do Senado, parlamentares e Ministério do Turismo. A ficha legislativa confirma sua relatoria em fases da tramitação; a autoria original pertence a Carlos Eduardo Cadoca.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-609c9e74226092ff",
+      "itemId": "pesquisa-75708d0e33a32db1",
+      "title": "Debate sobre tributação de compras internacionais e emenda ao Programa Mover",
+      "date": "2024-06-05",
+      "datePrecision": "day",
+      "context": "No encaminhamento, Flávio se opôs à taxação de compras internacionais em uma etapa do PL 914/2024 e defendeu teto para tributos federais sobre produtos nacionais, conforme sua proposta de emenda. Os percentuais e efeitos econômicos alegados não foram conferidos.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-d0452ec89b95e43b",
+      "itemId": "pesquisa-2f4efe7e1fcf77d2",
+      "title": "Agência Senado registra posições divergentes sobre taxação no Programa Mover",
+      "date": "2024-06-04",
+      "datePrecision": "day",
+      "context": "Reportagem anterior à votação relata desacordo entre lideranças sobre tributação de compras internacionais, identifica Rodrigo Cunha como relator do PL 914/2024 e Carlos Portinho como defensor de emenda de Flávio para reduzir tributação de produtos nacionais, além de registrar a posição do governo.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-999666c0f73efb17",
+      "itemId": "pesquisa-a3c7f10e31c30973",
+      "title": "Flávio libera bancada da Minoria e declara voto favorável ao PLP 150/2021",
+      "date": "2024-05-22",
+      "datePrecision": "day",
+      "context": "Na discussão de mecanismos de proteção à população LGBTQIA+ encarcerada, o registro distingue orientação livre à bancada da Minoria do voto pessoal favorável declarado por Flávio. Comentários sobre riscos nas prisões são argumentos dele, não constatações independentes do catálogo.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f85e40c63b4f86f4",
+      "itemId": "pesquisa-7a8046e98be27233",
+      "title": "Agência Senado relata aprovação de mecanismos de proteção nas prisões",
+      "date": "2024-05-22",
+      "datePrecision": "day",
+      "context": "Reportagem atribui a autoria a Fabiano Contarato, a relatoria a Otto Alencar e informa resultado do Senado de 62 votos a 2. Registra declaração de voto Sim de Flávio, além de fundamentos apresentados por Contarato, Otto, Damares e outros parlamentares.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9e87dcdf1e94bc9f",
+      "itemId": "pesquisa-cc678d1968a4585b",
+      "title": "Debate sobre dívidas do Rio Grande do Sul após calamidade, PLP 85/2024",
+      "date": "2024-05-15",
+      "datePrecision": "day",
+      "context": "No debate sobre calamidade no Rio Grande do Sul, Flávio propôs discutir remissão ou cancelamento de parcelas da dívida estadual com a União em vez da mera suspensão temporária. Os valores utilizados como argumento não foram auditados.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e36fecbbbf6de2f0",
+      "itemId": "pesquisa-2a5aa85c3668c210",
+      "title": "Debate sobre pauta de vetos à Lei de Segurança Nacional e às saídas temporárias",
+      "date": "2024-05-09",
+      "datePrecision": "day",
+      "context": "Em sessão conjunta, Flávio defendeu prioridade para apreciar veto relacionado às saídas temporárias, enquanto Rodrigo Pacheco discutiu a ordem e o acordo de votação de outros vetos. O texto registra a negociação de pauta, não deliberação isolada definitiva.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-59a012fe5e8c2ffb",
+      "itemId": "pesquisa-c84906a224422d22",
+      "title": "Crítica à tramitação e pedido de debate do PL 4129/2021",
+      "date": "2024-05-14",
+      "datePrecision": "day",
+      "context": "No mesmo dia de outra intervenção sobre o PL 4129/2021, Flávio pediu passagem pela CCJ e maior debate com representantes do setor privado. O conteúdo é sua avaliação sobre participação e tramitação, sem comprovação independente de ausência total de consulta.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-587ef7a42b21b23c",
+      "itemId": "pesquisa-45abdbf25398e858",
+      "title": "Discussão do PL 4129/2021: prazo de apresentação de emenda",
+      "date": "2024-05-14",
+      "datePrecision": "day",
+      "context": "No debate do projeto sobre adaptação à mudança do clima, Flávio afirmou ter protocolado emenda há poucos instantes. Rodrigo Pacheco explicou que o prazo de emendas havia encerrado em 8 de março, mantendo possível o destaque no curso da discussão. O registro documenta as posições de ambos.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-4ad85786df7e5d17",
       "itemId": "pesquisa-6676b6fdace4be02",
       "title": "Discussão do seguro obrigatório SPVAT",
@@ -33533,6 +34835,15 @@
       "datePrecision": "unknown",
       "context": "Flávio critica proposta do SPVAT e discute cobrança do DPVAT em anos anteriores.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-81dadd87373cf8db",
+      "itemId": "pesquisa-94285a6188eb08e3",
+      "title": "Solidariedade a parlamentares e debate sobre legislação penal e desinformação",
+      "date": "2024-03-12",
+      "datePrecision": "day",
+      "context": "Em fala de plenário, Flávio manifestou solidariedade a Rodrigo Pacheco e Jorge Kajuru por ataques na internet e comentou critérios de legislação penal e liberdade de imprensa. Comparações feitas no discurso são contextualizadas como opinião e argumento.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-02ecb2be74d21f60",
@@ -33571,12 +34882,39 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-d20609ecc4725324",
+      "itemId": "pesquisa-0fdd210cbf282715",
+      "title": "Debate com Otto Alencar sobre destaque do projeto de saídas temporárias",
+      "date": "2024-02-20",
+      "datePrecision": "day",
+      "context": "Na orientação do PL contra o destaque do RQS 84/2024, ligado à Emenda 8 ao PL 2253/2022, Flávio debateu com Otto Alencar sobre alcance da restrição de saídas temporárias e menções ao 8 de janeiro. A transcrição preserva intervenções e objeções de ambos, sem validar acusações recíprocas.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-937367794792e499",
       "itemId": "pesquisa-0644b69c6d40f3f0",
       "title": "Agência Senado relata aprovação em 2024 de proposta sobre saídas de presos",
       "date": "2024-02-20",
       "datePrecision": "day",
       "context": "Reportagem institucional noticia aprovação no Senado e retorno à Câmara de texto relativo à saída temporária de presos, no contexto da relatoria de Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-1dc8ae2114c6a176",
+      "itemId": "pesquisa-5ba8c66c0db57967",
+      "title": "Manifestação sobre participação de militares em eleições",
+      "date": "2024-02-07",
+      "datePrecision": "day",
+      "context": "Em intervenção após fala de Hamilton Mourão, Flávio posicionou-se contra propostas que entende restringirem a candidatura de militares. A referência à Constituinte de 1988 consta como interpretação do orador, não como análise histórica validada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9d870e6e714796db",
+      "itemId": "pesquisa-c7afa22fc8d02c26",
+      "title": "Agência Senado registra apresentação ad hoc de parecer sobre PLP 150/2021",
+      "date": "2023-12-15",
+      "datePrecision": "day",
+      "context": "A Agência Senado relata que Flávio apresentou ad hoc na CSP um relatório favorável preparado por Otto Alencar e atribui a autoria do PLP a Fabiano Contarato. Inclui argumentos do autor, do relator e a posição de Flávio durante a discussão.",
       "state": "data informada pela fonte"
     },
     {
@@ -41075,6 +42413,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-60bdbd3fc3b0c664",
+      "itemId": "pesquisa-4e9dc244c53725a9",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/511508",
+      "locator": "Pronunciamento 511508, quadro Minoria: Sim, Texto integral; DSF de 20/12/2024, p. 46.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ac5963e5955d943f",
+      "itemId": "pesquisa-cb4bd3450d54f6d0",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136000",
+      "locator": "Cabeçalho Autoria e Norma Gerada; tramitação de 15/03/2023, 22/11/2023 e 05/06/2024; Relação de Documentos e Relatorias; último estado de 19/09/2024.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-4d61709137548a73",
       "itemId": "pesquisa-8b73e9c5bb2d9a0d",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -41141,11 +42501,44 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-38d110c85b19e606",
+      "itemId": "pesquisa-3be8dc8334765d67",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163889",
+      "locator": "Cabeçalho Autoria, Norma Gerada e Último estado; tramitação com RQS 423, 424 e 425 de 2024, especialmente registros dos destaques de 05/06/2024.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-b2ed5b90da5c2e31",
+      "itemId": "pesquisa-598ee2f0bbbf68b4",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506928",
+      "locator": "Pronunciamento 506928, Texto integral; DSF de 19/06/2024, p. 54.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-15722686cf20ef80",
       "itemId": "pesquisa-3d48061fea9ce2d6",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/en/web/atividade/materias/-/materia/150353",
       "locator": "Senado: autoria e estado 43-59; relatórios de Flávio 112-148; parecer CSP e emendas 150-203.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-7e4e4e1ba5ee04ad",
+      "itemId": "pesquisa-56a703c616b127a0",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/150077",
+      "locator": "Cabeçalho Autoria e Último estado; Relatorias CSP; 12/12/2023 e 13/06/2024 na Tramitação.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -41163,11 +42556,121 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-d92b0736db926c49",
+      "itemId": "pesquisa-b468e963ff0e6cf7",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506758",
+      "locator": "Pronunciamento 506758, Texto integral; DSF de 06/06/2024, p. 56.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-609c9e74226092ff",
+      "itemId": "pesquisa-75708d0e33a32db1",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506741",
+      "locator": "Pronunciamento 506741, Texto integral; DSF de 06/06/2024, p. 46; cabeçalho cita RQS 416/2024.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-d0452ec89b95e43b",
+      "itemId": "pesquisa-2f4efe7e1fcf77d2",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/06/04/sem-acordo-entre-os-lideres-projeto-mover-vai-a-votacao-nesta-quarta-feira",
+      "locator": "Data 04/06/2024, 19h31; abertura e seções sobre Vetos e Reciprocidade.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-999666c0f73efb17",
+      "itemId": "pesquisa-a3c7f10e31c30973",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506166",
+      "locator": "Pronunciamento 506166, quadro Minoria: Livre e Texto integral; DSF de 23/05/2024, p. 48.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f85e40c63b4f86f4",
+      "itemId": "pesquisa-7a8046e98be27233",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/05/22/senado-aprova-celas-especificas-para-populacao-lgbtqia-encarcerada",
+      "locator": "Data 22/05/2024, 18h23; seções iniciais, Regras e Discussão.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9e87dcdf1e94bc9f",
+      "itemId": "pesquisa-cc678d1968a4585b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505759",
+      "locator": "Pronunciamento 505759, Texto integral; DSF de 16/05/2024, p. 59.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e36fecbbbf6de2f0",
+      "itemId": "pesquisa-2a5aa85c3668c210",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506426",
+      "locator": "Pronunciamento 506426, Texto integral e diálogo com Rodrigo Pacheco; DCN de 16/05/2024, p. 35.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-59a012fe5e8c2ffb",
+      "itemId": "pesquisa-c84906a224422d22",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505995",
+      "locator": "Pronunciamento 505995, Texto integral; DSF de 15/05/2024, p. 54.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-587ef7a42b21b23c",
+      "itemId": "pesquisa-45abdbf25398e858",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505988",
+      "locator": "Pronunciamento 505988, diálogo em Texto integral; DSF de 15/05/2024, p. 48.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-4ad85786df7e5d17",
       "itemId": "pesquisa-6676b6fdace4be02",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505860",
       "locator": "Texto integral; DSF 09/05/2024, p.43",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-81dadd87373cf8db",
+      "itemId": "pesquisa-94285a6188eb08e3",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/504455",
+      "locator": "Pronunciamento 504455, Texto integral; DSF de 13/03/2024, p. 47.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -41218,11 +42721,44 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-d20609ecc4725324",
+      "itemId": "pesquisa-0fdd210cbf282715",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503995",
+      "locator": "Pronunciamento 503995, quadro Partido Liberal: Não, Texto integral, interlocuções de Otto Alencar; DSF de 21/02/2024, p. 90.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-937367794792e499",
       "itemId": "pesquisa-0644b69c6d40f3f0",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2024/02/20/senado-aprova-restricao-as-saidinhas-de-presos-texto-volta-para-a-camara",
       "locator": "Agência Senado, título, data e parágrafos de tramitação.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-1dc8ae2114c6a176",
+      "itemId": "pesquisa-5ba8c66c0db57967",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/503806",
+      "locator": "Pronunciamento 503806, Texto integral; DSF de 08/02/2024, p. 41.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9d870e6e714796db",
+      "itemId": "pesquisa-c7afa22fc8d02c26",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/12/15/projeto-que-protege-populacao-lgbtqia-encarcerada-vai-ao-plenario",
+      "locator": "Data 15/12/2023, 11h02; parágrafos iniciais, justificativa e discussão na CSP.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -43849,19 +45385,20 @@
     },
     {
       "year": 2023,
-      "found": 23,
-      "accessed": 23,
-      "analysed": 21,
+      "found": 24,
+      "accessed": 24,
+      "analysed": 22,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 21,
+        "analisado": 22,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
+        "PLP 150/2021": 1,
         "atividade parlamentar": 7,
         "pronunciamento": 1,
         "orçamento": 1,
@@ -43878,53 +45415,64 @@
         "eleicoes": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 21,
+        "fonte-2acd9e7dc92e583a": 22,
         "fonte-37b3a9c8aaa5f206": 1,
         "fonte-d17e0097bbcd6c10": 1
       },
       "formats": {
+        "reportagem": 3,
         "documento": 20,
-        "reportagem": 2,
         "video": 1
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2024,
-      "found": 14,
-      "accessed": 14,
-      "analysed": 13,
+      "found": 31,
+      "accessed": 31,
+      "analysed": 30,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 1,
-        "analisado": 13,
+        "analisado": 30,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
+        "PLP 210/2024": 1,
+        "PL 1829/2019": 2,
         "economia": 2,
         "Justiça": 1,
         "Abin": 1,
         "Conselho de Ética": 3,
+        "PL 914/2024": 3,
+        "direitos reprodutivos": 1,
         "processo penal": 1,
+        "PLP 150/2021": 3,
         "patrimônio público": 1,
+        "PLP 85/2024": 1,
+        "VET 8/2024 e VET 46/2021": 1,
+        "PL 4129/2021": 2,
+        "liberdade de expressão": 1,
         "microempresas": 2,
         "votação nominal": 1,
-        "atividade parlamentar": 2
+        "atividade parlamentar": 2,
+        "PL 2253/2022": 1,
+        "elegibilidade de militares": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 12,
+        "fonte-2acd9e7dc92e583a": 29,
         "fonte-875b77e7aba40e8b": 1,
         "fonte-ad60f42b08c8e9e7": 1
       },
       "formats": {
-        "documento": 9,
+        "documento": 24,
         "checagem": 1,
         "audio": 1,
         "registro": 1,
-        "reportagem": 1,
+        "reportagem": 3,
         "video": 1
       },
       "note": "Recorte não exaustivo."
@@ -44063,11 +45611,11 @@
     }
   ],
   "metrics": {
-    "newItems": 434,
-    "items": 452,
+    "newItems": 452,
+    "items": 470,
     "alreadyInArchive": 18,
-    "accessed": 449,
-    "analysed": 424,
+    "accessed": 467,
+    "analysed": 442,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -44079,11 +45627,11 @@
     "sourcesConsulted": 33,
     "video": 17,
     "audio": 5,
-    "documents": 127,
+    "documents": 142,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 113,
+    "queryCount": 117,
     "accessFailures": 17,
     "undatedItems": 37
   },
@@ -45070,6 +46618,42 @@
       "resultsState": "Índices apontaram possíveis registros; abertura de páginas antigas retornou erros de gateway. Material não adicionado como fonte examinada."
     },
     {
+      "id": "consulta-9f0bcc0299424e70",
+      "batch": "senado-2024-plenario-20261024-17",
+      "query": "site:www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/ \"Flávio Bolsonaro\" \"2024\" \"Texto integral\"",
+      "executedAt": "2026-10-24T14:36:32.620Z",
+      "engine": "web.run, busca e abertura direta de páginas oficiais (horário UTC de fechamento do checkpoint; sem log individual da consulta)",
+      "interval": "2024",
+      "resultsState": "Localizadas e abertas 12 páginas de pronunciamentos de 2024 com transcrição HTML institucional."
+    },
+    {
+      "id": "consulta-33a68790a8cdc291",
+      "batch": "senado-2024-plenario-20261024-17",
+      "query": "site:www12.senado.leg.br/noticias/materias/2024/ \"Flávio Bolsonaro\" \"defendeu\" \"projeto\"",
+      "executedAt": "2026-10-24T14:36:32.620Z",
+      "engine": "web.run, busca e abertura direta de páginas oficiais (horário UTC de fechamento do checkpoint; sem log individual da consulta)",
+      "interval": "2024",
+      "resultsState": "Abriu reportagem sobre Programa Mover e cotejou autoria do relator e posições de outros líderes."
+    },
+    {
+      "id": "consulta-f9d721845f9dbe9e",
+      "batch": "senado-2024-plenario-20261024-17",
+      "query": "site:www12.senado.leg.br/noticias/materias/2024/ \"PLP 150/2021\" \"Flávio Bolsonaro\" LGBT",
+      "executedAt": "2026-10-24T14:36:32.620Z",
+      "engine": "web.run, busca e abertura direta de páginas oficiais (horário UTC de fechamento do checkpoint; sem log individual da consulta)",
+      "interval": "2023-2024",
+      "resultsState": "Abriu notícias institucionais de 2023 e 2024 com justificativas, respostas e diferenças de autoria e relatoria."
+    },
+    {
+      "id": "consulta-80ce3f46549a2942",
+      "batch": "senado-2024-plenario-20261024-17",
+      "query": "site:agencialupa.org \"Flávio Bolsonaro\" 2024 checagem; site:aosfatos.org \"Flávio Bolsonaro\" \"2024\" fake checagem; site:checamos.afp.com \"Flávio Bolsonaro\" \"2024\" vídeo",
+      "executedAt": "2026-10-24T14:36:32.620Z",
+      "engine": "web.run, busca e abertura direta de páginas oficiais (horário UTC de fechamento do checkpoint; sem log individual da consulta)",
+      "interval": "2024-2026",
+      "resultsState": "Localizadas checagens diversas, inclusive de conteúdos virais de 2026; nenhuma classificação ou alegação externa importada neste recorte de tramitação de 2024."
+    },
+    {
       "id": "consulta-690ec1b64b7b8f1c",
       "batch": "senado-historico-20261024-14",
       "query": "site:senado.leg.br/noticias/materias/2020/ \"Flávio Bolsonaro\" \"votação\" \"relator\"",
@@ -45733,6 +47317,48 @@
       "batch": "senado-2023-2024-20261024-04"
     },
     {
+      "id": "lacuna-b241264df15b7c46",
+      "note": "Reabrir o texto dos RQS 416/2024 e 424/2024 e o teor original da Emenda 32 ao PL 914/2024 para resolver diferença de referência entre pronunciamento 506741 e ficha legislativa, sem inferir contradição.",
+      "state": "pendente",
+      "batch": "senado-2024-plenario-20261024-17"
+    },
+    {
+      "id": "lacuna-b8ccfc03715e1811",
+      "note": "Conferir a votação individual e a situação posterior na Câmara do PLP 150/2021; orientação Livre da Minoria é distinta do voto pessoal Sim declarado por Flávio.",
+      "state": "pendente",
+      "batch": "senado-2024-plenario-20261024-17"
+    },
+    {
+      "id": "lacuna-da81424b709eb95a",
+      "note": "Examinar Lei 14.978/2024, veto parcial VET 29/2024 e emendas finais do PL 1829/2019 para delimitar efeito da relatoria de Flávio. Confirmado na ficha que foi relator, não autor.",
+      "state": "pendente",
+      "batch": "senado-2024-plenario-20261024-17"
+    },
+    {
+      "id": "lacuna-ab330acbb93092db",
+      "note": "Abrir versões finais e justificativas de PL 4129/2021, PLP 85/2024 e PLP 210/2024 antes de concluir efeitos, custo ou desfecho de propostas feitas em debate.",
+      "state": "pendente",
+      "batch": "senado-2024-plenario-20261024-17"
+    },
+    {
+      "id": "lacuna-68a78743dedc9829",
+      "note": "Buscar dados primários e contrapontos técnicos sobre alegações de tributação, segurança pública, política carcerária e saúde das mulheres antes de avaliar seu conteúdo factual.",
+      "state": "pendente",
+      "batch": "senado-2024-plenario-20261024-17"
+    },
+    {
+      "id": "lacuna-f206abd8a94cec03",
+      "note": "Ouvir trechos e conferir PDFs dos Diários de 2024 em revisão audiovisual/documental própria. Nesta execução houve zero segundos de áudio ouvido e nenhuma marcação temporal de vídeo revisada.",
+      "state": "pendente",
+      "batch": "senado-2024-plenario-20261024-17"
+    },
+    {
+      "id": "lacuna-4ffe2d97e795f742",
+      "note": "Cruzar eventuais checagens independentes pertinentes a declarações individuais e considerar respostas públicas; nenhuma nova conclusão ou acusação foi aprovada por revisor editorial identificado.",
+      "state": "pendente",
+      "batch": "senado-2024-plenario-20261024-17"
+    },
+    {
       "id": "lacuna-a396cbd71022c6f1",
       "note": "Confirmar voto nominal de 19/05/2020 ao PL 1.277/2020 e ao projeto de cotas de 14/07/2021 no painel/Diário do Senado antes de análise de recorrência de posicionamentos.",
       "state": "pendente",
@@ -45846,6 +47472,18 @@
       "url": "https://www25.senado.leg.br/web/atividade/",
       "checked_at_utc": "2026-10-24T12:53:06.527Z",
       "scope": "Registros HTML da atividade parlamentar e tramitação, consulta direta nesta execução."
+    },
+    {
+      "name": "Senado Federal, Atividade Legislativa",
+      "url": "https://www25.senado.leg.br/web/atividade/",
+      "checked_at_utc": "2026-10-24T14:36:32.620Z",
+      "scope": "Transcrições HTML e fichas de autoria, relatoria, tramitação e voto."
+    },
+    {
+      "name": "Agência Senado, Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/",
+      "checked_at_utc": "2026-10-24T14:36:32.620Z",
+      "scope": "Reportagens institucionais lidas com posições e respostas de diferentes parlamentares."
     }
   ],
   "publicationGate": {

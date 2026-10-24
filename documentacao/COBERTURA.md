@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T13:43:05.972944Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T14:36:44.181208Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-452 URLs únicas no lote; 434 ainda não vinculadas à edição anterior. 449 materiais acessados e 424 com texto analisado.
+470 URLs únicas no lote; 452 ainda não vinculadas à edição anterior. 467 materiais acessados e 442 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -32,8 +32,8 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2020 | 9 | 9 | 8 | 0 | 0 |
 | 2021 | 27 | 27 | 23 | 0 | 0 |
 | 2022 | 27 | 27 | 27 | 0 | 0 |
-| 2023 | 23 | 23 | 21 | 0 | 0 |
-| 2024 | 14 | 14 | 13 | 0 | 0 |
+| 2023 | 24 | 24 | 22 | 0 | 0 |
+| 2024 | 31 | 31 | 30 | 0 | 0 |
 | 2025 | 21 | 21 | 18 | 0 | 0 |
 | 2026 | 232 | 232 | 228 | 0 | 0 |
 
@@ -120,6 +120,13 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - Ler os Diários DSF/DCN e ouvir os trechos de sessão para citações literais ou timestamps; revisado nesta coleta: 0 segundos.
 - Reabrir arquivos ALERJ 2003–2008 em serviços oficiais para confirmar íntegras; não usar snippets como documento acessado.
 - Pesquisar checagens e respostas específicas a falas de 2023 e 2024, evitando ampliar seletivamente acusações.
+- Reabrir o texto dos RQS 416/2024 e 424/2024 e o teor original da Emenda 32 ao PL 914/2024 para resolver diferença de referência entre pronunciamento 506741 e ficha legislativa, sem inferir contradição.
+- Conferir a votação individual e a situação posterior na Câmara do PLP 150/2021; orientação Livre da Minoria é distinta do voto pessoal Sim declarado por Flávio.
+- Examinar Lei 14.978/2024, veto parcial VET 29/2024 e emendas finais do PL 1829/2019 para delimitar efeito da relatoria de Flávio. Confirmado na ficha que foi relator, não autor.
+- Abrir versões finais e justificativas de PL 4129/2021, PLP 85/2024 e PLP 210/2024 antes de concluir efeitos, custo ou desfecho de propostas feitas em debate.
+- Buscar dados primários e contrapontos técnicos sobre alegações de tributação, segurança pública, política carcerária e saúde das mulheres antes de avaliar seu conteúdo factual.
+- Ouvir trechos e conferir PDFs dos Diários de 2024 em revisão audiovisual/documental própria. Nesta execução houve zero segundos de áudio ouvido e nenhuma marcação temporal de vídeo revisada.
+- Cruzar eventuais checagens independentes pertinentes a declarações individuais e considerar respostas públicas; nenhuma nova conclusão ou acusação foi aprovada por revisor editorial identificado.
 - Confirmar voto nominal de 19/05/2020 ao PL 1.277/2020 e ao projeto de cotas de 14/07/2021 no painel/Diário do Senado antes de análise de recorrência de posicionamentos.
 - PLP 157/2021: abrir PDF do relatório da Comissão de Meio Ambiente de 04/04/2025 e conferir novos andamentos antes de resumir fundamentos ou declarar rejeição definitiva.
 - PEC 32/2022: distinguir emenda apresentada, emenda prejudicada e destaque retirado antes de comparações sobre posicionamento orçamentário.
