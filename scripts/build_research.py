@@ -98,6 +98,12 @@ def format_for(row, batch):
         return 'audio'
     if f in {'video', 'podcast', 'entrevista', 'debate', 'live'} or 'video' in f:
         return 'video'
+    if f in {'checagem', 'fact-check', 'factcheck'}:
+        return 'checagem'
+    if f in {'reportagem', 'noticia', 'notícia'}:
+        return 'reportagem'
+    if f in {'registro', 'registro publico', 'registro público'}:
+        return 'registro'
     if any(k in f for k in ('pdf', 'document', 'proposicao', 'pronunciamento', 'votacao', 'decisao', 'taquigraf', 'transcript')):
         return 'documento'
     if batch == 'checagens':
