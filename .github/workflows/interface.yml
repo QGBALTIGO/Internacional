@@ -1,0 +1,143 @@
+name: Validar e integrar interface
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.maintenance/portal-update.json'
+      - 'dist/index.html'
+      - 'dist/assets/*.js'
+      - 'dist/assets/*.css'
+      - 'tests/test_portal_contract.py'
+      - '.github/workflows/interface.yml'
+permissions:
+  contents: write
+concurrency:
+  group: consolidar-catalogo
+  cancel-in-progress: false
+jobs:
+  interface:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Preparar diagnóstico sem credenciais
+        run: |
+          mkdir -p /tmp/interface-qa
+          git rev-parse HEAD > /tmp/interface-qa/source-commit.txt
+          cp content/research.json /tmp/interface-qa/research-before.json
+          cp content/acervo.editorial.json /tmp/interface-qa/editorial-before.json
+      - name: Aplicar somente o patch verificado do portal
+        id: patch
+        run: |
+          python3 - <<'PY'
+          import base64, hashlib, json, lzma, os, pathlib, subprocess
+          root = pathlib.Path('.')
+          manifest_path = root / '.maintenance/portal-update.json'
+          if not manifest_path.exists():
+              print('Nenhum pacote pendente; somente validação.')
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as out: out.write('applied=false\n')
+              raise SystemExit(0)
+          m = json.loads(manifest_path.read_text())
+          assert m['format'] == 'xz-base64-git-patch'
+          allowed = {'README.md','content/research-history.json','dist/index.html','dist/assets/app.js','dist/assets/research.js','dist/assets/portal.css','dist/assets/portal.js','scripts/build_research.py','scripts/sync_content.py','tests/test_portal_contract.py','documentacao/interface-qa.json'}
+          assert set(m['paths']) == allowed == set(m['sourceFiles'])
+          subprocess.run(['git','merge-base','--is-ancestor',m['baseCommit'],'HEAD'],check=True)
+          parts = sorted(root.glob('.maintenance/portal-update.part[0-9][0-9]'))
+          assert len(parts) == 4
+          encoded = ''.join(p.read_text().strip() for p in parts)
+          raw = lzma.decompress(base64.b64decode(encoded,validate=True))
+          assert len(raw) < 300000 and hashlib.sha256(raw).hexdigest() == m['patchSha256']
+          headers = [line for line in raw.decode().splitlines() if line.startswith('diff --git ')]
+          found = set()
+          for line in headers:
+              a,b = line.removeprefix('diff --git ').split(' ',1)
+              assert a.startswith('a/') and b.startswith('b/') and a[2:] == b[2:]
+              found.add(a[2:])
+          assert found == allowed
+          patch = pathlib.Path('/tmp/interface-qa/portal.patch')
+          patch.write_bytes(raw)
+          subprocess.run(['git','apply','--check','--index',str(patch)],check=True)
+          subprocess.run(['git','apply','--index',str(patch)],check=True)
+          for name, expected in m['sourceFiles'].items():
+              assert hashlib.sha256((root/name).read_bytes()).hexdigest() == expected, name
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out: out.write('applied=true\n')
+          print('Patch íntegro aplicado. Conteúdo editorial, revisores e coleta não fazem parte do patch.')
+          PY
+      - name: Regenerar a partir dos checkpoints atuais
+        run: |
+          python3 scripts/build_research.py | tee /tmp/interface-qa/build.json
+          python3 scripts/sync_content.py --allow-remote-assets | tee /tmp/interface-qa/sync.json
+          python3 scripts/check_site.py | tee /tmp/interface-qa/site.json
+      - name: Verificar preservação e revisão editorial
+        run: |
+          python3 - <<'PY'
+          import json,pathlib,subprocess
+          old=json.loads(pathlib.Path('/tmp/interface-qa/research-before.json').read_text())
+          new=json.loads(pathlib.Path('content/research.json').read_text())
+          old_edit=json.loads(pathlib.Path('/tmp/interface-qa/editorial-before.json').read_text())
+          current=json.loads(pathlib.Path('content/acervo.editorial.json').read_text())
+          assert current == old_edit
+          assert current['metadata'].get('approvedReviewerIds',[]) == old_edit['metadata'].get('approvedReviewerIds',[])
+          assert {i['id'] for i in old['items']} <= {i['id'] for i in new['items']}
+          assert len(new['items']) == len({i['url'] for i in new['items']})
+          assert all(i['editorialClassification'] is None and i['review']['reviewer'] is None for i in new['items'])
+          assert new['metrics']['reviewedAudioSeconds'] == 0 and new['metrics']['publishedChecks'] == 0
+          assert new == json.loads(pathlib.Path('dist/data/research.json').read_text())
+          protected=['content/acervo.editorial.json','content/editorial-updates.json','.monitor/state.json','dist/data/news.json','dist/data/news.js','content/research-input']
+          subprocess.run(['git','diff','HEAD','--exit-code','--',*protected],check=True)
+          pathlib.Path('/tmp/interface-qa/preservation.json').write_text(json.dumps({'materials':len(new['items']),'legacyRecords':len(current['records']),'noNewReviewers':True,'collectorUnchanged':True},indent=2))
+          PY
+      - name: Testes automatizados
+        run: |
+          python3 -m unittest discover -s tests -v 2>&1 | tee /tmp/interface-qa/python-tests.log
+          node --check dist/assets/app.js
+          node --check dist/assets/research.js
+          node --check dist/assets/portal.js
+          node tests/frontend.mjs | tee /tmp/interface-qa/frontend.log
+      - name: Registrar dados e interface sem force
+        if: steps.patch.outputs.applied == 'true'
+        run: |
+          python3 - <<'PY'
+          import pathlib
+          p=pathlib.Path('README.md')
+          s=p.read_text().replace('O catálogo normalizado contém **153 materiais únicos**:', 'Na consolidação inicial desta apresentação, o catálogo passou a **153 materiais únicos**:')
+          s=s.replace('Foram integrados os 56 materiais que estavam somente em checkpoints.', 'Foram integrados os 56 materiais que estavam somente em checkpoints. Lotes posteriores são preservados pelo gerador; consulte a contagem atual em content/research.json e documentacao/COBERTURA.md.')
+          p.write_text(s)
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md content/research.json dist/data/research.json dist/data/research.js documentacao/COBERTURA.md dist/data/acervo.json dist/data/acervo.js dist/data/acervo.csv dist/data/editorial-updates.json dist/data/editorial-updates.js
+          git rm .maintenance/portal-update.json .maintenance/portal-update.part00 .maintenance/portal-update.part01 .maintenance/portal-update.part02 .maintenance/portal-update.part03
+          git commit -m 'Redesenhar portal, integrar catálogo e preservar todas as revisões pendentes'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          git rev-parse HEAD > /tmp/interface-qa/persisted-commit.txt
+          python3 - <<'PY'
+          import json,pathlib,subprocess
+          expected=json.loads(pathlib.Path('content/research.json').read_text())
+          persisted=json.loads(subprocess.check_output(['git','show','HEAD:content/research.json']))
+          assert expected == persisted
+          print('JSON persistido conferido:',persisted['metrics']['items'],'materiais')
+          PY
+      - name: Guardar código testado e diagnóstico
+        if: always()
+        run: |
+          git archive --format=zip HEAD -o /tmp/interface-qa/repository.zip
+          git status --short > /tmp/interface-qa/worktree-status.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: interface-qa-${{ github.run_id }}
+          path: /tmp/interface-qa/
+          retention-days: 3
+          if-no-files-found: error
