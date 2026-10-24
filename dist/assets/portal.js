@@ -58,15 +58,15 @@
     }
     // Search distinct records. Documentary source links are not counted as separate verdicts.
     searchItems=[...items.map(i=>({...i,_kind:'research'})),...(legacy.records||[]).map(i=>({...i,_kind:'case',_person:i.person==='jair'?'Jair Bolsonaro':'Flávio Bolsonaro'})),...media.filter(m=>!items.some(i=>i.id===m.id||i.url===m.sourceUrl||i.url===m.url)).map(i=>({...i,_kind:'media'}))].map(i=>({...i,_search:norm([i.title,i.summary,i.description,i.claim,i.topic,i.publisher,i._person,...(i.topics||[]),...(i.tags||[]),i.factualQuestion,i.locator].filter(Boolean).join(' '))}));
-    const metrics=[[items.length,'materiais','no catálogo'],[items.filter(i=>i.format==='documento').length,'documentos','catalogados'],[media.length,'vídeos e áudios','acervo completo'],[(report.sources||[]).length,'fontes','mapeadas']];
+    const metrics=[[items.length,'materiais','no catálogo'],[items.filter(i=>i.format==='documento').length,'documentos','catalogados'],[media.length,'mídias','com origem registrada'],[(report.sources||[]).length,'fontes','mapeadas']];
     $('portalMetrics').innerHTML=metrics.map(([n,a,b])=>`<div class="portal-metric"><strong>${n}</strong><span><b>${esc(a)}</b>${esc(b)}</span></div>`).join('');
     const parliamentary=items.filter(i=>i.publisher==='Senado Federal').length;
     const comparisons=(legacy.comparisons||[]).filter(i=>i.person==='flavio').length;
     $('portalCollections').innerHTML=[
-      ['acervo','check','Falas e checagens',`${(legacy.records||[]).filter(r=>r.person==='flavio').length} fichas de Flávio`,null],
-      ['midiateca','play','Vídeos e áudios','Entrevistas e publicações originais',null],
-      ['pesquisa','folder','Atividade parlamentar',`${parliamentary} registros do Senado`,'parlamento'],
-      ['apuracoes','quote','Frente Vorcaro','Documentos, cronologia e respostas',null]
+      ['pesquisa','folder','Catálogo documental',`${items.length} registros de pesquisa`,null],
+      ['acervo','check','Falas e checagens',`${(legacy.records||[]).filter(r=>r.person==='flavio').length} fichas da edição anterior`,null],
+      ['midiateca','play','Vídeos e áudios',`${media.length} mídias com origem identificada`,null],
+      ['apuracoes','quote','Dossiês e contexto','Documentos, respostas e limites da apuração',null]
     ].map(([href,k,t,d,q])=>`<a class="portal-collection" href="#${href}"${q?' data-portal-collection="'+q+'"':''}><span class="collection-icon">${icon(k)}</span><strong>${esc(t)}</strong><small>${esc(d)}</small><span class="collection-arrow">${icon('arrow')}</span></a>`).join('');
     $('portalRecent').innerHTML=[...items].sort((a,b)=>String(b.date||'').localeCompare(String(a.date||''))||a.title.localeCompare(b.title,'pt-BR')).slice(0,6).map(card).join('');
     const videoItems=media.filter(m=>m.type==='video'&&/^[\w-]{11}$/.test(m.youtubeId||'')&&(m.people||m.persons||[]).includes('flavio')).sort((a,b)=>String(b.date||'').localeCompare(String(a.date||''))).slice(0,3);
