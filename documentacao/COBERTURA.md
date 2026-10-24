@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T21:35:40.544308Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T22:48:57.941245Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-538 URLs únicas no lote; 520 ainda não vinculadas à edição anterior. 535 materiais acessados e 510 com texto analisado.
+543 URLs únicas no lote; 525 ainda não vinculadas à edição anterior. 540 materiais acessados e 515 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -34,7 +34,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 31 | 31 | 30 | 0 | 0 |
-| 2025 | 54 | 54 | 51 | 0 | 0 |
+| 2025 | 59 | 59 | 56 | 0 | 0 |
 | 2026 | 255 | 255 | 251 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
@@ -175,6 +175,10 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - PEC 32/2022: distinguir emenda apresentada, emenda prejudicada e destaque retirado antes de comparações sobre posicionamento orçamentário.
 - Conferir publicamente fichas de tramitação e versões finais do PL 3.071/2019 e da MP 983/2020 em etapa própria; notícias de pauta ou sanção pendente não indicam situação atual.
 - Áudios e vídeos das sessões não foram ouvidos neste lote: zero segundos revisados. Eventuais conclusões sensíveis permanecem sem veredito e pendentes de revisão editorial identificada.
+- PL 2734/2021: ler o substitutivo e as Emendas 1 a 5 diretamente em PDF oficial quando acessíveis, para cotejar textos com falas de 01/04 e 08/04/2025.
+- PL 2734/2021: confirmar movimentação mais recente na CCJ e eventual mudança de relatoria na página oficial em consulta futura; não afirmar vigência legislativa por aprovação em CSP.
+- PL 2734/2021: procurar manifestação formal e atual da OAB e análise técnica de segurança pública, sem atribuir a toda a categoria posições de conselheiros individuais.
+- A gravação original das reuniões não foi reproduzida; zero segundos revisados. Comparações sensíveis e novas verificações próprias permanecem com classification nulo até aprovação por revisor editorial humano identificado.
 - Revisar autoria, pergunta e intervalo de cada afirmação antes de criar uma nova checagem.
 - Conferir no áudio original trechos decisivos; os segundos revisados neste lote são zero.
 - Explorar ALERJ de 2003 a 2015 por ano, mês e número de proposição.
@@ -213,3 +217,6 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2003–2008; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/e00a7c3c8652b69a83256cca00646ee5/5cbef3b7651fa94c83256f6c0060c240; error: Abertura da fonte oficial retornou 502. Somente resultado de busca, não lido na íntegra; não incluído no catálogo.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2004; url: https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/b24a2da5a077847c032564f4005d4bf2/5aacd46ba577c4f983256ebb006214b9; error: Abertura da página de lei antiga retornou erro de gateway; não registrar sua ementa ou efeito como texto consultado.
 - batch: senado-2023-2024-20261024-04; source: Execução local de scripts e publicação de dados derivados; error: Checkout por terminal sem conexão DNS para github.com e ausência de computador conectado. scripts/build_research.py, sync_content.py e testes não foram executados; este lote permanece checkpoint e NÃO é apresentado como incorporado a content/research.json ou dist/data/research.*.
+- batch: senado-pl2734-csp-20261024-25; source: Relatório, emendas e decisão da CSP em PDF no portal legis.senado.leg.br/sdleg-getter; status: Não foi possível ler o PDF nesta sessão; note: A abertura do anexo retornou verificação de segurança com JavaScript, não bytes do documento. Texto debatido foi documentado apenas a partir de HTML oficial e notas revisadas.
+- batch: senado-pl2734-csp-20261024-25; source: Áudios e vídeos das reuniões 13405 e 13420 e reportagem Rádio Senado; status: Não reproduzidos; note: Zero segundos de gravação conferidos. Horas e ícones do HTML são marcadores publicados pelo portal, não minutos analisados.
+- batch: senado-pl2734-csp-20261024-25; source: Posição institucional atual do Conselho Federal da OAB e estatísticas de violência profissional; status: Não autenticadas nesta sessão; note: Intervenções e referências em materiais consultados não equivalem à leitura de ofício institucional integral ou verificação própria de dados estatísticos.
