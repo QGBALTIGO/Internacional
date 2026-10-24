@@ -43,7 +43,8 @@ get('researchClear').dispatch('click');input('researchFormat','video');assert.do
 get('researchClear').dispatch('click');input('researchStage','revisado');assert.equal(get('researchResults').textContent,'0 materiais encontrados');
 get('researchClear').dispatch('click');input('researchQuery','synthetic','input');
 // Pesquisa por ID não é recurso. Abrir o item diretamente testa o caminho de detalhe.
-for(const f of events.click||[])f({target:{closest:sel=>sel==='button'||sel==='button,a'?{dataset:{researchId:'synthetic-sanitizer'}}:null}});
+const fakeClickedButton={dataset:{researchId:'synthetic-sanitizer'},closest(){return null;}};
+for(const f of events.click||[])f({target:{closest:sel=>sel==='button'||sel==='button,a'?fakeClickedButton:null}});
 assert(get('researchDialog').open);assert.match(get('researchContent').innerHTML,/&lt;img/);assert.doesNotMatch(get('researchContent').innerHTML,/<script>alert/);
 assert(!get('researchList').innerHTML.includes('javascript:'));
 get('researchDialog').close();assert.equal(location.hash,'#pesquisa');
