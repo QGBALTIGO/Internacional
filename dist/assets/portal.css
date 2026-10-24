@@ -38,3 +38,70 @@
 @media(max-width:700px){.portal-portrait{height:210px;max-height:210px;align-self:center;margin:10px 12px 10px 8px}.portal-portrait>img{height:100%;min-height:0;object-position:78% 30%}.portal-hero-copy>p{font-size:11px}.portal-metric span,.portal-metric span b{font-size:10px}.portal-record h3{font-size:15px}.portal-record>p{font-size:12px}.portal-collection>strong{font-size:12px}.portal-collection>small{font-size:10px}.portal-bottom-nav .portal-nav-link span{font-size:9px}}
 /* Text remains legible if a remote video cover is unavailable. */
 .portal-edition .portal-video-cover > strong{color:#eef3ff}
+
+/* Ajustes da apresentação editorial e dos controles, edição de outubro de 2026. */
+.portal-edition .portal-search-jump{display:none}
+.portal-edition .header-actions .icon-button:hover{background:var(--soft);border-color:var(--accent)}
+.portal-edition .portal-hero{border-radius:18px;background:linear-gradient(135deg,#101b2b 0%,#172941 60%,#263752 100%);box-shadow:0 16px 42px #0e1c3322}
+.portal-hero-copy{position:relative;z-index:2}
+.portal-hero h1{letter-spacing:-.065em;line-height:1.025;margin-bottom:19px}
+.portal-edition .portal-hero-statement{font-size:clamp(17px,1.9vw,24px);line-height:1.35;font-weight:760;letter-spacing:-.035em;color:#fff;max-width:470px;margin:0 0 13px}
+.portal-hero-statement strong{color:#b7c8ff;font-weight:800}
+.portal-edition .portal-hero-description{font-size:12px;line-height:1.75;color:#c0cdde;max-width:470px;margin:0}
+.portal-portrait{border:1px solid #ffffff1d}
+.portal-portrait:after{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(0deg,#0f1d3518,transparent 55%)}
+.portal-edition .portal-hero .button.primary{box-shadow:0 6px 20px #0002}
+.portal-editorial-band{margin-top:17px;padding:23px 27px;display:flex;align-items:center;justify-content:space-between;gap:22px;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:12px}
+.portal-editorial-band .portal-overline{color:var(--muted);font-size:9px}
+.portal-editorial-band p{font-size:clamp(16px,1.9vw,22px);font-weight:800;letter-spacing:-.035em;line-height:1.35;margin:7px 0}
+.portal-editorial-band small{font-size:11px;color:var(--muted);line-height:1.75}
+.portal-editorial-band a{display:inline-flex;align-items:center;gap:10px;flex-shrink:0;font-size:11px;font-weight:760;color:var(--accent);border:1px solid var(--line);padding:11px 14px;border-radius:8px;min-height:44px}
+.portal-editorial-band a:hover{border-color:var(--accent);background:var(--soft)}
+.portal-editorial-band svg{width:17px;height:17px}
+.portal-edition .portal-section-top h2{font-size:clamp(21px,2.3vw,28px);line-height:1.25;letter-spacing:-.045em}
+.portal-edition .section-heading h2{letter-spacing:-.05em;line-height:1.18}
+.portal-edition .portal-collection,.portal-edition .portal-record,.portal-edition .portal-video{box-shadow:0 3px 16px #17212f08;border-radius:12px}
+.portal-edition .portal-collection:hover,.portal-edition .portal-record:hover,.portal-edition .portal-video:hover{box-shadow:0 10px 32px #17212f14}
+.portal-edition .portal-record h3{font-size:15px;line-height:1.52}
+.portal-edition .portal-record-bottom button{min-height:37px;padding:6px 0 6px 8px}
+.portal-edition .portal-search-results{margin-top:18px}
+.portal-edition .portal-top-search:focus-within{box-shadow:0 0 0 3px #647ee622}
+.portal-edition :is(.portal-record,.portal-collection,.catalog-row,.case-card,.document-item) :is(button,a):focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.portal-edition .portal-history-callout{border-radius:12px}
+.portal-edition>.footer.section-shell{margin-top:26px}
+@media(min-width:701px) and (max-width:1040px){
+  .portal-hero-copy{padding:30px 25px}
+  .portal-edition .portal-hero-statement{font-size:18px}
+  .portal-hero h1{font-size:clamp(38px,4.5vw,53px)}
+  .portal-edition .portal-hero-description{font-size:11px}
+  .portal-editorial-band{padding:20px}
+}
+@media(max-width:700px){
+  .portal-edition .header .portal-search-jump{display:inline-flex}
+  .portal-edition .portal-hero{display:grid;grid-template-columns:1fr;min-height:440px;border-radius:14px;align-items:end;position:relative;margin-top:16px}
+  .portal-edition .portal-hero-copy{padding:34px 24px 32px;position:relative;z-index:3;width:100%}
+  .portal-edition .portal-hero h1{font-size:clamp(43px,11vw,61px);line-height:1.01;letter-spacing:-.06em;margin:16px 0 19px}
+  .portal-edition .portal-hero-statement{font-size:clamp(17px,4.7vw,21px);max-width:30ch}
+  .portal-edition .portal-hero-description{font-size:11px;line-height:1.65;max-width:36ch}
+  .portal-edition .portal-hero .hero-buttons{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-top:22px}
+  .portal-edition .portal-hero-link{margin-top:0;font-size:10px}
+  .portal-edition .portal-hero-copy>small{font-size:9px;max-width:34ch;margin-top:19px}
+  .portal-edition .portal-portrait{position:absolute;inset:0;z-index:0;margin:0;max-height:none;height:100%;border:0;border-radius:0;background:#172338}
+  .portal-edition .portal-portrait>img{width:100%;height:100%;min-height:0;object-position:78% 25%;opacity:.44}
+  .portal-edition .portal-portrait:after{background:linear-gradient(90deg,#101b2bf2 0%,#101b2bc7 46%,#17243d8c 100%),linear-gradient(0deg,#101b2b 0%,transparent 63%)}
+  .portal-edition .portrait-caption{display:none}
+  .portal-editorial-band{display:block;padding:20px;margin-top:14px}
+  .portal-editorial-band p{font-size:19px;margin:6px 0 8px}
+  .portal-editorial-band small{display:block;font-size:11px}
+  .portal-editorial-band a{margin-top:15px;width:max-content;font-size:11px}
+  .portal-edition .portal-section-top h2{font-size:21px}
+  .portal-edition .portal-record h3{font-size:15px}
+  .portal-edition .portal-history-callout .button{min-height:44px}
+}
+@media(max-width:380px){
+  .portal-edition .portal-hero{min-height:430px}
+  .portal-edition .portal-hero-copy{padding:29px 20px 28px}
+  .portal-edition .portal-hero .hero-buttons{gap:10px}
+  .portal-edition .portal-hero h1{font-size:43px}
+  .portal-edition .portal-hero-statement{font-size:17px}
+}

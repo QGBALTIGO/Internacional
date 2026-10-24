@@ -29,9 +29,15 @@
     document.body.classList.toggle('portal-inner-page',id!=='inicio');
     $('portalPageName').textContent=titles[id];
     document.querySelectorAll('.portal-nav-link').forEach(el=>{if(el.hash==='#'+id)el.setAttribute('aria-current','page');else el.removeAttribute('aria-current');});
-    if(scroll)window.scrollTo({top:0,behavior:'instant'});
+    if(scroll)window.scrollTo({top:0,behavior:'auto'});
   }
-  function fromHash(scroll=false){const h=location.hash.slice(1);if(titles[h]||h==='explorar')openPane(h,scroll);else if(!h)openPane('inicio',scroll);}
+  function fromHash(scroll=false){
+    const h=location.hash.slice(1);
+    const dialogPane=h.startsWith('registro=')?'pesquisa':h.startsWith('ficha=')?'acervo':h.startsWith('midia=')?'midiateca':h.startsWith('comparacao=')?'comparacoes':h.startsWith('apuracao=')?'apuracoes':null;
+    if(titles[h]||h==='explorar')openPane(h,scroll);
+    else if(dialogPane)openPane(dialogPane,scroll);
+    else if(!h)openPane('inicio',scroll);
+  }
   const researchAttr=i=>`data-research-id="${esc(i.id)}"`;
   function card(i){
     const attrs=i._kind==='case'?`data-action="case" data-id="${esc(i.id)}"`:i._kind==='media'?`data-action="media" data-id="${esc(i.id)}"`:researchAttr(i);
@@ -70,6 +76,7 @@
       const pub=m.creditShort||m.publisher||m.credit||'Publicador';
       return `<article class="portal-video"><button class="portal-video-cover" data-action="media" data-id="${esc(m.id)}" aria-label="Abrir vídeo: ${esc(m.title)}"><strong>${esc(pub)}</strong><img src="${esc(thumb)}" alt="" width="480" height="270" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="portal-video-play">${icon('play')}</span></button><div class="portal-video-meta"><span>${esc(pub)}</span><h3>${esc(m.title)}</h3><small>${esc(date(m.date))} · ${esc(m.role||'Registro do publicador')}</small></div></article>`;
     }).join('');
+    if(!videoItems.length)$('portalVideos').innerHTML='<p class="portal-empty">Nenhum vídeo com origem identificada nesta seleção. Consulte a midiateca para todos os registros disponíveis.</p>';
     renderSearch();
   }
   function renderSearch(){
@@ -82,9 +89,10 @@
     $('portalSearchMore').hidden=results.length<=searchLimit;
   }
   let timer;
-  $('portalSearch').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{searchLimit=12;openPane('inicio');renderSearch();},140);});
+  $('portalSearch').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{searchLimit=12;openPane('inicio');if(location.hash!=='#inicio')history.replaceState(null,'','#inicio');renderSearch();},140);});
   $('portalSearchClear').addEventListener('click',()=>{$('portalSearch').value='';renderSearch();$('portalSearch').focus();});
   $('portalSearchMore').addEventListener('click',()=>{searchLimit+=12;renderSearch();});
+  $('portalSearchJump').addEventListener('click',()=>{history.pushState(null,'','#inicio');openPane('inicio',true);$('portalSearch').focus();});
   $('portalJair').addEventListener('click',()=>{openPane('acervo',true);history.pushState(null,'','#acervo');document.querySelector('[data-person="jair"]')?.click();});
   document.addEventListener('click',e=>{
     const a=e.target.closest('a[href^="#"]');if(!a)return;
@@ -106,6 +114,7 @@
     }
   },true);
   document.addEventListener('error',e=>{if(e.target.tagName==='IMG'&&e.target.closest('.portal-video-cover'))e.target.hidden=true;},true);
+  document.addEventListener('arquivo-navigate',e=>{if(titles[e.detail?.pane])openPane(e.detail.pane,false);});
   document.addEventListener('arquivo-research',e=>{
     const c=e.detail;
     if(!c||c.schemaVersion!==1||!Array.isArray(c.items)||c.items.length>10000)return;

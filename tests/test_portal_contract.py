@@ -43,3 +43,17 @@ class PortalContractTest(unittest.TestCase):
             self.assertIsNone(i['editorialClassification'])
             self.assertIsNone(i['review']['reviewer'])
         self.assertEqual(data['metrics']['reviewedAudioSeconds'],0)
+
+    def test_chrome_sem_link_do_github_e_cta_local(self):
+        html=(ROOT/'dist/index.html').read_text()
+        self.assertNotIn('aria-label="Código e histórico no GitHub"',html)
+        self.assertNotIn('class="sidebar-repository"',html)
+        self.assertNotIn('>GitHub</a>',html)
+        self.assertIn('id="portalSearchJump"',html)
+        self.assertIn('href="#metodologia" id="downloadPdf"',html)
+
+    def test_link_documental_prioriza_origem_externa(self):
+        js=(ROOT/'dist/assets/app.js').read_text()
+        self.assertIn('if (/^(?:assets|documentos)\\//.test(local) && published) return published;',js)
+        self.assertIn("const routePane=pane=>",js)
+        self.assertIn("received=true;",js)
