@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T09:23:04.023406Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T09:28:36.532255Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-153 URLs únicas no lote; 138 ainda não vinculadas à edição anterior. 150 materiais acessados e 124 com texto analisado.
+164 URLs únicas no lote; 149 ainda não vinculadas à edição anterior. 161 materiais acessados e 135 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -28,14 +28,14 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2016 | 2 | 2 | 2 | 0 | 0 |
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 4 | 4 | 3 | 0 | 0 |
-| 2019 | 11 | 11 | 9 | 0 | 0 |
-| 2020 | 2 | 2 | 1 | 0 | 0 |
-| 2021 | 13 | 13 | 9 | 0 | 0 |
+| 2019 | 13 | 13 | 11 | 0 | 0 |
+| 2020 | 5 | 5 | 4 | 0 | 0 |
+| 2021 | 14 | 14 | 10 | 0 | 0 |
 | 2022 | 7 | 7 | 7 | 0 | 0 |
 | 2023 | 19 | 19 | 17 | 0 | 0 |
-| 2024 | 13 | 13 | 12 | 0 | 0 |
+| 2024 | 14 | 14 | 13 | 0 | 0 |
 | 2025 | 11 | 11 | 8 | 0 | 0 |
-| 2026 | 39 | 39 | 34 | 0 | 0 |
+| 2026 | 43 | 43 | 38 | 0 | 0 |
 
 Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -62,6 +62,12 @@ Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste 
 - Comparar as orientações 'sim' e 'não' de 07/12/2022 somente com identificação de objeto, requerimento e etapa da votação; sem conclusão de contradição automática.
 - Recontar propostas Senado e leis ALERJ em arquivos oficiais antes de usar números como estatísticas verificadas pelo projeto.
 - Decompor as alegações agrupadas na síntese de campanha somente após checar fontes específicas, contextos e áudio original.
+- topic: PLP 137/2019; note: Cotejar voto nominal contra objeto específico das duas orientações já transcritas na sessão, identificando textos, destaques e tramitação. Sem classificação de contradição.
+- topic: INSS; note: Conferir estatísticas primárias de automação de benefícios e tempos de espera citados em 03/06/2019; notícias não confirmam percentuais.
+- topic: Conselho de Ética; note: Vincular notícias do PCE 1/2020 ao despacho e ao estado da REP 1/2024, sem presumir procedência de acusação ou desfecho.
+- topic: CPI da Pandemia; note: Ler PDF integral do relatório aprovado e votos divergentes; checar andamento posterior junto às autoridades, mantendo pedidos de indiciamento distintos de decisões criminais.
+- topic: ALERJ; note: Repetir acesso oficial a fichas históricas apenas quando servidor responder; páginas indexadas com HTTP 502 não entram como documentos examinados.
+- topic: Publicação e testes; note: Executar build_research.py no workflow do repositório; confirmar que os 11 registros passam por normalização sem perda, testes e leitura do JSON persistido. Preservar dados recentes do coletor e não mudar approvedReviewerIds.
 - Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.
 - Confirmar desfecho legislativo após comunicação de veto total ao PL 3003/2014.
 - Conferir Diários e gravações integrais antes de novas citações, timestamps, comparações ou vereditos; áudio ouvido nesta coleta: zero segundos.
@@ -92,6 +98,8 @@ Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste 
 - batch: checagens; url: Fato ou Fake vinculado no Comprova sobre camisa; web_ref: turn18view7; error: Falha ao abrir link de origem; agência localizada, material específico não examinado.
 - batch: checagens; url: Comunicado da campanha de 2016 em assets.lupa.news; web_ref: turn22view5; error: Link não abriu; resposta só lida como reproduzida na Lupa.
 - batch: checagens; url: Vídeos YouTube vinculados por Intercept/AFP; web_ref: turn22view4 e turn22view6; error: Falha ao abrir; nenhuma revisão audiovisual alegada.
+- batch: contexto-provas-20261024-06; source: Arquivo ALERJ histórico; date: 2026-10-24; error: Tentativas diretas de abertura das fichas PL 2974/2014, PR 536/2011, Moção 2650/2003 e projetos correlatos retornaram HTTP 502 no navegador. Nenhuma ficha foi tratada como texto efetivamente acessado; há apenas metadados indexados.; urls: https://alerjln1.alerj.rj.gov.br/scpro1115.nsf/18c1dd68f96be3e7832566ec0018d833/45741a7e2ccdc50a83257c980062a2c2; https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/0c5bf5cde95601f903256caa0023131b/7c5e3718a895341783256dc9004b6f49
+- batch: contexto-provas-20261024-06; source: Conteúdo audiovisual e documentos integrais; date: 2026-10-24; error: Nenhum áudio ou vídeo reproduzido. PDFs do relatório da CPI, da PET 38/2026 e do DSF não examinados na íntegra; não criar transcrições, timestamps ou alegações sobre trechos não vistos.
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/contlei.nsf/flaviobolsonaroint?ExpandView=&OpenForm=; ref: turn7view0; status: fetch_error; discovery: Índice de leis atribuído a Flávio, menção à Lei 4250/2003; conteúdo não acessado.
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/f25edae7e64db53b032564fe005262ef/f7c66e86d7cd4c378325724b006e81cc?OpenDocument=; ref: turn7view1; status: fetch_error; discovery: Ficha de lei vinculada a PL 826-A/2003; não lida.
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/89b3addb48a95fe483256cef004aedf1/f6ff55775a5a7d8983256dc1005c4717?OpenDocument=; ref: turn7view2; status: fetch_error; discovery: Parecer 26/11/2003 de comissão presidida por Flávio; não lido.
