@@ -18,7 +18,6 @@ jobs:
       - name: Gerar dados derivados do catálogo
         run: |
           python scripts/build_research.py
-          python scripts/sync_content.py
       - name: Verificar catálogo, site e testes
         run: |
           python scripts/check_site.py
