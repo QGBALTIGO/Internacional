@@ -131,3 +131,6 @@ Execução: https://github.com/QGBALTIGO/Internacional/actions/runs/40060900699
 A tarefa de pesquisa já existente foi reutilizada e atualizada, sem criar duplicata. Permanece habilitada de hora em hora, no minuto 35, America/Campo_Grande. Seu último horário de execução ainda não estava registrado na conferência. A agenda comprova configuração; a execução de pesquisa ainda deve ser acompanhada separadamente. O prompt preserva os checkpoints e proíbe novas conclusões sensíveis sem revisão identificada.
 
 A coleta de feeds continua independente da tarefa de pesquisa e do desenho hospedado. A próxima versão do Site inclui o retrato atual da fila e os dados de fallback.
+
+
+A publicação do Site concluiu com status succeeded em 24/10/2026 às 04:10:04 UTC. URL: https://arquivo-bolsonaro-fatos.copperkoala32.chatgpt.site. A audiência restrita ao proprietário foi preservada. Fonte publicada: a64988277682883512d14a3be3b25e299ad2733a. O comprovante estruturado de versão e implantação está em OPERACAO-EDICAO-03.json. A confirmação do provedor comprova implantação; não substitui a homologação visual pendente.

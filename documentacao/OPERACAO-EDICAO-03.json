@@ -1,1 +1,34 @@
-{"repositoryCommit":"471b5f9902a394c25719a27a2f4410be6c066a16","collectionRun":{"id":"40060900699","url":"https://github.com/QGBALTIGO/Internacional/actions/runs/40060900699","status":"completed","conclusion":"success","attemptAtUTC":"2026-10-24T04:04:43.924500Z","successfulSources":7,"totalSources":8,"persistentJobs":8,"persistentCatalogItems":30},"scheduler":{"queueWakeCron":"7,22,37,52 * * * *","defaultSourceIntervalMinutes":60,"researchTaskId":"6adc28e7c6b88191b73211042177b603","researchTaskEnabled":true,"researchCadence":"HOURLY;BYMINUTE=35;BYSECOND=0","timezone":"America/Campo_Grande","researchLastRun":null},"newServicesPaid":false,"newHumanReviews":0}
+{
+  "repositoryCommit": "471b5f9902a394c25719a27a2f4410be6c066a16",
+  "collectionRun": {
+    "id": "40060900699",
+    "url": "https://github.com/QGBALTIGO/Internacional/actions/runs/40060900699",
+    "status": "completed",
+    "conclusion": "success",
+    "attemptAtUTC": "2026-10-24T04:04:43.924500Z",
+    "successfulSources": 7,
+    "totalSources": 8,
+    "persistentJobs": 8,
+    "persistentCatalogItems": 30
+  },
+  "scheduler": {
+    "queueWakeCron": "7,22,37,52 * * * *",
+    "defaultSourceIntervalMinutes": 60,
+    "researchTaskId": "6adc28e7c6b88191b73211042177b603",
+    "researchTaskEnabled": true,
+    "researchCadence": "HOURLY;BYMINUTE=35;BYSECOND=0",
+    "timezone": "America/Campo_Grande",
+    "researchLastRun": null
+  },
+  "newServicesPaid": false,
+  "newHumanReviews": 0,
+  "siteDeployment": {
+    "status": "succeeded",
+    "url": "https://arquivo-bolsonaro-fatos.copperkoala32.chatgpt.site",
+    "versionId": "appgprj_6adc1a220df08191a1ed9cdc8a64f55c~appgver_758b32ed7970819198b350c4d64b5a9b",
+    "deploymentId": "appgdep_6adc2f8c63fc8191afdb56075bbeae6d",
+    "sourceCommit": "a64988277682883512d14a3be3b25e299ad2733a",
+    "confirmedAtUTC": "2026-10-24T04:10:04.423710+00:00",
+    "audience": "owner-only, preserved"
+  }
+}
