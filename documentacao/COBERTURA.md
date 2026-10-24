@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T12:53:17.926028Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T13:43:05.972944Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-432 URLs únicas no lote; 414 ainda não vinculadas à edição anterior. 429 materiais acessados e 404 com texto analisado.
+452 URLs únicas no lote; 434 ainda não vinculadas à edição anterior. 449 materiais acessados e 424 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -30,9 +30,9 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2018 | 5 | 5 | 4 | 0 | 0 |
 | 2019 | 35 | 35 | 33 | 0 | 0 |
 | 2020 | 9 | 9 | 8 | 0 | 0 |
-| 2021 | 18 | 18 | 14 | 0 | 0 |
-| 2022 | 19 | 19 | 19 | 0 | 0 |
-| 2023 | 20 | 20 | 18 | 0 | 0 |
+| 2021 | 27 | 27 | 23 | 0 | 0 |
+| 2022 | 27 | 27 | 27 | 0 | 0 |
+| 2023 | 23 | 23 | 21 | 0 | 0 |
 | 2024 | 14 | 14 | 13 | 0 | 0 |
 | 2025 | 21 | 21 | 18 | 0 | 0 |
 | 2026 | 232 | 232 | 228 | 0 | 0 |
@@ -86,6 +86,13 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - topic: CPI da Pandemia; note: Ler PDF integral do relatório aprovado e votos divergentes; checar andamento posterior junto às autoridades, mantendo pedidos de indiciamento distintos de decisões criminais.
 - topic: ALERJ; note: Repetir acesso oficial a fichas históricas apenas quando servidor responder; páginas indexadas com HTTP 502 não entram como documentos examinados.
 - topic: Publicação e testes; note: Executar build_research.py no workflow do repositório; confirmar que os 11 registros passam por normalização sem perda, testes e leitura do JSON persistido. Preservar dados recentes do coletor e não mudar approvedReviewerIds.
+- Ouvir e conferir em arquivos originais as falas parlamentares de 2021–2023; nesta etapa foram analisadas transcrições HTML e notícias institucionais, com zero segundos de áudio revisado.
+- Abrir anexos PDF do DSF, emendas e documentos de votação antes de qualquer citação literal adicional ou comparação factual sobre o texto de emendas.
+- Para RQS 789/2022, RQS 791/2022, RQS 950/2023 e PEC 1/2022, confrontar registros nominais, texto objeto e destaque antes de concluir mudança de posição ou contradição.
+- Para controvérsias da CPI da Pandemia, abrir testemunhos completos, documentação de compras da Covaxin, decisões e desdobramentos posteriores, com contrapontos e revisão editorial humana.
+- Para PL 1829/2019, confirmar nomeação efetiva de relator antes de afirmar que Flávio exerceu a função; a fonte fala apenas de possibilidade.
+- Para PDL 371/2022, verificar situação posterior e alcance jurídico da Resolução TSE 23.714/2022; requerimento de urgência não é autoria do projeto.
+- Buscar checagens independentes específicas dos eventos agora documentados, individualizando alegações e respostas, sem novo veredito até revisor autorizado.
 - Localizar e reproduzir íntegras somente em revisão audiovisual própria.
 - Vincular declarações repetidas a núcleos já catalogados sem multiplicar a mesma proposição.
 - Abrir documentos anexos do TSE antes de resumir fundamentos além da notícia institucional.

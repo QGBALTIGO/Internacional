@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T12:53:17.926028Z",
-    "inputHash": "28e1af96802d767c74c47b8ce5c65e2fe1d60ca331eef1dffd9e7970946cd8ba",
+    "generatedAt": "2026-10-24T13:43:05.972944Z",
+    "inputHash": "00b42cacce47d9440ee94f6699163289c8e933cf045da1dce3c2d7bb3d825505",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -17874,6 +17874,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-523cbe2bd96eefbf",
+      "title": "Ficha do PL 5384/2020 distingue emendas, votação e sanção",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/159365",
+      "publisher": "Senado Federal",
+      "date": "2023-11-14",
+      "eventDate": "2023-10-24",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 5384/2020",
+      "topics": [
+        "PL 5384/2020",
+        "Lei 14.723/2023",
+        "tramitação"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha oficial identifica Maria do Rosário como autora do PL 5384/2020, registra emendas 2 e 8 apresentadas por Flávio, rejeição da Emenda 2 na CCJ, rejeição do requerimento RQS 950/2023 de preferência e voto contrário de Flávio ao projeto. O projeto resultou na Lei 14.723/2023. O requerimento é de autoria de Carlos Portinho.",
+      "limitations": "Ficha HTML examinada; textos integrais PDF das emendas não abertos; evita atribuir autoria do projeto a Flávio ou transformar rejeição do pedido de preferência em voto nominal sobre a emenda.",
+      "locator": "Cabeçalho Autoria e Norma Gerada; seções Emendas e Requerimentos; tramitação de 24/10 e 14/11/2023; Emenda 2 e 8; RQS 950/2023.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Maria do Rosário; Flávio Bolsonaro como autor de emendas",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5384/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-pl5384-2020-ficha-tramitacao",
+          "toolReference": "turn613903view0"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-8a8fb2ee4a48e85e",
       "title": "Pedido de retirada de destaque da PEC 45/2019, RQS 999/2023",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/502223",
@@ -18135,6 +18201,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-64b237daa4bfa41c",
+      "title": "Flávio defende emenda substitutiva ao projeto de cotas em 2023",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/501693",
+      "publisher": "Senado Federal",
+      "date": "2023-10-25",
+      "eventDate": "2023-10-24",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 5384/2020",
+      "topics": [
+        "PL 5384/2020",
+        "cotas no ensino"
+      ],
+      "stage": "analisado",
+      "summary": "Pronunciamento favorável à Emenda 8 de autoria de Flávio, como substitutivo ao PL 5384/2020 relativo a cotas no ensino federal. A autoria do projeto de lei é de Maria do Rosário, não de Flávio. Separar o pedido de preferência, a apreciação das emendas e o voto do projeto.",
+      "limitations": "Página HTML original consultada; anexos PDF, vídeo e áudio não abertos. Material descritivo, sem novo veredito.",
+      "locator": "Pronunciamento 501693, Texto integral; sessão de 24/10/2023; DSF de 25/10/2023, p. 72.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-pl5384-2020-fala-emenda8",
+          "toolReference": "turn452876view0"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-2094349c63f35a9a",
       "title": "Manifestação no PL 4503/2023 sobre Lei Orgânica das Polícias Civis",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/501600",
@@ -18263,6 +18394,72 @@
         }
       ],
       "accessMethod": "Pesquisa e leitura documental assistida por IA. Sem revisão humana ou audição de arquivos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-7ca25ae6b232925d",
+      "title": "Painel nominal da preferência de votação da Emenda 8",
+      "url": "https://www25.senado.leg.br/en/web/atividade/materias/-/materia/159365/votacoes",
+      "publisher": "Senado Federal",
+      "date": "2023-10-24",
+      "eventDate": "2023-10-24",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 5384/2020",
+      "topics": [
+        "PL 5384/2020",
+        "RQS 950/2023",
+        "votação nominal"
+      ],
+      "stage": "analisado",
+      "summary": "Painel de votação nominal mostra que o requerimento RQS 950/2023, para votar a Emenda 8 antes do projeto de cotas, foi rejeitado por 24 votos 'sim' e 46 'não'; Flávio votou 'sim' neste requerimento. A decisão não é sinônimo de aprovação ou rejeição nominal da Emenda 8.",
+      "limitations": "Página pública de votação em HTML consultada; ata PDF não aberta. A identidade do voto fica restrita ao RQS 950/2023.",
+      "locator": "Votações da matéria PL 5384/2020, sessão 159, tabela de 24/10/2023, linha Flávio Bolsonaro, 24 sim/46 não.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal; Flávio Bolsonaro como votante",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "RQS 950/2023",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-pl5384-2020-votacao-rqs950",
+          "toolReference": "turn613903view2"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
       "newToArchive": true
     },
     {
@@ -18920,6 +19117,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-f156bc0f677aa613",
+      "title": "Nova orientação contrária à PEC da Transição em 21 de dezembro",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/495198",
+      "publisher": "Senado Federal",
+      "date": "2022-12-22",
+      "eventDate": "2022-12-21",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PEC 32/2022",
+      "topics": [
+        "PEC 32/2022",
+        "orçamento"
+      ],
+      "stage": "analisado",
+      "summary": "Na fase de 21/12/2022 da PEC 32/2022, Flávio orientou o voto 'não' e apresentou preocupações sobre orçamento e inflação, com referência à manutenção de transferência de R$ 600. A fala não é verificação independente dos dados citados.",
+      "limitations": "Página HTML original consultada; anexos PDF, vídeo e áudio não abertos. Material descritivo, sem novo veredito.",
+      "locator": "Pronunciamento 495198, cabeçalho e Texto integral; DSF de 22/12/2022, p. 93.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-pec32-2022-orientacao-21dez",
+          "toolReference": "turn675469view4"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-a3cac150928bcee9",
       "title": "Discussão da PEC da Transição e limites das despesas orçamentárias",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494839",
@@ -18983,6 +19245,136 @@
         }
       ],
       "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-89c90ed7ebe05acd",
+      "title": "Orientação contrária ao RQS 791/2022 na PEC da Transição",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494924",
+      "publisher": "Senado Federal",
+      "date": "2022-12-08",
+      "eventDate": "2022-12-07",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PEC 32/2022",
+      "topics": [
+        "PEC 32/2022",
+        "RQS 791/2022"
+      ],
+      "stage": "analisado",
+      "summary": "Transcrição de orientação contrária do PL no requerimento RQS 791/2022, relacionado à PEC 32/2022. Trata-se de objeto distinto do RQS 789/2022 e do texto geral.",
+      "limitations": "Página HTML original consultada; anexos PDF, vídeo e áudio não abertos. Material descritivo, sem novo veredito.",
+      "locator": "Pronunciamento 494924, cabeçalho e Texto integral; DSF 08/12/2022, p. 98.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-pec32-2022-voto-nao-rqs791",
+          "toolReference": "turn675469view5"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-7f83960ae2d4fca0",
+      "title": "Orientação contrária ao RQS 789/2022 na PEC da Transição",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494902",
+      "publisher": "Senado Federal",
+      "date": "2022-12-08",
+      "eventDate": "2022-12-07",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PEC 32/2022",
+      "topics": [
+        "PEC 32/2022",
+        "RQS 789/2022"
+      ],
+      "stage": "analisado",
+      "summary": "Em discurso específico, Flávio orientou o PL pelo voto contrário ao requerimento RQS 789/2022 durante a tramitação da PEC 32/2022 e apresentou argumentos orçamentários. Não confundir esta orientação com outros destaques nem com voto final na PEC.",
+      "limitations": "Página HTML original consultada; anexos PDF, vídeo e áudio não abertos. Material descritivo, sem novo veredito.",
+      "locator": "Pronunciamento 494902, Texto integral; DSF de 08/12/2022, p. 89.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-pec32-2022-voto-nao-rqs789",
+          "toolReference": "turn675469view6"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
       "newToArchive": true
     },
     {
@@ -19382,6 +19774,137 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-58761da917829ac0",
+      "title": "PDL 371/2022 e requerimento de urgência de que Flávio participou",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/154939",
+      "publisher": "Senado Federal",
+      "date": "2022-10-24",
+      "eventDate": "2022-10-24",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PDL 371/2022",
+      "topics": [
+        "PDL 371/2022",
+        "Justiça Eleitoral"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha de tramitação identifica Lasier Martins como autor do PDL 371/2022, sobre atos do TSE, e Flávio como subscritor de requerimento de urgência relacionado, não como autor do PDL. A ficha acessada informa tramitação ainda pendente; requerimento e projeto não se confundem.",
+      "limitations": "Ficha HTML acessada. Não foram abertos PDFs dos requerimentos; não se atribui aprovação ou efeito normativo ao projeto; situação observada na página em 24/10/2026.",
+      "locator": "Cabeçalho Autoria e Ementa; Documentos e Requerimentos; RQS 704/2022; Situação Atual e Último estado.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Lasier Martins; Flávio Bolsonaro em requerimento relacionado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PDL 371/2022",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-pdl371-2022-ficha",
+          "toolReference": "turn452876view1"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-e1be2b0f730d6409",
+      "title": "Texto oficial da Resolução TSE 23.714/2022, objeto do debate sobre PDL 371",
+      "url": "https://www.tse.jus.br/legislacao/compilada/res/2022/resolucao-no-23-714-de-20-de-outubro-de-2022",
+      "publisher": "Tribunal Superior Eleitoral",
+      "date": "2022-10-20",
+      "eventDate": "2022-10-20",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "TSE",
+      "topics": [
+        "TSE",
+        "Resolução 23.714/2022",
+        "PDL 371/2022"
+      ],
+      "stage": "analisado",
+      "summary": "Texto normativo institucional da resolução de 20/10/2022 que disciplina medidas referentes a desinformação sobre integridade do processo eleitoral. Indexado como fonte primária de contexto do PDL 371/2022, sem atribuir a Flávio sua autoria ou equiparar debate político a falsidade.",
+      "limitations": "HTML normativo consultado; não foi feita auditoria de alterações posteriores, impugnações ou efeitos jurisprudenciais; não houve conclusão editorial sobre constitucionalidade.",
+      "locator": "Identificação e ementa; artigos 1º a 7º da Resolução 23.714/2022, página de legislação compilada.",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Tribunal Superior Eleitoral",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Resolução 23.714/2022",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-tse-res23714-2022-texto",
+          "toolReference": "turn613903view1"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-e46829aa4e6c9371",
       "title": "Discussão de Flávio na PEC 1/2022 durante sessão de 30/06/2022",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/492383",
@@ -19515,6 +20038,136 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-23d0f431ed78c32e",
+      "title": "Orientação favorável à PEC 1/2022 em etapa de votação",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/492419",
+      "publisher": "Senado Federal",
+      "date": "2022-07-01",
+      "eventDate": "2022-06-30",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PEC 1/2022",
+      "topics": [
+        "PEC 1/2022",
+        "orientação de voto"
+      ],
+      "stage": "analisado",
+      "summary": "O registro de 30/06/2022 documenta orientação do PL pelo voto favorável no contexto da PEC 1/2022. Essa orientação deve ser associada ao objeto e à fase específicos; não substitui o exame de votações nominais subsequentes.",
+      "limitations": "Página HTML original consultada; anexos PDF, vídeo e áudio não abertos. Material descritivo, sem novo veredito.",
+      "locator": "Pronunciamento 492419, seção Texto integral; DSF de 01/07/2022, p. 40.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-pec-1-2022-orientacao-30jun",
+          "toolReference": "turn675469view1"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-9b24efc127a324bc",
+      "title": "Discussão da PEC 1/2022 em 29 de junho",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/492307",
+      "publisher": "Senado Federal",
+      "date": "2022-06-30",
+      "eventDate": "2022-06-29",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PEC 1/2022",
+      "topics": [
+        "PEC 1/2022",
+        "atividade parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Transcrição institucional do debate parlamentar sobre a PEC 1/2022. Flávio comenta a justificativa econômica relacionada à pandemia e à guerra, no contexto de apreciação da proposta. As proposições do orador são atribuídas a ele e não validadas por esta indexação.",
+      "limitations": "Página HTML original consultada; anexos PDF, vídeo e áudio não abertos. Material descritivo, sem novo veredito.",
+      "locator": "Pronunciamento 492307, cabeçalho, Texto integral; DSF de 30/06/2022, p. 42.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-pec-1-2022-debate-29jun",
+          "toolReference": "turn675469view2"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-91e5f65af764fb83",
       "title": "Sanção com vetos da LC 194/2022 após aprovação do PLP 18/2022",
       "url": "https://www12.senado.leg.br/noticias/noticias/materias/2022/06/24/bolsonaro-sanciona-limite-para-icms-de-combustiveis-mas-veta-compensacao-a-estados",
@@ -19645,6 +20298,71 @@
         }
       ],
       "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-2421ec889005611d",
+      "title": "Orientação do PL sobre PEC 15/2022 e biocombustíveis",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491913",
+      "publisher": "Senado Federal",
+      "date": "2022-06-15",
+      "eventDate": "2022-06-14",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PEC 15/2022",
+      "topics": [
+        "PEC 15/2022",
+        "biocombustíveis"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio registra orientação de voto 'sim' na discussão da PEC 15/2022 ligada ao tratamento constitucional de biocombustíveis. Não equiparar a orientação à votação final individual sem consulta ao painel pertinente.",
+      "limitations": "Página HTML original consultada; anexos PDF, vídeo e áudio não abertos. Material descritivo, sem novo veredito.",
+      "locator": "Pronunciamento 491913, cabeçalho e Texto integral; DSF de 15/06/2022, p. 32.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-pec-15-2022-orientacao-biocom",
+          "toolReference": "turn675469view3"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
       "newToArchive": true
     },
     {
@@ -20775,6 +21493,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-e76e8deaf33b25ae",
+      "title": "Debate sobre veto à prova de vida do INSS reúne posicionamentos divergentes",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/09/27/senado-derruba-veto-a-suspensao-de-prova-de-vida-no-inss-camara-ainda-vota",
+      "publisher": "Agência Senado",
+      "date": "2021-09-27",
+      "eventDate": "2021-09-27",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "INSS",
+      "topics": [
+        "INSS",
+        "prova de vida",
+        "veto presidencial"
+      ],
+      "stage": "analisado",
+      "summary": "Registro sobre derrubada, no Senado, de veto à suspensão da exigência de prova de vida no INSS, com argumentos de Flávio e posições distintas de Simone Tebet e Jean Paul Prates. Na publicação, ainda faltava a deliberação da Câmara; não se extrapola situação jurídica definitiva.",
+      "limitations": "Reportagem aberta; a votação posterior na Câmara e texto legal consolidado não foram checados neste recorte. O PL 385/2021 não é de autoria de Flávio.",
+      "locator": "Notícia 27/09/2021, debate do veto e manifestações dos senadores.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro; Simone Tebet; Jean Paul Prates",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-cpi-2021-prova-vida-veto",
+          "toolReference": "turn536789view3"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-00729fc2c6b12fe4",
       "title": "Proposta de Flávio para destinar renda da Loteca à ABBR pautada na CAE",
       "url": "https://www12.senado.leg.br/noticias/materias/2021/09/23/proibicao-de-apostas-em-sites-internacionais-sera-votada-na-comissao-de-assuntos-economicos",
@@ -20838,6 +21622,71 @@
         }
       ],
       "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-0e10e44ee61c3f8e",
+      "title": "Homenagem a Arolde de Oliveira vinculada ao PRS 53/2020",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/482186",
+      "publisher": "Senado Federal",
+      "date": "2021-08-11",
+      "eventDate": "2021-08-10",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PRS 53/2020",
+      "topics": [
+        "PRS 53/2020",
+        "homenagem parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "Transcrição oficial de homenagem de Flávio ao senador Arolde de Oliveira durante discussão de proposição de denominação, contextualizada pelo PRS 53/2020. É homenagem e manifestação parlamentar, não veredito factual.",
+      "limitations": "Página HTML original consultada; anexos PDF, vídeo e áudio não abertos. Material descritivo, sem novo veredito.",
+      "locator": "Pronunciamento 482186, Texto integral; DSF de 11/08/2021, p. 56.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-prs53-2020-homenagem-arolde",
+          "toolReference": "turn536789view8"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
       "newToArchive": true
     },
     {
@@ -20972,6 +21821,138 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-dd9db41b96be5567",
+      "title": "Depoimento de consultor confronta versão de servidora sobre compra de Covaxin",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/07/09/consultor-contradiz-depoimento-de-regina-celia-sobre-processo-de-compra-da-covaxin",
+      "publisher": "Agência Senado",
+      "date": "2021-07-09",
+      "eventDate": "2021-07-09",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "CPI da Pandemia",
+      "topics": [
+        "CPI da Pandemia",
+        "Covaxin",
+        "depoimento"
+      ],
+      "stage": "analisado",
+      "summary": "Agência Senado relata depoimento de consultor sobre divergência documental no trâmite da Covaxin e manifestações públicas de Flávio na CPI. Trata-se da reportagem sobre as versões contraditórias, não de perícia própria de arquivos ou documentação bancária.",
+      "limitations": "HTML institucional consultado; planilhas, faturas, Dropbox e gravações citados não foram acessados diretamente.",
+      "locator": "Notícia 09/07/2021, trechos sobre depoimento e intervenções na CPI.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Willian Santana; Regina Célia; Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-cpi-2021-consultor-covaxin",
+          "toolReference": "turn536789view2"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-9883bb6f21b0485b",
+      "title": "Pacheco responde críticas à condução da CPI e à prisão de depoente",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/07/07/pacheco-afirma-confianca-na-cpi-da-pandemia-e-nao-anula-prisao-de-ex-diretor-do-ms",
+      "publisher": "Agência Senado",
+      "date": "2021-07-07",
+      "eventDate": "2021-07-07",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "CPI da Pandemia",
+      "topics": [
+        "CPI da Pandemia",
+        "procedimento",
+        "resposta institucional"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia reúne manifestação de Flávio contra atuação da CPI e resposta pública de Rodrigo Pacheco sobre a prisão de ex-diretor do Ministério da Saúde, junto a intervenções de outros senadores. O escopo é o debate procedimental documentado naquela data, não o desfecho penal.",
+      "limitations": "Agência Senado consultada; decisões judiciais posteriores e gravações do incidente não examinadas.",
+      "locator": "Notícia 07/07/2021, falas sobre prisão e atuação da CPI.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Rodrigo Pacheco; Flávio Bolsonaro; Simone Tebet",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-cpi-2021-prisao-senado",
+          "toolReference": "turn536789view6"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-7d6866f4385025d2",
       "title": "Agência Senado registra respostas de Flávio e Randolfe no episódio Precisa Medicamentos",
       "url": "https://www12.senado.leg.br/noticias/materias/2021/06/25/em-resposta-a-flavio-bolsonaro-randolfe-afirma-que-buscar-vacinas-e-dever-dos-senadores",
@@ -21035,6 +22016,204 @@
         }
       ],
       "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026. Transcrições e notícias institucionais não equivalem à audição do original; PDF do DSF e vídeos não examinados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-19843dab83254f18",
+      "title": "Irmãos Miranda relatam suspeitas; Flávio apresenta negativa pública",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/25/a-cpi-irmaos-miranda-reafirmam-pressao-e-irregularidades-na-compra-da-covaxin",
+      "publisher": "Agência Senado",
+      "date": "2021-06-25",
+      "eventDate": "2021-06-25",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "CPI da Pandemia",
+      "topics": [
+        "CPI da Pandemia",
+        "Covaxin",
+        "contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia institucional descreve alegações de pressão e irregularidade na compra de Covaxin por depoentes da CPI; diante de menção de Renan, Flávio nega relações com empresas fornecedoras de medicamentos. Alegações, resposta e estágio de apuração são mantidos separados.",
+      "limitations": "Reportagem institucional aberta; notas fiscais, contratos, autos e gravação integral não foram examinados. Não se infere prova de ilícito.",
+      "locator": "Notícia 25/06/2021, blocos com depoimentos dos irmãos e manifestação de Flávio.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Luís Miranda; Luís Ricardo Miranda; Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-cpi-2021-depoimentos-miranda",
+          "toolReference": "turn536789view5"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-fbbc5f1813d9157c",
+      "title": "Audiência da CPI sobre tratamento precoce registra posições opostas",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/18/medicos-defendem-tratamento-precoce-e-cloroquina-na-cpi-da-pandemia",
+      "publisher": "Agência Senado",
+      "date": "2021-06-18",
+      "eventDate": "2021-06-18",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "CPI da Pandemia",
+      "topics": [
+        "CPI da Pandemia",
+        "tratamento precoce",
+        "debate público"
+      ],
+      "stage": "analisado",
+      "summary": "Agência Senado registra argumentos de médicos que defendiam tratamento precoce e manifestações de senadores, inclusive Flávio, sobre o andamento da CPI. As alegações dos depoentes são apresentadas como posições individuais, sem endosso científico ou classificação editorial.",
+      "limitations": "Reportagem lida; ensaios clínicos originais, vídeo integral e documentos citados pelos depoentes não revisados. Ausência de exame clínico impede concluir eficácia.",
+      "locator": "Notícia 18/06/2021, partes sobre depoimentos médicos e manifestações dos senadores.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro; médicos depoentes; outros membros da CPI",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-cpi-2021-tratamento-precoce",
+          "toolReference": "turn536789view1"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-711915b37d0740d4",
+      "title": "Pazuello nega influência dos filhos do presidente na gestão do Ministério da Saúde",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/19/pazuello-nega-que-o-ministerio-da-saude-tenha-incentivado-o-uso-de-cloroquina",
+      "publisher": "Agência Senado",
+      "date": "2021-05-19",
+      "eventDate": "2021-05-19",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "CPI da Pandemia",
+      "topics": [
+        "CPI da Pandemia",
+        "Ministério da Saúde",
+        "resposta pública"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia de depoimento de Eduardo Pazuello à CPI em que nega influência de filhos de Jair Bolsonaro, incluindo Flávio, em sua condução do ministério. É a versão pública do depoente e não comprovação autônoma da inexistência de contatos ou influência.",
+      "limitations": "Agência Senado consultada; depoimento audiovisual não ouvido e documentos administrativos não examinados.",
+      "locator": "Notícia de 19/05/2021; trechos que tratam de Pazuello e dos filhos do presidente.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Eduardo Pazuello, citado em depoimento",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-cpi-2021-depoimento-pazuello",
+          "toolReference": "turn536789view4"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
       "newToArchive": true
     },
     {
@@ -21105,6 +22284,72 @@
       "newToArchive": false
     },
     {
+      "id": "pesquisa-262857a1777a4322",
+      "title": "Possível relatoria de Flávio em proposta de turismo foi aventada em audiência",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/10/debate-mostra-otimismo-do-governo-e-do-setor-privado-na-retomada-do-turismo",
+      "publisher": "Agência Senado",
+      "date": "2021-05-10",
+      "eventDate": "2021-05-10",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 1829/2019",
+      "topics": [
+        "PL 1829/2019",
+        "turismo",
+        "indicação de relatoria"
+      ],
+      "stage": "analisado",
+      "summary": "Matéria relata debate sobre retomada do turismo e menção de Fernando Collor à possibilidade de Flávio relatar o PL 1829/2019. A notícia não confirma que a designação ou a relatoria tenha ocorrido posteriormente.",
+      "limitations": "Notícia institucional lida; ficha de designação do relator e texto do PL não consultados nesta coleta.",
+      "locator": "Notícia 10/05/2021; parágrafo de menção ao PL 1829/2019 e relatoria possível.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Fernando Collor, presidente da Comissão de Desenvolvimento Regional",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-cpi-2021-turismo-cdr",
+          "toolReference": "turn536789view7"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-8051a28cd68cf724",
       "title": "Manifestação de Flávio na instalação da CPI da Pandemia e resposta de senadoras",
       "url": "https://www12.senado.leg.br/noticias/materias/2021/04/27/senadoras-criticam-retorno-ao-congresso-de-projeto-sobre-igualdade-salarial",
@@ -21168,6 +22413,72 @@
         }
       ],
       "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-666ea83d0ce13f58",
+      "title": "Instalação da CPI da Pandemia registra discordância sobre relatoria",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/04/27/com-omar-aziz-na-presidencia-e-renan-na-relatoria-cpi-da-pandemia-e-instalada",
+      "publisher": "Agência Senado",
+      "date": "2021-04-27",
+      "eventDate": "2021-04-27",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "CPI da Pandemia",
+      "topics": [
+        "CPI da Pandemia",
+        "relatoria",
+        "contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Agência Senado relata instalação da CPI da Pandemia. Flávio questiona a indicação de Renan Calheiros como relator; Eduardo Braga apresenta resposta pública sobre proporcionalidade e indicação. O registro distingue posição parlamentar de decisão procedimental.",
+      "limitations": "Reportagem institucional acessada; não foi examinada gravação integral da sessão nem ata/decisão judicial eventualmente mencionada.",
+      "locator": "Notícia de 27/04/2021, seção de composição e declarações dos senadores.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T13:42:51.990Z",
+      "lastModifiedAt": "2026-10-24T13:42:51.990Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro; Eduardo Braga; demais parlamentares",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "legislativo-cpi-20261024-16",
+          "inputId": "legislativo-cpi-20261024-16-cpi-2021-instalacao",
+          "toolReference": "turn536789view0"
+        }
+      ],
+      "accessMethod": "Abertura e leitura da página HTML institucional durante pesquisa de 24/10/2026. O carimbo collected_at é o fechamento do checkpoint, não o horário comprovado de cada acesso. Áudio reproduzido: zero segundos.",
       "newToArchive": true
     },
     {
@@ -28500,7 +29811,7 @@
       "monitoringEnabled": true,
       "accessNote": "6 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T08:50:00.363197Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z"
     },
     {
       "id": "fonte-e1c9e5407b4d26a8",
@@ -28517,7 +29828,7 @@
       "monitoringEnabled": true,
       "accessNote": "4 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T08:50:00.363197Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z"
     },
     {
       "id": "fonte-a08eae094412f4bb",
@@ -28532,9 +29843,9 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "monitoringEnabled": true,
-      "accessNote": "6 publicações relacionadas nesta consulta",
+      "accessNote": "3 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T08:50:00.363197Z"
+      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z"
     },
     {
       "id": "fonte-9c2fbd587c9a9fb0",
@@ -28544,7 +29855,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T08:50:00.363197Z",
+      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z",
       "lastConsultedAt": "2026-10-24T11:14:02.380Z",
       "accessNote": "12 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -28911,7 +30222,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T08:50:00.363197Z",
+      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z",
       "lastConsultedAt": "2026-10-24T11:14:02.380Z",
       "accessNote": "5 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -29143,11 +30454,11 @@
       "nature": "órgão público",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T08:50:00.363197Z",
-      "lastConsultedAt": "2026-10-24T12:53:06.527Z",
+      "lastSuccessfulCollectionAt": "2026-10-24T12:57:27.952627Z",
+      "lastConsultedAt": "2026-10-24T13:42:51.990Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 120,
+      "sourceCount": 139,
       "periods": [
         2018,
         2019,
@@ -29167,8 +30478,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 119,
-      "analysedCount": 105
+      "accessedCount": 138,
+      "analysedCount": 124
     },
     {
       "id": "fonte-3ed65b2f1d041330",
@@ -29205,11 +30516,12 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T11:19:52.714Z",
+      "lastConsultedAt": "2026-10-24T13:42:51.990Z",
       "accessNote": "Coleta indisponível (HTTPError); itens anteriores preservados",
       "status": "falha de coleta",
-      "sourceCount": 20,
+      "sourceCount": 21,
       "periods": [
+        2022,
         2023,
         2026
       ],
@@ -29217,8 +30529,8 @@
         "documento"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 20,
-      "analysedCount": 20
+      "accessedCount": 21,
+      "analysedCount": 21
     },
     {
       "id": "fonte-f1199c02c1d5a933",
@@ -32304,6 +33616,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-833528a9c4565707",
+      "itemId": "pesquisa-523cbe2bd96eefbf",
+      "title": "Ficha do PL 5384/2020 distingue emendas, votação e sanção",
+      "date": "2023-10-24",
+      "datePrecision": "day",
+      "context": "Ficha oficial identifica Maria do Rosário como autora do PL 5384/2020, registra emendas 2 e 8 apresentadas por Flávio, rejeição da Emenda 2 na CCJ, rejeição do requerimento RQS 950/2023 de preferência e voto contrário de Flávio ao projeto. O projeto resultou na Lei 14.723/2023. O requerimento é de autoria de Carlos Portinho.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-9368512b740639eb",
       "itemId": "pesquisa-8a8fb2ee4a48e85e",
       "title": "Pedido de retirada de destaque da PEC 45/2019, RQS 999/2023",
@@ -32340,6 +33661,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-9893e3feb47faf77",
+      "itemId": "pesquisa-64b237daa4bfa41c",
+      "title": "Flávio defende emenda substitutiva ao projeto de cotas em 2023",
+      "date": "2023-10-24",
+      "datePrecision": "day",
+      "context": "Pronunciamento favorável à Emenda 8 de autoria de Flávio, como substitutivo ao PL 5384/2020 relativo a cotas no ensino federal. A autoria do projeto de lei é de Maria do Rosário, não de Flávio. Separar o pedido de preferência, a apreciação das emendas e o voto do projeto.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-1b85edb3935b52c2",
       "itemId": "pesquisa-2094349c63f35a9a",
       "title": "Manifestação no PL 4503/2023 sobre Lei Orgânica das Polícias Civis",
@@ -32356,6 +33686,15 @@
       "datePrecision": "unknown",
       "context": "Registro reúne críticas ao acompanhamento dos resultados das cotas e referências à trajetória da legislação no Rio e a relatório do TCU.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-e0b15b6eba3f1e88",
+      "itemId": "pesquisa-7ca25ae6b232925d",
+      "title": "Painel nominal da preferência de votação da Emenda 8",
+      "date": "2023-10-24",
+      "datePrecision": "day",
+      "context": "Painel de votação nominal mostra que o requerimento RQS 950/2023, para votar a Emenda 8 antes do projeto de cotas, foi rejeitado por 24 votos 'sim' e 46 'não'; Flávio votou 'sim' neste requerimento. A decisão não é sinônimo de aprovação ou rejeição nominal da Emenda 8.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-5e605ded00c40e39",
@@ -32448,6 +33787,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-44425350e5f5d87b",
+      "itemId": "pesquisa-f156bc0f677aa613",
+      "title": "Nova orientação contrária à PEC da Transição em 21 de dezembro",
+      "date": "2022-12-21",
+      "datePrecision": "day",
+      "context": "Na fase de 21/12/2022 da PEC 32/2022, Flávio orientou o voto 'não' e apresentou preocupações sobre orçamento e inflação, com referência à manutenção de transferência de R$ 600. A fala não é verificação independente dos dados citados.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-5c852426fef5e1bb",
       "itemId": "pesquisa-a3cac150928bcee9",
       "title": "Discussão da PEC da Transição e limites das despesas orçamentárias",
@@ -32455,6 +33803,24 @@
       "datePrecision": "unknown",
       "context": "Durante a discussão da PEC 32/2022, o senador criticou a expansão de despesas fora do teto e associou sua posição ao risco inflacionário. É a posição registrada no pronunciamento, não uma avaliação econômica independente.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-b0d74c82cd73e6df",
+      "itemId": "pesquisa-89c90ed7ebe05acd",
+      "title": "Orientação contrária ao RQS 791/2022 na PEC da Transição",
+      "date": "2022-12-07",
+      "datePrecision": "day",
+      "context": "Transcrição de orientação contrária do PL no requerimento RQS 791/2022, relacionado à PEC 32/2022. Trata-se de objeto distinto do RQS 789/2022 e do texto geral.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-b121d47b4fad4ef6",
+      "itemId": "pesquisa-7f83960ae2d4fca0",
+      "title": "Orientação contrária ao RQS 789/2022 na PEC da Transição",
+      "date": "2022-12-07",
+      "datePrecision": "day",
+      "context": "Em discurso específico, Flávio orientou o PL pelo voto contrário ao requerimento RQS 789/2022 durante a tramitação da PEC 32/2022 e apresentou argumentos orçamentários. Não confundir esta orientação com outros destaques nem com voto final na PEC.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-ed50057fa1b6ac92",
@@ -32511,6 +33877,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-10f077b39b13e81a",
+      "itemId": "pesquisa-58761da917829ac0",
+      "title": "PDL 371/2022 e requerimento de urgência de que Flávio participou",
+      "date": "2022-10-24",
+      "datePrecision": "day",
+      "context": "Ficha de tramitação identifica Lasier Martins como autor do PDL 371/2022, sobre atos do TSE, e Flávio como subscritor de requerimento de urgência relacionado, não como autor do PDL. A ficha acessada informa tramitação ainda pendente; requerimento e projeto não se confundem.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-0eeedcaed8b7dbf3",
+      "itemId": "pesquisa-e1be2b0f730d6409",
+      "title": "Texto oficial da Resolução TSE 23.714/2022, objeto do debate sobre PDL 371",
+      "date": "2022-10-20",
+      "datePrecision": "day",
+      "context": "Texto normativo institucional da resolução de 20/10/2022 que disciplina medidas referentes a desinformação sobre integridade do processo eleitoral. Indexado como fonte primária de contexto do PDL 371/2022, sem atribuir a Flávio sua autoria ou equiparar debate político a falsidade.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-e657d33f90ea544f",
       "itemId": "pesquisa-e46829aa4e6c9371",
       "title": "Discussão de Flávio na PEC 1/2022 durante sessão de 30/06/2022",
@@ -32526,6 +33910,24 @@
       "date": "2022-06-30",
       "datePrecision": "day",
       "context": "Registro oficial distinto, na mesma sessão de 30/06/2022, de discussão de Flávio sobre a PEC 1/2022. Não contar automaticamente como nova alegação factual nem como contradição com manifestação anterior.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-d738942e57786a52",
+      "itemId": "pesquisa-23d0f431ed78c32e",
+      "title": "Orientação favorável à PEC 1/2022 em etapa de votação",
+      "date": "2022-06-30",
+      "datePrecision": "day",
+      "context": "O registro de 30/06/2022 documenta orientação do PL pelo voto favorável no contexto da PEC 1/2022. Essa orientação deve ser associada ao objeto e à fase específicos; não substitui o exame de votações nominais subsequentes.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-c9235daa4c0214eb",
+      "itemId": "pesquisa-9b24efc127a324bc",
+      "title": "Discussão da PEC 1/2022 em 29 de junho",
+      "date": "2022-06-29",
+      "datePrecision": "day",
+      "context": "Transcrição institucional do debate parlamentar sobre a PEC 1/2022. Flávio comenta a justificativa econômica relacionada à pandemia e à guerra, no contexto de apreciação da proposta. As proposições do orador são atribuídas a ele e não validadas por esta indexação.",
       "state": "data informada pela fonte"
     },
     {
@@ -32545,6 +33947,15 @@
       "datePrecision": "unknown",
       "context": "Na discussão sobre biocombustíveis, o senador defendeu ajuste no texto da PEC 15/2022 e avaliou efeitos tributários e experiências anteriores no Rio de Janeiro. As análises econômicas e históricas são alegações do orador, não conclusões verificadas pelo catálogo.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-b25045e35e0e96b3",
+      "itemId": "pesquisa-2421ec889005611d",
+      "title": "Orientação do PL sobre PEC 15/2022 e biocombustíveis",
+      "date": "2022-06-14",
+      "datePrecision": "day",
+      "context": "Flávio registra orientação de voto 'sim' na discussão da PEC 15/2022 ligada ao tratamento constitucional de biocombustíveis. Não equiparar a orientação à votação final individual sem consulta ao painel pertinente.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-43f5ffbff3923271",
@@ -32700,6 +34111,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-ed0a4841163067f0",
+      "itemId": "pesquisa-e76e8deaf33b25ae",
+      "title": "Debate sobre veto à prova de vida do INSS reúne posicionamentos divergentes",
+      "date": "2021-09-27",
+      "datePrecision": "day",
+      "context": "Registro sobre derrubada, no Senado, de veto à suspensão da exigência de prova de vida no INSS, com argumentos de Flávio e posições distintas de Simone Tebet e Jean Paul Prates. Na publicação, ainda faltava a deliberação da Câmara; não se extrapola situação jurídica definitiva.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-f39d6e46a83a6016",
       "itemId": "pesquisa-00729fc2c6b12fe4",
       "title": "Proposta de Flávio para destinar renda da Loteca à ABBR pautada na CAE",
@@ -32707,6 +34127,15 @@
       "datePrecision": "unknown",
       "context": "Notícia da Agência Senado menciona que o PL 3.071/2019, de autoria de Flávio Bolsonaro, propunha acrescentar a Associação Brasileira Beneficente de Reabilitação entre beneficiárias da renda líquida de um concurso anual da Loteca; à época o parecer do senador Irajá era favorável e havia previsão de votação na CAE.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-5dfa49156248496c",
+      "itemId": "pesquisa-0e10e44ee61c3f8e",
+      "title": "Homenagem a Arolde de Oliveira vinculada ao PRS 53/2020",
+      "date": "2021-08-10",
+      "datePrecision": "day",
+      "context": "Transcrição oficial de homenagem de Flávio ao senador Arolde de Oliveira durante discussão de proposição de denominação, contextualizada pelo PRS 53/2020. É homenagem e manifestação parlamentar, não veredito factual.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-4a2e29609cda9713",
@@ -32727,12 +34156,57 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-4b80a12bc492c66d",
+      "itemId": "pesquisa-dd9db41b96be5567",
+      "title": "Depoimento de consultor confronta versão de servidora sobre compra de Covaxin",
+      "date": "2021-07-09",
+      "datePrecision": "day",
+      "context": "Agência Senado relata depoimento de consultor sobre divergência documental no trâmite da Covaxin e manifestações públicas de Flávio na CPI. Trata-se da reportagem sobre as versões contraditórias, não de perícia própria de arquivos ou documentação bancária.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-5be5c09140a530c7",
+      "itemId": "pesquisa-9883bb6f21b0485b",
+      "title": "Pacheco responde críticas à condução da CPI e à prisão de depoente",
+      "date": "2021-07-07",
+      "datePrecision": "day",
+      "context": "Notícia reúne manifestação de Flávio contra atuação da CPI e resposta pública de Rodrigo Pacheco sobre a prisão de ex-diretor do Ministério da Saúde, junto a intervenções de outros senadores. O escopo é o debate procedimental documentado naquela data, não o desfecho penal.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-b78c11548899b437",
       "itemId": "pesquisa-7d6866f4385025d2",
       "title": "Agência Senado registra respostas de Flávio e Randolfe no episódio Precisa Medicamentos",
       "date": "2021-06-25",
       "datePrecision": "day",
       "context": "A reportagem descreve questionamentos recíprocos sobre reuniões com a empresa Precisa Medicamentos. Randolfe afirmou que sua reunião foi pública e ligada à busca por vacinas. Flávio negou relação comercial ou financeira com o empresário e disse que tratara com o BNDES de proposta de conectividade de outra empresa.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e322e23f2547fa48",
+      "itemId": "pesquisa-19843dab83254f18",
+      "title": "Irmãos Miranda relatam suspeitas; Flávio apresenta negativa pública",
+      "date": "2021-06-25",
+      "datePrecision": "day",
+      "context": "Notícia institucional descreve alegações de pressão e irregularidade na compra de Covaxin por depoentes da CPI; diante de menção de Renan, Flávio nega relações com empresas fornecedoras de medicamentos. Alegações, resposta e estágio de apuração são mantidos separados.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-5e564c8d557afed1",
+      "itemId": "pesquisa-fbbc5f1813d9157c",
+      "title": "Audiência da CPI sobre tratamento precoce registra posições opostas",
+      "date": "2021-06-18",
+      "datePrecision": "day",
+      "context": "Agência Senado registra argumentos de médicos que defendiam tratamento precoce e manifestações de senadores, inclusive Flávio, sobre o andamento da CPI. As alegações dos depoentes são apresentadas como posições individuais, sem endosso científico ou classificação editorial.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-72f99a68be780b6f",
+      "itemId": "pesquisa-711915b37d0740d4",
+      "title": "Pazuello nega influência dos filhos do presidente na gestão do Ministério da Saúde",
+      "date": "2021-05-19",
+      "datePrecision": "day",
+      "context": "Notícia de depoimento de Eduardo Pazuello à CPI em que nega influência de filhos de Jair Bolsonaro, incluindo Flávio, em sua condução do ministério. É a versão pública do depoente e não comprovação autônoma da inexistência de contatos ou influência.",
       "state": "data informada pela fonte"
     },
     {
@@ -32745,12 +34219,30 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-5c4344c16abf46f1",
+      "itemId": "pesquisa-262857a1777a4322",
+      "title": "Possível relatoria de Flávio em proposta de turismo foi aventada em audiência",
+      "date": "2021-05-10",
+      "datePrecision": "day",
+      "context": "Matéria relata debate sobre retomada do turismo e menção de Fernando Collor à possibilidade de Flávio relatar o PL 1829/2019. A notícia não confirma que a designação ou a relatoria tenha ocorrido posteriormente.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-328e1d1c80b198f8",
       "itemId": "pesquisa-8051a28cd68cf724",
       "title": "Manifestação de Flávio na instalação da CPI da Pandemia e resposta de senadoras",
       "date": "2021-04-27",
       "datePrecision": "day",
       "context": "Reportagem institucional, em seção distinta do debate sobre igualdade salarial, reproduz comentário de Flávio Bolsonaro sobre participação feminina na instalação da CPI da Pandemia e registra resposta pública crítica de Simone Tebet e Eliziane Gama no mesmo dia. A interpretação das senadoras é atribuída a elas, não adotada como classificação do acervo.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-96a6d83924f57122",
+      "itemId": "pesquisa-666ea83d0ce13f58",
+      "title": "Instalação da CPI da Pandemia registra discordância sobre relatoria",
+      "date": "2021-04-27",
+      "datePrecision": "day",
+      "context": "Agência Senado relata instalação da CPI da Pandemia. Flávio questiona a indicação de Renan Calheiros como relator; Eduardo Braga apresenta resposta pública sobre proporcionalidade e indicação. O registro distingue posição parlamentar de decisão procedimental.",
       "state": "data informada pela fonte"
     },
     {
@@ -39781,6 +41273,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-833528a9c4565707",
+      "itemId": "pesquisa-523cbe2bd96eefbf",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/159365",
+      "locator": "Cabeçalho Autoria e Norma Gerada; seções Emendas e Requerimentos; tramitação de 24/10 e 14/11/2023; Emenda 2 e 8; RQS 950/2023.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-9368512b740639eb",
       "itemId": "pesquisa-8a8fb2ee4a48e85e",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -39825,6 +41328,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-9893e3feb47faf77",
+      "itemId": "pesquisa-64b237daa4bfa41c",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/501693",
+      "locator": "Pronunciamento 501693, Texto integral; sessão de 24/10/2023; DSF de 25/10/2023, p. 72.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-1b85edb3935b52c2",
       "itemId": "pesquisa-2094349c63f35a9a",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -39841,6 +41355,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/501643",
       "locator": "Texto integral; DSF 25/10/2023, p.60",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e0b15b6eba3f1e88",
+      "itemId": "pesquisa-7ca25ae6b232925d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/en/web/atividade/materias/-/materia/159365/votacoes",
+      "locator": "Votações da matéria PL 5384/2020, sessão 159, tabela de 24/10/2023, linha Flávio Bolsonaro, 24 sim/46 não.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -39957,11 +41482,44 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-44425350e5f5d87b",
+      "itemId": "pesquisa-f156bc0f677aa613",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/495198",
+      "locator": "Pronunciamento 495198, cabeçalho e Texto integral; DSF de 22/12/2022, p. 93.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-5c852426fef5e1bb",
       "itemId": "pesquisa-a3cac150928bcee9",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494839",
       "locator": "Texto integral do Senado, 118ª Sessão Deliberativa Ordinária, discussão da PEC 32/2022; DSF 08/12/2022, p. 59.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-b0d74c82cd73e6df",
+      "itemId": "pesquisa-89c90ed7ebe05acd",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494924",
+      "locator": "Pronunciamento 494924, cabeçalho e Texto integral; DSF 08/12/2022, p. 98.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-b121d47b4fad4ef6",
+      "itemId": "pesquisa-7f83960ae2d4fca0",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494902",
+      "locator": "Pronunciamento 494902, Texto integral; DSF de 08/12/2022, p. 89.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -40034,6 +41592,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-10f077b39b13e81a",
+      "itemId": "pesquisa-58761da917829ac0",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/154939",
+      "locator": "Cabeçalho Autoria e Ementa; Documentos e Requerimentos; RQS 704/2022; Situação Atual e Último estado.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-0eeedcaed8b7dbf3",
+      "itemId": "pesquisa-e1be2b0f730d6409",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "url": "https://www.tse.jus.br/legislacao/compilada/res/2022/resolucao-no-23-714-de-20-de-outubro-de-2022",
+      "locator": "Identificação e ementa; artigos 1º a 7º da Resolução 23.714/2022, página de legislação compilada.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-e657d33f90ea544f",
       "itemId": "pesquisa-e46829aa4e6c9371",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -40056,6 +41636,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-d738942e57786a52",
+      "itemId": "pesquisa-23d0f431ed78c32e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/492419",
+      "locator": "Pronunciamento 492419, seção Texto integral; DSF de 01/07/2022, p. 40.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-c9235daa4c0214eb",
+      "itemId": "pesquisa-9b24efc127a324bc",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/492307",
+      "locator": "Pronunciamento 492307, cabeçalho, Texto integral; DSF de 30/06/2022, p. 42.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-a99620e7aba708a3",
       "itemId": "pesquisa-91e5f65af764fb83",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -40072,6 +41674,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491906",
       "locator": "Texto integral do Senado; 68ª Sessão Deliberativa Extraordinária, intervenção pela liderança; DSF de 15/06/2022, p. 28.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-b25045e35e0e96b3",
+      "itemId": "pesquisa-2421ec889005611d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/491913",
+      "locator": "Pronunciamento 491913, cabeçalho e Texto integral; DSF de 15/06/2022, p. 32.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -40265,11 +41878,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-ed0a4841163067f0",
+      "itemId": "pesquisa-e76e8deaf33b25ae",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/09/27/senado-derruba-veto-a-suspensao-de-prova-de-vida-no-inss-camara-ainda-vota",
+      "locator": "Notícia 27/09/2021, debate do veto e manifestações dos senadores.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-f39d6e46a83a6016",
       "itemId": "pesquisa-00729fc2c6b12fe4",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2021/09/23/proibicao-de-apostas-em-sites-internacionais-sera-votada-na-comissao-de-assuntos-economicos",
       "locator": "Seção 'ABBR', parágrafos sobre PL 3.071/2019 e parecer do senador Irajá.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-5dfa49156248496c",
+      "itemId": "pesquisa-0e10e44ee61c3f8e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/482186",
+      "locator": "Pronunciamento 482186, Texto integral; DSF de 11/08/2021, p. 56.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -40298,11 +41933,66 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-4b80a12bc492c66d",
+      "itemId": "pesquisa-dd9db41b96be5567",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/07/09/consultor-contradiz-depoimento-de-regina-celia-sobre-processo-de-compra-da-covaxin",
+      "locator": "Notícia 09/07/2021, trechos sobre depoimento e intervenções na CPI.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-5be5c09140a530c7",
+      "itemId": "pesquisa-9883bb6f21b0485b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/07/07/pacheco-afirma-confianca-na-cpi-da-pandemia-e-nao-anula-prisao-de-ex-diretor-do-ms",
+      "locator": "Notícia 07/07/2021, falas sobre prisão e atuação da CPI.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-b78c11548899b437",
       "itemId": "pesquisa-7d6866f4385025d2",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2021/06/25/em-resposta-a-flavio-bolsonaro-randolfe-afirma-que-buscar-vacinas-e-dever-dos-senadores",
       "locator": "Agência Senado, linhas 19-35, especialmente histórico e versões dos dois parlamentares nas linhas 27-31.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e322e23f2547fa48",
+      "itemId": "pesquisa-19843dab83254f18",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/25/a-cpi-irmaos-miranda-reafirmam-pressao-e-irregularidades-na-compra-da-covaxin",
+      "locator": "Notícia 25/06/2021, blocos com depoimentos dos irmãos e manifestação de Flávio.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-5e564c8d557afed1",
+      "itemId": "pesquisa-fbbc5f1813d9157c",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/18/medicos-defendem-tratamento-precoce-e-cloroquina-na-cpi-da-pandemia",
+      "locator": "Notícia 18/06/2021, partes sobre depoimentos médicos e manifestações dos senadores.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-72f99a68be780b6f",
+      "itemId": "pesquisa-711915b37d0740d4",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/19/pazuello-nega-que-o-ministerio-da-saude-tenha-incentivado-o-uso-de-cloroquina",
+      "locator": "Notícia de 19/05/2021; trechos que tratam de Pazuello e dos filhos do presidente.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -40320,11 +42010,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-5c4344c16abf46f1",
+      "itemId": "pesquisa-262857a1777a4322",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/10/debate-mostra-otimismo-do-governo-e-do-setor-privado-na-retomada-do-turismo",
+      "locator": "Notícia 10/05/2021; parágrafo de menção ao PL 1829/2019 e relatoria possível.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-328e1d1c80b198f8",
       "itemId": "pesquisa-8051a28cd68cf724",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2021/04/27/senadoras-criticam-retorno-ao-congresso-de-projeto-sobre-igualdade-salarial",
       "locator": "Seção 'Mulheres na CPI' e parágrafos seguintes com fala de Flávio e réplicas de Simone Tebet e Eliziane Gama.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-96a6d83924f57122",
+      "itemId": "pesquisa-666ea83d0ce13f58",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/04/27/com-omar-aziz-na-presidencia-e-renan-na-relatoria-cpi-da-pandemia-e-instalada",
+      "locator": "Notícia de 27/04/2021, seção de composição e declarações dos senadores.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -42050,15 +43762,15 @@
     },
     {
       "year": 2021,
-      "found": 18,
-      "accessed": 18,
-      "analysed": 14,
+      "found": 27,
+      "accessed": 27,
+      "analysed": 23,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 4,
-        "analisado": 14,
+        "analisado": 23,
         "revisado": 0,
         "publicado": 0
       },
@@ -42068,76 +43780,84 @@
         "cultura": 1,
         "Justiça": 1,
         "assistencia-social": 1,
-        "CPI da Pandemia": 6,
+        "CPI da Pandemia": 12,
         "meio ambiente": 1,
+        "INSS": 1,
         "assistência social": 1,
+        "PRS 53/2020": 1,
         "atividade parlamentar": 1,
         "eleições": 1,
         "saúde": 1,
+        "PL 1829/2019": 1,
         "Conselho de Ética": 1,
         "rachadinha": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 15,
+        "fonte-2acd9e7dc92e583a": 24,
         "fonte-3ed65b2f1d041330": 1,
         "fonte-9c2fbd587c9a9fb0": 1,
         "fonte-4fd0eba6b669e169": 1
       },
       "formats": {
-        "documento": 3,
+        "documento": 4,
         "registro": 5,
         "checagem": 1,
-        "reportagem": 5,
+        "reportagem": 13,
         "video": 4
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2022,
-      "found": 19,
-      "accessed": 19,
-      "analysed": 19,
+      "found": 27,
+      "accessed": 27,
+      "analysed": 27,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 0,
-        "analisado": 19,
+        "analisado": 27,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
+        "PEC 32/2022": 3,
         "assistencia-social": 4,
         "orçamento": 2,
         "eleicoes": 1,
-        "PEC 1/2022": 2,
+        "PDL 371/2022": 1,
+        "TSE": 1,
+        "PEC 1/2022": 4,
         "PLP 18/2022": 4,
         "energia": 1,
+        "PEC 15/2022": 1,
         "Amazônia": 1,
         "ICMS": 1,
         "condomínios": 2,
         "atividade parlamentar": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 19
+        "fonte-2acd9e7dc92e583a": 26,
+        "fonte-d17e0097bbcd6c10": 1
       },
       "formats": {
-        "documento": 13,
+        "documento": 21,
         "reportagem": 6
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2023,
-      "found": 20,
-      "accessed": 20,
-      "analysed": 18,
+      "found": 23,
+      "accessed": 23,
+      "analysed": 21,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 18,
+        "analisado": 21,
         "revisado": 0,
         "publicado": 0
       },
@@ -42145,6 +43865,7 @@
         "atividade parlamentar": 7,
         "pronunciamento": 1,
         "orçamento": 1,
+        "PL 5384/2020": 3,
         "segurança pública": 2,
         "educacao": 1,
         "CPMI de 8 de Janeiro": 1,
@@ -42157,12 +43878,12 @@
         "eleicoes": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 18,
+        "fonte-2acd9e7dc92e583a": 21,
         "fonte-37b3a9c8aaa5f206": 1,
         "fonte-d17e0097bbcd6c10": 1
       },
       "formats": {
-        "documento": 17,
+        "documento": 20,
         "reportagem": 2,
         "video": 1
       },
@@ -42342,11 +44063,11 @@
     }
   ],
   "metrics": {
-    "newItems": 414,
-    "items": 432,
+    "newItems": 434,
+    "items": 452,
     "alreadyInArchive": 18,
-    "accessed": 429,
-    "analysed": 404,
+    "accessed": 449,
+    "analysed": 424,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -42358,11 +44079,11 @@
     "sourcesConsulted": 33,
     "video": 17,
     "audio": 5,
-    "documents": 115,
+    "documents": 127,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 107,
+    "queryCount": 113,
     "accessFailures": 17,
     "undatedItems": 37
   },
@@ -42762,6 +44483,60 @@
       "engine": "web e abertura direta",
       "interval": null,
       "resultsState": "19 páginas efetivamente acessadas."
+    },
+    {
+      "id": "consulta-416f21a5cc083156",
+      "batch": "legislativo-cpi-20261024-16",
+      "query": "site:www25.senado.leg.br/web/atividade/pronunciamentos \"Flávio Bolsonaro\" PEC 1/2022 PEC 15/2022 2022",
+      "executedAt": "2026-10-24T13:42:51.990Z",
+      "engine": "web.run busca e abertura HTML oficial",
+      "interval": "2022",
+      "resultsState": "Recuperados 492307, 492419, 491913; 491906, 492383 e 492398 já catalogados e descartados."
+    },
+    {
+      "id": "consulta-f84cb4a94d3036d3",
+      "batch": "legislativo-cpi-20261024-16",
+      "query": "site:senado.leg.br \"Flávio Bolsonaro\" PEC 32/2022 RQS 789 791 2022",
+      "executedAt": "2026-10-24T13:42:51.990Z",
+      "engine": "web.run, leitura de pronunciamentos originais",
+      "interval": "2022",
+      "resultsState": "Individualizados RQS 789, RQS 791 e orientação de 21/12; preservada diferença entre fases."
+    },
+    {
+      "id": "consulta-de47020e3afac578",
+      "batch": "legislativo-cpi-20261024-16",
+      "query": "site:senado.leg.br PL 5384/2020 \"Flávio Bolsonaro\" \"Emenda 8\" \"RQS 950\"",
+      "executedAt": "2026-10-24T13:42:51.990Z",
+      "engine": "web.run, ficha legislativa e painel nominal lidos",
+      "interval": "2023",
+      "resultsState": "Projeto da deputada Maria do Rosário, emenda 8 de Flávio, RQS 950 de Carlos Portinho, voto de Flávio registrado no requerimento; lei 14.723/2023."
+    },
+    {
+      "id": "consulta-10fe98fea503d804",
+      "batch": "legislativo-cpi-20261024-16",
+      "query": "site:tse.jus.br \"Resolução 23.714\" 2022",
+      "executedAt": "2026-10-24T13:42:51.990Z",
+      "engine": "web.run, legislação oficial TSE lida",
+      "interval": "2022",
+      "resultsState": "Texto HTML da resolução acessado como contexto normativo do PDL 371/2022, sem juízo de constitucionalidade."
+    },
+    {
+      "id": "consulta-ed8ec480bbb236f5",
+      "batch": "legislativo-cpi-20261024-16",
+      "query": "site:www12.senado.leg.br/noticias/materias/2021 \"Flávio Bolsonaro\" \"CPI\" \"Pazuello\" \"Covaxin\" \"Renan\"",
+      "executedAt": "2026-10-24T13:42:51.990Z",
+      "engine": "web.run, notícias institucionais e respostas públicas lidas",
+      "interval": "2021",
+      "resultsState": "Acessadas notícias de instalação da CPI, tratamento precoce, Pazuello, irmãos Miranda, testemunhas e manifestações divergentes de senadores."
+    },
+    {
+      "id": "consulta-7c70fd881f22bf28",
+      "batch": "legislativo-cpi-20261024-16",
+      "query": "site:agencialupa.org \"Flávio Bolsonaro\" \"Covaxin\" 2021; site:aosfatos.org \"Flávio Bolsonaro\" \"2022\" \"PEC\"; site:g1.globo.com/fato-ou-fake \"Flávio Bolsonaro\" \"CPI da Covid\" 2021",
+      "executedAt": "2026-10-24T13:42:51.990Z",
+      "engine": "web.run, pesquisa por checagens profissionais",
+      "interval": "2021–2022",
+      "resultsState": "Nenhuma nova checagem individual pertinente e efetivamente aberta neste recorte. Não importadas classificações de terceiros; cruzamento permanece pendente."
     },
     {
       "id": "consulta-cd2d8fb56b69a115",
@@ -43754,6 +45529,48 @@
       "batch": "contexto-provas-20261024-06"
     },
     {
+      "id": "lacuna-2b14223c05d3d8f3",
+      "note": "Ouvir e conferir em arquivos originais as falas parlamentares de 2021–2023; nesta etapa foram analisadas transcrições HTML e notícias institucionais, com zero segundos de áudio revisado.",
+      "state": "pendente",
+      "batch": "legislativo-cpi-20261024-16"
+    },
+    {
+      "id": "lacuna-c11be205d38214bc",
+      "note": "Abrir anexos PDF do DSF, emendas e documentos de votação antes de qualquer citação literal adicional ou comparação factual sobre o texto de emendas.",
+      "state": "pendente",
+      "batch": "legislativo-cpi-20261024-16"
+    },
+    {
+      "id": "lacuna-dae076934f1188ea",
+      "note": "Para RQS 789/2022, RQS 791/2022, RQS 950/2023 e PEC 1/2022, confrontar registros nominais, texto objeto e destaque antes de concluir mudança de posição ou contradição.",
+      "state": "pendente",
+      "batch": "legislativo-cpi-20261024-16"
+    },
+    {
+      "id": "lacuna-6ac4a340316ee75f",
+      "note": "Para controvérsias da CPI da Pandemia, abrir testemunhos completos, documentação de compras da Covaxin, decisões e desdobramentos posteriores, com contrapontos e revisão editorial humana.",
+      "state": "pendente",
+      "batch": "legislativo-cpi-20261024-16"
+    },
+    {
+      "id": "lacuna-956f65be38adc108",
+      "note": "Para PL 1829/2019, confirmar nomeação efetiva de relator antes de afirmar que Flávio exerceu a função; a fonte fala apenas de possibilidade.",
+      "state": "pendente",
+      "batch": "legislativo-cpi-20261024-16"
+    },
+    {
+      "id": "lacuna-56ba5bcde37f29a4",
+      "note": "Para PDL 371/2022, verificar situação posterior e alcance jurídico da Resolução TSE 23.714/2022; requerimento de urgência não é autoria do projeto.",
+      "state": "pendente",
+      "batch": "legislativo-cpi-20261024-16"
+    },
+    {
+      "id": "lacuna-c706e0f41dd17b77",
+      "note": "Buscar checagens independentes específicas dos eventos agora documentados, individualizando alegações e respostas, sem novo veredito até revisor autorizado.",
+      "state": "pendente",
+      "batch": "legislativo-cpi-20261024-16"
+    },
+    {
       "id": "lacuna-353f404620133cff",
       "note": "Localizar e reproduzir íntegras somente em revisão audiovisual própria.",
       "state": "pendente",
@@ -43977,6 +45794,24 @@
     }
   ],
   "references": [
+    {
+      "name": "Senado Federal, atividade parlamentar",
+      "url": "https://www25.senado.leg.br/web/atividade/",
+      "checked_at_utc": "2026-10-24T13:42:51.990Z",
+      "scope": "Transcrições institucionais, tramitação e painel nominal em HTML."
+    },
+    {
+      "name": "Agência Senado, cobertura institucional",
+      "url": "https://www12.senado.leg.br/noticias/",
+      "checked_at_utc": "2026-10-24T13:42:51.990Z",
+      "scope": "Notícias e relatos de contraditório nas sessões de 2021."
+    },
+    {
+      "name": "TSE, legislação compilada",
+      "url": "https://www.tse.jus.br/legislacao/compilada/",
+      "checked_at_utc": "2026-10-24T13:42:51.990Z",
+      "scope": "Resolução 23.714/2022 em HTML."
+    },
     {
       "name": "Checagem ao Vivo",
       "url": "https://checagemaovivo.org/",
