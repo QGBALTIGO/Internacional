@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T11:14:34.342601Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T11:20:15.258093Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-386 URLs únicas no lote; 368 ainda não vinculadas à edição anterior. 383 materiais acessados e 357 com texto analisado.
+402 URLs únicas no lote; 384 ainda não vinculadas à edição anterior. 399 materiais acessados e 374 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-15 vídeos e 5 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+17 vídeos e 5 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -35,9 +35,9 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2023 | 19 | 19 | 17 | 0 | 0 |
 | 2024 | 14 | 14 | 13 | 0 | 0 |
 | 2025 | 20 | 20 | 17 | 0 | 0 |
-| 2026 | 222 | 222 | 217 | 0 | 0 |
+| 2026 | 232 | 232 | 228 | 0 | 0 |
 
-Materiais sem data: 31. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
+Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
 ## Próximo lote
 
@@ -86,6 +86,9 @@ Materiais sem data: 31. Ausência de registros em um ano significa lacuna deste 
 - topic: CPI da Pandemia; note: Ler PDF integral do relatório aprovado e votos divergentes; checar andamento posterior junto às autoridades, mantendo pedidos de indiciamento distintos de decisões criminais.
 - topic: ALERJ; note: Repetir acesso oficial a fichas históricas apenas quando servidor responder; páginas indexadas com HTTP 502 não entram como documentos examinados.
 - topic: Publicação e testes; note: Executar build_research.py no workflow do repositório; confirmar que os 11 registros passam por normalização sem perda, testes e leitura do JSON persistido. Preservar dados recentes do coletor e não mudar approvedReviewerIds.
+- Localizar e reproduzir íntegras somente em revisão audiovisual própria.
+- Vincular declarações repetidas a núcleos já catalogados sem multiplicar a mesma proposição.
+- Abrir documentos anexos do TSE antes de resumir fundamentos além da notícia institucional.
 - Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.
 - Confirmar desfecho legislativo após comunicação de veto total ao PL 3003/2014.
 - Conferir Diários e gravações integrais antes de novas citações, timestamps, comparações ou vereditos; áudio ouvido nesta coleta: zero segundos.

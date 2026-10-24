@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T11:14:34.342601Z",
-    "inputHash": "75a1fe2aaafa0d61c51a99c93c5fdb3e3cf003727ae7c993fb510dc815d0993f",
+    "generatedAt": "2026-10-24T11:20:15.258093Z",
+    "inputHash": "6e647dfe7d26b021126868dbae3c7e6d9bcef5d41d27e2ea462ab0a89d8eec28",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -12166,6 +12166,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-740a050bff7115b3",
+      "title": "Ao vivo: Flávio antecipa live semanal",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-antecipa-live-semanal/",
+      "publisher": "Poder360",
+      "date": "2026-09-23",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "video",
+      "topic": "campanha 2026",
+      "topics": [
+        "campanha 2026",
+        "entrevista e declarações"
+      ],
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Ao vivo: Flávio antecipa live semanal. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Página e metadados acessados; mídia não reproduzida. Áudio revisado: 0 segundos.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-e24089d8c0bdeda6",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-010",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-467ef99194c60c49",
       "title": "Elefante abatido: imagem falsa usa reportagem como contexto",
       "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/imagem-de-flavio-bolsonaro-com-elefante-morto-foi-gerada-com-ia/",
@@ -12626,6 +12691,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-b7763a689dd20aa3",
+      "title": "Flávio Bolsonaro aborda combate ao crime organizado, ajuste fiscal e IA em entrevista à RECORD",
+      "url": "https://noticias.r7.com/eleicoes/2026/flavio-bolsonaro-aborda-combate-ao-crime-organizado-ajuste-fiscal-e-ia-em-entrevista-a-record-31082026/",
+      "publisher": "Record / R7",
+      "date": "2026-08-31",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "campanha 2026",
+      "topics": [
+        "campanha 2026",
+        "entrevista e declarações"
+      ],
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Flávio Bolsonaro aborda combate ao crime organizado, ajuste fiscal e IA em entrevista à RECORD. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-4315e33aeb7227ab",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-008",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-b56c14b6584b3d25",
       "title": "Entrevista a Mariana Godoy no Domingo Espetacular",
       "url": "https://record.r7.com/domingo-espetacular/video/assista-a-entrevista-exclusiva-da-record-com-flavio-bolsonaro-pl-candidato-a-presidencia-31082026/",
@@ -12637,16 +12767,18 @@
       "format": "video",
       "topic": "eleições",
       "topics": [
-        "eleições",
         "Dark Horse",
-        "segurança",
+        "campanha 2026",
+        "educação",
+        "eleições",
+        "entrevista e declarações",
         "saúde",
-        "educação"
+        "segurança"
       ],
-      "stage": "acessado",
-      "summary": "A página da emissora identifica entrevistadora e temas da entrevista exibida no domingo. O caminho da URL contém 31/08, enquanto o conteúdo da página informa 30/08; preserva-se a divergência.",
-      "limitations": "Data da gravação não confirmada; não confundir exibição com gravação.; Horário de atualização 22:07 aparece anterior à publicação 22:08.; Sem duração e sem áudio conferido.",
-      "locator": null,
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Assista à entrevista exclusiva da RECORD com Flávio Bolsonaro (PL), candidato à Presidência. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Página e metadados acessados; mídia não reproduzida. Áudio revisado: 0 segundos.",
+      "locator": "Página integral acessada no publicador.",
       "sourceId": "fonte-cd19e6197d9bdf02",
       "review": {
         "state": "aguardando revisão editorial",
@@ -12664,7 +12796,7 @@
         "endSeconds": null
       },
       "durationSeconds": null,
-      "collectedAt": "2026-10-24T03:39:49Z",
+      "collectedAt": "2026-10-24T11:19:52.714Z",
       "lastModifiedAt": "2026-10-24T03:39:49Z",
       "editorialClassification": null,
       "sourceConclusion": null,
@@ -12688,9 +12820,14 @@
           "batch": "audiovisual",
           "inputId": "av-record-20260830",
           "toolReference": null
+        },
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-007",
+          "toolReference": null
         }
       ],
-      "accessMethod": "",
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
       "newToArchive": true
     },
     {
@@ -13155,6 +13292,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-55decc201e51720d",
+      "title": "Flávio diz que aceitará resultado das urnas e defende que preso trabalhe | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-aceitara-resultado-das-urnas-e-defende-que-preso-trabalhe/",
+      "publisher": "CNN Brasil",
+      "date": "2026-08-02",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "campanha 2026",
+      "topics": [
+        "campanha 2026",
+        "entrevista e declarações"
+      ],
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Flávio diz que aceitará resultado das urnas e defende que preso trabalhe | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-013",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-13a9d882f7319a6a",
       "title": "Publicações usam vídeo de abril da GloboNews para distorcer resultados do Datafolha",
       "url": "https://checamos.afp.com/doc.afp.com.C3BV8T6",
@@ -13212,6 +13414,71 @@
         {
           "batch": "lupa-afp-2025-2026-20261024-12",
           "inputId": "lupa-afp-2025-2026-20261024-12-014",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-172c154f4590da6b",
+      "title": "Assista ao vivo ao lançamento da candidatura de Flávio Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/assista-ao-vivo-ao-lancamento-da-candidatura-de-flavio-bolsonaro/",
+      "publisher": "Poder360",
+      "date": "2026-07-25",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "video",
+      "topic": "campanha 2026",
+      "topics": [
+        "campanha 2026",
+        "entrevista e declarações"
+      ],
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Assista ao vivo ao lançamento da candidatura de Flávio Bolsonaro. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Página e metadados acessados; mídia não reproduzida. Áudio revisado: 0 segundos.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-e24089d8c0bdeda6",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-009",
           "toolReference": null
         }
       ],
@@ -13936,6 +14203,266 @@
       "newToArchive": false
     },
     {
+      "id": "pesquisa-be91199eecdcebc4",
+      "title": "À CNN, Flávio diz que usará IA para fiscalizar dinheiro público | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-flavio-diz-que-usara-ia-para-fiscalizar-dinheiro-publico/",
+      "publisher": "CNN Brasil",
+      "date": "2026-05-08",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "campanha 2026",
+      "topics": [
+        "campanha 2026",
+        "entrevista e declarações"
+      ],
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: À CNN, Flávio diz que usará IA para fiscalizar dinheiro público | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-012",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-b7f7f3e32319084e",
+      "title": "Flávio à CNN: \"Bolsonaro terá cargo no meu governo se ele quiser\" | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-a-cnn-bolsonaro-tera-cargo-no-meu-governo-se-ele-quiser/",
+      "publisher": "CNN Brasil",
+      "date": "2026-05-08",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "campanha 2026",
+      "topics": [
+        "campanha 2026",
+        "entrevista e declarações"
+      ],
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Flávio à CNN: \"Bolsonaro terá cargo no meu governo se ele quiser\" | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-015",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-b24b23af1067d311",
+      "title": "À CNN, Flávio diz que \"mudar salário mínimo é fake news de campanha\" | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-flavio-diz-que-mudar-salario-minimo-e-fake-news-de-campanha/",
+      "publisher": "CNN Brasil",
+      "date": "2026-05-08",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "campanha 2026",
+      "topics": [
+        "campanha 2026",
+        "entrevista e declarações"
+      ],
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: À CNN, Flávio diz que \"mudar salário mínimo é fake news de campanha\" | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-011",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-555fff7d36543214",
+      "title": "À CNN, Flávio diz que \"dívida crescer R$ 7,2 bilhões por dia é insanidade\" | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-flavio-diz-que-divida-crescer-r-72-bilhoes-por-dia-e-insanidade/",
+      "publisher": "CNN Brasil",
+      "date": "2026-05-08",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "campanha 2026",
+      "topics": [
+        "campanha 2026",
+        "entrevista e declarações"
+      ],
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: À CNN, Flávio diz que \"dívida crescer R$ 7,2 bilhões por dia é insanidade\" | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-014",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-cc6a8299719a3356",
       "title": "É falso que Flávio Bolsonaro disse que aumentará idade da aposentadoria e cortará direitos trabalhistas no Rio Grande do Sul",
       "url": "https://checamos.afp.com/doc.afp.com.A8EY39E",
@@ -14195,6 +14722,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-c03e9884ca4c82ed",
+      "title": "“O filme da minha vida mostra que não sou radical”, diz Flávio Bolsonaro | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/o-filme-da-minha-vida-mostra-que-nao-sou-radical-diz-flavio-bolsonaro/",
+      "publisher": "CNN Brasil",
+      "date": "2026-04-06",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "campanha 2026",
+      "topics": [
+        "campanha 2026",
+        "entrevista e declarações"
+      ],
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: “O filme da minha vida mostra que não sou radical”, diz Flávio Bolsonaro | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-016",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-1c5d373e9f83e2b7",
       "title": "Desfecho da CPMI do INSS e relatório alternativo",
       "url": "https://www12.senado.leg.br/noticias/videos/2026/03/cpmi-do-inss-termina-com-dois-relatorios-um-foi-rejeitado-o-outro-nao-foi-a-voto",
@@ -14257,6 +14849,71 @@
         }
       ],
       "accessMethod": "",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-b3fe3efbefefe3d8",
+      "title": "Flávio diz que será candidato mesmo se Bolsonaro reverter inelegibilidade | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-sera-candidato-mesmo-se-bolsonaro-reverter-inelegibilidade/",
+      "publisher": "CNN Brasil",
+      "date": "2026-03-24",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "campanha 2026",
+      "topics": [
+        "campanha 2026",
+        "entrevista e declarações"
+      ],
+      "stage": "analisado",
+      "summary": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Flávio diz que será candidato mesmo se Bolsonaro reverter inelegibilidade | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-017",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
       "newToArchive": true
     },
     {
@@ -23640,6 +24297,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-dd437217e081db44",
+      "title": "Corregedor eleitoral proíbe Nikolas e Marçal de voltar a divulgar conteúdos proibidos pelo TSE",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/corregedor-eleitoral-proibe-nikolas-e-marcal-de-voltar-a-divulgar-conteudos-proibidos-pelo-tse",
+      "publisher": "Tribunal Superior Eleitoral",
+      "date": null,
+      "eventDate": null,
+      "year": null,
+      "datePrecision": "unknown",
+      "format": "documento",
+      "topic": "Justiça Eleitoral",
+      "topics": [
+        "Justiça Eleitoral",
+        "eleições 2026"
+      ],
+      "stage": "analisado",
+      "summary": "Registro institucional do TSE: Corregedor eleitoral proíbe Nikolas e Marçal de voltar a divulgar conteúdos proibidos pelo TSE. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Tribunal Superior Eleitoral",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-006",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-d69cbd162d56a152",
       "title": "Entrevista com presidenciável no segundo turno de 2026",
       "url": "https://globoplay.globo.com/v/15097357/",
@@ -23829,6 +24551,136 @@
       ],
       "accessMethod": "",
       "newToArchive": false
+    },
+    {
+      "id": "pesquisa-c946366b6589be71",
+      "title": "Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+      "publisher": "Tribunal Superior Eleitoral",
+      "date": null,
+      "eventDate": null,
+      "year": null,
+      "datePrecision": "unknown",
+      "format": "documento",
+      "topic": "Justiça Eleitoral",
+      "topics": [
+        "Justiça Eleitoral",
+        "eleições 2026"
+      ],
+      "stage": "analisado",
+      "summary": "Registro institucional do TSE: Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Tribunal Superior Eleitoral",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-001",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-c779caacb6ab6178",
+      "title": "TSE pede informações complementares antes de analisar ação de Flávio Bolsonaro contra Lula e Alckmin",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-pede-informacoes-complementares-antes-de-analisar-acao-de-flavio-bolsonaro-contra-lula-e-alckmin",
+      "publisher": "Tribunal Superior Eleitoral",
+      "date": null,
+      "eventDate": null,
+      "year": null,
+      "datePrecision": "unknown",
+      "format": "documento",
+      "topic": "Justiça Eleitoral",
+      "topics": [
+        "Justiça Eleitoral",
+        "eleições 2026"
+      ],
+      "stage": "analisado",
+      "summary": "Registro institucional do TSE: TSE pede informações complementares antes de analisar ação de Flávio Bolsonaro contra Lula e Alckmin. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Tribunal Superior Eleitoral",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-002",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
     },
     {
       "id": "pesquisa-ba41ba2f8b83c985",
@@ -24538,6 +25390,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-6ef80c192171e9a1",
+      "title": "TSE valida seis registros de candidatura à Presidência da República",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+      "publisher": "Tribunal Superior Eleitoral",
+      "date": null,
+      "eventDate": null,
+      "year": null,
+      "datePrecision": "unknown",
+      "format": "documento",
+      "topic": "Justiça Eleitoral",
+      "topics": [
+        "Justiça Eleitoral",
+        "eleições 2026"
+      ],
+      "stage": "analisado",
+      "summary": "Registro institucional do TSE: TSE valida seis registros de candidatura à Presidência da República. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Tribunal Superior Eleitoral",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-003",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-6cf0b60b9a8ed77d",
       "title": "Índice de pronunciamentos de 2026",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/parlamentar/5894",
@@ -25065,6 +25982,71 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-2f32091650b85ccd",
+      "title": "Publicação eleitoral com trecho ilícito pode ser removida por inteiro, decide TSE",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/publicacao-eleitoral-com-trecho-ilicito-pode-ser-removida-por-inteiro-decide-tse",
+      "publisher": "Tribunal Superior Eleitoral",
+      "date": null,
+      "eventDate": null,
+      "year": null,
+      "datePrecision": "unknown",
+      "format": "documento",
+      "topic": "Justiça Eleitoral",
+      "topics": [
+        "Justiça Eleitoral",
+        "eleições 2026"
+      ],
+      "stage": "analisado",
+      "summary": "Registro institucional do TSE: Publicação eleitoral com trecho ilícito pode ser removida por inteiro, decide TSE. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Tribunal Superior Eleitoral",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-004",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-1e2b377ae4959550",
       "title": "TSE determina reexibição de propaganda eleitoral do candidato Flávio Bolsonaro (PL)",
       "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-determina-reexibicao-de-propaganda-eleitoral-do-candidato-flavio-bolsonaro-pl",
@@ -25329,6 +26311,71 @@
       ],
       "accessMethod": "",
       "newToArchive": false
+    },
+    {
+      "id": "pesquisa-0f9e0388eb417b16",
+      "title": "Ministros da propaganda dialogam com campanhas presidenciais sobre desinformação e judicialização eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/ministros-da-propaganda-dialogam-com-campanhas-presidenciais-sobre-desinformacao-e-judicializacao-eleitoral",
+      "publisher": "Tribunal Superior Eleitoral",
+      "date": null,
+      "eventDate": null,
+      "year": null,
+      "datePrecision": "unknown",
+      "format": "documento",
+      "topic": "Justiça Eleitoral",
+      "topics": [
+        "Justiça Eleitoral",
+        "eleições 2026"
+      ],
+      "stage": "analisado",
+      "summary": "Registro institucional do TSE: Ministros da propaganda dialogam com campanhas presidenciais sobre desinformação e judicialização eleitoral. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "limitations": "Texto público acessado; links e anexos citados não são tratados como examinados sem abertura própria.",
+      "locator": "Página integral acessada no publicador.",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-24T11:19:52.714Z",
+      "lastModifiedAt": "2026-10-24T11:19:52.714Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Tribunal Superior Eleitoral",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "midias-tse-20261024-13",
+          "inputId": "midias-tse-20261024-13-005",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
     },
     {
       "id": "pesquisa-0d871bcbe104d929",
@@ -25607,10 +26654,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T09:28:22.752Z",
+      "lastConsultedAt": "2026-10-24T11:19:52.714Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 1,
+      "sourceCount": 8,
       "periods": [
         2026
       ],
@@ -25618,8 +26665,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 1,
-      "analysedCount": 1
+      "accessedCount": 8,
+      "analysedCount": 8
     },
     {
       "id": "fonte-ad60f42b08c8e9e7",
@@ -25901,6 +26948,29 @@
       "analysedCount": 20
     },
     {
+      "id": "fonte-e24089d8c0bdeda6",
+      "name": "Poder360",
+      "url": "https://www.poder360.com.br/",
+      "responsible": "Poder360",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-24T11:19:52.714Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 2,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "video"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 2,
+      "analysedCount": 2
+    },
+    {
       "id": "fonte-a55f10b8449ffda6",
       "name": "Projeto Comprova",
       "url": "https://projetocomprova.com.br/",
@@ -25933,7 +27003,7 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T03:39:49Z",
+      "lastConsultedAt": "2026-10-24T11:19:52.714Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
       "sourceCount": 1,
@@ -25945,7 +27015,49 @@
       ],
       "monitoringEnabled": false,
       "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-2529269a89310074",
+      "name": "Record / R7",
+      "url": "https://record.r7.com/",
+      "responsible": "Record / R7",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": null,
+      "accessNote": "Resultado localizado; o material ainda não foi acessado.",
+      "status": "localizada, acesso pendente",
+      "sourceCount": 0,
+      "periods": [],
+      "formats": [],
+      "monitoringEnabled": false,
+      "accessedCount": 0,
       "analysedCount": 0
+    },
+    {
+      "id": "fonte-4315e33aeb7227ab",
+      "name": "Record / R7",
+      "url": "https://noticias.r7.com/",
+      "responsible": "Record / R7",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-24T11:19:52.714Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
     },
     {
       "id": "fonte-acd142e42207ecb8",
@@ -26109,10 +27221,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T11:14:02.380Z",
+      "lastConsultedAt": "2026-10-24T11:19:52.714Z",
       "accessNote": "Coleta indisponível (HTTPError); itens anteriores preservados",
       "status": "falha de coleta",
-      "sourceCount": 14,
+      "sourceCount": 20,
       "periods": [
         2023,
         2026
@@ -26121,8 +27233,8 @@
         "documento"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 14,
-      "analysedCount": 14
+      "accessedCount": 20,
+      "analysedCount": 20
     },
     {
       "id": "fonte-f1199c02c1d5a933",
@@ -26292,6 +27404,31 @@
       }
     },
     {
+      "id": "pesquisa-740a050bff7115b3",
+      "title": "Ao vivo: Flávio antecipa live semanal",
+      "type": "video",
+      "provider": "Poder360",
+      "publisher": "Poder360",
+      "sourceUrl": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-antecipa-live-semanal/",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-antecipa-live-semanal/",
+      "date": "2026-09-23",
+      "youtubeId": null,
+      "description": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Ao vivo: Flávio antecipa live semanal. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Página e metadados acessados; mídia não reproduzida. Áudio revisado: 0 segundos.",
+      "researchItemId": "pesquisa-740a050bff7115b3",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
       "id": "pesquisa-b56c14b6584b3d25",
       "title": "Entrevista a Mariana Godoy no Domingo Espetacular",
       "type": "video",
@@ -26301,15 +27438,40 @@
       "url": "https://record.r7.com/domingo-espetacular/video/assista-a-entrevista-exclusiva-da-record-com-flavio-bolsonaro-pl-candidato-a-presidencia-31082026/",
       "date": "2026-08-30",
       "youtubeId": null,
-      "description": "A página da emissora identifica entrevistadora e temas da entrevista exibida no domingo. O caminho da URL contém 31/08, enquanto o conteúdo da página informa 30/08; preserva-se a divergência.",
+      "description": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Assista à entrevista exclusiva da RECORD com Flávio Bolsonaro (PL), candidato à Presidência. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
       "people": [
         "flavio"
       ],
       "role": "Material catalogado",
       "durationSeconds": null,
       "reviewState": "aguardando revisão",
-      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Data da gravação não confirmada; não confundir exibição com gravação.; Horário de atualização 22:07 aparece anterior à publicação 22:08.; Sem duração e sem áudio conferido.",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Página e metadados acessados; mídia não reproduzida. Áudio revisado: 0 segundos.",
       "researchItemId": "pesquisa-b56c14b6584b3d25",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-172c154f4590da6b",
+      "title": "Assista ao vivo ao lançamento da candidatura de Flávio Bolsonaro",
+      "type": "video",
+      "provider": "Poder360",
+      "publisher": "Poder360",
+      "sourceUrl": "https://www.poder360.com.br/poder-eleicoes-2026/assista-ao-vivo-ao-lancamento-da-candidatura-de-flavio-bolsonaro/",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/assista-ao-vivo-ao-lancamento-da-candidatura-de-flavio-bolsonaro/",
+      "date": "2026-07-25",
+      "youtubeId": null,
+      "description": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Assista ao vivo ao lançamento da candidatura de Flávio Bolsonaro. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Página e metadados acessados; mídia não reproduzida. Áudio revisado: 0 segundos.",
+      "researchItemId": "pesquisa-172c154f4590da6b",
       "review": {
         "state": "aguardando revisão editorial",
         "reviewer": null,
@@ -28375,6 +29537,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-39e607ce570bb0e6",
+      "itemId": "pesquisa-740a050bff7115b3",
+      "title": "Ao vivo: Flávio antecipa live semanal",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Ao vivo: Flávio antecipa live semanal. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-8cdbe84f062ede33",
       "itemId": "pesquisa-467ef99194c60c49",
       "title": "Elefante abatido: imagem falsa usa reportagem como contexto",
@@ -28438,12 +29609,21 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-8f7c5b99e7d8b172",
+      "itemId": "pesquisa-b7763a689dd20aa3",
+      "title": "Flávio Bolsonaro aborda combate ao crime organizado, ajuste fiscal e IA em entrevista à RECORD",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Flávio Bolsonaro aborda combate ao crime organizado, ajuste fiscal e IA em entrevista à RECORD. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-818980635512495c",
       "itemId": "pesquisa-b56c14b6584b3d25",
       "title": "Entrevista a Mariana Godoy no Domingo Espetacular",
       "date": null,
       "datePrecision": "unknown",
-      "context": "A página da emissora identifica entrevistadora e temas da entrevista exibida no domingo. O caminho da URL contém 31/08, enquanto o conteúdo da página informa 30/08; preserva-se a divergência.",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Assista à entrevista exclusiva da RECORD com Flávio Bolsonaro (PL), candidato à Presidência. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
       "state": "identificação de evento pendente"
     },
     {
@@ -28510,12 +29690,30 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-b910f62034336de6",
+      "itemId": "pesquisa-55decc201e51720d",
+      "title": "Flávio diz que aceitará resultado das urnas e defende que preso trabalhe | CNN Brasil",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Flávio diz que aceitará resultado das urnas e defende que preso trabalhe | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-a4bf9dfba2df3f36",
       "itemId": "pesquisa-13a9d882f7319a6a",
       "title": "Publicações usam vídeo de abril da GloboNews para distorcer resultados do Datafolha",
       "date": null,
       "datePrecision": "unknown",
       "context": "Material de AFP Checamos relacionado a Flávio Bolsonaro: Publicações usam vídeo de abril da GloboNews para distorcer resultados do Datafolha. Rótulos, conclusões e correções permanecem atribuídos ao publicador; o Arquivo não cria nova classificação editorial a partir desta coleta.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-d2d4db1e97a22a0b",
+      "itemId": "pesquisa-172c154f4590da6b",
+      "title": "Assista ao vivo ao lançamento da candidatura de Flávio Bolsonaro",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Assista ao vivo ao lançamento da candidatura de Flávio Bolsonaro. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
       "state": "identificação de evento pendente"
     },
     {
@@ -28618,6 +29816,42 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-40a4f808de9c66bd",
+      "itemId": "pesquisa-be91199eecdcebc4",
+      "title": "À CNN, Flávio diz que usará IA para fiscalizar dinheiro público | CNN Brasil",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: À CNN, Flávio diz que usará IA para fiscalizar dinheiro público | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-ba47167bf327ab75",
+      "itemId": "pesquisa-b7f7f3e32319084e",
+      "title": "Flávio à CNN: \"Bolsonaro terá cargo no meu governo se ele quiser\" | CNN Brasil",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Flávio à CNN: \"Bolsonaro terá cargo no meu governo se ele quiser\" | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-ab7c5a2f6e091d6e",
+      "itemId": "pesquisa-b24b23af1067d311",
+      "title": "À CNN, Flávio diz que \"mudar salário mínimo é fake news de campanha\" | CNN Brasil",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: À CNN, Flávio diz que \"mudar salário mínimo é fake news de campanha\" | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-787b87f27c82070b",
+      "itemId": "pesquisa-555fff7d36543214",
+      "title": "À CNN, Flávio diz que \"dívida crescer R$ 7,2 bilhões por dia é insanidade\" | CNN Brasil",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: À CNN, Flávio diz que \"dívida crescer R$ 7,2 bilhões por dia é insanidade\" | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-d098bd33d332d75f",
       "itemId": "pesquisa-cc6a8299719a3356",
       "title": "É falso que Flávio Bolsonaro disse que aumentará idade da aposentadoria e cortará direitos trabalhistas no Rio Grande do Sul",
@@ -28654,12 +29888,30 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-389e82e7a5b992c7",
+      "itemId": "pesquisa-c03e9884ca4c82ed",
+      "title": "“O filme da minha vida mostra que não sou radical”, diz Flávio Bolsonaro | CNN Brasil",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: “O filme da minha vida mostra que não sou radical”, diz Flávio Bolsonaro | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-0d75a81ebb851948",
       "itemId": "pesquisa-1c5d373e9f83e2b7",
       "title": "Desfecho da CPMI do INSS e relatório alternativo",
       "date": null,
       "datePrecision": "unknown",
       "context": "Página oficial informa que relatório alternativo mencionava Flávio, mas não foi votado. Isso precisa ficar separado de indiciamento aprovado ou conclusão judicial, que o registro não demonstra.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-88cb261f3776decb",
+      "itemId": "pesquisa-b3fe3efbefefe3d8",
+      "title": "Flávio diz que será candidato mesmo se Bolsonaro reverter inelegibilidade | CNN Brasil",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Flávio diz que será candidato mesmo se Bolsonaro reverter inelegibilidade | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
       "state": "identificação de evento pendente"
     },
     {
@@ -29950,6 +31202,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-b3832ad78642455c",
+      "itemId": "pesquisa-dd437217e081db44",
+      "title": "Corregedor eleitoral proíbe Nikolas e Marçal de voltar a divulgar conteúdos proibidos pelo TSE",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro institucional do TSE: Corregedor eleitoral proíbe Nikolas e Marçal de voltar a divulgar conteúdos proibidos pelo TSE. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-337a22008c016535",
       "itemId": "pesquisa-d69cbd162d56a152",
       "title": "Entrevista com presidenciável no segundo turno de 2026",
@@ -29974,6 +31235,24 @@
       "date": null,
       "datePrecision": "unknown",
       "context": "",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-8bf5faf12dd286f8",
+      "itemId": "pesquisa-c946366b6589be71",
+      "title": "Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro institucional do TSE: Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-2d148f72543b010b",
+      "itemId": "pesquisa-c779caacb6ab6178",
+      "title": "TSE pede informações complementares antes de analisar ação de Flávio Bolsonaro contra Lula e Alckmin",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro institucional do TSE: TSE pede informações complementares antes de analisar ação de Flávio Bolsonaro contra Lula e Alckmin. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
       "state": "identificação de evento pendente"
     },
     {
@@ -30076,6 +31355,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-037a5c1af0078284",
+      "itemId": "pesquisa-6ef80c192171e9a1",
+      "title": "TSE valida seis registros de candidatura à Presidência da República",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro institucional do TSE: TSE valida seis registros de candidatura à Presidência da República. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-a3c3cea8bddbda94",
       "itemId": "pesquisa-6cf0b60b9a8ed77d",
       "title": "Índice de pronunciamentos de 2026",
@@ -30148,6 +31436,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-afb3606d335df61e",
+      "itemId": "pesquisa-2f32091650b85ccd",
+      "title": "Publicação eleitoral com trecho ilícito pode ser removida por inteiro, decide TSE",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro institucional do TSE: Publicação eleitoral com trecho ilícito pode ser removida por inteiro, decide TSE. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-40aff986b0a72a59",
       "itemId": "pesquisa-1e2b377ae4959550",
       "title": "TSE determina reexibição de propaganda eleitoral do candidato Flávio Bolsonaro (PL)",
@@ -30181,6 +31478,15 @@
       "date": null,
       "datePrecision": "unknown",
       "context": "Título e descrição recuperados identificam entrevista apresentada como íntegra sobre pré-candidatura e possível atuação de Jair em eventual governo. Página aberta retornou texto muito limitado.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-2d295743e94cd0b4",
+      "itemId": "pesquisa-0f9e0388eb417b16",
+      "title": "Ministros da propaganda dialogam com campanhas presidenciais sobre desinformação e judicialização eleitoral",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Registro institucional do TSE: Ministros da propaganda dialogam com campanhas presidenciais sobre desinformação e judicialização eleitoral. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
       "state": "identificação de evento pendente"
     },
     {
@@ -35264,6 +36570,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-39e607ce570bb0e6",
+      "itemId": "pesquisa-740a050bff7115b3",
+      "sourceId": "fonte-e24089d8c0bdeda6",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-antecipa-live-semanal/",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-8cdbe84f062ede33",
       "itemId": "pesquisa-467ef99194c60c49",
       "sourceId": "fonte-a55f10b8449ffda6",
@@ -35341,11 +36658,22 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-8f7c5b99e7d8b172",
+      "itemId": "pesquisa-b7763a689dd20aa3",
+      "sourceId": "fonte-4315e33aeb7227ab",
+      "url": "https://noticias.r7.com/eleicoes/2026/flavio-bolsonaro-aborda-combate-ao-crime-organizado-ajuste-fiscal-e-ia-em-entrevista-a-record-31082026/",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-818980635512495c",
       "itemId": "pesquisa-b56c14b6584b3d25",
       "sourceId": "fonte-cd19e6197d9bdf02",
       "url": "https://record.r7.com/domingo-espetacular/video/assista-a-entrevista-exclusiva-da-record-com-flavio-bolsonaro-pl-candidato-a-presidencia-31082026/",
-      "locator": null,
+      "locator": "Página integral acessada no publicador.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -35429,11 +36757,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-b910f62034336de6",
+      "itemId": "pesquisa-55decc201e51720d",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-aceitara-resultado-das-urnas-e-defende-que-preso-trabalhe/",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-a4bf9dfba2df3f36",
       "itemId": "pesquisa-13a9d882f7319a6a",
       "sourceId": "fonte-875b77e7aba40e8b",
       "url": "https://checamos.afp.com/doc.afp.com.C3BV8T6",
       "locator": "Página integral acessada; detalhes e documentos vinculados permanecem no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-d2d4db1e97a22a0b",
+      "itemId": "pesquisa-172c154f4590da6b",
+      "sourceId": "fonte-e24089d8c0bdeda6",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/assista-ao-vivo-ao-lancamento-da-candidatura-de-flavio-bolsonaro/",
+      "locator": "Página integral acessada no publicador.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -35561,6 +36911,50 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-40a4f808de9c66bd",
+      "itemId": "pesquisa-be91199eecdcebc4",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-flavio-diz-que-usara-ia-para-fiscalizar-dinheiro-publico/",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ba47167bf327ab75",
+      "itemId": "pesquisa-b7f7f3e32319084e",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-a-cnn-bolsonaro-tera-cargo-no-meu-governo-se-ele-quiser/",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ab7c5a2f6e091d6e",
+      "itemId": "pesquisa-b24b23af1067d311",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-flavio-diz-que-mudar-salario-minimo-e-fake-news-de-campanha/",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-787b87f27c82070b",
+      "itemId": "pesquisa-555fff7d36543214",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-flavio-diz-que-divida-crescer-r-72-bilhoes-por-dia-e-insanidade/",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-d098bd33d332d75f",
       "itemId": "pesquisa-cc6a8299719a3356",
       "sourceId": "fonte-875b77e7aba40e8b",
@@ -35605,11 +36999,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-389e82e7a5b992c7",
+      "itemId": "pesquisa-c03e9884ca4c82ed",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/o-filme-da-minha-vida-mostra-que-nao-sou-radical-diz-flavio-bolsonaro/",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-0d75a81ebb851948",
       "itemId": "pesquisa-1c5d373e9f83e2b7",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/videos/2026/03/cpmi-do-inss-termina-com-dois-relatorios-um-foi-rejeitado-o-outro-nao-foi-a-voto",
       "locator": null,
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-88cb261f3776decb",
+      "itemId": "pesquisa-b3fe3efbefefe3d8",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-sera-candidato-mesmo-se-bolsonaro-reverter-inelegibilidade/",
+      "locator": "Página integral acessada no publicador.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -37189,6 +38605,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-b3832ad78642455c",
+      "itemId": "pesquisa-dd437217e081db44",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/corregedor-eleitoral-proibe-nikolas-e-marcal-de-voltar-a-divulgar-conteudos-proibidos-pelo-tse",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-337a22008c016535",
       "itemId": "pesquisa-d69cbd162d56a152",
       "sourceId": "fonte-f4bf17de55c94544",
@@ -37216,6 +38643,28 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/videos/2020/06/pelo-twitter-flavio-bolsonaro-se-manifesta-sobre-prisao-de-seu-ex-assessor",
       "locator": null,
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-8bf5faf12dd286f8",
+      "itemId": "pesquisa-c946366b6589be71",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-2d148f72543b010b",
+      "itemId": "pesquisa-c779caacb6ab6178",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-pede-informacoes-complementares-antes-de-analisar-acao-de-flavio-bolsonaro-contra-lula-e-alckmin",
+      "locator": "Página integral acessada no publicador.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -37343,6 +38792,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-037a5c1af0078284",
+      "itemId": "pesquisa-6ef80c192171e9a1",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-valida-seis-registros-de-candidatura-a-presidencia-da-republica",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-a3c3cea8bddbda94",
       "itemId": "pesquisa-6cf0b60b9a8ed77d",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -37431,6 +38891,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-afb3606d335df61e",
+      "itemId": "pesquisa-2f32091650b85ccd",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/publicacao-eleitoral-com-trecho-ilicito-pode-ser-removida-por-inteiro-decide-tse",
+      "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-40aff986b0a72a59",
       "itemId": "pesquisa-1e2b377ae4959550",
       "sourceId": "fonte-d17e0097bbcd6c10",
@@ -37469,6 +38940,17 @@
       "sourceId": "fonte-bcd42719cf244712",
       "url": "https://www.youtube.com/watch?v=FyNjbERRbLA",
       "locator": null,
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-2d295743e94cd0b4",
+      "itemId": "pesquisa-0f9e0388eb417b16",
+      "sourceId": "fonte-d17e0097bbcd6c10",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/ministros-da-propaganda-dialogam-com-campanhas-presidenciais-sobre-desinformacao-e-judicializacao-eleitoral",
+      "locator": "Página integral acessada no publicador.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -38169,15 +39651,15 @@
     },
     {
       "year": 2026,
-      "found": 222,
-      "accessed": 222,
-      "analysed": 217,
+      "found": 232,
+      "accessed": 232,
+      "analysed": 228,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
-        "acessado": 5,
-        "analisado": 217,
+        "acessado": 4,
+        "analisado": 228,
         "revisado": 0,
         "publicado": 0
       },
@@ -38203,6 +39685,7 @@
         "live": 1,
         "inteligência artificial": 4,
         "religião": 2,
+        "campanha 2026": 10,
         "meio ambiente": 1,
         "STF": 2,
         "banco-master": 2,
@@ -38231,17 +39714,19 @@
         "fonte-d17e0097bbcd6c10": 1,
         "fonte-2acd9e7dc92e583a": 5,
         "fonte-63c50c68422ef210": 1,
+        "fonte-e24089d8c0bdeda6": 2,
+        "fonte-4315e33aeb7227ab": 1,
         "fonte-cd19e6197d9bdf02": 1,
+        "fonte-7d7b950bffc2fe29": 8,
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
         "fonte-2837db98d9bb5569": 1,
-        "fonte-29a2bae5277f274b": 1,
-        "fonte-7d7b950bffc2fe29": 1
+        "fonte-29a2bae5277f274b": 1
       },
       "formats": {
-        "video": 4,
+        "video": 6,
         "checagem": 201,
-        "reportagem": 8,
+        "reportagem": 16,
         "registro": 2,
         "documento": 5,
         "audio": 2
@@ -38250,11 +39735,11 @@
     }
   ],
   "metrics": {
-    "newItems": 368,
-    "items": 386,
+    "newItems": 384,
+    "items": 402,
     "alreadyInArchive": 18,
-    "accessed": 383,
-    "analysed": 357,
+    "accessed": 399,
+    "analysed": 374,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -38262,17 +39747,17 @@
     "statementCandidates": 186,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 35,
-    "sourcesConsulted": 31,
-    "video": 15,
+    "sources": 38,
+    "sourcesConsulted": 33,
+    "video": 17,
     "audio": 5,
-    "documents": 93,
+    "documents": 99,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 96,
+    "queryCount": 97,
     "accessFailures": 17,
-    "undatedItems": 31
+    "undatedItems": 37
   },
   "queries": [
     {
@@ -38679,6 +40164,15 @@
       "engine": "web e abertura direta",
       "interval": null,
       "resultsState": "17 páginas efetivamente acessadas."
+    },
+    {
+      "id": "consulta-1adb1990bf5e0d85",
+      "batch": "midias-tse-20261024-13",
+      "query": "Flávio Bolsonaro entrevistas mídias TSE 2026",
+      "executedAt": "2026-10-24",
+      "engine": "web e abertura direta",
+      "interval": null,
+      "resultsState": "17 páginas acessadas."
     },
     {
       "id": "consulta-d795f39012394a01",
@@ -39561,6 +41055,24 @@
       "note": "topic: Publicação e testes; note: Executar build_research.py no workflow do repositório; confirmar que os 11 registros passam por normalização sem perda, testes e leitura do JSON persistido. Preservar dados recentes do coletor e não mudar approvedReviewerIds.",
       "state": "pendente",
       "batch": "contexto-provas-20261024-06"
+    },
+    {
+      "id": "lacuna-353f404620133cff",
+      "note": "Localizar e reproduzir íntegras somente em revisão audiovisual própria.",
+      "state": "pendente",
+      "batch": "midias-tse-20261024-13"
+    },
+    {
+      "id": "lacuna-f76b29ef25542d75",
+      "note": "Vincular declarações repetidas a núcleos já catalogados sem multiplicar a mesma proposição.",
+      "state": "pendente",
+      "batch": "midias-tse-20261024-13"
+    },
+    {
+      "id": "lacuna-d993f5ca47185d39",
+      "note": "Abrir documentos anexos do TSE antes de resumir fundamentos além da notícia institucional.",
+      "state": "pendente",
+      "batch": "midias-tse-20261024-13"
     },
     {
       "id": "lacuna-d791a02351ceee92",
