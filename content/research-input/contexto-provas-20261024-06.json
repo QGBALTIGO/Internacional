@@ -1,0 +1,413 @@
+{
+  "schema_version": 1,
+  "batch_id": "contexto-provas-20261024-06",
+  "collected_at_utc": "2026-10-24T09:28:22.752Z",
+  "collection_date": "2026-10-24",
+  "scope": "Avanço em votação nominal, atos da CPI e Conselho de Ética, respostas públicas e duas checagens que refutam atribuições feitas por terceiros. Fonte acessada não implica conclusão editorial própria.",
+  "method": "Abertura direta das páginas HTML, buscas web para descoberta e cotejo com as fontes oficiais vinculadas quando acessíveis. Horário de cada abertura não foi medido; collected_at_utc é o horário real da gravação deste checkpoint. PDF e audiovisual não foram abertos/reproduzidos. Não houve contato com pessoas ou instituições.",
+  "editorialClassification": null,
+  "reviewer": null,
+  "reviewedAt": null,
+  "reviewed_audio_seconds": 0,
+  "records": [
+    {
+      "id": "lote06-plp137-votacao",
+      "publisher": "Congresso Nacional",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": null,
+      "short_quote": null,
+      "access_method": "HTML público consultado diretamente via navegador web em 24/10/2026; sem reprodução de áudio/vídeo e sem análise de PDFs vinculados.",
+      "kind": "documento",
+      "title": "Registro nominal da votação do PLP 137/2019 em 05/03/2024",
+      "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/136886/votacoes",
+      "published_date": "2024-03-05",
+      "event_date": "2024-03-05",
+      "topics": [
+        "votação nominal",
+        "atividade parlamentar"
+      ],
+      "speaker": "Plenário do Senado Federal",
+      "summary": "O painel oficial registra votação nominal do PLP 137/2019: 62 votos 'sim', 3 votos 'não', com Flávio Bolsonaro identificado entre os votos 'não'. Registro distinto das orientações de bancada na sessão; não rotular como contradição sem analisar objeto e fase de cada fala.",
+      "locator": "Painel 'Votações da matéria PLP 137/2019', sessão de 05/03/2024, tabela nominal, linha 'Flávio Bolsonaro | Não' (extração web linhas 20-51 e 83-87).",
+      "limitations": "A votação nominal é um ato registrado, mas não estabelece automaticamente o significado das duas orientações de bancada já catalogadas. CSV não exportado e Diário da sessão não lido."
+    },
+    {
+      "id": "lote06-mp871-defesa-2019",
+      "publisher": "Agência Senado",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": null,
+      "short_quote": null,
+      "access_method": "HTML público consultado diretamente via navegador web em 24/10/2026; sem reprodução de áudio/vídeo e sem análise de PDFs vinculados.",
+      "kind": "reportagem",
+      "title": "Notícia institucional sobre defesa da MP 871/2019 por Flávio",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/06/03/flavio-bolsonaro-defende-mp-que-institui-mecanismos-de-combate-a-fraudes-na-previdencia",
+      "published_date": "2019-06-03",
+      "event_date": "2019-06-03",
+      "topics": [
+        "previdência",
+        "INSS",
+        "atividade parlamentar"
+      ],
+      "speaker": "Flávio Bolsonaro, segundo Agência Senado",
+      "summary": "A Agência Senado registra apoio de Flávio à MP 871/2019 e os percentuais que ele citou para processamento de benefícios e filas do INSS. Trata-se de registro secundário do mesmo pronunciamento oficial já catalogado, não de nova fala independente.",
+      "locator": "Corpo da notícia, extração web linhas 19-32; discurso correspondente já presente no catálogo pelo pronunciamento 454354.",
+      "limitations": "Percentuais de 79%, 50% e 22% foram atribuídos pelo orador e não foram confrontados com estatísticas originais do INSS; não os adotar como resultados comprovados. Nenhum áudio ouvido."
+    },
+    {
+      "id": "lote06-mp871-sancao-2019",
+      "publisher": "Agência Senado",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": null,
+      "short_quote": null,
+      "access_method": "HTML público consultado diretamente via navegador web em 24/10/2026; sem reprodução de áudio/vídeo e sem análise de PDFs vinculados.",
+      "kind": "reportagem",
+      "title": "Sanção com vetos da MP 871/2019 e texto legal de referência",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/06/19/sancionada-com-vetos-medida-provisoria-que-combate-fraudes-no-inss",
+      "published_date": "2019-06-19",
+      "event_date": "2019-06-18",
+      "topics": [
+        "previdência",
+        "INSS",
+        "tramitação legislativa"
+      ],
+      "speaker": "Presidência da República e Congresso Nacional, segundo Agência Senado",
+      "summary": "Notícia informa sanção com cinco vetos da MP 871/2019, convertida na Lei 13.846/2019, e descreve regras de revisão de benefícios. Complementa o discurso de Flávio de 03/06/2019 com o desfecho legislativo, sem atribuir a ele autoria da medida ou a sanção.",
+      "locator": "Senado Notícias, linhas 23-36; referências externas à MP e à Lei 13.846; páginas dessas normas não reabertas.",
+      "limitations": "Reportagem institucional de contexto, não prova de economia efetiva, de redução de filas ou de resultado dos vetos posteriores. Sem cotejo de séries de dados do INSS."
+    },
+    {
+      "id": "lote06-cpi-encerramento-2021",
+      "publisher": "Agência Senado",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": null,
+      "short_quote": null,
+      "access_method": "HTML público consultado diretamente via navegador web em 24/10/2026; sem reprodução de áudio/vídeo e sem análise de PDFs vinculados.",
+      "kind": "reportagem",
+      "title": "Conclusão da CPI da Pandemia, encaminhamentos e votos divergentes",
+      "url": "https://www12.senado.leg.br/noticias/infomaterias/materias/2021/10/26/apos-seis-meses-cpi-da-pandemia-e-encerrada-com-80-pedidos-de-indiciamento",
+      "published_date": "2021-10-26",
+      "event_date": "2021-10-26",
+      "topics": [
+        "CPI da Pandemia",
+        "procedimento parlamentar",
+        "contraditório"
+      ],
+      "speaker": "CPI da Pandemia do Senado Federal",
+      "summary": "A reportagem institucional registra aprovação do relatório de Renan Calheiros por 7 votos a 4, pedidos de encaminhamento a autoridades e propostas de indiciamento, incluindo Flávio Bolsonaro, ao lado de posições contrárias e votos separados não votados.",
+      "locator": "Senado Notícias, linhas 19-44 e seções subsequentes sobre divergências e relatório; documento PDF referenciado, mas não lido.",
+      "limitations": "Pedido de indiciamento formulado em relatório parlamentar não é denúncia recebida nem condenação. Não inferir desfecho penal atual; não foi examinado o PDF integral nem o andamento posterior."
+    },
+    {
+      "id": "lote06-resposta-marinho-2020",
+      "publisher": "Agência Senado",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": null,
+      "short_quote": null,
+      "access_method": "HTML público consultado diretamente via navegador web em 24/10/2026; sem reprodução de áudio/vídeo e sem análise de PDFs vinculados.",
+      "kind": "reportagem",
+      "title": "Nota pública de Flávio e críticas sobre relato do suplente Paulo Marinho",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/05/18/flavio-bolsonaro-contesta-acusacoes-de-suplente-e-oposicao-quer-ir-ao-conselho-de-etica",
+      "published_date": "2020-05-18",
+      "event_date": "2020-05-18",
+      "topics": [
+        "Conselho de Ética",
+        "Furna da Onça",
+        "resposta pública"
+      ],
+      "speaker": "Flávio Bolsonaro e parlamentares citados pelo Senado",
+      "summary": "Reportagem apresenta alegação de Paulo Marinho sobre conhecimento antecipado de operação policial, a contestação pública de Flávio com explicação alternativa e posições de senadores favoráveis à apuração.",
+      "locator": "Senado Notícias, linhas 23-34 (nota e contestação), 37-50 (repercussão e contexto).",
+      "limitations": "As versões divergentes permanecem atribuídas aos seus autores. A reportagem não determina veracidade da acusação. Nota original nas redes e documentação da PF não examinadas; não inferir conduta criminosa."
+    },
+    {
+      "id": "lote06-aditamento-pce-2020",
+      "publisher": "Agência Senado",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": null,
+      "short_quote": null,
+      "access_method": "HTML público consultado diretamente via navegador web em 24/10/2026; sem reprodução de áudio/vídeo e sem análise de PDFs vinculados.",
+      "kind": "reportagem",
+      "title": "Aditamento de 19/05/2020 ao PCE 1/2020 e resposta divulgada",
+      "url": "https://www12.senado.leg.br/noticias/noticias/materias/2020/05/19/oposicao-acrescenta-denuncias-de-suplente-ao-pedido-de-cassacao-de-flavio-bolsonaro",
+      "published_date": "2020-05-19",
+      "event_date": "2020-05-19",
+      "topics": [
+        "Conselho de Ética",
+        "procedimento parlamentar",
+        "resposta pública"
+      ],
+      "speaker": "Partidos requerentes, Paulo Marinho e Flávio Bolsonaro, segundo Agência Senado",
+      "summary": "Relato institucional de que a oposição apresentou aditamento ao PCE 1/2020 com alegações de Paulo Marinho; informa ausência de comentário da assessoria até o fechamento e recupera nota de contestação anterior de Flávio.",
+      "locator": "Senado Notícias, linhas 41-58, menção expressa a PCE 1/2020 e indicação do aditamento.",
+      "limitations": "A notícia retrata a etapa de maio de 2020; a situação processual posterior deve ser obtida na ficha REP 1/2024 já catalogada. Não tratar pedido de cassação ou aditamento como procedência da acusação."
+    },
+    {
+      "id": "lote06-pce-pedido-2020",
+      "publisher": "Agência Senado",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": null,
+      "short_quote": null,
+      "access_method": "HTML público consultado diretamente via navegador web em 24/10/2026; sem reprodução de áudio/vídeo e sem análise de PDFs vinculados.",
+      "kind": "reportagem",
+      "title": "Registro do pedido inicial de cassação PCE 1/2020",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/02/19/parlamentares-de-tres-partidos-pedem-cassacao-do-mandato-de-flavio-bolsonaro",
+      "published_date": "2020-02-19",
+      "event_date": "2020-02-19",
+      "topics": [
+        "Conselho de Ética",
+        "procedimento parlamentar"
+      ],
+      "speaker": "Partidos Rede, PT e PSOL, segundo Agência Senado",
+      "summary": "Registro de apresentação de pedido de cassação por parlamentares de três partidos em fevereiro de 2020 e da previsão de análise preliminar com ampla defesa. A assessoria de Flávio informou ao Senado que ele já havia contestado o pedido em redes sociais.",
+      "locator": "Senado Notícias, linhas 19-35, referência à PCE 1/2020.",
+      "limitations": "Notícia é fotografia processual de 2020. Acusações são dos requerentes, não conclusão do Arquivo; conferir decisão de admissibilidade e evolução posterior na documentação própria."
+    },
+    {
+      "id": "lote06-cnn-bolsa-2026",
+      "publisher": "CNN Brasil",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": null,
+      "short_quote": null,
+      "access_method": "HTML público consultado diretamente via navegador web em 24/10/2026; sem reprodução de áudio/vídeo e sem análise de PDFs vinculados.",
+      "kind": "reportagem",
+      "title": "Declaração de fevereiro de 2026 sobre manutenção do Bolsa Família",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-afirma-que-se-eleito-mantera-bolsa-familia/",
+      "published_date": "2026-02-11",
+      "event_date": "2026-02-11",
+      "topics": [
+        "Bolsa Família",
+        "declaração pública",
+        "campanha 2026"
+      ],
+      "speaker": "Flávio Bolsonaro, em entrevista no CEO Conference, segundo CNN Brasil",
+      "summary": "A CNN atribui a Flávio o compromisso condicionado de manter o Bolsa Família enquanto houver necessidade, simultaneamente ao objetivo de reduzir dependência estatal. Registro do contraditório à alegação de que prometeu extinguir o programa.",
+      "locator": "CNN Brasil, reportagem de 11/02/2026, extração web linhas 20-34 e 45-49.",
+      "limitations": "Trecho atribuído pela reportagem; entrevista integral não reproduzida e não há citação literal conferida pelo projeto. Não interpretar previsão ou promessa como política efetivamente implementada."
+    },
+    {
+      "id": "lote06-aosfatos-bolsa-2026",
+      "publisher": "Aos Fatos",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": "falso segundo Aos Fatos para o conteúdo viral de terceiros",
+      "short_quote": null,
+      "access_method": "HTML de checagem aberto integralmente em 24/10/2026, com consulta independente da notícia CNN citada; sem reproduzir vídeos.",
+      "kind": "checagem",
+      "title": "Checagem de boato sobre substituir Bolsa Família por R$ 1.200",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-bolsa-familia/",
+      "published_date": "2026-05-22",
+      "event_date": null,
+      "topics": [
+        "Bolsa Família",
+        "desinformação",
+        "campanha 2026"
+      ],
+      "speaker": "Publicações de terceiros; verificação editorial do Aos Fatos",
+      "summary": "Aos Fatos desmente publicações que atribuíam a Flávio promessa de extinguir Bolsa Família e substituí-lo por benefício de R$ 1.200. A checagem também recupera declaração condicional de manutenção publicada pela CNN e distingue Auxílio Brasil de Auxílio Emergencial.",
+      "locator": "Aos Fatos, linhas 0-35, seção 'O caminho da apuração'; CNN de 11/02/2026 consultada separadamente.",
+      "limitations": "A publicação viral não é declaração do senador. Ausência de registro de uma promessa é conclusão do veículo conforme escopo de busca declarado, não inferência universal do projeto. A assessoria não respondeu ao veículo até publicação, o que não equivale a silêncio permanente."
+    },
+    {
+      "id": "lote06-aosfatos-dino-2026",
+      "publisher": "Aos Fatos",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": "falso segundo Aos Fatos para a atribuição em posts de terceiros",
+      "short_quote": null,
+      "access_method": "HTML de checagem aberto diretamente em 24/10/2026, com leitura independente da ficha PET 38/2026.",
+      "kind": "checagem",
+      "title": "Checagem da autoria de pedido de impeachment contra Flávio Dino",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-impeachment-dino/",
+      "published_date": "2026-09-21",
+      "event_date": "2026-09-18",
+      "topics": [
+        "STF",
+        "atribuição indevida",
+        "desinformação"
+      ],
+      "speaker": "Publicações de terceiros; verificação editorial do Aos Fatos",
+      "summary": "Aos Fatos identifica como falsa a atribuição a Flávio Bolsonaro do pedido PET 38/2026 contra Flávio Dino. A ficha oficial aberta pelo projeto identifica outro cidadão como requerente, permitindo cotejo documental específico.",
+      "locator": "Aos Fatos, linhas 0-40, especialmente 14-29 e referências; cotejo direto com página oficial do Senado PET 38/2026.",
+      "limitations": "O desmentido se refere à petição e postagem determinadas; não permite generalizar sobre todos os pedidos de impeachment que Flávio apoiou ou outros atos. Métricas de Instagram são do veículo e não auditadas pelo Arquivo."
+    },
+    {
+      "id": "lote06-pet38-registro-2026",
+      "publisher": "Senado Federal",
+      "access_status": "accessed",
+      "analysis_status": "documentary_read",
+      "accessed_date": "2026-10-24",
+      "collected_at": "2026-10-24T09:28:22.752Z",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "source_conclusion": null,
+      "short_quote": null,
+      "access_method": "HTML público consultado diretamente via navegador web em 24/10/2026; sem reprodução de áudio/vídeo e sem análise de PDFs vinculados.",
+      "kind": "documento",
+      "title": "PET 38/2026: ficha oficial identifica requerente distinto de Flávio",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/175816",
+      "published_date": "2026-09-17",
+      "event_date": "2026-09-17",
+      "topics": [
+        "STF",
+        "petição",
+        "verificação documental"
+      ],
+      "speaker": "Cidadão Eduardo Moreth Loquez, autor indicado pelo Senado",
+      "summary": "Cadastro oficial da PET 38/2026 mostra pedido de representação contra ministro Flávio Dino protocolado por cidadão identificado, e não por Flávio Bolsonaro; ficha registra situação aguardando despacho em 18/09/2026 na atualização legislativa disponível.",
+      "locator": "Senado, título e autoria linhas 20-26; situação linhas 32-36; autoria e registro da proposição linhas 42-54; data de atualização linhas 74-75.",
+      "limitations": "A página comprova identificação do autor da PET 38/2026, não faz juízo sobre responsabilidade do ministro. PDF da petição não foi aberto; tramitação com conteúdo carregado dinamicamente exige nova conferência posterior."
+    }
+  ],
+  "queries": [
+    {
+      "query": "site:senado.leg.br MP 871/2019 Flávio Bolsonaro pronunciamento 2019 dados fraudes",
+      "engine": "web fast e abertura direta",
+      "interval": "2019",
+      "executed_at": "2026-10-24",
+      "result": "Notícia de fala de Flávio e notícia de sanção com vetos abertas; discurso 454354 já catalogado; a notícia não é nova fala."
+    },
+    {
+      "query": "PLP 137/2019 Flávio Bolsonaro votação orientação 2024 Senado",
+      "engine": "web fast e abertura do painel oficial",
+      "interval": "2024",
+      "executed_at": "2026-10-24",
+      "result": "Ficha nominal oficial aberta, voto de Flávio registrado como 'Não'. Sem conclusão de contradição."
+    },
+    {
+      "query": "CPI da Pandemia relatório final Flávio Bolsonaro 2021 voto separado relatório Senado",
+      "engine": "web fast e abertura de reportagem institucional",
+      "interval": "2021",
+      "executed_at": "2026-10-24",
+      "result": "Reportagem institucional do encerramento aberta; PDF do relatório não examinado, pedidos de indiciamento não equiparados a condenações."
+    },
+    {
+      "query": "site:www12.senado.leg.br Flávio Bolsonaro Paulo Marinho Conselho de Ética fevereiro maio 2020",
+      "engine": "web fast e abertura do HTML",
+      "interval": "2020",
+      "executed_at": "2026-10-24",
+      "result": "Notícias institucionais de pedido inicial, contestação pública e aditamento abertas; evolução posterior continua ligada à REP 1/2024."
+    },
+    {
+      "query": "site:aosfatos.org Flávio Bolsonaro 2026 Bolsa Família substituição impeachment Flávio Dino",
+      "engine": "web fast e abertura direta",
+      "interval": "2026",
+      "executed_at": "2026-10-24",
+      "result": "Duas checagens abertas; atribuições de terceiros identificadas, sem responsabilizar Flávio pelos posts."
+    },
+    {
+      "query": "site:senado.leg.br PET 38/2026 Flávio Dino autor setembro",
+      "engine": "navegação a partir de checagem e abertura ficha primária",
+      "interval": "2026-09",
+      "executed_at": "2026-10-24",
+      "result": "Ficha oficial PET 38/2026 consultada, autor diverso confirmado no cadastro; PDF não aberto."
+    },
+    {
+      "query": "site:alerjln1.alerj.rj.gov.br Flávio Bolsonaro Escola Sem Partido 2974/2014 e moção 2650/2003",
+      "engine": "web fast e tentativas de abertura direta",
+      "interval": "2003-2014",
+      "executed_at": "2026-10-24",
+      "result": "Resultados de busca localizados, mas aberturas das páginas antigas retornaram HTTP 502. Excluídos dos registros como material lido."
+    }
+  ],
+  "blocked": [
+    {
+      "source": "Arquivo ALERJ histórico",
+      "date": "2026-10-24",
+      "error": "Tentativas diretas de abertura das fichas PL 2974/2014, PR 536/2011, Moção 2650/2003 e projetos correlatos retornaram HTTP 502 no navegador. Nenhuma ficha foi tratada como texto efetivamente acessado; há apenas metadados indexados.",
+      "urls": [
+        "https://alerjln1.alerj.rj.gov.br/scpro1115.nsf/18c1dd68f96be3e7832566ec0018d833/45741a7e2ccdc50a83257c980062a2c2",
+        "https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/0c5bf5cde95601f903256caa0023131b/7c5e3718a895341783256dc9004b6f49"
+      ]
+    },
+    {
+      "source": "Conteúdo audiovisual e documentos integrais",
+      "date": "2026-10-24",
+      "error": "Nenhum áudio ou vídeo reproduzido. PDFs do relatório da CPI, da PET 38/2026 e do DSF não examinados na íntegra; não criar transcrições, timestamps ou alegações sobre trechos não vistos."
+    }
+  ],
+  "gaps": [
+    {
+      "topic": "PLP 137/2019",
+      "note": "Cotejar voto nominal contra objeto específico das duas orientações já transcritas na sessão, identificando textos, destaques e tramitação. Sem classificação de contradição."
+    },
+    {
+      "topic": "INSS",
+      "note": "Conferir estatísticas primárias de automação de benefícios e tempos de espera citados em 03/06/2019; notícias não confirmam percentuais."
+    },
+    {
+      "topic": "Conselho de Ética",
+      "note": "Vincular notícias do PCE 1/2020 ao despacho e ao estado da REP 1/2024, sem presumir procedência de acusação ou desfecho."
+    },
+    {
+      "topic": "CPI da Pandemia",
+      "note": "Ler PDF integral do relatório aprovado e votos divergentes; checar andamento posterior junto às autoridades, mantendo pedidos de indiciamento distintos de decisões criminais."
+    },
+    {
+      "topic": "ALERJ",
+      "note": "Repetir acesso oficial a fichas históricas apenas quando servidor responder; páginas indexadas com HTTP 502 não entram como documentos examinados."
+    },
+    {
+      "topic": "Publicação e testes",
+      "note": "Executar build_research.py no workflow do repositório; confirmar que os 11 registros passam por normalização sem perda, testes e leitura do JSON persistido. Preservar dados recentes do coletor e não mudar approvedReviewerIds."
+    }
+  ]
+}
