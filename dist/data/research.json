@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T10:53:58.082521Z",
-    "inputHash": "6226f5f2a331419c5a35776f4a0cedafe76cfb3237554b4be7b541c8963b2e8f",
+    "generatedAt": "2026-10-24T11:04:13.745609Z",
+    "inputHash": "245ff4d5156b57092b0cefdb85ef0ec8f86b9056a1461f75874fca7fb3f25164",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -27303,7 +27303,7 @@
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 92,
+    "queryCount": 93,
     "accessFailures": 17,
     "undatedItems": 12
   },
@@ -27577,6 +27577,15 @@
       "engine": "web fast",
       "interval": "2022",
       "resultsState": "Consulta realizada; não houve inclusão de registro novo dessa busca."
+    },
+    {
+      "id": "consulta-707707f743f60e09",
+      "batch": "checagens-debate-band-20261024-09",
+      "query": "Flávio Bolsonaro debate Band 18/10/2026 checagem fala por fala",
+      "executedAt": "2026-10-24",
+      "engine": "web",
+      "interval": null,
+      "resultsState": "67 páginas individuais localizadas no índice/blocos."
     },
     {
       "id": "consulta-ba40d2322f4b8c86",
@@ -28428,14 +28437,38 @@
       "batch": "checagens"
     },
     {
-      "id": "lacuna-f95b955a0b8b0b0c",
-      "note": "Ouvir a íntegra do debate somente em revisão audiovisual própria; não tratar timestamps de terceiros como conferidos pelo Arquivo.",
+      "id": "lacuna-958fb7ca2a9f4449",
+      "note": "Abrir as checagens originais e fontes primárias decisivas antes de qualquer classificação editorial própria.",
       "state": "pendente",
       "batch": "checagens-debate-globo-20261024-07"
     },
     {
-      "id": "lacuna-958fb7ca2a9f4449",
-      "note": "Abrir as checagens originais e fontes primárias decisivas antes de qualquer classificação editorial própria.",
+      "id": "lacuna-03b99f979c7cd5f8",
+      "note": "Não tratar os timestamps publicados por terceiros como timestamps conferidos pelo Arquivo.",
+      "state": "pendente",
+      "batch": "checagens-debate-band-20261024-09"
+    },
+    {
+      "id": "lacuna-a7089facb5fb1324",
+      "note": "Relacionar repetições com alegações já catalogadas sem multiplicar artificialmente o mesmo núcleo factual.",
+      "state": "pendente",
+      "batch": "checagens-debate-band-20261024-09"
+    },
+    {
+      "id": "lacuna-f6fdf1e46c72929e",
+      "note": "Cruzar as páginas individuais com Aos Fatos, Lupa, Fato ou Fake, UOL Confere, Folha e demais checadores citados.",
+      "state": "pendente",
+      "batch": "checagens-debate-band-20261024-09"
+    },
+    {
+      "id": "lacuna-dc782a8615260dd0",
+      "note": "Ouvir a íntegra somente em revisão audiovisual própria e registrar o tempo efetivamente reproduzido.",
+      "state": "pendente",
+      "batch": "checagens-debate-band-20261024-09"
+    },
+    {
+      "id": "lacuna-f95b955a0b8b0b0c",
+      "note": "Ouvir a íntegra do debate somente em revisão audiovisual própria; não tratar timestamps de terceiros como conferidos pelo Arquivo.",
       "state": "pendente",
       "batch": "checagens-debate-globo-20261024-07"
     },

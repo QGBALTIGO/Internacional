@@ -1,6 +1,6 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T10:53:58.082521Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T11:04:13.745609Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
 267 URLs únicas no lote; 250 ainda não vinculadas à edição anterior. 264 materiais acessados e 238 com texto analisado.
 
@@ -64,8 +64,12 @@ Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste 
 - Nenhum contato com pessoas ou instituições foi enviado.
 - Conferir links primários de TSE, CNN, Instagram, Globo e base Ipea citados nas novas checagens antes de adotar qualquer veredito próprio.
 - Comparar as orientações 'sim' e 'não' de 07/12/2022 somente com identificação de objeto, requerimento e etapa da votação; sem conclusão de contradição automática.
-- Ouvir a íntegra do debate somente em revisão audiovisual própria; não tratar timestamps de terceiros como conferidos pelo Arquivo.
 - Abrir as checagens originais e fontes primárias decisivas antes de qualquer classificação editorial própria.
+- Não tratar os timestamps publicados por terceiros como timestamps conferidos pelo Arquivo.
+- Relacionar repetições com alegações já catalogadas sem multiplicar artificialmente o mesmo núcleo factual.
+- Cruzar as páginas individuais com Aos Fatos, Lupa, Fato ou Fake, UOL Confere, Folha e demais checadores citados.
+- Ouvir a íntegra somente em revisão audiovisual própria e registrar o tempo efetivamente reproduzido.
+- Ouvir a íntegra do debate somente em revisão audiovisual própria; não tratar timestamps de terceiros como conferidos pelo Arquivo.
 - Revisar separadamente casos divergentes e sem dados; ausência de consenso não equivale a falsidade.
 - Separar promessas, opiniões e acusações de proposições factuais verificáveis.
 - Cruzar as páginas individuais com Fato ou Fake, UOL Confere, Aos Fatos, Lupa e Estadão Verifica sem duplicar a mesma ocorrência.
