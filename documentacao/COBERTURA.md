@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T20:24:35.506506Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T21:35:40.544308Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-531 URLs únicas no lote; 513 ainda não vinculadas à edição anterior. 528 materiais acessados e 503 com texto analisado.
+538 URLs únicas no lote; 520 ainda não vinculadas à edição anterior. 535 materiais acessados e 510 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -34,7 +34,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 31 | 31 | 30 | 0 | 0 |
-| 2025 | 47 | 47 | 44 | 0 | 0 |
+| 2025 | 54 | 54 | 51 | 0 | 0 |
 | 2026 | 255 | 255 | 251 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
@@ -112,6 +112,12 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - Localizar e reproduzir íntegras somente em revisão audiovisual própria.
 - Vincular declarações repetidas a núcleos já catalogados sem multiplicar a mesma proposição.
 - Abrir documentos anexos do TSE antes de resumir fundamentos além da notícia institucional.
+- Audiência do Senado em 07/10/2025 confirmada por ficha, requerimento e transcrição, resolvendo a dúvida de realização; falta revisar contra audiovisual a integralidade das falas.
+- PL 1473/2025: cotejar PDFs acessíveis do texto original, pareceres, versão relatada por Flávio, substitutivo, texto remetido à Câmara e eventuais notas técnicas; sem confundir projeto com lei.
+- Auditoria da audiência da Câmara de 09/12/2025: buscar ata e falas textuais dos convidados de diferentes posições; relatório de presença e fotos não equivalem a transcrição.
+- Conferir dados orçamentários e alegações sobre reincidência e efeitos de internação em fontes estatísticas primárias antes de análise crítica.
+- Manter novos vereditos, acusações e comparações sensíveis pendentes de revisão editorial humana identificada; lista approvedReviewerIds intocada; zero segundos de áudio escutados.
+- Continuar busca de votações nominais ALERJ de 2008 e 2009 e imagens oficiais do Diário, sem reconstruir votos a partir de notícias.
 - Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.
 - Confirmar desfecho legislativo após comunicação de veto total ao PL 3003/2014.
 - Conferir Diários e gravações integrais antes de novas citações, timestamps, comparações ou vereditos; áudio ouvido nesta coleta: zero segundos.
@@ -200,6 +206,9 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/89b3addb48a95fe483256cef004aedf1/f6ff55775a5a7d8983256dc1005c4717?OpenDocument=; ref: turn7view2; status: fetch_error; discovery: Parecer 26/11/2003 de comissão presidida por Flávio; não lido.
 - batch: oficiais; url: https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/522484; ref: turn19view2; status: fetch_error; discovery: Explicação pessoal 21/05/2026, link encontrado sem acesso ao conteúdo.
 - batch: oficiais; url: https://digital.stf.jus.br/publico/publicacao/967643; ref: turn2view5; status: fetch_error; discovery: Inq 4995. Não atribuir ao Tribunal os requerimentos da parte. Sem leitura neste lote.
+- batch: pl1473-audiencias-20261024-24; source: PDFs dos relatórios e substitutivos da CCJ para o PL 1473/2025; status: Conteúdo não acessado nesta execução; note: As tentativas de abrir anexos retornaram verificação de segurança e não o PDF. O cotejo documental entre versões permanece pendente, sem alegar consulta à íntegra.
+- batch: pl1473-audiencias-20261024-24; source: Áudios e vídeos da audiência 07/10, sessão 22/10 e reportagem Rádio Senado; status: Não reproduzidos; note: Zero segundos efetivamente conferidos. Os horários e durações exibidos pelo portal não foram convertidos em timestamps audiovisuais próprios.
+- batch: pl1473-audiencias-20261024-24; source: Dossiê de 09/12 da Câmara com falas individuais e notas técnicas originais de entidades; status: Não lidos integralmente; note: A ficha oficial confirma a realização e a galeria identifica participantes, mas não traz o teor individual de todas as intervenções nem fundamenta estimativas independentes.
 - batch: primarias-20261024-02; source: Executor local de scripts; error: Sem checkout Git ou terminal remoto conectado nesta execução. Normalização content/research.json e dist/data/research.json e research.js pendente; não afirmar publicação automática.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2003–2008; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/e00a7c3c8652b69a83256cca00646ee5/5cbef3b7651fa94c83256f6c0060c240; error: Abertura da fonte oficial retornou 502. Somente resultado de busca, não lido na íntegra; não incluído no catálogo.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2004; url: https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/b24a2da5a077847c032564f4005d4bf2/5aacd46ba577c4f983256ebb006214b9; error: Abertura da página de lei antiga retornou erro de gateway; não registrar sua ementa ou efeito como texto consultado.
