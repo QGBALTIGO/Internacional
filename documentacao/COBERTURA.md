@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T09:48:48.629456Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T10:38:04.256182Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-164 URLs únicas no lote; 149 ainda não vinculadas à edição anterior. 161 materiais acessados e 135 com texto analisado.
+255 URLs únicas no lote; 238 ainda não vinculadas à edição anterior. 252 materiais acessados e 226 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-13 vídeos e 5 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+14 vídeos e 5 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -35,7 +35,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2023 | 19 | 19 | 17 | 0 | 0 |
 | 2024 | 14 | 14 | 13 | 0 | 0 |
 | 2025 | 11 | 11 | 8 | 0 | 0 |
-| 2026 | 43 | 43 | 38 | 0 | 0 |
+| 2026 | 134 | 134 | 129 | 0 | 0 |
 
 Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -60,6 +60,13 @@ Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste 
 - Nenhum contato com pessoas ou instituições foi enviado.
 - Conferir links primários de TSE, CNN, Instagram, Globo e base Ipea citados nas novas checagens antes de adotar qualquer veredito próprio.
 - Comparar as orientações 'sim' e 'não' de 07/12/2022 somente com identificação de objeto, requerimento e etapa da votação; sem conclusão de contradição automática.
+- Ouvir a íntegra do debate somente em revisão audiovisual própria; não tratar timestamps de terceiros como conferidos pelo Arquivo.
+- Abrir as checagens originais e fontes primárias decisivas antes de qualquer classificação editorial própria.
+- Revisar separadamente casos divergentes e sem dados; ausência de consenso não equivale a falsidade.
+- Separar promessas, opiniões e acusações de proposições factuais verificáveis.
+- Cruzar as páginas individuais com Fato ou Fake, UOL Confere, Aos Fatos, Lupa e Estadão Verifica sem duplicar a mesma ocorrência.
+- Priorizar para revisão humana identificada as páginas agregadas como Falso, Divergente e Sem dados, mantendo todas pendentes até essa revisão.
+- Criar relações de repetição com falas já catalogadas, sem multiplicar artificialmente uma mesma alegação.
 - Recontar propostas Senado e leis ALERJ em arquivos oficiais antes de usar números como estatísticas verificadas pelo projeto.
 - Decompor as alegações agrupadas na síntese de campanha somente após checar fontes específicas, contextos e áudio original.
 - topic: PLP 137/2019; note: Cotejar voto nominal contra objeto específico das duas orientações já transcritas na sessão, identificando textos, destaques e tramitação. Sem classificação de contradição.
