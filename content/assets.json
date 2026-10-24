@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "path": "dist/assets/jair.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jair_Bolsonaro_2019_Portrait_%283x4_cropped_center_2%29.jpg",
+      "sha256": "4b2029cccd56481535a64523c8466ee6e8bd20053ed3e655457c7e24aad0eb0a",
+      "bytes": 705179,
+      "credit": "Isac Nóbrega/PR, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jair_Bolsonaro_2019_Portrait_(3x4_cropped_center_2).jpg",
+      "license": "CC BY 2.0"
+    },
+    {
+      "path": "dist/assets/flavio.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29.jpg",
+      "sha256": "35fd818779f15c37aa88e88012cbd2df09fd2dc9a05337a6c62a57a48c7094ad",
+      "bytes": 1257581,
+      "credit": "Agência Senado, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_(v._AgSen).jpg",
+      "license": "Uso livre com atribuição à Agência Senado"
+    },
+    {
+      "path": "dist/assets/nasa-temperatura-1880-2018.mp4",
+      "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031000/a031028/gistemp_yearly_anom_1880-2018_720p.mp4",
+      "sha256": "770573c609aee15c7623f963aa2fabdb1b438201c794ee5cf83622419870607b",
+      "bytes": 4800413,
+      "credit": "NASA's Goddard Space Flight Center / NASA Goddard Institute for Space Studies; visualização de Marit Jentoft-Nilsen",
+      "sourceUrl": "https://svs.gsfc.nasa.gov/31028/",
+      "license": "Uso informativo permitido pelas diretrizes de mídia da NASA, com crédito e sem endosso implícito"
+    },
+    {
+      "path": "dist/assets/radio-senado-fraudes-2021.mp3",
+      "url": "https://www12.senado.leg.br/audio/9edef66b-c87d-436e-94d6-2caebfe7e295.mp3?download",
+      "sha256": "bf71611b408dbaf33759dfe9e35ee290efb73be8fb615b616655594d0f4d670b",
+      "bytes": 2032225,
+      "credit": "Maurício de Santi / Rádio Senado",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/noticia/2021/01/08/pt-pede-a-justica-que-investigue-declaracoes-de-jair-bolsonaro-sobre-fraudes-nas-eleicoes",
+      "license": "Reprodução permitida com crédito, sem descaracterizar conteúdo"
+    },
+    {
+      "path": "dist/assets/radio-senado-teste-urnas-2022.mp3",
+      "url": "https://www12.senado.leg.br/audio/0b990505-c185-400f-8d3a-ca15f405ac1e.mp3?download",
+      "sha256": "827bb481393298a6893573164b29c1bb533604d255a04b44bf1e7419333dbf24",
+      "bytes": 4896675,
+      "credit": "RadioAgência Senado / Rádio Senado",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/noticia/2022/10/02/teste-de-integridades-das-urnas-foi-ampliado-no-rio-de-janeiro",
+      "license": "Reprodução permitida com crédito, sem descaracterizar conteúdo"
+    },
+    {
+      "path": "dist/documentos/tcu-auditoria-urnas-etapa3-2022.pdf",
+      "url": "https://portal.tcu.gov.br/data/files/17/A5/64/A5/C99F18102DFE0FF7F18818A8/014.328-2021-6-BD%20-%20auditoria_votacao_eletronica_etapa3%20_1_.pdf",
+      "sha256": "f324fa1748093e2fb9055df787431f37eb6cbed311502028ba2a677ddd352497",
+      "bytes": 705405,
+      "credit": "Tribunal de Contas da União",
+      "sourceUrl": "https://portal.tcu.gov.br/data/files/17/A5/64/A5/C99F18102DFE0FF7F18818A8/014.328-2021-6-BD%20-%20auditoria_votacao_eletronica_etapa3%20_1_.pdf",
+      "license": "Ato oficial público; conservar documento e atribuição"
+    },
+    {
+      "path": "dist/documentos/tse-voto-benedito-embaixadores-2023.pdf",
+      "url": "https://www.tse.jus.br/comunicacao/arquivos/voto-corregedor-benedito-goncalves-aije-0600814-85-07-07.2023",
+      "sha256": "2cb8856ead7da696a7b7131a4241c70d83a22d93f0f61492d3ede0bc067508fb",
+      "bytes": 4730074,
+      "credit": "Tribunal Superior Eleitoral / ministro Benedito Gonçalves",
+      "sourceUrl": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos",
+      "license": "Ato oficial público; conservar documento e atribuição"
+    }
+  ]
+}

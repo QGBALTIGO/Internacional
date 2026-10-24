@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "intervalMinutes": 60,
+  "sources": [
+    {
+      "id": "aos-fatos",
+      "name": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/feed/",
+      "sourceUrl": "https://www.aosfatos.org/",
+      "enabled": true,
+      "kind": "factcheck",
+      "note": "Checagens e reportagens. O feed consultado contém 20 itens."
+    },
+    {
+      "id": "lupa",
+      "name": "Lupa",
+      "url": "https://www.agencialupa.org/feed/",
+      "sourceUrl": "https://www.agencialupa.org/",
+      "enabled": true,
+      "kind": "factcheck",
+      "note": "Checagens, notícias e conteúdos institucionais misturados. O feed consultado contém 10 itens."
+    },
+    {
+      "id": "senado-noticias",
+      "name": "Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/atom.xml",
+      "sourceUrl": "https://www12.senado.leg.br/noticias",
+      "enabled": true,
+      "kind": "news",
+      "note": "Feed preferido para notícias do Senado, com links diretos por item. Filtrar a pauta antes da publicação."
+    },
+    {
+      "id": "senado-noticias-rss",
+      "name": "Senado Notícias, alternativa RSS",
+      "url": "https://www12.senado.leg.br/noticias/rss.xml",
+      "sourceUrl": "https://www12.senado.leg.br/noticias",
+      "enabled": false,
+      "kind": "news",
+      "note": "Alternativa ao Atom. O Content-Type diz Atom, mas o XML é RSS 2.0. URLs dos itens estão em guid, sem elemento link."
+    },
+    {
+      "id": "senado-verifica",
+      "name": "Senado Verifica, podcast",
+      "url": "https://www12.senado.leg.br/radio/1/senado-verifica/podcast.xml",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/senado-verifica",
+      "enabled": true,
+      "kind": "factcheck",
+      "note": "Podcast institucional de checagem. XML inclui enclosures de áudio; selecionar temas pertinentes."
+    },
+    {
+      "id": "tse",
+      "name": "Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/rss",
+      "sourceUrl": "https://www.tse.jus.br/noticias-em-rss",
+      "enabled": true,
+      "kind": "news",
+      "note": "RSS 1.0 em RDF com namespaces. O parser deve ler item, title e link do namespace http://purl.org/rss/1.0/ e dc:date."
+    },
+    {
+      "id": "agencia-brasil-ultimas",
+      "name": "Agência Brasil, últimas notícias",
+      "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/feed/",
+      "enabled": true,
+      "kind": "news",
+      "note": "Feed geral de 10 itens. Pode perder notícias entre consultas espaçadas; filtrar temas e deduplicar com os feeds de editoria."
+    },
+    {
+      "id": "agencia-brasil-politica",
+      "name": "Agência Brasil, política",
+      "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/feed/",
+      "enabled": true,
+      "kind": "news",
+      "note": "Feed de política com 10 itens; manter URL canônica como chave de deduplicação."
+    },
+    {
+      "id": "agencia-brasil-justica",
+      "name": "Agência Brasil, justiça",
+      "url": "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/feed/",
+      "enabled": true,
+      "kind": "news",
+      "note": "Feed de justiça com 10 itens. Distinguir decisão, investigação, alegação e recurso."
+    },
+    {
+      "id": "afp-rss-nao-atual",
+      "name": "AFP Checamos, RSS sem fluxo atual",
+      "url": "https://checamos.afp.com/rss.xml",
+      "sourceUrl": "https://checamos.afp.com/",
+      "enabled": false,
+      "kind": "news",
+      "note": "HTTP 200, mas há apenas um item chamado Portuguese, publicado em 2023. Não usar como feed atual de checagens; a página pública segue disponível para consulta editorial."
+    }
+  ]
+}

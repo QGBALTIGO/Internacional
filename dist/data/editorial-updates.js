@@ -1,0 +1,1 @@
+window.ARQUIVO_UPDATES = {"schemaVersion":1,"updatedAt":"2026-10-24T00:00:00Z","records":[],"media":[],"documents":[],"comparisons":[],"investigations":[]};

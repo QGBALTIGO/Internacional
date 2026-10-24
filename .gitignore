@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+qa/
+dist/qa-responsive.html
+.openai/
+.env
+.env.*
+dist/documentos/arquivo-bolsonaro.zip
+dist/documentos/dossie-documental.pdf
+dist/assets/flavio.jpg
+dist/assets/jair.jpg
+dist/assets/nasa-temperatura-1880-2018.mp4
+dist/assets/radio-senado-fraudes-2021.mp3
+dist/assets/radio-senado-teste-urnas-2022.mp3
+dist/documentos/tcu-auditoria-urnas-etapa3-2022.pdf
+dist/documentos/tse-voto-benedito-embaixadores-2023.pdf

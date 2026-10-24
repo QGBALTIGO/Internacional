@@ -1,0 +1,3 @@
+# Dependências externas usadas exclusivamente por scripts/build_pdf.py.
+reportlab==4.4.9
+Pillow==12.3.0
