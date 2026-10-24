@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T11:07:51.314219Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-24T11:14:34.342601Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-334 URLs únicas no lote; 317 ainda não vinculadas à edição anterior. 331 materiais acessados e 305 com texto analisado.
+386 URLs únicas no lote; 368 ainda não vinculadas à edição anterior. 383 materiais acessados e 357 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-14 vídeos e 5 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+15 vídeos e 5 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -28,16 +28,16 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2016 | 2 | 2 | 2 | 0 | 0 |
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 4 | 4 | 3 | 0 | 0 |
-| 2019 | 13 | 13 | 11 | 0 | 0 |
-| 2020 | 5 | 5 | 4 | 0 | 0 |
+| 2019 | 21 | 21 | 19 | 0 | 0 |
+| 2020 | 6 | 6 | 5 | 0 | 0 |
 | 2021 | 14 | 14 | 10 | 0 | 0 |
 | 2022 | 13 | 13 | 13 | 0 | 0 |
 | 2023 | 19 | 19 | 17 | 0 | 0 |
 | 2024 | 14 | 14 | 13 | 0 | 0 |
-| 2025 | 16 | 16 | 13 | 0 | 0 |
-| 2026 | 202 | 202 | 197 | 0 | 0 |
+| 2025 | 20 | 20 | 17 | 0 | 0 |
+| 2026 | 222 | 222 | 217 | 0 | 0 |
 
-Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
+Materiais sem data: 31. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
 ## Próximo lote
 
@@ -56,6 +56,9 @@ Materiais sem data: 12. Ausência de registros em um ano significa lacuna deste 
 - Revisar acesso ao arquivo ALERJ 2014 e entrevistas anteriores a 2019.
 - Não contar estes itens pendentes como falsidades ou checagens concluídas.
 - Unificar distribuição Apple, Spotify e YouTube do mesmo programa por evento e ID de plataforma, mantendo ocorrências separadas apenas quando houver nova fala.
+- Abrir documentos primários e mídias citados por cada checagem antes de adotar conclusão própria.
+- Individualizar afirmações múltiplas quando houver URL ou localizador verificável sem criar duplicatas artificiais.
+- Preservar respostas, erratas e decisões favoráveis ou desfavoráveis com o mesmo padrão documental.
 - Checagens anteriores a 2016 não localizadas neste lote.
 - Anos 2017, 2020, 2022, 2023 e 2025 exigem pesquisa por mês/evento, não interpretados como ausência de fatos.
 - Íntegras audiovisuais e citações decisivas não revisadas em áudio.
