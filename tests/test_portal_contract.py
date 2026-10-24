@@ -64,7 +64,7 @@ class PortalContractTest(unittest.TestCase):
         self.assertNotIn('portal-editorial-band',html)
         self.assertNotIn('portal-hero-statement',html)
         self.assertNotIn('position:absolute;inset:0;z-index:0',css)
-        self.assertIn('O que foi dito.',html)
+        self.assertIn('Pesquise nos registros',html)
         self.assertIn('portal-search-jump',css)
 
     def test_editorial_home_navigation_and_search_hierarchy(self):
