@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T18:33:18.024136Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T19:48:36.966692Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-754 URLs únicas no lote; 735 ainda não vinculadas à edição anterior. 751 materiais acessados e 717 com texto analisado.
+757 URLs únicas no lote; 738 ainda não vinculadas à edição anterior. 754 materiais acessados e 720 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -29,10 +29,10 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 6 | 6 | 4 | 0 | 0 |
 | 2019 | 44 | 44 | 42 | 0 | 0 |
-| 2020 | 38 | 38 | 36 | 0 | 0 |
+| 2020 | 40 | 40 | 38 | 0 | 0 |
 | 2021 | 37 | 37 | 32 | 0 | 0 |
 | 2022 | 35 | 35 | 35 | 0 | 0 |
-| 2023 | 36 | 36 | 34 | 0 | 0 |
+| 2023 | 37 | 37 | 35 | 0 | 0 |
 | 2024 | 53 | 53 | 52 | 0 | 0 |
 | 2025 | 99 | 99 | 95 | 0 | 0 |
 | 2026 | 330 | 330 | 322 | 0 | 0 |
@@ -117,6 +117,11 @@ Materiais sem data: 41. Ausência de registros em um ano significa lacuna deste 
 - Enem 2020: localizar e abrir relatório primário do resultado integral da enquete aos candidatos (base, porcentagens e datas), sem confiar só em notícias secundárias.
 - PL 1277/2020: examinar PDF do parecer completo na Câmara e movimentações posteriores na CCJC; os editais do Inep não alteram o status legislativo do projeto.
 - Revisão editorial humana identificada permanece obrigatória para qualquer acusação, veredito ou comparação política sensível; approvedReviewerIds não deve ser alterado.
+- PL 1277/2020: localizar ata pública legível da sessão de 19/05/2020 e eventuais retificações, para conciliar 74 a 2 no painel nominal e 75 a 1 na notícia institucional, sem veredito automático.
+- Enem 2020: recuperar resultado primário integral da enquete aos inscritos e documentação de sua metodologia, sem equiparar resposta voluntária à população de candidatos.
+- PL 1277/2020: verificar posteriores movimentações da CCJC e eventual texto aprovado em outras comissões diretamente no portal oficial, sem confundir relatório de 2023 com lei vigente.
+- PL 1277/2020: inspeção visual adicional das páginas do parecer da Câmara não conferidas visualmente e acesso à ata original da sessão, sujeitos à estabilidade do servidor.
+- Nenhuma avaliação política sensível, comparação de conduta ou classificação deve ser publicada sem revisor humano identificado e autorizado; zero segundos de audiovisual revisados.
 - Confrontar o PDF completo do relatório/substitutivo de 2023 e eventual deliberação posterior da CCJC, sem confundir parecer de comissão com sanção de lei.
 - Consultar ata e retificações da votação do PL 1277/2020 para resolver a divergência entre placar da notícia 75-1 e o mapa nominal 74-2, sem produzir novo veredito por automação.
 - Conferir diretamente os editais Inep 54 e 55/2020 e eventual documentação de resultado da enquete; notícia sobre anúncio não equivale à leitura dos atos integrais.
@@ -323,6 +328,11 @@ Materiais sem data: 41. Ausência de registros em um ano significa lacuna deste 
 - batch: enem-editais-inep-20261025-45; source: Agência Brasil, reportagens de julho de 2020 sobre enquete/calendário; status: HTTP 500 nas aberturas tentadas; note: Resultados de pesquisa não foram tratados como leitura efetiva nem incorporados aos três registros.
 - batch: enem-editais-inep-20261025-45; source: Diário do Senado Federal, edição de maio de 2020 no leitor online; status: Leitor sem conteúdo textual examinável na abertura; note: Não foi atestada leitura da ata nem reconciliação definitiva do placar de 74-2 com o de 75-1.
 - batch: enem-editais-inep-20261025-45; source: Registros audiovisuais sobre Enem e sessão legislativa; status: Não reproduzidos; note: Nenhum áudio ou vídeo examinado; zero segundos de audição e nenhuma minutagem validada.
+- batch: enem-parecer-enquete-faq-20261025-46; source: Inep, notícia 'Divulgados gabaritos do Enem 2020 Digital', de 10/02/2021; status: Redirecionamento para autenticação em abertura pública; note: Resultados de busca continham texto, mas o documento não foi diretamente lido no endereço final; não catalogado como acessado.
+- batch: enem-parecer-enquete-faq-20261025-46; source: Tribunal de Contas da União, decisão contendo referência à Nota Técnica 41 do Inep; status: Página acessada sem conteúdo da decisão, exigindo JavaScript; note: Trechos indexados em busca não equivalem à leitura da decisão ou da própria Nota Técnica 41; não incluída.
+- batch: enem-parecer-enquete-faq-20261025-46; source: Inep, press kit Enem 2020 PDF atualizado em 29/03/2021; status: HTTP 502 em tentativa de abertura; note: O conteúdo exibido em pesquisa não foi apresentado como PDF efetivamente lido; não incluído.
+- batch: enem-parecer-enquete-faq-20261025-46; source: Câmara, PDF codteor 2359506, repetição da consulta; status: HTTP 429 após consulta inicial bem-sucedida; note: Leitura inicial de texto e inspeção visual das páginas decisivas ocorreram antes do limite; não se supõe disponibilidade permanente do servidor.
+- batch: enem-parecer-enquete-faq-20261025-46; source: Secretaria de Educação do Espírito Santo, republicação de balanço do Inep 2021; status: URL redirecionada para página inicial, sem corpo da reportagem; note: Texto indexado de pesquisa não foi interpretado como leitura direta do documento.
 - batch: enem-pl1277-desfecho-20261025-44; source: Portais MEC, notas e notícias adicionais de 18-19/05/2020; status: Falha de acesso nesta consulta; note: Três URLs no portal.mec.gov.br falharam por HTTP 502 ou erro de URL na extração. Não foram adicionadas como textos lidos; apenas nota posterior efetivamente aberta foi catalogada.
 - batch: enem-pl1277-desfecho-20261025-44; source: Câmara, íntegra PDF do parecer PRL 2 CE do PL 1277/2020; status: PDF sem inspeção visual validada; note: Visualização direta da peça apresentou erro 429 em ferramenta web; não se afirmou leitura visual de todas as páginas nem análise de assinaturas ou certificação do PDF. O fato de aprovação é documentado separadamente nas páginas HTML oficiais.
 - batch: enem-pl1277-desfecho-20261025-44; source: Página Inep de divulgação de gabaritos do Enem digital e página de educação SC sobre enquete; status: Indisponibilidade parcial; note: Página de gabarito redirecionou a login; SC retornou erro 502 ou falha de proxy. Nenhuma foi convertida em material acessado.
