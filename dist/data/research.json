@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T04:45:46.986778Z",
-    "inputHash": "862bb5ef63b8409316f960bc55932bdab844c4d271caa11cff52e765b87779ec",
+    "generatedAt": "2026-10-25T05:38:59.686434Z",
+    "inputHash": "dd98c85ffc7dac04ea607c1d1fd3151c3761ac8f414d7a2e2066768ee30a5e5c",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -16288,6 +16288,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-ece23059248a56f1",
+      "title": "Congresso Nacional: cronologia bicameral do PL 4244 e parecer recebido na CCJ em junho",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-4244-2025",
+      "publisher": "Congresso Nacional, acompanhamento legislativo",
+      "date": "2026-06-10",
+      "eventDate": "2026-06-10",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4244/2025",
+        "circunstâncias agravantes",
+        "crianças e adolescentes",
+        "CDH",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "Portal bicameral registra protocolo em 27/08/2025, aprovação da Emenda 1-CDH em 08/04/2026 e recebimento, em 10/06/2026, de relatório de Magno Malta na CCJ favorável ao substitutivo com subemenda. Na consulta, a matéria constava 'PRONTA PARA A PAUTA NA COMISSÃO'; Câmara e sanção aparecem como fases previstas, não concluídas. A ementa HTML menciona '7 de setembro de 1940' para o Código Penal, divergência de metadado em relação à data oficial de 7 de dezembro de 1940 no Planalto; sem PDF integral não se infere qual versão do texto do projeto está errada.",
+      "limitations": "Leitura do histórico público HTML; não lido o texto integral do relatório da CCJ em PDF, logo subemenda não foi descrita substantivamente. Portal pode ser atualizado após a consulta; situação é apenas a da página lida.",
+      "locator": "Ementa e situação nas linhas 0-23; tramitação CDH 57-75; CCJ e fases previstas nas linhas 81-106 da extração HTML.",
+      "sourceId": "fonte-050cd7980a113c02",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T05:38:42.332Z",
+      "lastModifiedAt": "2026-10-25T05:38:42.332Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro, proponente; Magno Malta, relator nas comissões",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4244/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+          "inputId": "pl4244-agravante-cdh-ccj-20261025-32-06",
+          "toolReference": "turn149652view0"
+        }
+      ],
+      "accessMethod": "Leitura direta do HTML oficial do Congresso Nacional em 25/10/2026, conferindo as entradas de 08/04/2026 e 10/06/2026.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-24860c982aca60ee",
       "title": "PL 4.244/2025: parecer da CDH e relatoria na CCJ em 2026",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170061",
@@ -17794,6 +17863,144 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-27db6b17dfa11fdd",
+      "title": "Partido Liberal: posicionamento público favorável ao PL 4244 após aprovação na CDH",
+      "url": "https://partidoliberal.org.br/flavio-bolsonaro-agravante-crimes-criancas-adolescentes/",
+      "publisher": "Partido Liberal (PL), comunicação partidária",
+      "date": "2026-04-10",
+      "eventDate": "2026-04-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4244/2025",
+        "circunstâncias agravantes",
+        "crianças e adolescentes",
+        "CDH",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "Publicação partidária de 10/04/2026 identifica Flávio como autor do PL 4244/2025, defende agravamento penal quando há menores presenciando crimes, mesmo não sendo vítimas diretas, e reconhece que a aprovação ocorreu na CDH e que a análise prosseguiria na CCJ. Registra posição favorável da legenda, não checagem independente nem comprovação de impacto social.",
+      "limitations": "Material de comunicação do próprio partido, com conflito de interesse natural da fonte; exposição dos motivos é atribuída à legenda. Não houve entrevista direta ou contato com Flávio; link para documentos externos não equivale a leitura dos PDFs.",
+      "locator": "Data 10/04/2026 e texto partidário nas linhas 71-100 da extração HTML.",
+      "sourceId": "fonte-e0d802a79452f4db",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T05:38:42.332Z",
+      "lastModifiedAt": "2026-10-25T05:38:42.332Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Comunicação institucional do próprio partido defende a medida em nome da proteção de crianças e adolescentes e descreve seu objetivo; não foi obtida declaração direta audiovisual de Flávio.",
+      "actor": "Partido Liberal atribui justificativa e autoria a Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4244/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+          "inputId": "pl4244-agravante-cdh-ccj-20261025-32-05",
+          "toolReference": "turn803483view0"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta de comunicado oficial do PL em HTML em 25/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-c2b15d2a881b5c11",
+      "title": "Rádio Senado: transcrição pública sobre a aprovação do PL 4244 na CDH",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/04/08/cometer-crimes-diante-de-criancas-e-adolescentes-pode-virar-agravante",
+      "publisher": "Rádio Senado, reportagem de Raissa Abreu",
+      "date": "2026-04-08",
+      "eventDate": "2026-04-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4244/2025",
+        "circunstâncias agravantes",
+        "crianças e adolescentes",
+        "CDH",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "Matéria institucional de 08/04/2026 relata que a CDH aprovou o PL 4244 na forma de parecer e que ele seguiria à CCJ. Traz transcrição escrita de posições favoráveis de Magno Malta e Damares Alves, inclusive afirmação quantitativa de Damares que não foi comprovada independentemente. A duração nominal informada para o áudio é 01:57, mas a gravação não foi ouvida.",
+      "limitations": "Apenas transcrição fornecida pela Rádio Senado, com 0 segundos reproduzidos. Duração de 01:57 é metadado da página, não duração auditada. Texto não constitui fala literal do autor do projeto.",
+      "locator": "Data e autoria nas linhas 8-15; transcrição da reportagem nas linhas 20-24 da página HTML.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T05:38:42.332Z",
+      "lastModifiedAt": "2026-10-25T05:38:42.332Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Raissa Abreu, repórter; Magno Malta e Damares Alves, falas reproduzidas",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4244/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+          "inputId": "pl4244-agravante-cdh-ccj-20261025-32-04",
+          "toolReference": "turn803483view4"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do texto HTML da Rádio Senado em 25/10/2026; áudio não reproduzido.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-a84113df770b0b32",
       "title": "É montagem notícia sobre Flávio Bolsonaro acabar com o PIX",
       "url": "https://checamos.afp.com/doc.afp.com.A77E36C",
@@ -17856,6 +18063,213 @@
         }
       ],
       "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-379abc467dbe4ddf",
+      "title": "Senado: item 7 da CDH aprova parecer substitutivo ao PL 4244/2025 em 8 de abril",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14518/item/109377",
+      "publisher": "Senado Federal, Comissão de Direitos Humanos",
+      "date": "2026-04-08",
+      "eventDate": "2026-04-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4244/2025",
+        "circunstâncias agravantes",
+        "crianças e adolescentes",
+        "CDH",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha oficial do item 7 da 21ª reunião da CDH, realizada em 08/04/2026, registra aprovação do relatório de Magno Malta, convertido em Parecer da CDH favorável ao PL 4244/2025 na forma da Emenda 1-CDH (substitutivo). A aprovação ocorreu nessa comissão, sem transformar a proposta em lei.",
+      "limitations": "Somente HTML oficial do item foi aberto e lido; arquivos PDF vinculados não tiveram leitura integral visual conferida. Não houve reprodução de vídeo ou áudio.",
+      "locator": "Página do item 7: seção 'Autoria e relatoria', 'Relatório' e 'Resultado', linhas 20-49 da extração HTML.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T05:38:42.332Z",
+      "lastModifiedAt": "2026-10-25T05:38:42.332Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro, autor; Magno Malta, relator",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4244/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+          "inputId": "pl4244-agravante-cdh-ccj-20261025-32-01",
+          "toolReference": "turn803483view1"
+        }
+      ],
+      "accessMethod": "Leitura direta do HTML da página oficial em 25/10/2026; localizadores são linhas de texto da página, não timestamps de gravação.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-15f579053638817d",
+      "title": "Senado: notas taquigráficas de 08/04/2026 registram discussão e voto no PL 4244/2025",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14518",
+      "publisher": "Senado Federal, notas taquigráficas",
+      "date": "2026-04-08",
+      "eventDate": "2026-04-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4244/2025",
+        "circunstâncias agravantes",
+        "crianças e adolescentes",
+        "CDH",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "A transcrição institucional da 21ª CDH, no item 7, identifica autoria de Flávio e relatoria de Magno Malta. O relator explica proposta de alterar art. 61 do Código Penal e art. 40 da Lei de Drogas para considerar a presença de menor não vítima direta. Damares apoia a iniciativa e cita o percentual de 80% sobre violência contra mulher com criança como vítima secundária; esse número é alegação dela, sem comprovação estatística independente nesta consulta, e não deve ser atribuído a Flávio. A fala é de terceiros, não gravação ou fala direta de Flávio.",
+      "limitations": "Transcrição publicada pelo Senado lida como texto, sem audição original; 0 segundos conferidos; nenhuma reprodução ou transcrição própria. Estatísticas e alegações pessoais de oradores não verificadas.",
+      "locator": "Texto taquigráfico: item 7 e intervenções de Magno e Damares nas linhas 175-192; horários impressos na transcrição 12:20 e 12:24 não são timestamps auditados em mídia.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T05:38:42.332Z",
+      "lastModifiedAt": "2026-10-25T05:38:42.332Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Magno Malta, relator; Damares Alves, presidente da CDH; Flávio Bolsonaro, autor da proposição, não orador no trecho documentado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4244/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+          "inputId": "pl4244-agravante-cdh-ccj-20261025-32-02",
+          "toolReference": "turn149652view1"
+        }
+      ],
+      "accessMethod": "Leitura direta das notas oficiais em HTML em 25/10/2026; localizador textual institucional, nunca apresentação como áudio escutado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-0a7862337cf0b097",
+      "title": "Senado: índice e resultado geral da 21ª reunião da CDH de 08/04/2026",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14518",
+      "publisher": "Senado Federal, Comissão de Direitos Humanos",
+      "date": "2026-04-08",
+      "eventDate": "2026-04-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4244/2025",
+        "circunstâncias agravantes",
+        "crianças e adolescentes",
+        "CDH",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "A página de reunião confirma realização da 21ª CDH em 08/04/2026, disponibilidade institucional de pauta, resultado, ata e notas. Trata-se de índice do mesmo evento documentado nas páginas do item 7, não prova independente nem nova deliberação.",
+      "limitations": "Página de índice examinada; audiovisual vinculado e PDFs de pauta/ata não reproduzidos ou inspecionados integralmente. Referência redundante do mesmo evento, sem contagem de fatos independentes.",
+      "locator": "Cabeçalho da 21ª reunião, data, situação 'Realizada' e links de pauta/resultado/notas, linhas 20-35 da extração HTML.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T05:38:42.332Z",
+      "lastModifiedAt": "2026-10-25T05:38:42.332Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal, CDH; participantes identificados individualmente nas notas",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4244/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+          "inputId": "pl4244-agravante-cdh-ccj-20261025-32-03",
+          "toolReference": "turn803483view5"
+        }
+      ],
+      "accessMethod": "Leitura direta de página de índice HTML em 25/10/2026; 0 segundos de áudio ou vídeo revisados.",
       "newToArchive": true
     },
     {
@@ -21160,6 +21574,75 @@
         }
       ],
       "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-0b00b466b86a88bd",
+      "title": "Rádio Senado: pauta de projetos da semana registra apresentação do PL 4244 em agosto de 2025",
+      "url": "https://www12.senado.leg.br/radio/1/projetos-da-semana/2025/08/29/projetos-da-semana-trazem-iniciativas-de-protecao-digital-prevencao-da-violencia-e-inclusao-escolar",
+      "publisher": "Rádio Senado, Projetos da Semana, Alexandre Campos",
+      "date": "2025-08-29",
+      "eventDate": "2025-08-29",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4244/2025",
+        "circunstâncias agravantes",
+        "crianças e adolescentes",
+        "CDH",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "Descrição de programação de 29/08/2025 inclui PL 4244/2025 entre iniciativas recém-apresentadas sobre proteção a crianças e adolescentes. Demonstra divulgação institucional inicial do tema, não votação, eficácia da proposta nem fala gravada confirmada de Flávio.",
+      "limitations": "Somente texto de descrição e metadado de duração disponíveis foram consultados; programa de 09:52 não foi ouvido, 0 segundos de áudio revisados; outros PLs do programa não fazem parte do recorte.",
+      "locator": "Resumo do episódio, autoria, publicação e metadado de 09:52 nas linhas 8-17 do HTML.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T05:38:42.332Z",
+      "lastModifiedAt": "2026-10-25T05:38:42.332Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Alexandre Campos, produção Rádio Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4244/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+          "inputId": "pl4244-agravante-cdh-ccj-20261025-32-07",
+          "toolReference": "turn803483view6"
+        }
+      ],
+      "accessMethod": "Leitura direta de página de programa em HTML em 25/10/2026; sem reprodução de áudio.",
       "newToArchive": true
     },
     {
@@ -37405,6 +37888,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-bbb579a35c96db36",
+      "title": "Planalto: Lei de Drogas, art. 40, parâmetro legal para alteração proposta no PL 4244",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "publisher": "Presidência da República, Portal da Legislação (Planalto)",
+      "date": "2006-08-23",
+      "eventDate": null,
+      "year": 2006,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4244/2025",
+        "circunstâncias agravantes",
+        "crianças e adolescentes",
+        "CDH",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "Texto oficial da Lei de Drogas mostra no art. 40 majorantes de um sexto a dois terços para crimes dos arts. 33 a 37, com inciso VI sobre prática que envolva ou vise a atingir criança ou adolescente. A proposta do PL 4244 trata da presença de menor, matéria que precisa ser diferenciada da redação já existente; não se conclui que o PL tenha alterado a lei.",
+      "limitations": "HTML normativo consultado como legislação de referência, não como versão final ou aprovação do PL; codificação textual de caracteres especiais apresentou falhas na extração. Não há leitura integral dos pareceres anexos.",
+      "locator": "Lei 11.343/2006, art. 40, incisos I-VII, linhas 513-524 da extração HTML.",
+      "sourceId": "fonte-809b7c1448afbb27",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T05:38:42.332Z",
+      "lastModifiedAt": "2026-10-25T05:38:42.332Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Lei nº 11.343, de 23 de agosto de 2006, legislação federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4244/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+          "inputId": "pl4244-agravante-cdh-ccj-20261025-32-09",
+          "toolReference": "turn293762view6"
+        }
+      ],
+      "accessMethod": "Leitura direta do texto HTML do Planalto em 25/10/2026, art. 40 e incisos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-d278ff4ab7b4c81c",
       "title": "Emendas apresentadas ao PLC 27/2005 sobre regime da Secretaria de Administração Penitenciária",
       "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=81&url=L3NjcHJvMDMwNy5uc2YvZTAwYTdjM2M4NjUyYjY5YTgzMjU2Y2NhMDA2NDZlZTUvMTdlOTczZDRjMTA5YWM0ZTgzMjU3MDUyMDA2NjFiOWU%2FT3BlbkRvY3VtZW50",
@@ -37534,6 +38086,75 @@
         }
       ],
       "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-0af6ffe751d8cee2",
+      "title": "Planalto: texto compilado do Código Penal, art. 61, parâmetro normativo para PL 4244",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+      "publisher": "Presidência da República, Portal da Legislação (Planalto)",
+      "date": "1940-12-07",
+      "eventDate": null,
+      "year": 1940,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4244/2025",
+        "circunstâncias agravantes",
+        "crianças e adolescentes",
+        "CDH",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "O texto compilado oficial do Código Penal traz o art. 61 sobre circunstâncias agravantes, inclusive hipóteses de crime contra criança, distinto de prever novo agravamento apenas pela presença de criança ou adolescente. A data do decreto-lei é 7 de DEZEMBRO de 1940, corrigindo discrepância no campo de ementa HTML de portal legislativo que menciona setembro; nenhum desses textos transforma PL 4244 em lei vigente.",
+      "limitations": "Consultado texto normativo HTML compilado como contraponto, não o PDF ou autógrafo do PL 4244. A extração apresentou problemas de acentuação; não foram feitas inferências sobre dispositivos não examinados ou validade processual.",
+      "locator": "Texto compilado do Decreto-Lei 2.848, art. 61, linhas 443-469 da extração HTML.",
+      "sourceId": "fonte-809b7c1448afbb27",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T05:38:42.332Z",
+      "lastModifiedAt": "2026-10-25T05:38:42.332Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Decreto-Lei nº 2.848, de 7 de dezembro de 1940, legislação federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4244/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+          "inputId": "pl4244-agravante-cdh-ccj-20261025-32-08",
+          "toolReference": "turn293762view5"
+        }
+      ],
+      "accessMethod": "Leitura direta de legislação oficial HTML do Planalto em 25/10/2026, art. 61 localizado textualmente.",
       "newToArchive": true
     },
     {
@@ -40471,6 +41092,29 @@
       "analysedCount": 2
     },
     {
+      "id": "fonte-050cd7980a113c02",
+      "name": "Congresso Nacional, acompanhamento legislativo",
+      "url": "https://www.congressonacional.leg.br/",
+      "responsible": "Congresso Nacional, acompanhamento legislativo",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T05:38:42.332Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-009ef75a2cd7b2f1",
       "name": "Congresso Nacional, acompanhamento oficial de vetos",
       "url": "https://www.congressonacional.leg.br/",
@@ -40914,6 +41558,29 @@
       "analysedCount": 0
     },
     {
+      "id": "fonte-e0d802a79452f4db",
+      "name": "Partido Liberal (PL), comunicação partidária",
+      "url": "https://partidoliberal.org.br/",
+      "responsible": "Partido Liberal (PL), comunicação partidária",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T05:38:42.332Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-e24089d8c0bdeda6",
       "name": "Poder360",
       "url": "https://www.poder360.com.br/",
@@ -40931,6 +41598,30 @@
       ],
       "formats": [
         "video"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 2,
+      "analysedCount": 2
+    },
+    {
+      "id": "fonte-809b7c1448afbb27",
+      "name": "Presidência da República, Portal da Legislação (Planalto)",
+      "url": "https://www.planalto.gov.br/",
+      "responsible": "Presidência da República, Portal da Legislação (Planalto)",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T05:38:42.332Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 2,
+      "periods": [
+        1940,
+        2006
+      ],
+      "formats": [
+        "documento"
       ],
       "monitoringEnabled": false,
       "accessedCount": 2,
@@ -41150,10 +41841,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z",
-      "lastConsultedAt": "2026-10-25T04:45:32.971Z",
+      "lastConsultedAt": "2026-10-25T05:38:42.332Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 251,
+      "sourceCount": 256,
       "periods": [
         2018,
         2019,
@@ -41174,8 +41865,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 250,
-      "analysedCount": 234
+      "accessedCount": 255,
+      "analysedCount": 239
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -44208,6 +44899,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-7a4deaae95733555",
+      "itemId": "pesquisa-ece23059248a56f1",
+      "title": "Congresso Nacional: cronologia bicameral do PL 4244 e parecer recebido na CCJ em junho",
+      "date": "2026-06-10",
+      "datePrecision": "day",
+      "context": "Portal bicameral registra protocolo em 27/08/2025, aprovação da Emenda 1-CDH em 08/04/2026 e recebimento, em 10/06/2026, de relatório de Magno Malta na CCJ favorável ao substitutivo com subemenda. Na consulta, a matéria constava 'PRONTA PARA A PAUTA NA COMISSÃO'; Câmara e sanção aparecem como fases previstas, não concluídas. A ementa HTML menciona '7 de setembro de 1940' para o Código Penal, divergência de metadado em relação à data oficial de 7 de dezembro de 1940 no Planalto; sem PDF integral não se infere qual versão do texto do projeto está errada.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-de5d32cec1c71e68",
       "itemId": "pesquisa-24860c982aca60ee",
       "title": "PL 4.244/2025: parecer da CDH e relatoria na CCJ em 2026",
@@ -44415,6 +45115,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-c2de64450fd76de0",
+      "itemId": "pesquisa-27db6b17dfa11fdd",
+      "title": "Partido Liberal: posicionamento público favorável ao PL 4244 após aprovação na CDH",
+      "date": "2026-04-08",
+      "datePrecision": "day",
+      "context": "Publicação partidária de 10/04/2026 identifica Flávio como autor do PL 4244/2025, defende agravamento penal quando há menores presenciando crimes, mesmo não sendo vítimas diretas, e reconhece que a aprovação ocorreu na CDH e que a análise prosseguiria na CCJ. Registra posição favorável da legenda, não checagem independente nem comprovação de impacto social.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-6f82453c5307cfc9",
+      "itemId": "pesquisa-c2b15d2a881b5c11",
+      "title": "Rádio Senado: transcrição pública sobre a aprovação do PL 4244 na CDH",
+      "date": "2026-04-08",
+      "datePrecision": "day",
+      "context": "Matéria institucional de 08/04/2026 relata que a CDH aprovou o PL 4244 na forma de parecer e que ele seguiria à CCJ. Traz transcrição escrita de posições favoráveis de Magno Malta e Damares Alves, inclusive afirmação quantitativa de Damares que não foi comprovada independentemente. A duração nominal informada para o áudio é 01:57, mas a gravação não foi ouvida.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-16441f6b06351e00",
       "itemId": "pesquisa-a84113df770b0b32",
       "title": "É montagem notícia sobre Flávio Bolsonaro acabar com o PIX",
@@ -44422,6 +45140,33 @@
       "datePrecision": "unknown",
       "context": "Material de AFP Checamos relacionado a Flávio Bolsonaro: É montagem notícia sobre Flávio Bolsonaro acabar com o PIX. Rótulos, conclusões e correções permanecem atribuídos ao publicador; o Arquivo não cria nova classificação editorial a partir desta coleta.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-791da4b030e03c65",
+      "itemId": "pesquisa-379abc467dbe4ddf",
+      "title": "Senado: item 7 da CDH aprova parecer substitutivo ao PL 4244/2025 em 8 de abril",
+      "date": "2026-04-08",
+      "datePrecision": "day",
+      "context": "A ficha oficial do item 7 da 21ª reunião da CDH, realizada em 08/04/2026, registra aprovação do relatório de Magno Malta, convertido em Parecer da CDH favorável ao PL 4244/2025 na forma da Emenda 1-CDH (substitutivo). A aprovação ocorreu nessa comissão, sem transformar a proposta em lei.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-80ce700ae9ab1424",
+      "itemId": "pesquisa-15f579053638817d",
+      "title": "Senado: notas taquigráficas de 08/04/2026 registram discussão e voto no PL 4244/2025",
+      "date": "2026-04-08",
+      "datePrecision": "day",
+      "context": "A transcrição institucional da 21ª CDH, no item 7, identifica autoria de Flávio e relatoria de Magno Malta. O relator explica proposta de alterar art. 61 do Código Penal e art. 40 da Lei de Drogas para considerar a presença de menor não vítima direta. Damares apoia a iniciativa e cita o percentual de 80% sobre violência contra mulher com criança como vítima secundária; esse número é alegação dela, sem comprovação estatística independente nesta consulta, e não deve ser atribuído a Flávio. A fala é de terceiros, não gravação ou fala direta de Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-c97b07e11fba4ed3",
+      "itemId": "pesquisa-0a7862337cf0b097",
+      "title": "Senado: índice e resultado geral da 21ª reunião da CDH de 08/04/2026",
+      "date": "2026-04-08",
+      "datePrecision": "day",
+      "context": "A página de reunião confirma realização da 21ª CDH em 08/04/2026, disponibilidade institucional de pauta, resultado, ata e notas. Trata-se de índice do mesmo evento documentado nas páginas do item 7, não prova independente nem nova deliberação.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-362fc5f6fb538fb6",
@@ -44871,6 +45616,15 @@
       "date": "2025-09-03",
       "datePrecision": "day",
       "context": "Flávio perguntou se o PL 4.809/2024 havia sido retirado de pauta e Confúcio Moura confirmou a retirada do primeiro item. Trata-se de pergunta e resposta, não voto ou parecer de Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e007c991800034bb",
+      "itemId": "pesquisa-0b00b466b86a88bd",
+      "title": "Rádio Senado: pauta de projetos da semana registra apresentação do PL 4244 em agosto de 2025",
+      "date": "2025-08-29",
+      "datePrecision": "day",
+      "context": "Descrição de programação de 29/08/2025 inclui PL 4244/2025 entre iniciativas recém-apresentadas sobre proteção a crianças e adolescentes. Demonstra divulgação institucional inicial do tema, não votação, eficácia da proposta nem fala gravada confirmada de Flávio.",
       "state": "data informada pela fonte"
     },
     {
@@ -47088,6 +47842,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-c3cd8c5a2a8e49b7",
+      "itemId": "pesquisa-bbb579a35c96db36",
+      "title": "Planalto: Lei de Drogas, art. 40, parâmetro legal para alteração proposta no PL 4244",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Texto oficial da Lei de Drogas mostra no art. 40 majorantes de um sexto a dois terços para crimes dos arts. 33 a 37, com inciso VI sobre prática que envolva ou vise a atingir criança ou adolescente. A proposta do PL 4244 trata da presença de menor, matéria que precisa ser diferenciada da redação já existente; não se conclui que o PL tenha alterado a lei.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-6c482ae03eed43db",
       "itemId": "pesquisa-d278ff4ab7b4c81c",
       "title": "Emendas apresentadas ao PLC 27/2005 sobre regime da Secretaria de Administração Penitenciária",
@@ -47104,6 +47867,15 @@
       "datePrecision": "day",
       "context": "Na consulta ao texto compilado do Estatuto da Criança e do Adolescente, o art. 121 estabelece reavaliação da internação no máximo a cada seis meses, período máximo de três anos e liberação compulsória aos 21 anos. Esses parâmetros servem para distinguir a lei vigente da proposta original de Flávio e do substitutivo de Marcio Bittar discutido na CDH.",
       "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-5a7b3e9ad49343d2",
+      "itemId": "pesquisa-0af6ffe751d8cee2",
+      "title": "Planalto: texto compilado do Código Penal, art. 61, parâmetro normativo para PL 4244",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "O texto compilado oficial do Código Penal traz o art. 61 sobre circunstâncias agravantes, inclusive hipóteses de crime contra criança, distinto de prever novo agravamento apenas pela presença de criança ou adolescente. A data do decreto-lei é 7 de DEZEMBRO de 1940, corrigindo discrepância no campo de ementa HTML de portal legislativo que menciona setembro; nenhum desses textos transforma PL 4244 em lei vigente.",
+      "state": "identificação de evento pendente"
     },
     {
       "id": "evento-6aa9953bf9738940",
@@ -53212,6 +53984,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-7a4deaae95733555",
+      "itemId": "pesquisa-ece23059248a56f1",
+      "sourceId": "fonte-050cd7980a113c02",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-4244-2025",
+      "locator": "Ementa e situação nas linhas 0-23; tramitação CDH 57-75; CCJ e fases previstas nas linhas 81-106 da extração HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-de5d32cec1c71e68",
       "itemId": "pesquisa-24860c982aca60ee",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -53465,11 +54248,66 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-c2de64450fd76de0",
+      "itemId": "pesquisa-27db6b17dfa11fdd",
+      "sourceId": "fonte-e0d802a79452f4db",
+      "url": "https://partidoliberal.org.br/flavio-bolsonaro-agravante-crimes-criancas-adolescentes/",
+      "locator": "Data 10/04/2026 e texto partidário nas linhas 71-100 da extração HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-6f82453c5307cfc9",
+      "itemId": "pesquisa-c2b15d2a881b5c11",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/04/08/cometer-crimes-diante-de-criancas-e-adolescentes-pode-virar-agravante",
+      "locator": "Data e autoria nas linhas 8-15; transcrição da reportagem nas linhas 20-24 da página HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-16441f6b06351e00",
       "itemId": "pesquisa-a84113df770b0b32",
       "sourceId": "fonte-875b77e7aba40e8b",
       "url": "https://checamos.afp.com/doc.afp.com.A77E36C",
       "locator": "Página integral acessada; detalhes e documentos vinculados permanecem no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-791da4b030e03c65",
+      "itemId": "pesquisa-379abc467dbe4ddf",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14518/item/109377",
+      "locator": "Página do item 7: seção 'Autoria e relatoria', 'Relatório' e 'Resultado', linhas 20-49 da extração HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-80ce700ae9ab1424",
+      "itemId": "pesquisa-15f579053638817d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14518",
+      "locator": "Texto taquigráfico: item 7 e intervenções de Magno e Damares nas linhas 175-192; horários impressos na transcrição 12:20 e 12:24 não são timestamps auditados em mídia.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-c97b07e11fba4ed3",
+      "itemId": "pesquisa-0a7862337cf0b097",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14518",
+      "locator": "Cabeçalho da 21ª reunião, data, situação 'Realizada' e links de pauta/resultado/notas, linhas 20-35 da extração HTML.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -54020,6 +54858,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/516328",
       "locator": "Pronunciamento 516328, pergunta e resposta do Texto integral, DSF 04/09/2025, p. 29.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e007c991800034bb",
+      "itemId": "pesquisa-0b00b466b86a88bd",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/projetos-da-semana/2025/08/29/projetos-da-semana-trazem-iniciativas-de-protecao-digital-prevencao-da-violencia-e-inclusao-escolar",
+      "locator": "Resumo do episódio, autoria, publicação e metadado de 09:52 nas linhas 8-17 do HTML.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -56732,6 +57581,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-c3cd8c5a2a8e49b7",
+      "itemId": "pesquisa-bbb579a35c96db36",
+      "sourceId": "fonte-809b7c1448afbb27",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "locator": "Lei 11.343/2006, art. 40, incisos I-VII, linhas 513-524 da extração HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-6c482ae03eed43db",
       "itemId": "pesquisa-d278ff4ab7b4c81c",
       "sourceId": "fonte-e979cfd37b58c2c5",
@@ -56748,6 +57608,17 @@
       "sourceId": "fonte-d6671d4bfa16a590",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
       "locator": "Texto compilado no Planalto, seção VII, art. 121, parágrafos 2º, 3º e 5º; HTML linhas 1234–1246.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-5a7b3e9ad49343d2",
+      "itemId": "pesquisa-0af6ffe751d8cee2",
+      "sourceId": "fonte-809b7c1448afbb27",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+      "locator": "Texto compilado do Decreto-Lei 2.848, art. 61, linhas 443-469 da extração HTML.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -57269,26 +58140,28 @@
     },
     {
       "year": 2006,
-      "found": 1,
-      "accessed": 1,
-      "analysed": 1,
+      "found": 2,
+      "accessed": 2,
+      "analysed": 2,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 0,
-        "analisado": 1,
+        "analisado": 2,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
-        "atividade parlamentar": 1
+        "atividade parlamentar": 1,
+        "Flávio Bolsonaro": 1
       },
       "sources": {
-        "fonte-e979cfd37b58c2c5": 1
+        "fonte-e979cfd37b58c2c5": 1,
+        "fonte-809b7c1448afbb27": 1
       },
       "formats": {
-        "documento": 1
+        "documento": 2
       },
       "note": "Recorte não exaustivo."
     },
@@ -57880,15 +58753,15 @@
     },
     {
       "year": 2025,
-      "found": 71,
-      "accessed": 71,
-      "analysed": 68,
+      "found": 72,
+      "accessed": 72,
+      "analysed": 69,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 3,
-        "analisado": 68,
+        "analisado": 69,
         "revisado": 0,
         "publicado": 0
       },
@@ -57901,7 +58774,7 @@
         "PL 5582/2025": 1,
         "PL 1087/2025": 1,
         "imagem sintética": 1,
-        "Flávio Bolsonaro": 4,
+        "Flávio Bolsonaro": 5,
         "PL 2169/2019": 5,
         "Senado": 4,
         "medidas socioeducativas": 1,
@@ -57932,7 +58805,7 @@
       },
       "sources": {
         "fonte-ab7ca292b805c308": 1,
-        "fonte-2acd9e7dc92e583a": 55,
+        "fonte-2acd9e7dc92e583a": 56,
         "fonte-29a2bae5277f274b": 6,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
@@ -57944,7 +58817,7 @@
       "formats": {
         "audio": 1,
         "documento": 46,
-        "registro": 4,
+        "registro": 5,
         "checagem": 6,
         "reportagem": 13,
         "video": 1
@@ -57953,22 +58826,22 @@
     },
     {
       "year": 2026,
-      "found": 284,
-      "accessed": 284,
-      "analysed": 278,
+      "found": 290,
+      "accessed": 290,
+      "analysed": 284,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 6,
-        "analisado": 278,
+        "analisado": 284,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "debate da Globo": 91,
         "checagens": 1,
-        "Flávio Bolsonaro": 13,
+        "Flávio Bolsonaro": 19,
         "licença-maternidade": 1,
         "assistência social": 1,
         "eleições": 6,
@@ -58043,7 +58916,7 @@
         "fonte-f1199c02c1d5a933": 1,
         "fonte-f963e021c7cefa6f": 2,
         "fonte-9c2fbd587c9a9fb0": 6,
-        "fonte-2acd9e7dc92e583a": 35,
+        "fonte-2acd9e7dc92e583a": 39,
         "fonte-b1a6d0a350c2f59a": 1,
         "fonte-4114d6bfe97e1092": 1,
         "fonte-0a4536d177e98be8": 2,
@@ -58058,27 +58931,29 @@
         "fonte-cd19e6197d9bdf02": 1,
         "fonte-7d7b950bffc2fe29": 8,
         "fonte-508d60279dcebcef": 1,
+        "fonte-050cd7980a113c02": 1,
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
+        "fonte-e0d802a79452f4db": 1,
         "fonte-2837db98d9bb5569": 1
       },
       "formats": {
         "video": 7,
         "checagem": 206,
-        "reportagem": 35,
-        "registro": 3,
+        "reportagem": 37,
+        "registro": 4,
         "audio": 3,
-        "documento": 30
+        "documento": 33
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 588,
-    "items": 606,
+    "newItems": 597,
+    "items": 615,
     "alreadyInArchive": 18,
-    "accessed": 603,
-    "analysed": 573,
+    "accessed": 612,
+    "analysed": 582,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -58086,16 +58961,16 @@
     "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 58,
-    "sourcesConsulted": 53,
+    "sources": 61,
+    "sourcesConsulted": 56,
     "video": 18,
     "audio": 7,
-    "documents": 227,
+    "documents": 232,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 191,
-    "accessFailures": 42,
+    "queryCount": 195,
+    "accessFailures": 44,
     "undatedItems": 38
   },
   "queries": [
@@ -59351,6 +60226,42 @@
       "resultsState": "13 URLs distintas ainda não catalogadas; material anterior preservado."
     },
     {
+      "id": "consulta-796437e18ad7571e",
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+      "query": "PL 4244/2025 Flávio Bolsonaro CDH 08/04/2026 Magno Malta resultado notas taquigráficas",
+      "executedAt": "2026-10-25T05:38:42.332Z",
+      "engine": "web.run, pesquisa e abertura direta HTML do Senado",
+      "interval": "2025-2026",
+      "resultsState": "Ficha do item 7, índice da 21ª reunião e notas taquigráficas acessados; autoria, substitutivo e oradores distinguidos."
+    },
+    {
+      "id": "consulta-d975e2420570b514",
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+      "query": "PL 4244/2025 CCJ 10/06/2026 parecer situação Congresso Nacional matérias bicamerais",
+      "executedAt": "2026-10-25T05:38:42.332Z",
+      "engine": "web.run, leitura direta HTML do Congresso",
+      "interval": "2025-2026",
+      "resultsState": "Portal registra relatório recebido na CCJ e estado pronta para pauta, sem aprovação final; PDF íntegro bloqueado."
+    },
+    {
+      "id": "consulta-bf8066cfa7b5a6f0",
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+      "query": "Flávio Bolsonaro PL 4244/2025 resposta pública partido liberal proteção crianças adolescentes",
+      "executedAt": "2026-10-25T05:38:42.332Z",
+      "engine": "web.run, leitura do comunicado partidário e reportagem da Rádio Senado",
+      "interval": "2025-2026",
+      "resultsState": "Encontrada defesa da proposta pelo Partido Liberal, publicação de 10/04/2026; distinguida da fala literal do político."
+    },
+    {
+      "id": "consulta-35ee2ce9e4daa521",
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+      "query": "Código Penal Decreto-Lei 2848 art. 61 Lei 11343/2006 art. 40 Planalto",
+      "executedAt": "2026-10-25T05:38:42.332Z",
+      "engine": "web.run, consulta direta à legislação oficial compilada",
+      "interval": "1940-2026",
+      "resultsState": "Artigos 61 e 40 localizados; discrepância entre ementa HTML e data real do decreto-lei registrada como precisão de metadado."
+    },
+    {
       "id": "consulta-908b3c4f53e33516",
       "batch": "primarias-20261024-02",
       "query": "site:alerj.rj.gov.br \"Flávio Bolsonaro\" 2012 projeto lei",
@@ -60041,6 +60952,16 @@
       "source": "https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728",
       "status": "inspeção visual bloqueada",
       "note": "Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial."
+    },
+    {
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10201058&rendition_principal=S&ts=1775771078593",
+      "reason": "Visualização do PDF institucional devolveu desafio de verificação de segurança, inclusive em captura de tela; não declarar PDF integral lido nem emenda conferida."
+    },
+    {
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento/download/6ea8ccf0-b2d2-4d09-b258-d7e24222dbde",
+      "reason": "Captura de página interna do PDF de pauta retornou tela de segurança; extração parcial/indexada não é inspeção visual completa. Não catalogado como integral acessada."
     },
     {
       "batch": "primarias-20261024-02",
@@ -60791,6 +61712,42 @@
       "batch": "pl3071-loteca-abbr-20261025-31"
     },
     {
+      "id": "lacuna-80119021fe3f3f8c",
+      "note": "Ler em ambiente autorizado as versões íntegras do projeto, Emenda 1-CDH, Parecer 41/2026 e relatório/subemenda da CCJ; PDF devolveu verificação de segurança na consulta atual.",
+      "state": "pendente",
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32"
+    },
+    {
+      "id": "lacuna-ca327bde2ad2b080",
+      "note": "Conferir o estágio posterior da CCJ e eventual deliberação terminativa, recurso e tramitação bicameral sem transformar relatório em aprovação.",
+      "state": "pendente",
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32"
+    },
+    {
+      "id": "lacuna-0556db93f23f4ab5",
+      "note": "Obter evidência primária para o percentual citado por Damares Alves em 08/04/2026; não atribuí-lo a Flávio nem tratá-lo como estatística verificada.",
+      "state": "pendente",
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32"
+    },
+    {
+      "id": "lacuna-0aa8c72ffd0f2040",
+      "note": "Procurar manifestações técnicas ou críticas específicas à tipificação e proporcionalidade, distinguindo propostas de terceiros de posições de Flávio.",
+      "state": "pendente",
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32"
+    },
+    {
+      "id": "lacuna-b35810008181586b",
+      "note": "Quando permitido, comparar notas oficiais com gravação da 21ª CDH; zero segundos de áudio ou vídeo revisados nesta coleta.",
+      "state": "pendente",
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32"
+    },
+    {
+      "id": "lacuna-24f56c066a40b684",
+      "note": "Discrepância da ementa HTML do Congresso que aponta 7 de setembro para o Código Penal: confrontar o avulso inicial e versões redacionais quando PDF estiver acessível; Planalto data o Decreto-Lei 2848 em 7 de dezembro de 1940.",
+      "state": "pendente",
+      "batch": "pl4244-agravante-cdh-ccj-20261025-32"
+    },
+    {
       "id": "lacuna-d791a02351ceee92",
       "note": "Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.",
       "state": "pendente",
@@ -61265,6 +62222,11 @@
       "label": "PL 3071/2019: Loteca, ABBR, votação no Senado, emendas para Rede Sarah e tramitação pendente na Câmara",
       "collected_at_utc": "2026-10-25T04:45:32.971Z",
       "method": "13 URLs HTML oficiais distintas efetivamente lidas; verificados 593 registros prévios; Senado/Câmara/Rádio Senado, resposta do autor e ressalva parlamentar; nenhum PDF ou áudio integral inspecionado, classificação e revisão nulas."
+    },
+    {
+      "title": "Ficha do PL 4244/2025 previamente catalogada (não repetida)",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170061",
+      "role": "referência pré-existente; consulta do recorte sem criar URL duplicada"
     },
     {
       "name": "Checagem ao Vivo",

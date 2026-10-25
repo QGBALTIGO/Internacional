@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T04:45:46.986778Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T05:38:59.686434Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-606 URLs únicas no lote; 588 ainda não vinculadas à edição anterior. 603 materiais acessados e 573 com texto analisado.
+615 URLs únicas no lote; 597 ainda não vinculadas à edição anterior. 612 materiais acessados e 582 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -15,7 +15,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2003 | 0 | 0 | 0 | 0 | 0 |
 | 2004 | 0 | 0 | 0 | 0 | 0 |
 | 2005 | 1 | 1 | 1 | 0 | 0 |
-| 2006 | 1 | 1 | 1 | 0 | 0 |
+| 2006 | 2 | 2 | 2 | 0 | 0 |
 | 2007 | 4 | 4 | 4 | 0 | 0 |
 | 2008 | 1 | 1 | 1 | 0 | 0 |
 | 2009 | 4 | 4 | 4 | 0 | 0 |
@@ -34,8 +34,8 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 27 | 27 | 25 | 0 | 0 |
 | 2024 | 37 | 37 | 36 | 0 | 0 |
-| 2025 | 71 | 71 | 68 | 0 | 0 |
-| 2026 | 284 | 284 | 278 | 0 | 0 |
+| 2025 | 72 | 72 | 69 | 0 | 0 |
+| 2026 | 290 | 290 | 284 | 0 | 0 |
 
 Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -152,6 +152,12 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - Áudio da Rádio Senado e vídeo do Plenário de 15/05/2024 não reproduzidos; manter zero segundos revisados e não inventar timestamps ou fala ouvida.
 - MP 983/2020, citada em nextBatch de atividades 2020: prosseguir em lote específico, sem misturar com PL 3071/2019.
 - Revisão editorial humana identificada obrigatória antes de comparar acusações, classificar declarações ou atribuir contradições a senadores ou deputados.
+- Ler em ambiente autorizado as versões íntegras do projeto, Emenda 1-CDH, Parecer 41/2026 e relatório/subemenda da CCJ; PDF devolveu verificação de segurança na consulta atual.
+- Conferir o estágio posterior da CCJ e eventual deliberação terminativa, recurso e tramitação bicameral sem transformar relatório em aprovação.
+- Obter evidência primária para o percentual citado por Damares Alves em 08/04/2026; não atribuí-lo a Flávio nem tratá-lo como estatística verificada.
+- Procurar manifestações técnicas ou críticas específicas à tipificação e proporcionalidade, distinguindo propostas de terceiros de posições de Flávio.
+- Quando permitido, comparar notas oficiais com gravação da 21ª CDH; zero segundos de áudio ou vídeo revisados nesta coleta.
+- Discrepância da ementa HTML do Congresso que aponta 7 de setembro para o Código Penal: confrontar o avulso inicial e versões redacionais quando PDF estiver acessível; Planalto data o Decreto-Lei 2848 em 7 de dezembro de 1940.
 - Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.
 - Confirmar desfecho legislativo após comunicação de veto total ao PL 3003/2014.
 - Conferir Diários e gravações integrais antes de novas citações, timestamps, comparações ou vereditos; áudio ouvido nesta coleta: zero segundos.
@@ -256,6 +262,8 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: PDF da Mensagem 772/2026 e PDFs dos relatórios e emendas do PL 1482/2019; status: Íntegra de PDF não consultada; note: Não se reivindica acesso, leitura ou cotejo textual dos PDFs. Fichas HTML e lei em HTML não substituem autenticação visual de anexos.
 - batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: Áudios e vídeo das reuniões da CSP, CCJ e Plenário; status: Não reproduzidos; note: Zero segundos ou marcações conferidos. Referências de linhas se limitam a texto HTML; horários apresentados nas páginas não constituem timestamps de mídia validados.
 - batch: pl2169-cdh-substitutivo-tramitacao-20261025-28; source: https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728; status: inspeção visual bloqueada; note: Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial.
+- batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10201058&rendition_principal=S&ts=1775771078593; reason: Visualização do PDF institucional devolveu desafio de verificação de segurança, inclusive em captura de tela; não declarar PDF integral lido nem emenda conferida.
+- batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento/download/6ea8ccf0-b2d2-4d09-b258-d7e24222dbde; reason: Captura de página interna do PDF de pauta retornou tela de segurança; extração parcial/indexada não é inspeção visual completa. Não catalogado como integral acessada.
 - batch: primarias-20261024-02; source: Executor local de scripts; error: Sem checkout Git ou terminal remoto conectado nesta execução. Normalização content/research.json e dist/data/research.json e research.js pendente; não afirmar publicação automática.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2003–2008; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/e00a7c3c8652b69a83256cca00646ee5/5cbef3b7651fa94c83256f6c0060c240; error: Abertura da fonte oficial retornou 502. Somente resultado de busca, não lido na íntegra; não incluído no catálogo.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2004; url: https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/b24a2da5a077847c032564f4005d4bf2/5aacd46ba577c4f983256ebb006214b9; error: Abertura da página de lei antiga retornou erro de gateway; não registrar sua ementa ou efeito como texto consultado.
