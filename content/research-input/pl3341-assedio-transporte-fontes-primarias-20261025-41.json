@@ -1,0 +1,341 @@
+{
+  "schema_version": 1,
+  "batch_id": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+  "collected_at_utc": "2026-10-25T14:27:13.464Z",
+  "scope": "Avanço de nextBatch do PL 3341/2025: verificar dados de pesquisa citados pelo relator Flávio Bolsonaro, distinguir legisladores, projetos, normas e rodadas de estatística; preservar versões anteriores; sem juízo editorial.",
+  "method": "Consultas e aberturas reais de páginas HTML oficiais, informativos institucionais, textos legais e PDFs com páginas capturadas; URLs do item principal/notas já catalogadas não repetidas; nenhuma mídia reproduzida.",
+  "records": [
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-ipsos-apresentacao",
+      "title": "Ipsos-Ipec: apresentação primária Viver nas Cidades Mulheres 2026, tabelas 2024/2025",
+      "url": "https://www.ipsos.com/sites/default/files/ct/publication/documents/2026-03/ICS_Mulheres_Apresentacao.pdf",
+      "publisher": "Ipsos-Ipec / Instituto Cidades Sustentáveis",
+      "published_date": "2026-03",
+      "format": "documento",
+      "summary": "Apresentação de 41 páginas, versão fevereiro/2026, referente a entrevistas entre 01 e 27/12/2025. Na tabela comparativa: mulheres que declararam ter sofrido assédio em algum dos locais pesquisados 71% na rodada 2025 versus 74% na anterior; assédio dentro do transporte público 50% na rodada 2025 versus 51% na anterior; assédio em ruas ou espaços públicos 54% versus 56% anteriores. A amostra total é de 3.500 internautas, com 2.066 mulheres na rodada de 2025. Esses são relatos de entrevistadas nas dez capitais, não contagem de crimes ou taxa nacional. Nas notas da CSP de 01/09/2026, Flávio atribuiu 51% à pesquisa Mulheres 2026; a atribuição de ano deve ser conferida por revisor editorial identificado antes de qualquer juízo de acerto/erro.",
+      "locator": "PDF páginas 5 (metodologia), 20–23 (vítimas e locais; séries 2024/2025), 25 (transporte; 50% em 2025); notas da CSP HTML 14952, linha editorial do item 3 (PL 3341/2025)",
+      "limitations": "PDF aberto e texto/figuras inspecionados por páginas e capturas. Os quadros classificam 2024 e 2025 pelo período de campo, embora o estudo seja chamado Mulheres 2026. Os 71% referem-se às mulheres respondentes, não às 3.500 pessoas de ambos os sexos; desenho de painel online com ponderação não autoriza generalização irrestrita ao país. Nenhum áudio da sessão foi ouvido. Comparação sensível continua pendente de revisão editorial humana identificada.",
+      "web_ref": "turn266323view4",
+      "document_number": "Pesquisa ICS Mulheres 2026, versão fevereiro/2026",
+      "event_date": "2025-12-27"
+    },
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-ipsos-release",
+      "title": "Ipsos: release oficial confirma 71% e diferencia 50% de 2025 contra 51% de 2024",
+      "url": "https://www.ipsos.com/sites/default/files/ct/publication/documents/2026-03/ICS_Mulheres-release.pdf",
+      "publisher": "Ipsos Brasil",
+      "published_date": "2026-03-05",
+      "format": "documento",
+      "summary": "Release oficial do estudo relata 71% das mulheres internautas com alguma experiência de assédio em seis locais, 54% em ruas/espaços públicos e 50% no transporte público na rodada de campo de 2025; expressamente indica 51% no transporte como resultado anterior, de 2024. Evita confundir ano de divulgação (2026) com ano de campo (2025).",
+      "locator": "PDF página 1, metodologia e índice 71%; página 2, subtítulo 'Os espaços públicos...' e item transporte público 50% (51% em 2024)",
+      "limitations": "PDF disponibilizado com 3 páginas no visualizador apesar de duas páginas numeradas no impresso; as duas páginas de conteúdo foram inspecionadas inclusive por capturas. Nenhum material audiovisual examinado. A relação com fala parlamentar é indicação documental pendente de revisão editorial.",
+      "web_ref": "turn266323view3",
+      "document_number": "Release Ipsos Mulheres 05/03/2026"
+    },
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-ipsos-html",
+      "title": "Ipsos: publicação e ficha metodológica da pesquisa Mulheres 2026",
+      "url": "https://www.ipsos.com/pt-br/percepcoes-dos-internautas-sobre-desigualdade-de-genero-e-violencia-contra-mulheres",
+      "publisher": "Ipsos-Ipec",
+      "published_date": "2026-03-05",
+      "format": "reportagem",
+      "summary": "Publicação da própria executora descreve painel de 3.500 internautas, pessoas 16+ em dez capitais com residência há pelo menos dois anos, campo 01–27/12/2025, cotas sexo/idade/classe/ocupação, margem informada de 2 p.p. total e de 4–6 p.p. por capital. Registra 71% das mulheres e detalha 50% no transporte público em 2025 contra 51% em 2024; contrapõe literalmente a atribuição de 51% nas notas da CSP, mas sem criar veredito.",
+      "locator": "Seções 'Assédio: a insegurança como regra' e 'Sobre a Pesquisa'; linhas 30–38 e 50–54 da leitura HTML",
+      "limitations": "Nota institucional da organização produtora, não auditoria independente do plano amostral; não confundir relato de assédio ao longo da vida com ocorrência de crime no ano. Juízos de comparação ou checagem permanecem sem publicação.",
+      "web_ref": "turn266323view0"
+    },
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-ics-artigo",
+      "title": "Instituto Cidades Sustentáveis: comunicado original de lançamento da pesquisa Mulheres 2026",
+      "url": "https://icidadessustentaveis.org.br/2026/03/05/sete-em-cada-dez-mulheres-dizem-que-ja-sofreram-assedio-mostra-pesquisa-em-dez-capitais-brasileiras/",
+      "publisher": "Instituto Cidades Sustentáveis",
+      "published_date": "2026-03-05",
+      "format": "reportagem",
+      "summary": "Comunicado dos organizadores apresenta a pesquisa de 3.500 entrevistas online, confirma que 71% das respondentes mulheres declararam assédio em pelo menos um de seis locais; expõe percepções de prevenção, medidas de proteção e canais de denúncia. Relata lançamento em 05/03/2026 com participantes identificados, sem alegar que qualquer um comentou o PL 3341.",
+      "locator": "Seções 'Assédio e combate à violência contra a mulher' e 'Divisão de tarefas domésticas'; HTML, parágrafos das 3.500 entrevistas e 71%",
+      "limitations": "Fonte primária para dados e posicionamentos dos organizadores, não depoimento de Flávio ou resposta institucional ao projeto; estimativas baseadas em questionários declarados.",
+      "web_ref": "turn266323view1"
+    },
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-ics-indice",
+      "title": "Instituto Cidades Sustentáveis: índice histórico de pesquisas Mulheres 2025 e 2026",
+      "url": "https://icidadessustentaveis.org.br/pesquisas/mulheres/",
+      "publisher": "Instituto Cidades Sustentáveis",
+      "published_date": null,
+      "format": "registro",
+      "summary": "Índice de pesquisa distingue claramente levantamento Mulheres 2026 (71% das mulheres) da edição Mulheres 2025 (74%). Disponibiliza apresentações por edição e lista capitais cobertas. Ajuda rastrear possíveis confusões entre rodadas, mas não equivale a reprocessamento estatístico.",
+      "locator": "Seção 'Confira as últimas pesquisas', cards 'Viver nas Cidades Mulheres 2026' e '2025'; links de 'Histórico de pesquisas Mulheres'",
+      "limitations": "Página de índice sem data de publicação verificável; published_date mantida nula. Dados de rodadas diferentes não devem ser convertidos em taxas nacionais.",
+      "web_ref": "turn266323view2"
+    },
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-fbsp-infografico",
+      "title": "FBSP/Datafolha: infográfico primário da 5ª edição Visível e Invisível (2025)",
+      "url": "https://forumseguranca.org.br/wp-content/uploads/2025/03/visiveleinvisivel-2025-infografico.pdf",
+      "publisher": "Fórum Brasileiro de Segurança Pública / Datafolha",
+      "published_date": "2025-03",
+      "format": "documento",
+      "summary": "Infográfico oficial da 5ª edição documenta 15,3% das mulheres entrevistadas em módulo de autopreenchimento relatando assédio físico em transporte público (ônibus/metrô) nos últimos 12 meses, dado resumido como 15% na Agência Senado sobre PL 3341. Pesquisa nacional com 2.007 entrevistas gerais, 1.040 mulheres no módulo e 793 respondentes; campo 10–14/02/2025. Indicador é diferente dos 50% ao longo da vida em dez capitais do estudo Ipsos, portanto não devem ser tratados como contradição sem alinhar pergunta, universo, prazo e método.",
+      "locator": "PDF página 2, bloco 'ASSÉDIO', 15,3% e rodapé 'Metodologia'; página inspecionada graficamente",
+      "limitations": "O documento efetivamente examinado é infográfico de duas páginas, não o relatório integral da pesquisa ou microdados. Não se atribui ao senador aprovação dos dados por si; fonte da Agência Senado já informa porcentagem arredondada.",
+      "web_ref": "turn403318view0",
+      "document_number": "Visível e Invisível: a Vitimização de Mulheres no Brasil, 5ª edição (2025)"
+    },
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-agencia-senado-3341",
+      "title": "Agência Senado: CSP aprova campanhas contra assédio no transporte, PL 3341/2025",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/01/csp-aprova-campanhas-contra-assedio-sexual-no-transporte-publico",
+      "publisher": "Agência Senado",
+      "published_date": "2026-09-01",
+      "format": "reportagem",
+      "summary": "Reportagem institucional confirma autora Augusta Brito (PT), relatoria favorável de Flávio Bolsonaro (PL) e aprovação do parecer na CSP em 01/09/2026. Descreve campanha educativa, treinamento, informação de canais, dever de notificação e possibilidade contratual de câmeras. Cita 15% de pesquisa FBSP (15,3% na fonte primária, arredondado). Encaminhamento posterior à CDH não é aprovação definitiva.",
+      "locator": "Reportagem de 01/09/2026, 13h03, parágrafos sob 'Câmeras' e menção à pesquisa FBSP",
+      "limitations": "Reportagem institucional baseada no ato e nas declarações. Não confundir autoria do PL de Augusta Brito com relatoria de Flávio, nem projeto com lei em vigor. Nenhuma gravação reproduzida.",
+      "web_ref": "turn812197view0",
+      "document_number": "PL 3341/2025"
+    },
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-congresso-3341",
+      "title": "Congresso Nacional: tramitação bicameral do PL 3341/2025, ainda no Senado",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-3341-2025",
+      "publisher": "Congresso Nacional",
+      "published_date": "2025-07-10",
+      "format": "registro",
+      "summary": "Painel de tramitação da iniciativa de Augusta Brito registra relatório favorável de Flávio apresentado em 27/08/2026 e parecer aprovado pela CSP em 01/09/2026. Em 17/09/2026, a CDH tinha relatoria distribuída à senadora Ivete da Silveira; no painel conferido o estágio permanecia 'matéria com a relatoria'. A fase na Câmara e a sanção não ocorreram nesse painel consultado.",
+      "locator": "Tramitação 14/11/2025, 27/08/2026, 01/09/2026, 02/09/2026 e 17/09/2026; quadro 'Casa Iniciadora (Senado)'",
+      "limitations": "Painel HTML consultado em 25/10/2026, situação sujeita a alteração. A data de documento refere-se à autuação e não ao último estágio. Não prova efeitos legais vigentes.",
+      "web_ref": "turn266323view5",
+      "document_number": "PL 3341/2025"
+    },
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-lei14540-original",
+      "title": "Câmara: texto original integral da Lei 14.540/2023 (programa nacional contra assédio)",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2023/lei-14540-3-abril-2023-793990-publicacaooriginal-167487-pl.html",
+      "publisher": "Câmara dos Deputados",
+      "published_date": "2023-04-03",
+      "format": "documento",
+      "summary": "Texto legal original consultado, especialmente arts. 1º a 5º: já havia programa nacional de prevenção ao assédio sexual, aplicável às administrações públicas e, pelo art. 2º §1º, a instituições privadas prestadoras de serviços públicos delegados. Inclui educação, capacitação, divulgação e canais de denúncia. O PL 3341/2025 propõe novas diretrizes específicas para serviços coletivos; não criou o programa original nem é lei em vigor.",
+      "locator": "Art. 2º §1º; art. 4º incisos I–III; art. 5º incisos I–VII, §§1º–2º; texto de publicação original em HTML",
+      "limitations": "Texto da publicação original, não certidão de consolidação de alterações posteriores. Não atribuir autoria/relatoria da Lei 14.540 a Flávio. Não transformar proposta de 2025 em dispositivo vigente.",
+      "web_ref": "turn235105view0",
+      "document_number": "Lei 14.540/2023"
+    },
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-pl6658-camara",
+      "title": "Câmara: proposta paralela PL 6658/2025 de prevenção de assédio no transporte",
+      "url": "https://www.camara.leg.br/noticias/1285638-comissao-aprova-reforco-a-protecao-de-mulheres-contra-o-assedio-no-transporte-publico",
+      "publisher": "Agência Câmara",
+      "published_date": "2026-06-25",
+      "format": "reportagem",
+      "summary": "Notícia de 25/06/2026 cobre outra iniciativa sobre prevenção da violência contra mulheres em transporte público: PL 6658/2025, autoria do deputado Amom Mandel, com texto relatado na Comissão de Desenvolvimento Urbano por Eli Borges. O substitutivo utiliza a Política Nacional de Mobilidade Urbana, enquanto o PL 3341/2025 modifica a Lei 14.540. Sem confusão entre autores, projetos ou situação legislativa.",
+      "locator": "Matéria de 25/06/2026, parágrafos de autoria/substitutivo e seção 'Próximas etapas'",
+      "limitations": "Distinto do PL 3341 e não atribuído a Flávio. Documento contextual, sem analisar íntegra do substitutivo em PDF nem afirmar conclusão da Câmara.",
+      "web_ref": "turn266323view6",
+      "document_number": "PL 6658/2025"
+    },
+    {
+      "access_status": "accessed",
+      "stage": "analisado",
+      "access_method": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "41-folha-erramos",
+      "title": "Folha: retificação pública de 74% para 71% em matéria sobre pesquisa Mulheres 2026",
+      "url": "https://www1.folha.uol.com.br/amp/cotidiano/2026/03/74-das-mulheres-dizem-ja-ter-sofrido-assedio-aponta-pesquisa-em-10-capitais-brasileiras.shtml",
+      "publisher": "Folha de S.Paulo",
+      "published_date": "2026-03-05",
+      "format": "reportagem",
+      "summary": "A reportagem de março de 2026 traz nota pública 'Erramos' às 18h46 do mesmo dia, corrigindo 74% para 71% por informação do Instituto Cidades Sustentáveis. O corpo acessível do artigo continua apresentando 56% em ruas e 51% no transporte, números da rodada anterior segundo as tabelas e release Ipsos 2026 (54% e 50% na rodada mais recente). Registrar a divergência documental e suas possíveis consequências exige revisão editorial humana antes de qualquer classificação, especialmente por ser comparação de cobertura jornalística, pesquisa e fala parlamentar.",
+      "locator": "Seção 'Erramos' em 05/03/2026 18h46 e parágrafo que menciona 56% e 51% no corpo da reportagem",
+      "limitations": "Somente texto publicamente legível da página AMP foi examinado, sem acesso a histórico de versões originais ou contato com a redação. Não presumir intenção, fraude ou responsabilidade de Flávio pela reportagem. Checagem editorial sensível permanece pendente.",
+      "web_ref": "turn378589view0"
+    }
+  ],
+  "queries": [
+    {
+      "query": "PL 3341/2025 Augusta Brito Flávio Bolsonaro assédio no transporte CSP CDH 2026",
+      "engine": "web.run fast/open Senado/Congresso",
+      "interval": "2025-2026",
+      "result": "Agência Senado 01/09 e painel bicameral aberto; relatoria Flávio encerrada na CSP, CDH com Ivete da Silveira em 17/09; ficha original já catalogada foi preservada, não duplicada."
+    },
+    {
+      "query": "Viver nas Cidades Mulheres 2026 Ipsos Ipec 71 51 transporte público metodologia 3500 PDF",
+      "engine": "web.run fast/open/find/screen Ipsos e Instituto Cidades Sustentáveis",
+      "interval": "2025-12 a 2026-03",
+      "result": "Apresentação PDF e release PDF primários consultados e capturas conferidas: 71% e 50% em transporte na rodada 2025; 51% corresponde à rodada anterior; 3.500 internautas e 2.066 mulheres; cobertura de dez capitais."
+    },
+    {
+      "query": "Visível e Invisível 5ª edição 2025 15,3% assédio físico ônibus metrô fonte FBSP",
+      "engine": "web.run fast/open/find/screen no PDF público FBSP",
+      "interval": "2025",
+      "result": "Infográfico oficial aberto com 15,3% e metodologia de 2.007 entrevistas gerais e módulo feminino. Pesquisa diferente da Ipsos por variável e período."
+    },
+    {
+      "query": "Lei 14540 de 2023 íntegra original Câmara programa prevenção assédio sexual serviços públicos e PL paralelo 6658/2025",
+      "engine": "web.run open/click Câmara dos Deputados",
+      "interval": "2023-2026",
+      "result": "Texto original da Lei 14.540 acessado em HTML, art. 2º §1º e arts. 4º e 5º; iniciativa distinta PL 6658/2025 de Amom Mandel identificada sem confusão de autoria."
+    },
+    {
+      "query": "Folha erramos 71% 74% Viver nas Cidades Mulheres 2026 5 março 2026",
+      "engine": "web.run open portal público AMP, IPSOS cotejo",
+      "interval": "2026-03",
+      "result": "Nota Erramos de 05/03/2026 consultada, com correção explícita 74 para 71; dados de local do corpo divergem da rodada atual Ipsos; comparação sensível sem veredito."
+    }
+  ],
+  "blocked": [
+    {
+      "url": "https://publicacoes.forumseguranca.org.br/items/7c9f57aa-e7d6-4d96-8f11-768fe85a2084",
+      "status": "HTTP 403 na abertura direta",
+      "note": "A página de índice do relatório FBSP não foi tratada como material acessado; infográfico oficial em URL alternativa foi aberto e conferido."
+    },
+    {
+      "url": "https://www.ipsos.com/sites/default/files/ct/publication/documents/2026-03/ICS_Mulheres_Apresentacao.pdf",
+      "status": "Capturas de páginas PDF posteriores à inspeção principal deram timeout; texto PDF completo e páginas 5 e 20–22 examinadas",
+      "note": "O levantamento inclui texto extraído e gráficos efetivamente capturados; não se declara sucesso nas capturas que deram timeout."
+    }
+  ],
+  "gaps": [
+    "PL 3341/2025: abrir PDFs oficiais integrais do projeto e do P.S. 30/2026-CSP e comparar artigo 9º-A proposto com texto efetivamente votado; não substituir por mera notícia institucional.",
+    "PL 3341/2025: revisar editorialmente com pessoa autorizada a distinção numérica 50% (rodada 2025 em pesquisa Mulheres 2026) x 51% (rodada 2024) e a atribuição de 51% na fala transcrita de Flávio; não publicar veredito antes dessa revisão.",
+    "PL 3341/2025: confirmar estado legislativo em CDH após 17/09/2026; aprovação CSP não é lei.",
+    "Pesquisar se o estudo Ipsos possui retificações posteriores às versões PDF de fevereiro/março de 2026 antes de afirmar erro de fonte ou orador; arquivar versões somente com acesso legítimo.",
+    "Obter íntegra do relatório FBSP/Datafolha da 5ª edição e microdados/tabelas originais para analisar universos distintos: 15,3% de assédio físico em 12 meses x 50% de qualquer assédio dentro do transporte em período não limitado; não comparar diretamente.",
+    "Sem contatos com instituições, áudio/vídeo reproduzido, timestamp de mídia validado, veredito, aprovação editorial nova ou revisão por modelo neste lote."
+  ],
+  "references": [
+    {
+      "id": "checkpoint-20261025-41",
+      "label": "PL 3341/2025: 50% da rodada 2025 e 51% da anterior, legislação existente e antecedentes primários",
+      "collected_at_utc": "2026-10-25T14:27:13.464Z",
+      "method": "11 URLs examinadas como fontes primárias, imprensa ou contexto (incluídos PDF e gráficos); sem audição/vídeo nem classificação sensível. Revisão editorial humana identificada pendente."
+    }
+  ]
+}
