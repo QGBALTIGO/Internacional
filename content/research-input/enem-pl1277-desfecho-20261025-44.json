@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "batch_id": "enem-pl1277-desfecho-20261025-44",
+  "collected_at_utc": "2026-10-25T17:56:36.313Z",
+  "scope": "Avançar lacuna de nextBatch sobre votos no PL 1277/2020, andamento bicameral e anúncio e implantação administrativa do adiamento do Enem. Separar posição de Flávio, decisão legislativa e decisões MEC/Inep; preservar todo o acervo anterior.",
+  "method": "Pesquisa e abertura de páginas institucionais em 25/10/2026, incluindo HTML da Câmara, Senado, DataSenado, MEC, Inep e secretarias estaduais, consulta complementar de extração textual em páginas da Câmara que apresentaram limitação na ferramenta principal; cruzamento automático de URLs com os 739 registros anteriores; nenhuma reprodução audiovisual, veredito ou aprovação editorial. Timestamp UTC corresponde ao fechamento deste lote, não às aberturas individuais.",
+  "records": [
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "PL 1277/2020",
+        "Enem 2020",
+        "processo legislativo"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-camara-tramitacao",
+      "title": "PL 1277/2020 na Câmara: parecer aprovado na CE e andamento pendente na CCJC",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2253050",
+      "publisher": "Câmara dos Deputados",
+      "format": "registro",
+      "summary": "Ficha oficial identifica Daniella Ribeiro como autora original. O texto aprovado no Senado chegou à Câmara em 20/05/2020. A Comissão de Educação aprovou parecer com substitutivo em 13/12/2023; a CCJC o recebeu em 19/12/2023 e a ficha consultada informa que aguarda designação de relator. O projeto não é apresentado como lei sancionada.",
+      "locator": "Situação; Autor; Última Ação Legislativa; Tramitação, 20/05/2020, 13/12/2023 e 19/12/2023.",
+      "limitations": "A ficha reúne 14 projetos apensados e versões distintas; a aprovação em comissão não equivale à aprovação final. O status é o observado na consulta, não previsão de votação. Anexos PDF e vídeo não foram examinados.",
+      "access_method": "HTML oficial integral lido via extração web pública em 25/10/2026.",
+      "event_date": "2023-12-19",
+      "published_date": null
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "PL 1277/2020",
+        "Enem 2020",
+        "processo legislativo"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-reuniao-ce-2023",
+      "title": "Reunião da Comissão de Educação que aprovou o parecer sobre o PL 1277/2020",
+      "url": "https://www.camara.leg.br/evento-legislativo/71547",
+      "publisher": "Câmara dos Deputados",
+      "format": "registro",
+      "summary": "Registro da reunião deliberativa de 13/12/2023 identifica o PL 1277/2020 entre as proposições apreciadas e marca parecer aprovado com alterações; relatoria de Prof. Reginaldo Veras. O resultado não comprova aprovação do projeto em plenário.",
+      "locator": "Informações, 13/12/2023 (início 10:15, término 12:43); Propostas analisadas, PL 1277/2020; Pareceres das comissões.",
+      "limitations": "A indicação 'Aprovada com alterações' refere-se à apreciação da CE; conteúdo da transmissão e votos individuais da Câmara não foram reproduzidos ou conferidos.",
+      "access_method": "HTML da página de reunião da Câmara integralmente aberto e lido em 25/10/2026.",
+      "event_date": "2023-12-13",
+      "published_date": null
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "Enem 2020",
+        "Inep",
+        "calendário oficial"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-cronograma-oficial-2020",
+      "title": "Calendário histórico do Inep para o Enem 2020 impresso",
+      "url": "https://www.gov.br/inep/pt-br/acesso-a-informacao/perguntas-frequentes-1/exame-nacional-do-ensino-medio-enem/impresso",
+      "publisher": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+      "format": "documento",
+      "summary": "Página institucional de perguntas frequentes da edição Enem 2020 apresenta inscrições de 11 a 27/05/2020, aplicação impressa em 17 e 24/01/2021, reaplicação em 24 e 25/02/2021 e resultado em 29/03/2021. Desfecho operacional distinto da tramitação legislativa do PL 1277.",
+      "locator": "Seção 1. CRONOGRAMA; linhas Inscrições, Aplicação, Reaplicação/Enem PPL e Resultados.",
+      "limitations": "Página histórica de orientação ao participante; não identifica por si o ato que fixou cada data ou a influência causal do projeto no calendário. Não houve exame de edital integral.",
+      "access_method": "HTML da FAQ histórica gov.br/Inep aberto e texto lido em 25/10/2026.",
+      "event_date": null,
+      "published_date": null
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "Enem 2020",
+        "pesquisa de opinião",
+        "contexto"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-pesquisa-opiniao-maio2020",
+      "title": "DataSenado: pesquisa sobre importância de adiar exames em epidemias",
+      "url": "https://www12.senado.leg.br/institucional/datasenado/materias/pesquisas/brasileiros-apoiam-a-proposta-de-adiamento-do-enem-2020",
+      "publisher": "Instituto DataSenado, Senado Federal",
+      "format": "documento",
+      "summary": "Divulgação institucional informa que 75% dos respondentes consideravam muito importante o adiamento de provas de ingresso na educação superior em períodos de epidemia. O DataSenado entrevistou 1.200 brasileiros acima de 16 anos, por telefone, entre 18 e 20/05/2020. A pergunta de opinião é diferente de uma avaliação da constitucionalidade ou dos efeitos do PL.",
+      "locator": "Texto 'Brasileiros apoiam a proposta de adiamento do ENEM 2020'; seção sobre amostra probabilística, entrevistas entre 18 e 20 de maio.",
+      "limitations": "A porcentagem corresponde ao indicador explicitamente descrito pelo instituto, não à proporção de parlamentares ou estudantes. Relatório anexo e microdados não foram inspecionados.",
+      "access_method": "Texto institucional da pesquisa aberto e lido em 25/10/2026.",
+      "event_date": "2020-05-20",
+      "published_date": null
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "PL 1277/2020",
+        "declarações públicas",
+        "Senado Federal"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-presidencia-senado-2020",
+      "title": "Presidência do Senado comenta aprovação do PL do Enem e envio à Câmara",
+      "url": "https://www12.senado.leg.br/institucional/presidencia/noticia/davi-alcolumbre/senado-aprova-adiamento-do-enem-e-regulamentacao-da-lgpd",
+      "publisher": "Presidência do Senado Federal",
+      "format": "reportagem",
+      "summary": "Comunicado institucional de 19/05/2020 sobre a aprovação pelo Senado do adiamento do Enem e a remessa da proposta à Câmara. Apresenta a avaliação pública de Davi Alcolumbre sobre a medida. A aprovação no Senado não se confunde com sanção ou vigência de lei.",
+      "locator": "Publicação institucional da Presidência, 19/05/2020; referências à votação do Enem e próxima tramitação na Câmara.",
+      "limitations": "Notícia descreve a posição pública do presidente do Senado, não análise independente do impacto educacional nem prova de aprovação final no Congresso.",
+      "access_method": "HTML institucional aberto e lido diretamente em 25/10/2026.",
+      "event_date": "2020-05-19",
+      "published_date": "2020-05-19"
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "Enem 2020",
+        "Ministério da Educação",
+        "resposta pública"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-nota-mec-inscricoes-2020",
+      "title": "MEC comunica prorrogação das inscrições do Enem 2020 até 27 de maio",
+      "url": "https://portal.mec.gov.br/ultimas-noticias/33381-notas-oficiais/90351-nota-oficial-inscricoes-para-o-enem-2020-serao-prorrogadas-ate-27-de-maio",
+      "publisher": "Ministério da Educação",
+      "format": "documento",
+      "summary": "Nota oficial de maio de 2020 informa a prorrogação das inscrições do Enem 2020 até 27/05 e anuncia consulta posterior aos candidatos acerca das novas datas, após diálogo com secretarias de educação. Registro da atuação do Executivo, diferente da aprovação legislativa.",
+      "locator": "Nota Oficial sobre inscrições do Enem; informação de prazo 27/05/2020 e menção à consulta aos inscritos.",
+      "limitations": "A nota trata das inscrições e da decisão administrativa de consulta, sem demonstrar que o PL 1277/2020 tenha sido transformado em lei; não reproduzida gravação da reunião.",
+      "access_method": "Texto de nota oficial do portal do MEC aberto e lido diretamente em 25/10/2026.",
+      "event_date": "2020-05-22",
+      "published_date": "2020-05-22"
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "Enem 2020",
+        "Inep",
+        "consulta pública"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-inep-enquete-junho2020",
+      "title": "Comunicado do Inep reproduzido pela Seduc-SE anuncia enquete de datas do Enem",
+      "url": "https://seduc.se.gov.br/inep-fara-enquete-sobre-datas-do-enem-entre-20-e-30-de-junho/",
+      "publisher": "Secretaria de Estado da Educação de Sergipe, com fonte Inep",
+      "format": "reportagem",
+      "summary": "Publicação estadual, atribuída à Assessoria de Comunicação Social do Inep, informa enquete de 20 a 30/06/2020 para que participantes opinassem sobre o calendário, com propostas alternativas de datas. A consulta pública não significava execução automática da opção mais votada.",
+      "locator": "Texto da matéria, atribuição 'Fonte: Assessoria de Comunicação Social do Inep'; período da enquete e opções de datas.",
+      "limitations": "Material é republicação estadual de comunicado do Inep, não acesso autônomo a relatório integral da enquete; não atribuir resultados que não estão neste texto.",
+      "access_method": "HTML público da Seduc-SE aberto e lido em 25/10/2026.",
+      "event_date": "2020-06-20",
+      "published_date": null
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "Enem 2020",
+        "Ministério da Educação",
+        "Inep",
+        "resposta pública"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-pronunciamento-executivo-julho2020",
+      "title": "Governo de Goiás registra anúncio de novo calendário do Enem em 8 de julho de 2020",
+      "url": "https://portal.educacao.go.gov.br/enem/inep-enem/",
+      "publisher": "Secretaria de Estado da Educação de Goiás, republicação de Agência Brasil",
+      "format": "reportagem",
+      "summary": "Notícia reproduzida pelo portal educacional estadual descreve anúncio do MEC/Inep, em 08/07/2020, do Enem impresso em 17 e 24/01/2021 e digital em 31/01 e 07/02/2021. Registra justificativa pública do ministro interino Antonio Paulo Vogel e do presidente do Inep Alexandre Lopes. Informa que 49,7% na enquete preferiam datas de maio, mas a decisão final considerou outros participantes.",
+      "locator": "Seções 'MEC anuncia que Enem será em 17 e 24 de janeiro de 2021' e 'Consulta pública'; pronunciamentos atribuídos aos gestores.",
+      "limitations": "Cabeçalho da página exibe '02/04/2020' apesar de narrar anúncio de 08/07/2020; a data do evento, não a de publicação, foi registrada. Notícia reproduzida, sem vídeo da coletiva e sem relatório completo da enquete.",
+      "access_method": "Texto da publicação estadual aberto e lido em 25/10/2026.",
+      "event_date": "2020-07-08",
+      "published_date": null
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "PL 2623/2020",
+        "PL 1277/2020",
+        "contrapontos públicos",
+        "Enem 2020"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-camara-argumentos-contrarios-2020",
+      "title": "Câmara registra defesa de adiamento e posicionamento contrário do ministro sobre datas originais",
+      "url": "https://www.camara.leg.br/noticias/662915-projeto-adia-enem-enquanto-durar-emergencia-sanitaria-decorrente-do-coronavirus",
+      "publisher": "Agência Câmara de Notícias",
+      "format": "reportagem",
+      "summary": "Reportagem de 20/05/2020 sobre o PL 2623/2020, relacionado, relata argumento de Alice Portugal favorável a adiar o Enem durante a emergência sanitária e registra que Abraham Weintraub, então ministro da Educação, defendia a realização nas datas inicialmente previstas. Referências contextualizam o debate sobre o PL 1277/2020 sem confundir os dois projetos.",
+      "locator": "Reportagem 'Projeto adia Enem enquanto durar emergência sanitária decorrente do coronavírus', 20/05/2020; partes com justificativa da autora e posição atribuída ao ministro.",
+      "limitations": "A reportagem é especificamente sobre PL 2623/2020, não se deve atribuir autoria a Flávio Bolsonaro nem deduzir que o ministro se pronunciou sobre cada emenda do PL 1277/2020.",
+      "access_method": "Reportagem da Agência Câmara aberta e lida em 25/10/2026.",
+      "event_date": "2020-05-20",
+      "published_date": "2020-05-20"
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "PL 1277/2020",
+        "votação nominal",
+        "Senado Federal"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-mapa-plenario-2020",
+      "title": "Pauta e resultados da 45ª sessão do Senado: votação do PL 1277/2020 e Emenda 12",
+      "url": "https://www25.senado.leg.br/web/atividade/sessao-plenaria/-/pauta/24129",
+      "publisher": "Senado Federal",
+      "format": "registro",
+      "summary": "Registro oficial da sessão deliberativa remota de 19/05/2020 apresenta a votação do PL 1277/2020 com 74 votos sim e 2 não, e escrutínio separado da Emenda 12 com 66 votos sim e nenhum não. O registro reforça a distinção entre matérias votadas e mantém pendente a divergência com notícia institucional que mencionou 75 a 1.",
+      "locator": "Pauta da 45ª Sessão Deliberativa Remota, PL 1277/2020, registro do resultado do projeto e resultado separado da Emenda 12.",
+      "limitations": "Resultado agregado não é reconstrução de voto individual nem audiência da sessão. Placar 74 a 2 não resolve, por si só, divergência com notícia; exigir ata/retificação para adjudicar.",
+      "access_method": "HTML do painel oficial da sessão plenária acessado e lido em 25/10/2026.",
+      "event_date": "2020-05-19",
+      "published_date": null
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "Enem 2020",
+        "aplicação",
+        "Inep"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-aplicacao-enem-jan2021",
+      "title": "Secretaria de Educação do Paraná informa realização das provas impressas em janeiro de 2021",
+      "url": "https://www.educacao.pr.gov.br/Noticia/Exame-Nacional-do-Ensino-Medio-tem-inicio-neste-domingo-17",
+      "publisher": "Secretaria de Estado da Educação do Paraná",
+      "format": "reportagem",
+      "summary": "Informação institucional publicada em janeiro de 2021 informa início das provas impressas do Enem 2020 nos dias 17 e 24/01/2021, com aplicação digital prevista para 31/01 e 07/02/2021. Registro de calendário operacional, não vigência do PL 1277/2020.",
+      "locator": "Notícia 'Exame Nacional do Ensino Médio tem início neste domingo (17)', janeiro de 2021, datas da aplicação.",
+      "limitations": "Notícia anterior ao exame não comprova sozinha comparecimento, aplicação concluída ou total de participantes; não foram examinados relatórios finais.",
+      "access_method": "HTML do portal da Educação do Paraná aberto e lido em 25/10/2026.",
+      "event_date": "2021-01-17",
+      "published_date": "2021-01-13"
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e tramitação legislativa",
+      "topics": [
+        "Enem 2020",
+        "Inep",
+        "editais administrativos"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "document_number": "PL 1277/2020",
+      "id": "44-novos-editais-julho2020",
+      "title": "Seduc-PI informa publicação de novos editais do Enem 2020 e protocolos sanitários",
+      "url": "https://seduc.pi.gov.br/noticias/noticia/8267/publicados-novos-editais-do-enem-2020-com-preven-oes-a-covid",
+      "publisher": "Secretaria de Estado da Educação do Piauí",
+      "format": "reportagem",
+      "summary": "Publicação estadual de 31/07/2020 relata divulgação de editais atualizados do Enem 2020 impresso e digital, com datas revistas e regras sanitárias, como parte da execução administrativa do exame após o adiamento.",
+      "locator": "Notícia estadual 'Publicados novos editais do Enem 2020 com prevenções à Covid', trecho sobre calendário e medidas preventivas.",
+      "limitations": "Foram lidas as informações da notícia, mas não foram acessadas as íntegras dos editais federais ou verificados números de diário oficial. Não inferir causalidade exclusiva do projeto legislativo.",
+      "access_method": "Página pública da Seduc-PI aberta e lida em 25/10/2026.",
+      "event_date": "2020-07-31",
+      "published_date": "2020-07-31"
+    }
+  ],
+  "queries": [
+    {
+      "query": "PL 1277/2020 Câmara dos Deputados situação parecer Comissão Educação 2023 CCJC",
+      "executed_at": "2026-10-25T17:56:36.313Z",
+      "engine": "pesquisa web e abertura de fonte legislativa (web e extração de HTML)",
+      "interval": "2020-2026",
+      "result": "Ficha e reunião da Câmara identificam parecer aprovado na CE em 13/12/2023, remessa à CCJC em 19/12/2023, aguardando designação, sem lei sancionada."
+    },
+    {
+      "query": "MEC Inep 2020 Enem adiamento inscrições enquete junho datas oficiais 17 24 janeiro 2021",
+      "executed_at": "2026-10-25T17:56:36.313Z",
+      "engine": "pesquisa web e leitura de MEC, Inep e portais públicos de educação",
+      "interval": "2020-2021",
+      "result": "Fontes lidas identificam prorrogação de inscrições, consulta aos estudantes, anúncio de julho e aplicação prevista em janeiro de 2021; algumas páginas MEC apresentaram erros e ficaram fora do catálogo."
+    },
+    {
+      "query": "PL 1277 2020 ata Senado 74 a 2 75 a 1 DataSenado opinião oposição ministro educação",
+      "executed_at": "2026-10-25T17:56:36.313Z",
+      "engine": "pesquisa web e leitura de Senado, Agência Câmara e DataSenado",
+      "interval": "maio de 2020",
+      "result": "Pauta oficial confirma 74 a 2, enquanto notícia institucional de outro lote menciona 75 a 1; reconciliação pendente; registro de pesquisas e posições divergentes mantido sem veredito."
+    }
+  ],
+  "blocked": [
+    {
+      "source": "Portais MEC, notas e notícias adicionais de 18-19/05/2020",
+      "status": "Falha de acesso nesta consulta",
+      "note": "Três URLs no portal.mec.gov.br falharam por HTTP 502 ou erro de URL na extração. Não foram adicionadas como textos lidos; apenas nota posterior efetivamente aberta foi catalogada."
+    },
+    {
+      "source": "Câmara, íntegra PDF do parecer PRL 2 CE do PL 1277/2020",
+      "status": "PDF sem inspeção visual validada",
+      "note": "Visualização direta da peça apresentou erro 429 em ferramenta web; não se afirmou leitura visual de todas as páginas nem análise de assinaturas ou certificação do PDF. O fato de aprovação é documentado separadamente nas páginas HTML oficiais."
+    },
+    {
+      "source": "Página Inep de divulgação de gabaritos do Enem digital e página de educação SC sobre enquete",
+      "status": "Indisponibilidade parcial",
+      "note": "Página de gabarito redirecionou a login; SC retornou erro 502 ou falha de proxy. Nenhuma foi convertida em material acessado."
+    },
+    {
+      "source": "Áudio e gravações de sessões, coletivas e reuniões",
+      "status": "Não reproduzidos",
+      "note": "Zero segundos ouvidos, nenhuma marcação de tempo audiovisual ou transcrição de áudio criada. Os horários em páginas de sessão são metadados oficiais."
+    }
+  ],
+  "gaps": [
+    "Confrontar o PDF completo do relatório/substitutivo de 2023 e eventual deliberação posterior da CCJC, sem confundir parecer de comissão com sanção de lei.",
+    "Consultar ata e retificações da votação do PL 1277/2020 para resolver a divergência entre placar da notícia 75-1 e o mapa nominal 74-2, sem produzir novo veredito por automação.",
+    "Conferir diretamente os editais Inep 54 e 55/2020 e eventual documentação de resultado da enquete; notícia sobre anúncio não equivale à leitura dos atos integrais.",
+    "Confrontar áudio/vídeo original se necessário à citação literal e solicitar revisão editorial humana identificada para avaliações de coerência ou imputação de falsidade."
+  ]
+}
