@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T17:56:46.932922Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T18:33:18.024136Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-751 URLs únicas no lote; 732 ainda não vinculadas à edição anterior. 748 materiais acessados e 714 com texto analisado.
+754 URLs únicas no lote; 735 ainda não vinculadas à edição anterior. 751 materiais acessados e 717 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -29,7 +29,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 6 | 6 | 4 | 0 | 0 |
 | 2019 | 44 | 44 | 42 | 0 | 0 |
-| 2020 | 35 | 35 | 33 | 0 | 0 |
+| 2020 | 38 | 38 | 36 | 0 | 0 |
 | 2021 | 37 | 37 | 32 | 0 | 0 |
 | 2022 | 35 | 35 | 35 | 0 | 0 |
 | 2023 | 36 | 36 | 34 | 0 | 0 |
@@ -113,6 +113,10 @@ Materiais sem data: 41. Ausência de registros em um ano significa lacuna deste 
 - Reabrir CCJ do PL 2343/2025, CDH do PL 3341/2025 e CSP do PL 3272/2024 para confirmar novos andamentos; parecer de comissão não é lei.
 - Verificar nas fontes primárias os percentuais de assédio citados no relatório do PL 3341/2025 e as afirmações sobre violência profissional no PL 2343/2025 antes de criar qualquer conclusão factual própria.
 - Zero segundos de áudio/vídeo ou minutagem revisados neste checkpoint. Toda nova comparação, acusação e classificação sensível requer revisor editorial humano autorizado; nenhum revisor ou veredito foi adicionado.
+- PL 1277/2020: obter em formato legível a ata da sessão de 19/05/2020, inclusive eventual retificação nominal, para cotejar a notícia 75-1 com painel 74-2 sem atribuir falsidade automática.
+- Enem 2020: localizar e abrir relatório primário do resultado integral da enquete aos candidatos (base, porcentagens e datas), sem confiar só em notícias secundárias.
+- PL 1277/2020: examinar PDF do parecer completo na Câmara e movimentações posteriores na CCJC; os editais do Inep não alteram o status legislativo do projeto.
+- Revisão editorial humana identificada permanece obrigatória para qualquer acusação, veredito ou comparação política sensível; approvedReviewerIds não deve ser alterado.
 - Confrontar o PDF completo do relatório/substitutivo de 2023 e eventual deliberação posterior da CCJC, sem confundir parecer de comissão com sanção de lei.
 - Consultar ata e retificações da votação do PL 1277/2020 para resolver a divergência entre placar da notícia 75-1 e o mapa nominal 74-2, sem produzir novo veredito por automação.
 - Conferir diretamente os editais Inep 54 e 55/2020 e eventual documentação de resultado da enquete; notícia sobre anúncio não equivale à leitura dos atos integrais.
@@ -315,6 +319,10 @@ Materiais sem data: 41. Ausência de registros em um ano significa lacuna deste 
 - batch: costa-verde-ambiente-20261025-30; source: https://ascemanacional.org.br/wp-content/uploads/2026/10/CARTA-ABERTA-AOS-SERVIDORES-E-SERVIDORAS-DA-CARREIRA-AMBIENTAL.pdf; reason: Visualização textual e captura da primeira página disponíveis, mas capturas solicitadas para páginas posteriores falharam por timeout; limitação registrada na ficha 07.; checked_at_utc: 2026-10-25T03:17:26.846Z
 - batch: csp-2026-relatorias-20261024-26; source: Relatórios, substitutivos e emendas em PDF de PL 2343/2025, PL 3272/2024, PL 3341/2025 e PL 2734/2021; status: Integra não consultada nesta execução; note: Metadados e histórico em HTML conferidos. Não se declara falha de acesso ao PDF onde não houve tentativa direta de leitura, nem se afirma conhecer conteúdo integral.
 - batch: csp-2026-relatorias-20261024-26; source: Áudio da Rádio Senado e gravação audiovisual da 13ª CSP; status: Não reproduzidos; note: Zero segundos conferidos; horários exibidos na página não constituem timestamps de audição própria.
+- batch: enem-editais-inep-20261025-45; source: URL original do PDF do Edital 54 no servidor download.inep.gov.br; status: HTTP 502 na consulta pública; note: O PDF não foi considerado lido no endereço bloqueado. Foi examinada a cópia disponibilizada pelo próprio repositório RIEP do Inep, registrada no catálogo.
+- batch: enem-editais-inep-20261025-45; source: Agência Brasil, reportagens de julho de 2020 sobre enquete/calendário; status: HTTP 500 nas aberturas tentadas; note: Resultados de pesquisa não foram tratados como leitura efetiva nem incorporados aos três registros.
+- batch: enem-editais-inep-20261025-45; source: Diário do Senado Federal, edição de maio de 2020 no leitor online; status: Leitor sem conteúdo textual examinável na abertura; note: Não foi atestada leitura da ata nem reconciliação definitiva do placar de 74-2 com o de 75-1.
+- batch: enem-editais-inep-20261025-45; source: Registros audiovisuais sobre Enem e sessão legislativa; status: Não reproduzidos; note: Nenhum áudio ou vídeo examinado; zero segundos de audição e nenhuma minutagem validada.
 - batch: enem-pl1277-desfecho-20261025-44; source: Portais MEC, notas e notícias adicionais de 18-19/05/2020; status: Falha de acesso nesta consulta; note: Três URLs no portal.mec.gov.br falharam por HTTP 502 ou erro de URL na extração. Não foram adicionadas como textos lidos; apenas nota posterior efetivamente aberta foi catalogada.
 - batch: enem-pl1277-desfecho-20261025-44; source: Câmara, íntegra PDF do parecer PRL 2 CE do PL 1277/2020; status: PDF sem inspeção visual validada; note: Visualização direta da peça apresentou erro 429 em ferramenta web; não se afirmou leitura visual de todas as páginas nem análise de assinaturas ou certificação do PDF. O fato de aprovação é documentado separadamente nas páginas HTML oficiais.
 - batch: enem-pl1277-desfecho-20261025-44; source: Página Inep de divulgação de gabaritos do Enem digital e página de educação SC sobre enquete; status: Indisponibilidade parcial; note: Página de gabarito redirecionou a login; SC retornou erro 502 ou falha de proxy. Nenhuma foi convertida em material acessado.
