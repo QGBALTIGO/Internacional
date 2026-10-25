@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T03:17:41.581899Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T04:45:46.986778Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-593 URLs únicas no lote; 575 ainda não vinculadas à edição anterior. 590 materiais acessados e 560 com texto analisado.
+606 URLs únicas no lote; 588 ainda não vinculadas à edição anterior. 603 materiais acessados e 573 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-18 vídeos e 6 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+18 vídeos e 7 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -28,13 +28,13 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2016 | 2 | 2 | 2 | 0 | 0 |
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 6 | 6 | 4 | 0 | 0 |
-| 2019 | 41 | 41 | 39 | 0 | 0 |
+| 2019 | 43 | 43 | 41 | 0 | 0 |
 | 2020 | 10 | 10 | 9 | 0 | 0 |
 | 2021 | 35 | 35 | 30 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
-| 2023 | 24 | 24 | 22 | 0 | 0 |
-| 2024 | 32 | 32 | 31 | 0 | 0 |
-| 2025 | 68 | 68 | 65 | 0 | 0 |
+| 2023 | 27 | 27 | 25 | 0 | 0 |
+| 2024 | 37 | 37 | 36 | 0 | 0 |
+| 2025 | 71 | 71 | 68 | 0 | 0 |
 | 2026 | 284 | 284 | 278 | 0 | 0 |
 
 Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
@@ -145,6 +145,13 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - Confrontar alegações empíricas sobre reincidência, proteção, internação e eficácia com levantamentos oficiais e literatura independente, sem atribuir estatísticas sem fonte.
 - Obter e comparar manifestações técnicas críticas às mudanças do ECA e respostas públicas específicas em revisão humana editorial identificada.
 - Conferir trechos audiovisuais decisivos da CDH e Plenário quando houver acesso permitido. Até aqui 0 segundos conferidos e nenhuma classificação editorial nova.
+- PL 3071/2019: conferir integralmente no PDF do Senado o texto inicial de 22/05/2019, emenda CAS/CAE e autógrafo de 23/05/2024 antes de comparações redacionais precisas.
+- PL 3071/2019: cotejar os PDFs de duas emendas da Comissão de Saúde e parecer de Laura Carneiro na CFT; esta etapa registrou apenas descrição oficial em HTML.
+- PL 3071/2019: conferir situação da CFT e CCJC em consulta posterior; parecer favorável de relatora não é aprovação em colegiado nem promulgação.
+- Financiamento da ABBR: verificar dados financeiros publicados pela entidade e pela Caixa antes de tratar estimativas de atendimentos, loteria e sustentabilidade como fatos independentemente apurados.
+- Áudio da Rádio Senado e vídeo do Plenário de 15/05/2024 não reproduzidos; manter zero segundos revisados e não inventar timestamps ou fala ouvida.
+- MP 983/2020, citada em nextBatch de atividades 2020: prosseguir em lote específico, sem misturar com PL 3071/2019.
+- Revisão editorial humana identificada obrigatória antes de comparar acusações, classificar declarações ou atribuir contradições a senadores ou deputados.
 - Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.
 - Confirmar desfecho legislativo após comunicação de veto total ao PL 3003/2014.
 - Conferir Diários e gravações integrais antes de novas citações, timestamps, comparações ou vereditos; áudio ouvido nesta coleta: zero segundos.

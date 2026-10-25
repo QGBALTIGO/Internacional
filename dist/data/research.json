@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T03:17:41.581899Z",
-    "inputHash": "f2c684771d7d6d2c890ca75df87415dedabb9f0c9d4e3ffdd5d403830303fd03",
+    "generatedAt": "2026-10-25T04:45:46.986778Z",
+    "inputHash": "862bb5ef63b8409316f960bc55932bdab844c4d271caa11cff52e765b87779ec",
     "timezone": "America/Campo_Grande",
-    "localDate": "2026-10-24",
+    "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
     "rights": "Resumos próprios, citações curtas e links. Não se republicam íntegras de terceiros.",
     "audioReviewLimitation": "Nenhum segundo de áudio foi conferido neste lote.",
@@ -21296,6 +21296,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-af4f0aa31137588b",
+      "title": "Câmara: situação atual do PL 3071/2019 em Finanças e Tributação, ainda sem aprovação final",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2436339",
+      "publisher": "Câmara dos Deputados, tramitação",
+      "date": "2025-08-19",
+      "eventDate": "2025-08-19",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Consulta à ficha da Câmara em 25/10/2026: situação 'Pronta para Pauta na CFT'. Saúde aprovou parecer com duas emendas em 09/07/2025; Laura Carneiro apresentou parecer favorável na CFT em 19/08/2025, mas o portal não registra sua aprovação pelo colegiado. Seguem etapas constitucionais; o PL não é lei promulgada.",
+      "limitations": "A ficha HTML foi lida diretamente. PDFs integrais dos pareceres e das emendas não examinados neste lote; situação processual conforme portal na data de consulta, não previsão futura.",
+      "locator": "Ficha da Câmara, situação e autoria linhas 23-39; última ação linhas 61-66; pareceres linhas 86-93; detalhes de tramitação linhas 120-154.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Texto original de Flávio beneficia ABBR; parecer da Saúde acolhe duas emendas e parecer de Laura Carneiro recomenda aprovação, sem decisão final da CFT.",
+      "actor": "Flávio Bolsonaro, autor original no Senado; Laura Carneiro, relatora na CFT; Vermelho, relator na Saúde",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-11",
+          "toolReference": "turn999265view0"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-54e4358a730769c6",
       "title": "RQS 607/2025: pedido de Flávio de tramitação conjunta do PL 1473/2025 com o PL 2169/2019 foi retirado",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169924",
@@ -21497,6 +21566,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-7b7675c00a873bcf",
+      "title": "Agência Câmara registra inclusão da Rede Sarah em emenda ao PL de Flávio",
+      "url": "https://www.camara.leg.br/noticias/1182948-COMISSAO-DE-SAUDE-APROVA-DESTINACAO-DE-RECURSOS-DA-LOTECA-PARA-A-REDE-SARAH",
+      "publisher": "Agência Câmara de Notícias",
+      "date": "2025-07-24",
+      "eventDate": "2025-07-09",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem da Câmara de 24/07/2025 relata aprovação, na Comissão de Saúde em 09/07, de alteração proposta pelo relator Vermelho para beneficiar também a Rede Sarah. A proposição original de Flávio previa apenas ABBR. Emenda em comissão não representa lei vigente nem extensão do texto original de autoria de Flávio.",
+      "limitations": "Reportagem institucional em HTML lida; texto consolidado de emendas, cálculos e manifestações oficiais da Rede Sarah não cotejados diretamente.",
+      "locator": "Notícia de 24/07/2025, linhas 20-39, etapa de tramitação linhas 45-49.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Registra justificativa do relator Vermelho para ampliar o rol de beneficiários, preservando autoria distinta.",
+      "actor": "Deputado Vermelho, relator na Comissão de Saúde; Flávio Bolsonaro, autor do PL original",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-12",
+          "toolReference": "turn999265view3"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-b1488082bf2cecc3",
       "title": "Parecer sobre fiscalização dos Correios",
       "url": "https://www12.senado.leg.br/noticias/videos/2025/07/decisao-sobre-fiscalizacao-dos-correios-e-adiada-apos-pedido-de-vista",
@@ -21629,6 +21767,75 @@
         }
       ],
       "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-287d01f89954f790",
+      "title": "Câmara: requerimentos de retirada de pauta do PL 3071/2019 em julho de 2025",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_requerimentos?idProposicao=2436339",
+      "publisher": "Câmara dos Deputados, requerimentos",
+      "date": "2025-07-09",
+      "eventDate": "2025-07-09",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Página oficial relaciona três requerimentos de retirada de pauta da Comissão de Saúde, dois de 02/07/2025 e um de 09/07/2025. A existência do pedido não prova oposição ao mérito do PL; os resultados devem ser confrontados com a tramitação da Comissão de Saúde.",
+      "limitations": "Somente a listagem HTML foi consultada; requerimentos integrais e justificativas não foram lidos, e não se atribui opinião de mérito aos requerentes.",
+      "locator": "Página da Câmara 'Requerimentos Apresentados - PL 3071/2019', linhas 78-85.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Fato processual documentado, sem inferir voto de mérito ou posicionamento político.",
+      "actor": "Deputados Dr. Francisco e Adriana Ventura, autores de requerimentos de retirada de pauta",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-13",
+          "toolReference": "turn753861view3"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
       "newToArchive": true
     },
     {
@@ -24466,6 +24673,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-45043affa6580be9",
+      "title": "Senado: ficha oficial do PL 3071/2019, autor Flávio Bolsonaro, remetido à Câmara",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136918",
+      "publisher": "Senado Federal, atividade legislativa",
+      "date": "2024-05-23",
+      "eventDate": "2024-05-23",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha identifica Flávio Bolsonaro como autor do PL 3071/2019, apresentado em 22/05/2019, para destinar renda líquida de um concurso anual da Loteca à ABBR. No Senado, a proposta foi aprovada e remetida à Câmara em 23/05/2024. 'Tramitação encerrada' na ficha do Senado significa encerrada naquela Casa, não transformação em lei.",
+      "limitations": "Examinada ficha HTML com descrição e histórico; não lidos os PDFs anexos, suas versões ou o autógrafo na íntegra. O desfecho bicameral precisa da ficha da Câmara.",
+      "locator": "Ficha oficial linhas 20-43, 67-105 e registro da CAE linhas 169-180.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A finalidade assistencial consta da proposição, sem pressupor distribuição efetiva de recursos.",
+      "actor": "Flávio Bolsonaro, autor; Senado Federal, registro oficial",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-01",
+          "toolReference": "turn999265view1"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-7a8046e98be27233",
       "title": "Agência Senado relata aprovação de mecanismos de proteção nas prisões",
       "url": "https://www12.senado.leg.br/noticias/materias/2024/05/22/senado-aprova-celas-especificas-para-populacao-lgbtqia-encarcerada",
@@ -24662,6 +24938,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-f414718cb7d4378c",
+      "title": "Rádio Senado publica transcrição sobre PL 3071/2019, sem áudio conferido",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/05/15/senadores-destinam-renda-da-loteca-para-associacao-beneficente-de-reabilitacao",
+      "publisher": "Rádio Senado, Pedro Pincer",
+      "date": "2024-05-15",
+      "eventDate": "2024-05-15",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Página da Rádio Senado publica texto de matéria sobre aprovação do PL 3071/2019 e trecho de fala atribuído a Flávio. A plataforma informa duração de 01:33, mas a gravação não foi reproduzida e nenhum segundo de áudio foi verificado nesta pesquisa.",
+      "limitations": "Somente transcrição/texto HTML acessados; mídia não reproduzida, duração nominal não foi cronometrada, sem comprovação de fidelidade sonora, 0 segundos de áudio conferidos.",
+      "locator": "Reportagem de 15/05/2024, linhas 8-23, duração nominal linha 16 e transcrição publicada linhas 19-23.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Inclui fala atribuída ao autor pela transcrição institucional; não equivale a audição própria.",
+      "actor": "Pedro Pincer, repórter; Flávio Bolsonaro, trecho atribuído na transcrição oficial",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-10",
+          "toolReference": "turn110419view4"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-c84906a224422d22",
       "title": "Crítica à tramitação e pedido de debate do PL 4129/2021",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505995",
@@ -24724,6 +25069,213 @@
         }
       ],
       "accessMethod": "Página pública HTML do Senado aberta e lida em 24/10/2026, incluindo cabeçalho e transcrição institucional. O PDF do Diário não foi aberto; áudio e vídeo não foram reproduzidos; zero segundos de áudio revisados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-a61a86f773e6a381",
+      "title": "Pronunciamento oficial de Flávio agradecendo aprovação do PL 3071/2019 no Senado",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505811",
+      "publisher": "Senado Federal, pronunciamentos",
+      "date": "2024-05-15",
+      "eventDate": "2024-05-15",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Íntegra textual oficial do pronunciamento em 15/05/2024 registra agradecimento de Flávio pela aprovação do projeto no Senado e sua defesa da ABBR, com estimativa de receita inferior a um milhão de reais ao ano. Essa estimativa e a descrição do financiamento são declarações do parlamentar, não apuração financeira independente.",
+      "limitations": "Texto disponibilizado pelo Senado foi lido. Diário do Senado em PDF não conferido e fala não ouvida; zero segundos revisados, sem timestamps.",
+      "locator": "Página de pronunciamento 505811, íntegra textual linhas 51-59; referência DSF 16/05/2024, p. 83.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Posicionamento público do próprio autor, com condicionante de aprovação futura na Câmara.",
+      "actor": "Flávio Bolsonaro, pronunciamento 'pela ordem'",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-08",
+          "toolReference": "turn753861view2"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-99e0153e84813b5d",
+      "title": "Plenário de 15/05/2024: sessão oficial que aprovou e encaminhou projeto à Câmara",
+      "url": "https://www25.senado.leg.br/web/atividade/sessao-plenaria/-/pauta/26082",
+      "publisher": "Senado Federal, sessão plenária",
+      "date": "2024-05-15",
+      "eventDate": "2024-05-15",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Página da 61ª sessão deliberativa ordinária de 15/05/2024 registra a sessão e o resultado da matéria, posteriormente encaminhada à Câmara. A Agência Senado descreve aprovação simbólica do PL 3071/2019; isso não comprova votação nominal individual.",
+      "limitations": "Somente registro textual da sessão acessado; não se consultou a gravação nem se identificaram votos nominais individualizados.",
+      "locator": "Página da 61ª sessão, identificação linhas 20-24; resultado do item PL 3071/2019 na seção de pauta e andamento.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "No conjunto com a notícia de 15/05/2024, documenta aprovação no Senado, não promulgação.",
+      "actor": "Senado Federal, deliberação plenária; Flávio Bolsonaro, autor",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-07",
+          "toolReference": "turn753861view1"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-5a6b1365a5932ae5",
+      "title": "Agência Senado relata votação simbólica e estimativas atribuídas à ABBR em 15/05/2024",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/05/15/vai-a-camara-projeto-que-destina-recursos-de-loteria-para-associacao-de-reabilitacao",
+      "publisher": "Agência Senado",
+      "date": "2024-05-15",
+      "eventDate": "2024-05-15",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "A Agência Senado publicou que o Plenário aprovou simbolicamente o PL 3071/2019 em 15/05/2024 para envio à Câmara. Apresenta estimativa de arrecadação atribuída a Flávio e dados de atendimentos atribuídos à ABBR; nenhum resultado posterior ou eficácia da medida se presume.",
+      "limitations": "Reportagem HTML consultada; cifras, modelo distributivo e informações operacionais da entidade não recalculados. Votação simbólica não constitui lista de votos nominais.",
+      "locator": "Notícia de 15/05/2024, linhas 23-31.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Registra a defesa pública de Flávio e etapa legislativa seguinte na Câmara.",
+      "actor": "Flávio Bolsonaro, fala pública; ABBR, dados de atendimentos reproduzidos",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-09",
+          "toolReference": "turn110419view0"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
       "newToArchive": true
     },
     {
@@ -26821,6 +27373,213 @@
         }
       ],
       "accessMethod": "",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-8478a599b74b66ad",
+      "title": "Agência Senado registra ressalva de Rogério Carvalho e defesa de Flávio em 21/03/2023",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/03/21/comissao-aprova-renda-da-loteca-para-associacao-beneficente-de-reabilitacao",
+      "publisher": "Agência Senado",
+      "date": "2023-03-21",
+      "eventDate": "2023-03-21",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia da CAE registra que Rogério Carvalho (PT-SE) apoiou a aprovação, mas advertiu sobre precedente para destinar recursos de loterias a entidades de atuação localizada. Flávio defendeu a função social e a situação financeira da ABBR. Os números de pacientes e a avaliação de impacto permanecem atribuídos.",
+      "limitations": "Textos das intervenções publicados em matéria jornalística institucional, sem escuta da reunião, sem conferência de demonstrações financeiras e sem interpretar a ressalva como voto contrário.",
+      "locator": "Notícia oficial de 21/03/2023, linhas 23-32, especialmente ressalva de Rogério nas linhas 27-28 e defesa de Flávio nas linhas 29-30.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Contempla a justificativa pública do autor, a ponderação de Rogério Carvalho e parecer do relator Irajá.",
+      "actor": "Rogério Carvalho e Flávio Bolsonaro, intervenções atribuídas pela Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-06",
+          "toolReference": "turn999265view2"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-7e367cd3fb8b9953",
+      "title": "CAE em 21/03/2023: aprovação do PL 3071/2019 com emenda",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/38/reuniao/11134/item/82231",
+      "publisher": "Senado Federal, Comissão de Assuntos Econômicos",
+      "date": "2023-03-21",
+      "eventDate": "2023-03-21",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Registro da 3ª reunião da CAE confirma aprovação do projeto e da Emenda 1-CAS-CAE em 21/03/2023, diferentemente da vista de 14/03. A aprovação na comissão antecedeu a apreciação posterior no Plenário do Senado.",
+      "limitations": "Consulta à ficha HTML; íntegra da ata, pareceres PDF e votação nominal individual não examinadas nesta execução.",
+      "locator": "Página de resultado do item 3, linhas 20-44.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Parecer favorável de Irajá acolhido pela comissão, segundo registro oficial.",
+      "actor": "Flávio Bolsonaro, autor; CAE, órgão deliberativo",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-05",
+          "toolReference": "turn110419view3"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-6389b31af45c2e09",
+      "title": "CAE em 14/03/2023: vista concedida, sem aprovação nessa sessão",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/38/reuniao/11117/item/82123",
+      "publisher": "Senado Federal, Comissão de Assuntos Econômicos",
+      "date": "2023-03-14",
+      "eventDate": "2023-03-14",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Na reunião da CAE em 14/03/2023, o relatório favorável ao PL 3071/2019 estava em pauta, porém o resultado oficial foi concessão de vista. A aprovação ocorreu em outra reunião, em 21/03/2023.",
+      "limitations": "HTML da pauta e do resultado lido; sem leitura de ata completa, notas taquigráficas ou documentos em PDF.",
+      "locator": "Item 7 da 2ª reunião da CAE, linhas 39-65.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A concessão de vista é o resultado da reunião e não representa voto final da CAE.",
+      "actor": "Flávio Bolsonaro, autor; CAE, órgão deliberativo",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-04",
+          "toolReference": "turn110419view2"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
       "newToArchive": true
     },
     {
@@ -32375,6 +33134,144 @@
         }
       ],
       "accessMethod": "Pesquisa e leitura documental assistida por IA. Sem revisão humana ou audição de arquivos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-85740da7f1c61e9e",
+      "title": "CAS em 25/09/2019: parecer favorável de Irajá ao projeto de Flávio",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/40/reuniao/9132/item/65238",
+      "publisher": "Senado Federal, Comissão de Assuntos Sociais",
+      "date": "2019-09-25",
+      "eventDate": "2019-09-25",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Resultado oficial da CAS em 25/09/2019: aprovado parecer favorável ao PL 3071/2019 com Emenda 1-CAS. A matéria seguiria para a CAE. Aprovação de parecer em comissão não é sanção.",
+      "limitations": "Somente HTML de pauta/resultado; ata, parecer PDF e vídeo da reunião não examinados.",
+      "locator": "Registro do item 13 na 42ª reunião CAS, linhas 20-47.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Relator Irajá apresentou parecer favorável com emenda.",
+      "actor": "Flávio Bolsonaro, autor; Irajá, relator",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-02",
+          "toolReference": "turn753861view0"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-2de7e0eabfdba0bd",
+      "title": "Agência Senado de 2019 contextualiza justificativa de Flávio e ressalvas financeiras sobre ABBR",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/09/25/renda-de-concurso-da-loteca-pode-custear-reabilitacao-de-pessoas-com-deficiencia",
+      "publisher": "Agência Senado, redação",
+      "date": "2019-09-25",
+      "eventDate": "2019-09-25",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 3071/2019",
+        "Loteca",
+        "ABBR",
+        "tramitação legislativa",
+        "reabilitação"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem institucional da aprovação do parecer na CAS registra a justificativa de Flávio sobre dificuldades de financiamento da ABBR e avaliação favorável de Irajá. Números de atendimentos e valores de loteria são atribuídos à entidade ou ao relatório, não auditados pelo Arquivo.",
+      "limitations": "Foi lido o texto HTML. Não conferidos os demonstrativos da ABBR, dados da Caixa ou PDF do parecer citado.",
+      "locator": "Notícia de 25/09/2019, linhas 19-33; justificativa de Flávio nas linhas 27-28; dados de Caixa citados pelo relator nas linhas 31-32.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T04:45:32.971Z",
+      "lastModifiedAt": "2026-10-25T04:45:32.971Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Inclui a justificativa pública de Flávio e o parecer favorável de Irajá.",
+      "actor": "Flávio Bolsonaro, autor; Irajá, relator; ABBR, fonte dos dados citados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3071/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3071-loteca-abbr-20261025-31",
+          "inputId": "pl3071-loteca-abbr-20261025-31-03",
+          "toolReference": "turn110419view1"
+        }
+      ],
+      "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
       "newToArchive": true
     },
     {
@@ -39628,10 +40525,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T00:13:31.411Z",
+      "lastConsultedAt": "2026-10-25T04:45:32.971Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 7,
+      "sourceCount": 10,
       "periods": [
         2007,
         2025,
@@ -39639,11 +40536,12 @@
       ],
       "formats": [
         "documento",
-        "registro"
+        "registro",
+        "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 7,
-      "analysedCount": 7
+      "accessedCount": 10,
+      "analysedCount": 10
     },
     {
       "id": "fonte-0d9079c114e04a58",
@@ -40252,10 +41150,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z",
-      "lastConsultedAt": "2026-10-25T03:17:26.846Z",
+      "lastConsultedAt": "2026-10-25T04:45:32.971Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 241,
+      "sourceCount": 251,
       "periods": [
         2018,
         2019,
@@ -40276,8 +41174,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 240,
-      "analysedCount": 224
+      "accessedCount": 250,
+      "analysedCount": 234
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -40812,6 +41710,31 @@
       "reviewState": "aguardando revisão",
       "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. O registro não demonstra por si os efeitos jurídicos da PEC.; Sem conferência do áudio ou dos pareceres nesta frente.",
       "researchItemId": "pesquisa-aea82d14b79b0b29",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-f414718cb7d4378c",
+      "title": "Rádio Senado publica transcrição sobre PL 3071/2019, sem áudio conferido",
+      "type": "audio",
+      "provider": "Rádio Senado, Pedro Pincer",
+      "publisher": "Rádio Senado, Pedro Pincer",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/noticia/2024/05/15/senadores-destinam-renda-da-loteca-para-associacao-beneficente-de-reabilitacao",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/05/15/senadores-destinam-renda-da-loteca-para-associacao-beneficente-de-reabilitacao",
+      "date": "2024-05-15",
+      "youtubeId": null,
+      "description": "Página da Rádio Senado publica texto de matéria sobre aprovação do PL 3071/2019 e trecho de fala atribuído a Flávio. A plataforma informa duração de 01:33, mas a gravação não foi reproduzida e nenhum segundo de áudio foi verificado nesta pesquisa.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Somente transcrição/texto HTML acessados; mídia não reproduzida, duração nominal não foi cronometrada, sem comprovação de fidelidade sonora, 0 segundos de áudio conferidos.",
+      "researchItemId": "pesquisa-f414718cb7d4378c",
       "review": {
         "state": "aguardando revisão editorial",
         "reviewer": null,
@@ -43969,6 +44892,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-5d9ccd758deca292",
+      "itemId": "pesquisa-af4f0aa31137588b",
+      "title": "Câmara: situação atual do PL 3071/2019 em Finanças e Tributação, ainda sem aprovação final",
+      "date": "2025-08-19",
+      "datePrecision": "day",
+      "context": "Consulta à ficha da Câmara em 25/10/2026: situação 'Pronta para Pauta na CFT'. Saúde aprovou parecer com duas emendas em 09/07/2025; Laura Carneiro apresentou parecer favorável na CFT em 19/08/2025, mas o portal não registra sua aprovação pelo colegiado. Seguem etapas constitucionais; o PL não é lei promulgada.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-488f139720a027e4",
       "itemId": "pesquisa-54e4358a730769c6",
       "title": "RQS 607/2025: pedido de Flávio de tramitação conjunta do PL 1473/2025 com o PL 2169/2019 foi retirado",
@@ -43996,6 +44928,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-dc4e58b3f81c4169",
+      "itemId": "pesquisa-7b7675c00a873bcf",
+      "title": "Agência Câmara registra inclusão da Rede Sarah em emenda ao PL de Flávio",
+      "date": "2025-07-09",
+      "datePrecision": "day",
+      "context": "Reportagem da Câmara de 24/07/2025 relata aprovação, na Comissão de Saúde em 09/07, de alteração proposta pelo relator Vermelho para beneficiar também a Rede Sarah. A proposição original de Flávio previa apenas ABBR. Emenda em comissão não representa lei vigente nem extensão do texto original de autoria de Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-43709ab9869393f6",
       "itemId": "pesquisa-b1488082bf2cecc3",
       "title": "Parecer sobre fiscalização dos Correios",
@@ -44011,6 +44952,15 @@
       "date": "2026-09-01",
       "datePrecision": "day",
       "context": "Ficha mostra Augusta Brito como autora do PL 3341/2025 sobre prevenção do assédio sexual e da violência sexual no transporte coletivo; Flávio entregou parecer favorável em 27/08/2026, acolhido pela CSP em 01/09/2026. A tramitação passou à CDH, com Ivete da Silveira designada relatora em 17/09. Trata-se de cooperação em projeto de autoria de parlamentar de outra legenda, não de aprovação definitiva.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e68c84cefeb299d4",
+      "itemId": "pesquisa-287d01f89954f790",
+      "title": "Câmara: requerimentos de retirada de pauta do PL 3071/2019 em julho de 2025",
+      "date": "2025-07-09",
+      "datePrecision": "day",
+      "context": "Página oficial relaciona três requerimentos de retirada de pauta da Comissão de Saúde, dois de 02/07/2025 e um de 09/07/2025. A existência do pedido não prova oposição ao mérito do PL; os resultados devem ser confrontados com a tramitação da Comissão de Saúde.",
       "state": "data informada pela fonte"
     },
     {
@@ -44401,6 +45351,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-7bc677898fd79efa",
+      "itemId": "pesquisa-45043affa6580be9",
+      "title": "Senado: ficha oficial do PL 3071/2019, autor Flávio Bolsonaro, remetido à Câmara",
+      "date": "2024-05-23",
+      "datePrecision": "day",
+      "context": "A ficha identifica Flávio Bolsonaro como autor do PL 3071/2019, apresentado em 22/05/2019, para destinar renda líquida de um concurso anual da Loteca à ABBR. No Senado, a proposta foi aprovada e remetida à Câmara em 23/05/2024. 'Tramitação encerrada' na ficha do Senado significa encerrada naquela Casa, não transformação em lei.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-f85e40c63b4f86f4",
       "itemId": "pesquisa-7a8046e98be27233",
       "title": "Agência Senado relata aprovação de mecanismos de proteção nas prisões",
@@ -44428,12 +45387,48 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-de8becec3de0048f",
+      "itemId": "pesquisa-f414718cb7d4378c",
+      "title": "Rádio Senado publica transcrição sobre PL 3071/2019, sem áudio conferido",
+      "date": "2024-05-15",
+      "datePrecision": "day",
+      "context": "Página da Rádio Senado publica texto de matéria sobre aprovação do PL 3071/2019 e trecho de fala atribuído a Flávio. A plataforma informa duração de 01:33, mas a gravação não foi reproduzida e nenhum segundo de áudio foi verificado nesta pesquisa.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-59a012fe5e8c2ffb",
       "itemId": "pesquisa-c84906a224422d22",
       "title": "Crítica à tramitação e pedido de debate do PL 4129/2021",
       "date": "2024-05-14",
       "datePrecision": "day",
       "context": "No mesmo dia de outra intervenção sobre o PL 4129/2021, Flávio pediu passagem pela CCJ e maior debate com representantes do setor privado. O conteúdo é sua avaliação sobre participação e tramitação, sem comprovação independente de ausência total de consulta.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-ef45279c05ce5610",
+      "itemId": "pesquisa-a61a86f773e6a381",
+      "title": "Pronunciamento oficial de Flávio agradecendo aprovação do PL 3071/2019 no Senado",
+      "date": "2024-05-15",
+      "datePrecision": "day",
+      "context": "Íntegra textual oficial do pronunciamento em 15/05/2024 registra agradecimento de Flávio pela aprovação do projeto no Senado e sua defesa da ABBR, com estimativa de receita inferior a um milhão de reais ao ano. Essa estimativa e a descrição do financiamento são declarações do parlamentar, não apuração financeira independente.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-ae45bc6a1c141463",
+      "itemId": "pesquisa-99e0153e84813b5d",
+      "title": "Plenário de 15/05/2024: sessão oficial que aprovou e encaminhou projeto à Câmara",
+      "date": "2024-05-15",
+      "datePrecision": "day",
+      "context": "Página da 61ª sessão deliberativa ordinária de 15/05/2024 registra a sessão e o resultado da matéria, posteriormente encaminhada à Câmara. A Agência Senado descreve aprovação simbólica do PL 3071/2019; isso não comprova votação nominal individual.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-3cb1edcfac7abd93",
+      "itemId": "pesquisa-5a6b1365a5932ae5",
+      "title": "Agência Senado relata votação simbólica e estimativas atribuídas à ABBR em 15/05/2024",
+      "date": "2024-05-15",
+      "datePrecision": "day",
+      "context": "A Agência Senado publicou que o Plenário aprovou simbolicamente o PL 3071/2019 em 15/05/2024 para envio à Câmara. Apresenta estimativa de arrecadação atribuída a Flávio e dados de atendimentos atribuídos à ABBR; nenhum resultado posterior ou eficácia da medida se presume.",
       "state": "data informada pela fonte"
     },
     {
@@ -44722,6 +45717,33 @@
       "date": "2023-04-19",
       "datePrecision": "day",
       "context": "Transcrição oficial contém avaliação de imagens divulgadas pela CNN e defesa de CPMI. São alegações do parlamentar naquele momento, sem validação automática dos fatos atribuídos a agentes públicos.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e4add2c3ff361888",
+      "itemId": "pesquisa-8478a599b74b66ad",
+      "title": "Agência Senado registra ressalva de Rogério Carvalho e defesa de Flávio em 21/03/2023",
+      "date": "2023-03-21",
+      "datePrecision": "day",
+      "context": "Notícia da CAE registra que Rogério Carvalho (PT-SE) apoiou a aprovação, mas advertiu sobre precedente para destinar recursos de loterias a entidades de atuação localizada. Flávio defendeu a função social e a situação financeira da ABBR. Os números de pacientes e a avaliação de impacto permanecem atribuídos.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-59b2671f158daa4e",
+      "itemId": "pesquisa-7e367cd3fb8b9953",
+      "title": "CAE em 21/03/2023: aprovação do PL 3071/2019 com emenda",
+      "date": "2023-03-21",
+      "datePrecision": "day",
+      "context": "Registro da 3ª reunião da CAE confirma aprovação do projeto e da Emenda 1-CAS-CAE em 21/03/2023, diferentemente da vista de 14/03. A aprovação na comissão antecedeu a apreciação posterior no Plenário do Senado.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-71bf51b8406d6368",
+      "itemId": "pesquisa-6389b31af45c2e09",
+      "title": "CAE em 14/03/2023: vista concedida, sem aprovação nessa sessão",
+      "date": "2023-03-14",
+      "datePrecision": "day",
+      "context": "Na reunião da CAE em 14/03/2023, o relatório favorável ao PL 3071/2019 estava em pauta, porém o resultado oficial foi concessão de vista. A aprovação ocorreu em outra reunião, em 21/03/2023.",
       "state": "data informada pela fonte"
     },
     {
@@ -45479,6 +46501,24 @@
       "datePrecision": "unknown",
       "context": "STF noticia suspensão de procedimentos vinculados ao compartilhamento de dados até exame do RE 1.055.941.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-ff7f6efaaea8bbfb",
+      "itemId": "pesquisa-85740da7f1c61e9e",
+      "title": "CAS em 25/09/2019: parecer favorável de Irajá ao projeto de Flávio",
+      "date": "2019-09-25",
+      "datePrecision": "day",
+      "context": "Resultado oficial da CAS em 25/09/2019: aprovado parecer favorável ao PL 3071/2019 com Emenda 1-CAS. A matéria seguiria para a CAE. Aprovação de parecer em comissão não é sanção.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-8647224e9fa4ea9c",
+      "itemId": "pesquisa-2de7e0eabfdba0bd",
+      "title": "Agência Senado de 2019 contextualiza justificativa de Flávio e ressalvas financeiras sobre ABBR",
+      "date": "2019-09-25",
+      "datePrecision": "day",
+      "context": "Reportagem institucional da aprovação do parecer na CAS registra a justificativa de Flávio sobre dificuldades de financiamento da ABBR e avaliação favorável de Irajá. Números de atendimentos e valores de loteria são atribuídos à entidade ou ao relatório, não auditados pelo Arquivo.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-29cef82eb2fa60ed",
@@ -53008,6 +54048,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-5d9ccd758deca292",
+      "itemId": "pesquisa-af4f0aa31137588b",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2436339",
+      "locator": "Ficha da Câmara, situação e autoria linhas 23-39; última ação linhas 61-66; pareceres linhas 86-93; detalhes de tramitação linhas 120-154.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-488f139720a027e4",
       "itemId": "pesquisa-54e4358a730769c6",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -53041,6 +54092,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-dc4e58b3f81c4169",
+      "itemId": "pesquisa-7b7675c00a873bcf",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www.camara.leg.br/noticias/1182948-COMISSAO-DE-SAUDE-APROVA-DESTINACAO-DE-RECURSOS-DA-LOTECA-PARA-A-REDE-SARAH",
+      "locator": "Notícia de 24/07/2025, linhas 20-39, etapa de tramitação linhas 45-49.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-43709ab9869393f6",
       "itemId": "pesquisa-b1488082bf2cecc3",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -53057,6 +54119,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169523",
       "locator": "Ficha PL 3341/2025; HTML linhas 20–25 (autoria), 47–54 (CDH), 103–128 (relatoria e CSP).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e68c84cefeb299d4",
+      "itemId": "pesquisa-287d01f89954f790",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_requerimentos?idProposicao=2436339",
+      "locator": "Página da Câmara 'Requerimentos Apresentados - PL 3071/2019', linhas 78-85.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -53536,6 +54609,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-7bc677898fd79efa",
+      "itemId": "pesquisa-45043affa6580be9",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136918",
+      "locator": "Ficha oficial linhas 20-43, 67-105 e registro da CAE linhas 169-180.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-f85e40c63b4f86f4",
       "itemId": "pesquisa-7a8046e98be27233",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -53569,11 +54653,55 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-de8becec3de0048f",
+      "itemId": "pesquisa-f414718cb7d4378c",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/05/15/senadores-destinam-renda-da-loteca-para-associacao-beneficente-de-reabilitacao",
+      "locator": "Reportagem de 15/05/2024, linhas 8-23, duração nominal linha 16 e transcrição publicada linhas 19-23.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-59a012fe5e8c2ffb",
       "itemId": "pesquisa-c84906a224422d22",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505995",
       "locator": "Pronunciamento 505995, Texto integral; DSF de 15/05/2024, p. 54.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ef45279c05ce5610",
+      "itemId": "pesquisa-a61a86f773e6a381",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/505811",
+      "locator": "Página de pronunciamento 505811, íntegra textual linhas 51-59; referência DSF 16/05/2024, p. 83.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ae45bc6a1c141463",
+      "itemId": "pesquisa-99e0153e84813b5d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/sessao-plenaria/-/pauta/26082",
+      "locator": "Página da 61ª sessão, identificação linhas 20-24; resultado do item PL 3071/2019 na seção de pauta e andamento.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-3cb1edcfac7abd93",
+      "itemId": "pesquisa-5a6b1365a5932ae5",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/05/15/vai-a-camara-projeto-que-destina-recursos-de-loteria-para-associacao-de-reabilitacao",
+      "locator": "Notícia de 15/05/2024, linhas 23-31.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -53926,6 +55054,39 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/496838",
       "locator": "Texto integral, bloco 'Em segundo lugar'; DSF de 20/04/2023, página 29.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e4add2c3ff361888",
+      "itemId": "pesquisa-8478a599b74b66ad",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/03/21/comissao-aprova-renda-da-loteca-para-associacao-beneficente-de-reabilitacao",
+      "locator": "Notícia oficial de 21/03/2023, linhas 23-32, especialmente ressalva de Rogério nas linhas 27-28 e defesa de Flávio nas linhas 29-30.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-59b2671f158daa4e",
+      "itemId": "pesquisa-7e367cd3fb8b9953",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/38/reuniao/11134/item/82231",
+      "locator": "Página de resultado do item 3, linhas 20-44.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-71bf51b8406d6368",
+      "itemId": "pesquisa-6389b31af45c2e09",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/38/reuniao/11117/item/82123",
+      "locator": "Item 7 da 2ª reunião da CAE, linhas 39-65.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -54850,6 +56011,28 @@
       "sourceId": "fonte-3ed65b2f1d041330",
       "url": "https://noticias.stf.jus.br/postsnoticias/suspensa-investigacao-contra-flavio-bolsonaro-ate-decisao-do-stf-sobre-compartilhamento-de-dados/",
       "locator": "Corpo, primeiro parágrafo e fundamentação",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ff7f6efaaea8bbfb",
+      "itemId": "pesquisa-85740da7f1c61e9e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/40/reuniao/9132/item/65238",
+      "locator": "Registro do item 13 na 42ª reunião CAS, linhas 20-47.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-8647224e9fa4ea9c",
+      "itemId": "pesquisa-2de7e0eabfdba0bd",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/09/25/renda-de-concurso-da-loteca-pode-custear-reabilitacao-de-pessoas-com-deficiencia",
+      "locator": "Notícia de 25/09/2019, linhas 19-33; justificativa de Flávio nas linhas 27-28; dados de Caixa citados pelo relator nas linhas 31-32.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -56409,20 +57592,20 @@
     },
     {
       "year": 2019,
-      "found": 41,
-      "accessed": 41,
-      "analysed": 39,
+      "found": 43,
+      "accessed": 43,
+      "analysed": 41,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 39,
+        "analisado": 41,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
-        "Flávio Bolsonaro": 1,
+        "Flávio Bolsonaro": 3,
         "atividade parlamentar": 1,
         "Sérgio Moro": 1,
         "previdencia": 3,
@@ -56449,7 +57632,7 @@
         "PL 1482/2019": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 27,
+        "fonte-2acd9e7dc92e583a": 29,
         "fonte-e979cfd37b58c2c5": 1,
         "fonte-3ed65b2f1d041330": 1,
         "fonte-d7238973977790d8": 1,
@@ -56458,8 +57641,8 @@
         "fonte-922199d958d5da40": 1
       },
       "formats": {
-        "documento": 19,
-        "reportagem": 7,
+        "documento": 20,
+        "reportagem": 8,
         "registro": 3,
         "checagem": 10,
         "video": 1,
@@ -56600,15 +57783,15 @@
     },
     {
       "year": 2023,
-      "found": 24,
-      "accessed": 24,
-      "analysed": 22,
+      "found": 27,
+      "accessed": 27,
+      "analysed": 25,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 22,
+        "analisado": 25,
         "revisado": 0,
         "publicado": 0
       },
@@ -56626,32 +57809,33 @@
         "liberdade de expressão": 1,
         "legislação digital": 1,
         "8 de janeiro": 1,
+        "Flávio Bolsonaro": 3,
         "Atividade pública": 1,
         "eleicoes": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 22,
+        "fonte-2acd9e7dc92e583a": 25,
         "fonte-37b3a9c8aaa5f206": 1,
         "fonte-d17e0097bbcd6c10": 1
       },
       "formats": {
-        "reportagem": 3,
-        "documento": 20,
+        "reportagem": 4,
+        "documento": 22,
         "video": 1
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2024,
-      "found": 32,
-      "accessed": 32,
-      "analysed": 31,
+      "found": 37,
+      "accessed": 37,
+      "analysed": 36,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 1,
-        "analisado": 31,
+        "analisado": 36,
         "revisado": 0,
         "publicado": 0
       },
@@ -56668,6 +57852,7 @@
         "processo penal": 1,
         "PLP 150/2021": 3,
         "patrimônio público": 1,
+        "Flávio Bolsonaro": 5,
         "PLP 85/2024": 1,
         "VET 8/2024 e VET 46/2021": 1,
         "PL 4129/2021": 2,
@@ -56679,31 +57864,31 @@
         "elegibilidade de militares": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 30,
+        "fonte-2acd9e7dc92e583a": 35,
         "fonte-875b77e7aba40e8b": 1,
         "fonte-ad60f42b08c8e9e7": 1
       },
       "formats": {
-        "documento": 25,
+        "documento": 28,
         "checagem": 1,
-        "audio": 1,
+        "audio": 2,
         "registro": 1,
-        "reportagem": 3,
+        "reportagem": 4,
         "video": 1
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2025,
-      "found": 68,
-      "accessed": 68,
-      "analysed": 65,
+      "found": 71,
+      "accessed": 71,
+      "analysed": 68,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 3,
-        "analisado": 65,
+        "analisado": 68,
         "revisado": 0,
         "publicado": 0
       },
@@ -56716,7 +57901,7 @@
         "PL 5582/2025": 1,
         "PL 1087/2025": 1,
         "imagem sintética": 1,
-        "Flávio Bolsonaro": 1,
+        "Flávio Bolsonaro": 4,
         "PL 2169/2019": 5,
         "Senado": 4,
         "medidas socioeducativas": 1,
@@ -56748,7 +57933,7 @@
       "sources": {
         "fonte-ab7ca292b805c308": 1,
         "fonte-2acd9e7dc92e583a": 55,
-        "fonte-29a2bae5277f274b": 3,
+        "fonte-29a2bae5277f274b": 6,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
         "fonte-ad60f42b08c8e9e7": 1,
@@ -56758,10 +57943,10 @@
       },
       "formats": {
         "audio": 1,
-        "documento": 44,
+        "documento": 46,
         "registro": 4,
         "checagem": 6,
-        "reportagem": 12,
+        "reportagem": 13,
         "video": 1
       },
       "note": "Recorte não exaustivo."
@@ -56889,11 +58074,11 @@
     }
   ],
   "metrics": {
-    "newItems": 575,
-    "items": 593,
+    "newItems": 588,
+    "items": 606,
     "alreadyInArchive": 18,
-    "accessed": 590,
-    "analysed": 560,
+    "accessed": 603,
+    "analysed": 573,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -56904,12 +58089,12 @@
     "sources": 58,
     "sourcesConsulted": 53,
     "video": 18,
-    "audio": 6,
-    "documents": 219,
+    "audio": 7,
+    "documents": 227,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 186,
+    "queryCount": 191,
     "accessFailures": 42,
     "undatedItems": 38
   },
@@ -58119,6 +59304,51 @@
       "engine": "GitHub conectado, leitura completa do JSON via endpoint Contents e comparação exata de URLs canônicas",
       "interval": "checkpoint atual até 2026-10-25T01:14Z",
       "resultsState": "As 10 URLs selecionadas não constavam entre 564 registros; PL 2169/2019 ficha principal já catalogada foi mantida, sem duplicação."
+    },
+    {
+      "id": "consulta-18e6c71e0baba735",
+      "batch": "pl3071-loteca-abbr-20261025-31",
+      "query": "site:senado.leg.br PL 3071/2019 Flávio Bolsonaro loteca ABBR tramitação 2019 2024",
+      "executedAt": "2026-10-25T04:45:32.971Z",
+      "engine": "web.run, abertura direta de portais oficiais e leitura HTML",
+      "interval": "2019-2024",
+      "resultsState": "Fichas CAS, CAE, plenário e pronunciamento oficial lidas; distinguidas vista, aprovação em comissão e plenário."
+    },
+    {
+      "id": "consulta-1ad67996a9b46c32",
+      "batch": "pl3071-loteca-abbr-20261025-31",
+      "query": "site:camara.leg.br PL 3071/2019 Câmara 2025 2026 Loteca ABBR Rede Sarah Laura Carneiro Vermelho",
+      "executedAt": "2026-10-25T04:45:32.971Z",
+      "engine": "web.run, busca e abertura da tramitação e notícia da Câmara",
+      "interval": "2024-2026",
+      "resultsState": "Tramitação oficial indica CFT pronta para pauta; Saúde aprovou emendas para incluir Rede Sarah, sem prova de aprovação final."
+    },
+    {
+      "id": "consulta-4e197a24a7ab255e",
+      "batch": "pl3071-loteca-abbr-20261025-31",
+      "query": "PL 3071/2019 Rogério Carvalho 21 março 2023 comissão Flávio Bolsonaro ressalva",
+      "executedAt": "2026-10-25T04:45:32.971Z",
+      "engine": "web.run, página institucional da Agência Senado",
+      "interval": "2023",
+      "resultsState": "Matéria de 21/03/2023 traz defesa pública de Flávio e ressalva de Rogério Carvalho, que não votou contra."
+    },
+    {
+      "id": "consulta-a9eddbe682042b0e",
+      "batch": "pl3071-loteca-abbr-20261025-31",
+      "query": "site:www12.senado.leg.br/radio/1/noticia/2024/05/15 loteca ABBR Flávio Bolsonaro",
+      "executedAt": "2026-10-25T04:45:32.971Z",
+      "engine": "web.run, leitura da transcrição oficial sem áudio",
+      "interval": "2024",
+      "resultsState": "Texto de Rádio Senado lido; duração nominal da página identificada, zero segundos de áudio ouvido."
+    },
+    {
+      "id": "consulta-ff4ed6bede42c421",
+      "batch": "pl3071-loteca-abbr-20261025-31",
+      "query": "13 URLs oficiais do PL 3071/2019 confrontadas com o catálogo canônico main",
+      "executedAt": "2026-10-25T04:45:32.971Z",
+      "engine": "Conector GitHub, fetch do content/research.json e confronto de URLs em memória",
+      "interval": "catálogo com 593 itens antes deste lote",
+      "resultsState": "13 URLs distintas ainda não catalogadas; material anterior preservado."
     },
     {
       "id": "consulta-908b3c4f53e33516",
@@ -59519,6 +60749,48 @@
       "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28"
     },
     {
+      "id": "lacuna-a021303eed32c604",
+      "note": "PL 3071/2019: conferir integralmente no PDF do Senado o texto inicial de 22/05/2019, emenda CAS/CAE e autógrafo de 23/05/2024 antes de comparações redacionais precisas.",
+      "state": "pendente",
+      "batch": "pl3071-loteca-abbr-20261025-31"
+    },
+    {
+      "id": "lacuna-f3388e8db340b53f",
+      "note": "PL 3071/2019: cotejar os PDFs de duas emendas da Comissão de Saúde e parecer de Laura Carneiro na CFT; esta etapa registrou apenas descrição oficial em HTML.",
+      "state": "pendente",
+      "batch": "pl3071-loteca-abbr-20261025-31"
+    },
+    {
+      "id": "lacuna-24283af0b3d563aa",
+      "note": "PL 3071/2019: conferir situação da CFT e CCJC em consulta posterior; parecer favorável de relatora não é aprovação em colegiado nem promulgação.",
+      "state": "pendente",
+      "batch": "pl3071-loteca-abbr-20261025-31"
+    },
+    {
+      "id": "lacuna-27815aef9df14ef5",
+      "note": "Financiamento da ABBR: verificar dados financeiros publicados pela entidade e pela Caixa antes de tratar estimativas de atendimentos, loteria e sustentabilidade como fatos independentemente apurados.",
+      "state": "pendente",
+      "batch": "pl3071-loteca-abbr-20261025-31"
+    },
+    {
+      "id": "lacuna-811be14838649942",
+      "note": "Áudio da Rádio Senado e vídeo do Plenário de 15/05/2024 não reproduzidos; manter zero segundos revisados e não inventar timestamps ou fala ouvida.",
+      "state": "pendente",
+      "batch": "pl3071-loteca-abbr-20261025-31"
+    },
+    {
+      "id": "lacuna-c3d42bac83cc61da",
+      "note": "MP 983/2020, citada em nextBatch de atividades 2020: prosseguir em lote específico, sem misturar com PL 3071/2019.",
+      "state": "pendente",
+      "batch": "pl3071-loteca-abbr-20261025-31"
+    },
+    {
+      "id": "lacuna-6a6503656f9180c9",
+      "note": "Revisão editorial humana identificada obrigatória antes de comparar acusações, classificar declarações ou atribuir contradições a senadores ou deputados.",
+      "state": "pendente",
+      "batch": "pl3071-loteca-abbr-20261025-31"
+    },
+    {
       "id": "lacuna-d791a02351ceee92",
       "note": "Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.",
       "state": "pendente",
@@ -59987,6 +61259,12 @@
       "label": "PL 2169/2019: versões, parecer e tramitação; PL 3030 e requerimentos de apensamento",
       "collected_at_utc": "2026-10-25T01:17:10.136Z",
       "method": "10 URLs públicas distintas consultadas em HTML, nenhuma já registrada no JSON de 564 materiais; pesquisa factual sem veredito e 0 segundos de áudio conferidos."
+    },
+    {
+      "id": "checkpoint-20261025-31",
+      "label": "PL 3071/2019: Loteca, ABBR, votação no Senado, emendas para Rede Sarah e tramitação pendente na Câmara",
+      "collected_at_utc": "2026-10-25T04:45:32.971Z",
+      "method": "13 URLs HTML oficiais distintas efetivamente lidas; verificados 593 registros prévios; Senado/Câmara/Rádio Senado, resposta do autor e ressalva parlamentar; nenhum PDF ou áudio integral inspecionado, classificação e revisão nulas."
     },
     {
       "name": "Checagem ao Vivo",
