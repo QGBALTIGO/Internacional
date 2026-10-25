@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T02:59:31.241900Z",
-    "inputHash": "5b0337b3183445a761b89cb06c0e0c57d661ef5c9531c8b6424d833574d55610",
+    "generatedAt": "2026-10-25T03:17:41.581899Z",
+    "inputHash": "f2c684771d7d6d2c890ca75df87415dedabb9f0c9d4e3ffdd5d403830303fd03",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -6694,6 +6694,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-b91b1686302494a5",
+      "title": "((o))eco 2026: retrospecto jornalístico de propostas ambientais atribuídas a Flávio Bolsonaro",
+      "url": "https://oeco.org.br/reportagens/fim-da-reserva-legal-e-extincao-de-ucs-o-historico-de-flavio-bolsonaro-na-area-ambiental/",
+      "publisher": "((o))eco, Duda Menegassi",
+      "date": "2026-10-21",
+      "eventDate": "2026-10-21",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "Costa Verde",
+        "meio ambiente",
+        "projetos legislativos"
+      ],
+      "stage": "analisado",
+      "summary": "Retrospectiva de 21/10/2026 reúne propostas ambientais relacionadas a Flávio, inclusive o PL 2362/2019 de reserva legal e iniciativas sobre unidades de conservação da Costa Verde. A matéria é índice jornalístico de linhas de investigação; seu enquadramento e suas inferências são atribuídos ao veículo. Dados e andamento de cada proposição dependem de confrontação com o Senado, sem novo veredito.",
+      "limitations": "Artigo HTML consultado; não foram lidas todas as versões legislativas originais nem conferidas declarações em gravações. A publicação não é análise judicial nem prova de consequências futuras.",
+      "locator": "Reportagem de 21/10/2026, cabeçalho linhas 21-44; seção Reserva Legal linhas 85-91; seção Costa Verde e Tamoios no corpo da matéria.",
+      "sourceId": "fonte-f963e021c7cefa6f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T03:17:26.846Z",
+      "lastModifiedAt": "2026-10-25T03:17:26.846Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "O próprio retrospecto relaciona justificativas parlamentares de desenvolvimento e propriedade e críticas ambientalistas, a serem cotejadas com documentos oficiais.",
+      "actor": "Duda Menegassi, jornalista; parlamentares e campanha citados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2362/2019; PL 6479/2019; PLP 157/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "costa-verde-ambiente-20261025-30",
+          "inputId": "costa-verde-ambiente-20261025-30-05",
+          "toolReference": "turn503018view0"
+        }
+      ],
+      "accessMethod": "Leitura direta de página pública por web.run durante 24/10/2026 (America/Campo_Grande); localizadores são linhas da extração, não timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-e29369853006b17d",
       "title": "Fechamento de empresas: uma tese, várias ocorrências",
       "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
@@ -6952,6 +7019,73 @@
         }
       ],
       "accessMethod": "Busca e navegação em fontes públicas, abertura direta do HTML da Lupa; sem reprodução de vídeos originais.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-c2c224539983b41d",
+      "title": "((o))eco 19/10/2026: reportagem atribui a Flávio promessa sobre entraves ambientais em Marabá",
+      "url": "https://oeco.org.br/noticias/em-ato-no-para-flavio-bolsonaro-promete-que-vai-acabar-com-entraves-ambientais/",
+      "publisher": "((o))eco, Duda Menegassi",
+      "date": "2026-10-19",
+      "eventDate": "2026-10-19",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "Costa Verde",
+        "meio ambiente",
+        "projetos legislativos"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia de 19/10/2026 informa que, em ato de campanha em Marabá (PA), Flávio defendeu regularização fundiária e disse que removeria entraves ambientais em eventual governo. A descrição é atribuição jornalística, sem transcrição audiovisual conferida pelo Arquivo; promessa política não é, por si, alegação factual falsa.",
+      "limitations": "A página jornalística foi lida, mas a gravação original do ato não foi localizada nem reproduzida nesta execução. Não há citação literal validada, minutagem ou duração revisada; afirmações sobre indicadores ambientais da reportagem não foram recalculadas.",
+      "locator": "Reportagem de 19/10/2026, identificação e contextualização da fala nas linhas 22-48.",
+      "sourceId": "fonte-f963e021c7cefa6f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": "proposicao-candidata-cbe3ea6b875d7ad7",
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T03:17:26.846Z",
+      "lastModifiedAt": "2026-10-25T03:17:26.846Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": "Qual é a íntegra da fala de 19/10/2026 em Marabá, e quais medidas específicas o candidato propôs para os chamados entraves ambientais?",
+      "publicResponse": "A própria reportagem relata como argumento de Flávio a defesa da propriedade rural e da regularização fundiária; não se atribui a ele motivação oculta.",
+      "actor": "Flávio Bolsonaro, fala atribuída pela reportagem; Duda Menegassi, jornalista",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "costa-verde-ambiente-20261025-30",
+          "inputId": "costa-verde-ambiente-20261025-30-06",
+          "toolReference": "turn145631view1"
+        }
+      ],
+      "accessMethod": "Leitura direta de página pública por web.run durante 24/10/2026 (America/Campo_Grande); localizadores são linhas da extração, não timestamps de áudio.",
       "newToArchive": true
     },
     {
@@ -12179,6 +12313,73 @@
         }
       ],
       "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-531c9756a2517916",
+      "title": "((o))eco 15/10/2026: reportagem contextualiza carta pública da Ascema sobre política ambiental",
+      "url": "https://oeco.org.br/salada-verde/ascema-alerta-para-impactos-de-propostas-de-flavio-bolsonaro-sobre-orgaos-ambientais/",
+      "publisher": "((o))eco, redação",
+      "date": "2026-10-15",
+      "eventDate": "2026-10-15",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "Costa Verde",
+        "meio ambiente",
+        "projetos legislativos"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia de 15/10/2026 resume carta da Ascema aos servidores ambientais sobre pontos do plano de governo atribuído a Flávio e riscos avaliados pela entidade para órgãos, licenciamento e carreiras. É cobertura da manifestação da associação, sem equivaler a confirmação independente de suas previsões.",
+      "limitations": "Página HTML efetivamente lida e relacionada ao PDF original; os argumentos e previsões são posicionamentos da associação e não fatos futuros verificados. Documentos programáticos completos e séries históricas citadas não foram auditados neste lote.",
+      "locator": "Matéria de 15/10/2026, título, data e contexto linhas 22-50, resumo de propostas e link ao PDF original linhas 91-103.",
+      "sourceId": "fonte-4114d6bfe97e1092",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T03:17:26.846Z",
+      "lastModifiedAt": "2026-10-25T03:17:26.846Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Vincula a crítica institucional a propostas descritas do candidato, sem afirmar que o candidato respondeu diretamente à carta.",
+      "actor": "Ascema Nacional, opinião reproduzida; redação de ((o))eco",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "costa-verde-ambiente-20261025-30",
+          "inputId": "costa-verde-ambiente-20261025-30-08",
+          "toolReference": "turn890795view0"
+        }
+      ],
+      "accessMethod": "Leitura direta de página pública por web.run durante 24/10/2026 (America/Campo_Grande); localizadores são linhas da extração, não timestamps de áudio.",
       "newToArchive": true
     },
     {
@@ -28808,6 +29009,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-a7e64d1dc9517234",
+      "title": "((o))eco 2021: reportagem documenta controvérsia sobre municipalização na Costa Verde",
+      "url": "https://oeco.org.br/noticias/flavio-bolsonaro-propoe-municipalizar-ucs-no-litoral-do-rio-de-janeiro/",
+      "publisher": "((o))eco, Duda Menegassi",
+      "date": "2021-11-18",
+      "eventDate": "2021-11-18",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "Costa Verde",
+        "meio ambiente",
+        "projetos legislativos"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 18/11/2021 descreve o PLP 157/2021, as hipóteses de municipalização de unidades de conservação e os possíveis efeitos para a Estação Ecológica de Tamoios. O veículo apresenta estimativas e interpretações de impacto, que permanecem atribuídas a ele. Os objetivos turísticos do projeto foram apresentados pela Agência Senado em material anterior já catalogado.",
+      "limitations": "Leitura da reportagem HTML; texto inicial oficial do projeto em PDF e cálculos espaciais mencionados pelo veículo não foram auditados nesta execução. A reportagem não equivale à comprovação independente de possíveis efeitos.",
+      "locator": "Reportagem de Duda Menegassi, cabeçalho linhas 22-28 e descrição da proposta linhas 49-51 e 90-93.",
+      "sourceId": "fonte-f963e021c7cefa6f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T03:17:26.846Z",
+      "lastModifiedAt": "2026-10-25T03:17:26.846Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A reportagem reproduz a finalidade turística da proposta e argumentos críticos quanto às áreas protegidas, sem resposta posterior específica confirmada nesta consulta.",
+      "actor": "Duda Menegassi, jornalista; Flávio Bolsonaro, proponente referido",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PLP 157/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "costa-verde-ambiente-20261025-30",
+          "inputId": "costa-verde-ambiente-20261025-30-04",
+          "toolReference": "turn503018view2"
+        }
+      ],
+      "accessMethod": "Leitura direta de página pública por web.run durante 24/10/2026 (America/Campo_Grande); localizadores são linhas da extração, não timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-345c33c2a85571ff",
       "title": "Dubai: magistrado fotografado não julgava o caso criminal",
       "url": "https://www.aosfatos.org/noticias/desembargador-do-caso-de-rachadinha-de-flavio-bolsonaro-nao-estava-na-comitiva-presidencial-em-dubai/",
@@ -28876,6 +29144,140 @@
         }
       ],
       "accessMethod": "Busca web e abertura direta do texto indexado; sem contornar barreiras",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-4e10c7593a306b86",
+      "title": "Ascema Nacional: nota de 2021 critica municipalização proposta no PLP 157/2021",
+      "url": "https://ascemanacional.org.br/2021/11/16/projeto-de-lei-complementar-de-flavio-bolsonaro-ameaca-o-sistema-nacional-de-unidades-de-conservacao-e-inviabiliza-a-estacao-ecologica-de-tamoios/",
+      "publisher": "Ascema Nacional, associação de servidores ambientais",
+      "date": "2021-11-16",
+      "eventDate": "2021-11-16",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "Costa Verde",
+        "meio ambiente",
+        "projetos legislativos"
+      ],
+      "stage": "analisado",
+      "summary": "Nota publicada pela Ascema em 16/11/2021 se opõe ao PLP 157/2021, por entender que municipalização de unidades de conservação e alteração da proteção da Estação Ecológica de Tamoios trariam riscos ao sistema ambiental. Essa é a avaliação da associação, não uma conclusão independente do Arquivo. A justificativa turística do autor deve ser lida junto ao projeto e à notícia já catalogada da Agência Senado.",
+      "limitations": "Texto HTML da manifestação consultado; bases originais de área geográfica, impacto ambiental e eventual cadeia normativa não foram recalculadas. Expressões acusatórias da entidade são opinião atribuída, não fatos ou intenções declarados pelo catálogo.",
+      "locator": "Página da Ascema de 16/11/2021, título e texto principal linhas 7-21, com argumentos sobre UCs e Tamoios.",
+      "sourceId": "fonte-bac855b934c3b568",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T03:17:26.846Z",
+      "lastModifiedAt": "2026-10-25T03:17:26.846Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Contraponto da associação de servidores ao argumento de desenvolvimento turístico do projeto de Flávio, preservado na Agência Senado de 15/10/2021.",
+      "actor": "Ascema Nacional, manifestação pública institucional",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PLP 157/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "costa-verde-ambiente-20261025-30",
+          "inputId": "costa-verde-ambiente-20261025-30-03",
+          "toolReference": "turn503018view1"
+        }
+      ],
+      "accessMethod": "Leitura direta de página pública por web.run durante 24/10/2026 (America/Campo_Grande); localizadores são linhas da extração, não timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-9a6adeb199229eb2",
+      "title": "IAB: parecer 089/2021 examina PLP 157/2021 e registra aprovação institucional em 10/11/2021",
+      "url": "https://arquivo.iabnacional.org.br/pareceres/pareceres-votados/parecer-na-indicacao-n-089-2021-2",
+      "publisher": "Instituto dos Advogados Brasileiros (IAB)",
+      "date": "2021-11-10",
+      "eventDate": "2021-11-10",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "Costa Verde",
+        "meio ambiente",
+        "projetos legislativos"
+      ],
+      "stage": "acessado",
+      "summary": "A página institucional identifica parecer sobre o PLP 157/2021 de Flávio, relacionado a competências administrativas, pacto federativo, unidades de conservação e direitos de comunidades tradicionais. Registra status aprovado na 61ª sessão ordinária de 10/11/2021. A aprovação é de parecer do IAB, não deliberação legislativa ou julgamento judicial.",
+      "limitations": "Somente ficha HTML e metadados do parecer examinados. O PDF completo listado no site do IAB não foi aberto; sua fundamentação e conclusões específicas não foram auditadas e não se atribui veredito jurídico independente.",
+      "locator": "Página IAB 'Parecer na Indicação nº 089/2021', linhas 11-24, com relator, temas, status, data da votação e link para anexo.",
+      "sourceId": "fonte-39f3da029d318a85",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T03:17:26.846Z",
+      "lastModifiedAt": "2026-10-25T03:17:26.846Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Registra objeções e questões jurídicas examinadas pelo IAB; não se transforma parecer associativo em decisão judicial nem em rejeição formal pelo Senado.",
+      "actor": "Leila Pose Sanches, indicante; Paulo de Bessa Antunes, relator do parecer da Comissão de Direito Ambiental",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Indicação IAB 089/2021; PLP 157/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "costa-verde-ambiente-20261025-30",
+          "inputId": "costa-verde-ambiente-20261025-30-02",
+          "toolReference": "turn145631view0"
+        }
+      ],
+      "accessMethod": "Leitura direta de página pública por web.run durante 24/10/2026 (America/Campo_Grande); localizadores são linhas da extração, não timestamps de áudio.",
       "newToArchive": true
     },
     {
@@ -31380,6 +31782,73 @@
         }
       ],
       "accessMethod": "HTML público consultado diretamente via navegador web em 24/10/2026; sem reprodução de áudio/vídeo e sem análise de PDFs vinculados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-e2613d0bd6668938",
+      "title": "Senado: PL 6479/2019 de Flávio sobre Costa Verde permanece com relatoria, sem rejeição final",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/140268",
+      "publisher": "Senado Federal, atividade legislativa",
+      "date": "2019-12-17",
+      "eventDate": "2019-12-17",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "Costa Verde",
+        "meio ambiente",
+        "projetos legislativos"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha legislativa do PL 6479/2019 identifica Flávio Bolsonaro como autor da proposta de instituir a Costa Verde como Área Especial de Interesse Turístico. Registra relatório de Eliziane Gama pela rejeição em 08/02/2022, mas o último estado informado é 'matéria com a relatoria', em 14/03/2023, e a proposta consta como em tramitação. Parecer pela rejeição não equivale a deliberação de rejeição.",
+      "limitations": "Consultado o histórico e os metadados oficiais em HTML. O PDF do texto inicial e do parecer da relatora não foram lidos integralmente; não se afirma exame do seu conteúdo além das descrições oficiais.",
+      "locator": "Ficha oficial, ementa e situação linhas 20-39; identificação do Relatório Legislativo linhas 89-101; eventos de tramitação na mesma ficha.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T03:17:26.846Z",
+      "lastModifiedAt": "2026-10-25T03:17:26.846Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Autoria formal e objetivo turístico declarados na ementa institucional; contraponto da relatora identificado como proposta de rejeição, não decisão final.",
+      "actor": "Flávio Bolsonaro, autor da proposição; Eliziane Gama, relatora de parecer",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 6479/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "costa-verde-ambiente-20261025-30",
+          "inputId": "costa-verde-ambiente-20261025-30-01",
+          "toolReference": "turn503018view4"
+        }
+      ],
+      "accessMethod": "Leitura direta de página pública por web.run durante 24/10/2026 (America/Campo_Grande); localizadores são linhas da extração, não timestamps de áudio.",
       "newToArchive": true
     },
     {
@@ -36753,6 +37222,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-c85fc0930f8c842a",
+      "title": "Ascema: carta pública sobre programa ambiental de Flávio, documento original parcialmente conferido",
+      "url": "https://ascemanacional.org.br/wp-content/uploads/2026/10/CARTA-ABERTA-AOS-SERVIDORES-E-SERVIDORAS-DA-CARREIRA-AMBIENTAL.pdf",
+      "publisher": "Ascema Nacional, carta aberta",
+      "date": null,
+      "eventDate": null,
+      "year": null,
+      "datePrecision": "unknown",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "Costa Verde",
+        "meio ambiente",
+        "projetos legislativos"
+      ],
+      "stage": "acessado",
+      "summary": "Carta aberta dirigida a servidores ambientais, divulgada publicamente em outubro de 2026, discute propostas atribuídas ao programa de governo de Flávio e expressa preocupações sobre fiscalização, licenciamento, órgãos ambientais e carreiras. A carta é fonte primária da posição pública da associação; não é verificação independente de seus dados ou das intenções do candidato.",
+      "limitations": "Visualização efetiva somente da página 1/5, além de extração textual do documento pelo serviço web. Tentativas de obter capturas das páginas 3 e 4 falharam por timeout; não declarar leitura visual integral. Programa registrado no TSE e estatísticas históricas citadas pela carta não foram confrontados integralmente. Sem novo veredito.",
+      "locator": "PDF de cinco páginas: primeira página exibida e inspecionada visualmente, com título e autoria; texto extraído pelo visualizador em páginas 0 a 4, inclusive referências ao programa nas páginas 2 e 3. Numeração de páginas é do PDF, não minutagem.",
+      "sourceId": "fonte-f91c6aaacd5c1cad",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T03:17:26.846Z",
+      "lastModifiedAt": "2026-10-25T03:17:26.846Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Contém preocupações e críticas da Ascema a proposições atribuídas ao candidato. As justificativas de desenvolvimento e propriedade do próprio Flávio constam de fontes públicas separadas.",
+      "actor": "Ascema Nacional, posicionamento público associativo",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "costa-verde-ambiente-20261025-30",
+          "inputId": "costa-verde-ambiente-20261025-30-07",
+          "toolReference": "turn417340view0"
+        }
+      ],
+      "accessMethod": "Abertura de PDF público via web.run em 24/10/2026, extração textual das cinco páginas e captura visual confirmada apenas da página 1; falhas de timeout em capturas adicionais, sem alegação de leitura integral.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-c779caacb6ab6178",
       "title": "TSE pede informações complementares antes de analisar ação de Flávio Bolsonaro contra Lula e Alckmin",
       "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-pede-informacoes-complementares-antes-de-analisar-acao-de-flavio-bolsonaro-contra-lula-e-alckmin",
@@ -38580,6 +39116,53 @@
   ],
   "sources": [
     {
+      "id": "fonte-f963e021c7cefa6f",
+      "name": "((o))eco, Duda Menegassi",
+      "url": "https://oeco.org.br/",
+      "responsible": "((o))eco, Duda Menegassi",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T03:17:26.846Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 3,
+      "periods": [
+        2021,
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 3,
+      "analysedCount": 3
+    },
+    {
+      "id": "fonte-4114d6bfe97e1092",
+      "name": "((o))eco, redação",
+      "url": "https://oeco.org.br/",
+      "responsible": "((o))eco, redação",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T03:17:26.846Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-508d60279dcebcef",
       "name": "ADPETO, Associação dos Defensores Públicos do Tocantins",
       "url": "https://adpeto.org.br/",
@@ -38751,6 +39334,50 @@
       "monitoringEnabled": true,
       "accessedCount": 28,
       "analysedCount": 28
+    },
+    {
+      "id": "fonte-bac855b934c3b568",
+      "name": "Ascema Nacional, associação de servidores ambientais",
+      "url": "https://ascemanacional.org.br/",
+      "responsible": "Ascema Nacional, associação de servidores ambientais",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T03:17:26.846Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2021
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-f91c6aaacd5c1cad",
+      "name": "Ascema Nacional, carta aberta",
+      "url": "https://ascemanacional.org.br/",
+      "responsible": "Ascema Nacional, carta aberta",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T03:17:26.846Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 0
     },
     {
       "id": "fonte-e979cfd37b58c2c5",
@@ -39178,6 +39805,29 @@
       "analysedCount": 2
     },
     {
+      "id": "fonte-39f3da029d318a85",
+      "name": "Instituto dos Advogados Brasileiros (IAB)",
+      "url": "https://arquivo.iabnacional.org.br/",
+      "responsible": "Instituto dos Advogados Brasileiros (IAB)",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T03:17:26.846Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2021
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 0
+    },
+    {
       "id": "fonte-2837db98d9bb5569",
       "name": "Inteligência Ltda.",
       "url": "https://podcasts.apple.com/",
@@ -39602,10 +40252,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z",
-      "lastConsultedAt": "2026-10-25T02:57:08Z",
+      "lastConsultedAt": "2026-10-25T03:17:26.846Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 240,
+      "sourceCount": 241,
       "periods": [
         2018,
         2019,
@@ -39626,8 +40276,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 239,
-      "analysedCount": 223
+      "accessedCount": 240,
+      "analysedCount": 224
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -41330,6 +41980,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-501c2a83545ea0b9",
+      "itemId": "pesquisa-b91b1686302494a5",
+      "title": "((o))eco 2026: retrospecto jornalístico de propostas ambientais atribuídas a Flávio Bolsonaro",
+      "date": "2026-10-21",
+      "datePrecision": "day",
+      "context": "Retrospectiva de 21/10/2026 reúne propostas ambientais relacionadas a Flávio, inclusive o PL 2362/2019 de reserva legal e iniciativas sobre unidades de conservação da Costa Verde. A matéria é índice jornalístico de linhas de investigação; seu enquadramento e suas inferências são atribuídos ao veículo. Dados e andamento de cada proposição dependem de confrontação com o Senado, sem novo veredito.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-11be054b8ed986f4",
       "itemId": "pesquisa-e29369853006b17d",
       "title": "Fechamento de empresas: uma tese, várias ocorrências",
@@ -41363,6 +42022,15 @@
       "date": "2026-10",
       "datePrecision": "day",
       "context": "Lupa relata que reportagem da CNN sobre apreensões eleitorais não citou Flávio; o próprio veículo publicou esclarecimento em 07/10, segundo a checagem. É diferente do caso envolvendo candidato Daniel Trindade.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-cbe3ea6b875d7ad7",
+      "itemId": "pesquisa-c2c224539983b41d",
+      "title": "((o))eco 19/10/2026: reportagem atribui a Flávio promessa sobre entraves ambientais em Marabá",
+      "date": "2026-10-19",
+      "datePrecision": "day",
+      "context": "Notícia de 19/10/2026 informa que, em ato de campanha em Marabá (PA), Flávio defendeu regularização fundiária e disse que removeria entraves ambientais em eventual governo. A descrição é atribuição jornalística, sem transcrição audiovisual conferida pelo Arquivo; promessa política não é, por si, alegação factual falsa.",
       "state": "data informada pela fonte"
     },
     {
@@ -42074,6 +42742,15 @@
       "date": "2026-10-15",
       "datePrecision": "day",
       "context": "A reportagem institucional informa que a PEC foi retirada da pauta do Senado em 15/10/2026. Descreve a Emenda 84, de Marinho, como redução para 16 anos em regra e 14 em certos crimes; e a Emenda 87, de Camilo Santana, como manutenção de 18 anos em regra e 16 nos crimes hediondos. Nenhuma proposta foi tratada como norma aprovada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-b1bcdb0bf85e364d",
+      "itemId": "pesquisa-531c9756a2517916",
+      "title": "((o))eco 15/10/2026: reportagem contextualiza carta pública da Ascema sobre política ambiental",
+      "date": "2026-10-15",
+      "datePrecision": "day",
+      "context": "Notícia de 15/10/2026 resume carta da Ascema aos servidores ambientais sobre pontos do plano de governo atribuído a Flávio e riscos avaliados pela entidade para órgãos, licenciamento e carreiras. É cobertura da manifestação da associação, sem equivaler a confirmação independente de suas previsões.",
       "state": "data informada pela fonte"
     },
     {
@@ -44345,6 +45022,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-1139df920f7cfee2",
+      "itemId": "pesquisa-a7e64d1dc9517234",
+      "title": "((o))eco 2021: reportagem documenta controvérsia sobre municipalização na Costa Verde",
+      "date": "2021-11-18",
+      "datePrecision": "day",
+      "context": "Reportagem de 18/11/2021 descreve o PLP 157/2021, as hipóteses de municipalização de unidades de conservação e os possíveis efeitos para a Estação Ecológica de Tamoios. O veículo apresenta estimativas e interpretações de impacto, que permanecem atribuídas a ele. Os objetivos turísticos do projeto foram apresentados pela Agência Senado em material anterior já catalogado.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-76659f0fbe05dc91",
       "itemId": "pesquisa-345c33c2a85571ff",
       "title": "Dubai: magistrado fotografado não julgava o caso criminal",
@@ -44352,6 +45038,24 @@
       "datePrecision": "unknown",
       "context": "Aos Fatos identifica atuação cível do magistrado e outros relatores do processo criminal. A fonte inclui resposta de Buhatem e nota sobre viagem de férias.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-7fa52688bb025921",
+      "itemId": "pesquisa-4e10c7593a306b86",
+      "title": "Ascema Nacional: nota de 2021 critica municipalização proposta no PLP 157/2021",
+      "date": "2021-11-16",
+      "datePrecision": "day",
+      "context": "Nota publicada pela Ascema em 16/11/2021 se opõe ao PLP 157/2021, por entender que municipalização de unidades de conservação e alteração da proteção da Estação Ecológica de Tamoios trariam riscos ao sistema ambiental. Essa é a avaliação da associação, não uma conclusão independente do Arquivo. A justificativa turística do autor deve ser lida junto ao projeto e à notícia já catalogada da Agência Senado.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-211262588627db72",
+      "itemId": "pesquisa-9a6adeb199229eb2",
+      "title": "IAB: parecer 089/2021 examina PLP 157/2021 e registra aprovação institucional em 10/11/2021",
+      "date": "2021-11-10",
+      "datePrecision": "day",
+      "context": "A página institucional identifica parecer sobre o PLP 157/2021 de Flávio, relacionado a competências administrativas, pacto federativo, unidades de conservação e direitos de comunidades tradicionais. Registra status aprovado na 61ª sessão ordinária de 10/11/2021. A aprovação é de parecer do IAB, não deliberação legislativa ou julgamento judicial.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-ee4ed51a1abf207b",
@@ -44693,6 +45397,15 @@
       "date": "2020-02-19",
       "datePrecision": "day",
       "context": "Registro de apresentação de pedido de cassação por parlamentares de três partidos em fevereiro de 2020 e da previsão de análise preliminar com ampla defesa. A assessoria de Flávio informou ao Senado que ele já havia contestado o pedido em redes sociais.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-d6ebf7848ce945c6",
+      "itemId": "pesquisa-e2613d0bd6668938",
+      "title": "Senado: PL 6479/2019 de Flávio sobre Costa Verde permanece com relatoria, sem rejeição final",
+      "date": "2019-12-17",
+      "datePrecision": "day",
+      "context": "A ficha legislativa do PL 6479/2019 identifica Flávio Bolsonaro como autor da proposta de instituir a Costa Verde como Área Especial de Interesse Turístico. Registra relatório de Eliziane Gama pela rejeição em 08/02/2022, mas o último estado informado é 'matéria com a relatoria', em 14/03/2023, e a proposta consta como em tramitação. Parecer pela rejeição não equivale a deliberação de rejeição.",
       "state": "data informada pela fonte"
     },
     {
@@ -45431,6 +46144,15 @@
       "date": null,
       "datePrecision": "unknown",
       "context": "Registro institucional do TSE: Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República. O estágio processual é preservado sem converter pedido, investigação, liminar ou decisão em culpa ou veredito próprio.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-6ce62e7b4e1c48dd",
+      "itemId": "pesquisa-c85fc0930f8c842a",
+      "title": "Ascema: carta pública sobre programa ambiental de Flávio, documento original parcialmente conferido",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Carta aberta dirigida a servidores ambientais, divulgada publicamente em outubro de 2026, discute propostas atribuídas ao programa de governo de Flávio e expressa preocupações sobre fiscalização, licenciamento, órgãos ambientais e carreiras. A carta é fonte primária da posição pública da associação; não é verificação independente de seus dados ou das intenções do candidato.",
       "state": "identificação de evento pendente"
     },
     {
@@ -47707,6 +48429,17 @@
       "classification": null
     },
     {
+      "id": "proposicao-candidata-cbe3ea6b875d7ad7",
+      "mainId": null,
+      "itemId": "pesquisa-c2c224539983b41d",
+      "question": "Qual é a íntegra da fala de 19/10/2026 em Marabá, e quais medidas específicas o candidato propôs para os chamados entraves ambientais?",
+      "normalizedClaim": null,
+      "literalQuote": null,
+      "author": "Flávio Bolsonaro, fala atribuída pela reportagem; Duda Menegassi, jornalista",
+      "state": "delimitação pendente",
+      "classification": null
+    },
+    {
       "id": "proposicao-candidata-89d247b81b74192f",
       "mainId": null,
       "itemId": "pesquisa-f7512fc7c1d68fc1",
@@ -49844,6 +50577,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-501c2a83545ea0b9",
+      "itemId": "pesquisa-b91b1686302494a5",
+      "sourceId": "fonte-f963e021c7cefa6f",
+      "url": "https://oeco.org.br/reportagens/fim-da-reserva-legal-e-extincao-de-ucs-o-historico-de-flavio-bolsonaro-na-area-ambiental/",
+      "locator": "Reportagem de 21/10/2026, cabeçalho linhas 21-44; seção Reserva Legal linhas 85-91; seção Costa Verde e Tamoios no corpo da matéria.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-11be054b8ed986f4",
       "itemId": "pesquisa-e29369853006b17d",
       "sourceId": "fonte-9c2fbd587c9a9fb0",
@@ -49882,6 +50626,17 @@
       "sourceId": "fonte-58d9376cef7ffa17",
       "url": "https://www.agencialupa.org/verificacao/2026/10/19/reportagem-da-cnn-brasil-sobre-compra-de-votos-nao-cita-flavio-bolsonaro/",
       "locator": "Lupa, linhas 34-54, referências à CNN em 03/10 e 07/10/2026.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-cbe3ea6b875d7ad7",
+      "itemId": "pesquisa-c2c224539983b41d",
+      "sourceId": "fonte-f963e021c7cefa6f",
+      "url": "https://oeco.org.br/noticias/em-ato-no-para-flavio-bolsonaro-promete-que-vai-acabar-com-entraves-ambientais/",
+      "locator": "Reportagem de 19/10/2026, identificação e contextualização da fala nas linhas 22-48.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -50751,6 +51506,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2026/10/15/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-desta-quinta-feira",
       "locator": "Artigo de 15/10/2026, seção principal e subtítulo Emendas, linhas 19–43 da leitura HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-b1bcdb0bf85e364d",
+      "itemId": "pesquisa-531c9756a2517916",
+      "sourceId": "fonte-4114d6bfe97e1092",
+      "url": "https://oeco.org.br/salada-verde/ascema-alerta-para-impactos-de-propostas-de-flavio-bolsonaro-sobre-orgaos-ambientais/",
+      "locator": "Matéria de 15/10/2026, título, data e contexto linhas 22-50, resumo de propostas e link ao PDF original linhas 91-103.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -53529,11 +54295,44 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-1139df920f7cfee2",
+      "itemId": "pesquisa-a7e64d1dc9517234",
+      "sourceId": "fonte-f963e021c7cefa6f",
+      "url": "https://oeco.org.br/noticias/flavio-bolsonaro-propoe-municipalizar-ucs-no-litoral-do-rio-de-janeiro/",
+      "locator": "Reportagem de Duda Menegassi, cabeçalho linhas 22-28 e descrição da proposta linhas 49-51 e 90-93.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-76659f0fbe05dc91",
       "itemId": "pesquisa-345c33c2a85571ff",
       "sourceId": "fonte-9c2fbd587c9a9fb0",
       "url": "https://www.aosfatos.org/noticias/desembargador-do-caso-de-rachadinha-de-flavio-bolsonaro-nao-estava-na-comitiva-presidencial-em-dubai/",
       "locator": "Linhas 14-32 da extração web; localizar seções correspondentes na página",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-7fa52688bb025921",
+      "itemId": "pesquisa-4e10c7593a306b86",
+      "sourceId": "fonte-bac855b934c3b568",
+      "url": "https://ascemanacional.org.br/2021/11/16/projeto-de-lei-complementar-de-flavio-bolsonaro-ameaca-o-sistema-nacional-de-unidades-de-conservacao-e-inviabiliza-a-estacao-ecologica-de-tamoios/",
+      "locator": "Página da Ascema de 16/11/2021, título e texto principal linhas 7-21, com argumentos sobre UCs e Tamoios.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-211262588627db72",
+      "itemId": "pesquisa-9a6adeb199229eb2",
+      "sourceId": "fonte-39f3da029d318a85",
+      "url": "https://arquivo.iabnacional.org.br/pareceres/pareceres-votados/parecer-na-indicacao-n-089-2021-2",
+      "locator": "Página IAB 'Parecer na Indicação nº 089/2021', linhas 11-24, com relator, temas, status, data da votação e link para anexo.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -53952,6 +54751,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2020/02/19/parlamentares-de-tres-partidos-pedem-cassacao-do-mandato-de-flavio-bolsonaro",
       "locator": "Senado Notícias, linhas 19-35, referência à PCE 1/2020.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-d6ebf7848ce945c6",
+      "itemId": "pesquisa-e2613d0bd6668938",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/140268",
+      "locator": "Ficha oficial, ementa e situação linhas 20-39; identificação do Relatório Legislativo linhas 89-101; eventos de tramitação na mesma ficha.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -54860,6 +55670,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-6ce62e7b4e1c48dd",
+      "itemId": "pesquisa-c85fc0930f8c842a",
+      "sourceId": "fonte-f91c6aaacd5c1cad",
+      "url": "https://ascemanacional.org.br/wp-content/uploads/2026/10/CARTA-ABERTA-AOS-SERVIDORES-E-SERVIDORAS-DA-CARREIRA-AMBIENTAL.pdf",
+      "locator": "PDF de cinco páginas: primeira página exibida e inspecionada visualmente, com título e autoria; texto extraído pelo visualizador em páginas 0 a 4, inclusive referências ao programa nas páginas 2 e 3. Numeração de páginas é do PDF, não minutagem.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-2d148f72543b010b",
       "itemId": "pesquisa-c779caacb6ab6178",
       "sourceId": "fonte-d17e0097bbcd6c10",
@@ -55588,19 +56409,20 @@
     },
     {
       "year": 2019,
-      "found": 40,
-      "accessed": 40,
-      "analysed": 38,
+      "found": 41,
+      "accessed": 41,
+      "analysed": 39,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 38,
+        "analisado": 39,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
+        "Flávio Bolsonaro": 1,
         "atividade parlamentar": 1,
         "Sérgio Moro": 1,
         "previdencia": 3,
@@ -55627,8 +56449,8 @@
         "PL 1482/2019": 1
       },
       "sources": {
+        "fonte-2acd9e7dc92e583a": 27,
         "fonte-e979cfd37b58c2c5": 1,
-        "fonte-2acd9e7dc92e583a": 26,
         "fonte-3ed65b2f1d041330": 1,
         "fonte-d7238973977790d8": 1,
         "fonte-9c2fbd587c9a9fb0": 9,
@@ -55636,8 +56458,8 @@
         "fonte-922199d958d5da40": 1
       },
       "formats": {
+        "documento": 19,
         "reportagem": 7,
-        "documento": 18,
         "registro": 3,
         "checagem": 10,
         "video": 1,
@@ -55682,15 +56504,15 @@
     },
     {
       "year": 2021,
-      "found": 32,
-      "accessed": 32,
-      "analysed": 28,
+      "found": 35,
+      "accessed": 35,
+      "analysed": 30,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
-        "acessado": 4,
-        "analisado": 28,
+        "acessado": 5,
+        "analisado": 30,
         "revisado": 0,
         "publicado": 0
       },
@@ -55698,6 +56520,7 @@
         "precatórios": 1,
         "justica": 1,
         "cultura": 1,
+        "Flávio Bolsonaro": 3,
         "Justiça": 1,
         "assistencia-social": 1,
         "CPI da Pandemia": 12,
@@ -55719,14 +56542,17 @@
       "sources": {
         "fonte-2acd9e7dc92e583a": 29,
         "fonte-3ed65b2f1d041330": 1,
+        "fonte-f963e021c7cefa6f": 1,
         "fonte-9c2fbd587c9a9fb0": 1,
+        "fonte-bac855b934c3b568": 1,
+        "fonte-39f3da029d318a85": 1,
         "fonte-4fd0eba6b669e169": 1
       },
       "formats": {
-        "documento": 8,
+        "documento": 10,
         "registro": 5,
+        "reportagem": 15,
         "checagem": 1,
-        "reportagem": 14,
         "video": 4
       },
       "note": "Recorte não exaustivo."
@@ -55942,22 +56768,22 @@
     },
     {
       "year": 2026,
-      "found": 281,
-      "accessed": 281,
-      "analysed": 275,
+      "found": 284,
+      "accessed": 284,
+      "analysed": 278,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 6,
-        "analisado": 275,
+        "analisado": 278,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "debate da Globo": 91,
         "checagens": 1,
-        "Flávio Bolsonaro": 10,
+        "Flávio Bolsonaro": 13,
         "licença-maternidade": 1,
         "assistência social": 1,
         "eleições": 6,
@@ -56030,9 +56856,11 @@
         "fonte-cbedaeeb02ac6aaf": 2,
         "fonte-c50d938768fd1c00": 1,
         "fonte-f1199c02c1d5a933": 1,
+        "fonte-f963e021c7cefa6f": 2,
         "fonte-9c2fbd587c9a9fb0": 6,
         "fonte-2acd9e7dc92e583a": 35,
         "fonte-b1a6d0a350c2f59a": 1,
+        "fonte-4114d6bfe97e1092": 1,
         "fonte-0a4536d177e98be8": 2,
         "fonte-d17e0097bbcd6c10": 1,
         "fonte-63c50c68422ef210": 1,
@@ -56052,7 +56880,7 @@
       "formats": {
         "video": 7,
         "checagem": 206,
-        "reportagem": 32,
+        "reportagem": 35,
         "registro": 3,
         "audio": 3,
         "documento": 30
@@ -56061,29 +56889,29 @@
     }
   ],
   "metrics": {
-    "newItems": 567,
-    "items": 585,
+    "newItems": 575,
+    "items": 593,
     "alreadyInArchive": 18,
-    "accessed": 582,
-    "analysed": 554,
+    "accessed": 590,
+    "analysed": 560,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
     "legacyStatements": 71,
-    "statementCandidates": 186,
+    "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 53,
-    "sourcesConsulted": 48,
+    "sources": 58,
+    "sourcesConsulted": 53,
     "video": 18,
     "audio": 6,
-    "documents": 215,
+    "documents": 219,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 179,
-    "accessFailures": 39,
-    "undatedItems": 37
+    "queryCount": 186,
+    "accessFailures": 42,
+    "undatedItems": 38
   },
   "queries": [
     {
@@ -56616,6 +57444,69 @@
       "engine": "web fast e tentativas de abertura direta",
       "interval": "2003-2014",
       "resultsState": "Resultados de busca localizados, mas aberturas das páginas antigas retornaram HTTP 502. Excluídos dos registros como material lido."
+    },
+    {
+      "id": "consulta-1ce6ce6dfd02b2fa",
+      "batch": "costa-verde-ambiente-20261025-30",
+      "query": "site:senado.leg.br \"PLP 157/2021\" \"Flávio Bolsonaro\" \"Comissão de Meio Ambiente\" 2025",
+      "executedAt": "2026-10-25T03:17:26.846Z",
+      "engine": "web.run fast e abertura Senado",
+      "interval": "2021-2026",
+      "resultsState": "Página oficial já catalogada confirma relatório recebido pela rejeição em 04/04/2025, ainda pronto para pauta. URL não recadastrada."
+    },
+    {
+      "id": "consulta-4f34fb44353b29dc",
+      "batch": "costa-verde-ambiente-20261025-30",
+      "query": "\"PLP 157/2021\" \"Instituto dos Advogados\" parecer 2021",
+      "executedAt": "2026-10-25T03:17:26.846Z",
+      "engine": "web.run fast, página institucional IAB",
+      "interval": "2021",
+      "resultsState": "Ficha de parecer 089/2021 com voto em 10/11/2021, mas sem leitura do PDF anexo."
+    },
+    {
+      "id": "consulta-9452acd04a273e64",
+      "batch": "costa-verde-ambiente-20261025-30",
+      "query": "PLP 157/2021 Costa Verde Ascema Nacional unidades conservação Tamoios",
+      "executedAt": "2026-10-25T03:17:26.846Z",
+      "engine": "web.run fast/open em Ascema e ((o))eco",
+      "interval": "2021",
+      "resultsState": "Nota de associação de servidores e reportagem de 18/11/2021 consultadas, distinguindo crítica institucional de justificativa turística."
+    },
+    {
+      "id": "consulta-4d0f245b2964fe33",
+      "batch": "costa-verde-ambiente-20261025-30",
+      "query": "site:senado.leg.br \"PL 6479/2019\" \"Eliziane Gama\" situação",
+      "executedAt": "2026-10-25T03:17:26.846Z",
+      "engine": "web.run fast/open Senado",
+      "interval": "2019-2026",
+      "resultsState": "A ficha oficial registra relatório pela rejeição em 2022, matéria com a relatoria em 2023 e ainda em tramitação. Não há rejeição legislativa final demonstrada."
+    },
+    {
+      "id": "consulta-a08d49bcdeeb1ec3",
+      "batch": "costa-verde-ambiente-20261025-30",
+      "query": "Flávio Bolsonaro 19 outubro 2026 Marabá entraves ambientais reportagem discurso",
+      "executedAt": "2026-10-25T03:17:26.846Z",
+      "engine": "web.run fast, abertura de notícia original",
+      "interval": "2026-10-19",
+      "resultsState": "Atribuição jornalística de promessa de campanha registrada. Vídeo integral não localizado nem ouvido."
+    },
+    {
+      "id": "consulta-35fd3b96119fe35a",
+      "batch": "costa-verde-ambiente-20261025-30",
+      "query": "Ascema 2026 carta pública proposta ambiental Flávio Bolsonaro texto",
+      "executedAt": "2026-10-25T03:17:26.846Z",
+      "engine": "web.run open/click/screenshot PDF original",
+      "interval": "2026-10",
+      "resultsState": "Carta de cinco páginas localizada, conteúdo textual visível; captura visual confirmada só da primeira página, posteriores com timeout."
+    },
+    {
+      "id": "consulta-6cf089704f77a0a8",
+      "batch": "costa-verde-ambiente-20261025-30",
+      "query": "Deduplicação: URLs de Costa Verde e fontes ambientais confrontadas com content/research.json main",
+      "executedAt": "2026-10-25T03:17:26.846Z",
+      "engine": "GitHub conectado, leitura do JSON versionado e comparação exata",
+      "interval": "até o início deste lote",
+      "resultsState": "Oito URLs novas ausentes das 585 fichas do catálogo; duas URLs sobre PLP 157/2021 já existentes não repetidas."
     },
     {
       "id": "consulta-4837c6cf820facc0",
@@ -57815,6 +58706,24 @@
       "error": "Nenhum áudio ou vídeo reproduzido. PDFs do relatório da CPI, da PET 38/2026 e do DSF não examinados na íntegra; não criar transcrições, timestamps ou alegações sobre trechos não vistos."
     },
     {
+      "batch": "costa-verde-ambiente-20261025-30",
+      "source": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9928216&rendition_principal=S&ts=1743802486415",
+      "reason": "Página de verificação de segurança; parecer de Eliziane Gama ao PLP 157/2021 não foi lido integralmente.",
+      "checked_at_utc": "2026-10-25T03:17:26.846Z"
+    },
+    {
+      "batch": "costa-verde-ambiente-20261025-30",
+      "source": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9137403&ts=1743802486248",
+      "reason": "Página de verificação de segurança; outro documento anexado ao PLP 157/2021 sem inspeção de seu PDF.",
+      "checked_at_utc": "2026-10-25T03:17:26.846Z"
+    },
+    {
+      "batch": "costa-verde-ambiente-20261025-30",
+      "source": "https://ascemanacional.org.br/wp-content/uploads/2026/10/CARTA-ABERTA-AOS-SERVIDORES-E-SERVIDORAS-DA-CARREIRA-AMBIENTAL.pdf",
+      "reason": "Visualização textual e captura da primeira página disponíveis, mas capturas solicitadas para páginas posteriores falharam por timeout; limitação registrada na ficha 07.",
+      "checked_at_utc": "2026-10-25T03:17:26.846Z"
+    },
+    {
       "batch": "csp-2026-relatorias-20261024-26",
       "source": "Relatórios, substitutivos e emendas em PDF de PL 2343/2025, PL 3272/2024, PL 3341/2025 e PL 2734/2021",
       "status": "Integra não consultada nesta execução",
@@ -58350,6 +59259,42 @@
       "note": "topic: Publicação e testes; note: Executar build_research.py no workflow do repositório; confirmar que os 11 registros passam por normalização sem perda, testes e leitura do JSON persistido. Preservar dados recentes do coletor e não mudar approvedReviewerIds.",
       "state": "pendente",
       "batch": "contexto-provas-20261024-06"
+    },
+    {
+      "id": "lacuna-eba6856e48ac9d73",
+      "note": "PLP 157/2021: conferir o inteiro teor do relatório da CMA assinado por Eliziane Gama quando a proteção de acesso ao PDF permitir. Parecer pela rejeição não é rejeição definitiva.",
+      "state": "pendente",
+      "batch": "costa-verde-ambiente-20261025-30"
+    },
+    {
+      "id": "lacuna-d4ced17154031fea",
+      "note": "PL 6479/2019: conferir o projeto inicial e parecer de 08/02/2022 em PDF original antes de qualquer comparação jurídica ou cálculo de redução de área protegida.",
+      "state": "pendente",
+      "batch": "costa-verde-ambiente-20261025-30"
+    },
+    {
+      "id": "lacuna-66261196423a037d",
+      "note": "IAB 089/2021: abrir e ler o PDF integral do parecer; a ficha institucional confirma seu voto e temas, não toda a fundamentação.",
+      "state": "pendente",
+      "batch": "costa-verde-ambiente-20261025-30"
+    },
+    {
+      "id": "lacuna-c9491a075f440454",
+      "note": "Ascema 2026: confrontar números da carta diretamente com PRODES/INPE e os pontos citados com o plano de governo original do TSE, sem atribuir conclusões da entidade como próprias.",
+      "state": "pendente",
+      "batch": "costa-verde-ambiente-20261025-30"
+    },
+    {
+      "id": "lacuna-a9c95accf78615ec",
+      "note": "Ato de Marabá em 19/10/2026: localizar o vídeo integral e conferir locução/contexto, sem inventar segundos ou citação literal.",
+      "state": "pendente",
+      "batch": "costa-verde-ambiente-20261025-30"
+    },
+    {
+      "id": "lacuna-3e6c5e1e92b77f79",
+      "note": "Conferir atualização posterior de tramitação do PLP 157/2021 e do PL 6479/2019, se houver, diretamente no portal oficial.",
+      "state": "pendente",
+      "batch": "costa-verde-ambiente-20261025-30"
     },
     {
       "id": "lacuna-a0806887fae9d92f",
@@ -58988,6 +59933,12 @@
       "label": "Câmara, histórico de ALERJ, checagem externa e respostas públicas",
       "method": "Sete textos HTML efetivamente abertos e confrontados por URL com o catálogo; localizadores e ressalvas no próprio registro; coleta audiovisual zero.",
       "collected_at_utc": "2026-10-24T18:58:29.750Z"
+    },
+    {
+      "id": "checkpoint-20261025-30",
+      "label": "Costa Verde: PLP 157/2021, PL 6479/2019, parecer IAB, posição Ascema e declarações públicas ambientais de 2026",
+      "collected_at_utc": "2026-10-25T03:17:26.846Z",
+      "method": "8 URLs únicas publicamente consultadas, PDFs do Senado bloqueados e carta da Ascema parcialmente inspecionada; zero áudio conferido, sem aprovação editorial automática."
     },
     {
       "id": "checkpoint-20261024-26",

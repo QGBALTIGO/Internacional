@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T02:59:31.241900Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T03:17:41.581899Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-585 URLs únicas no lote; 567 ainda não vinculadas à edição anterior. 582 materiais acessados e 554 com texto analisado.
+593 URLs únicas no lote; 575 ainda não vinculadas à edição anterior. 590 materiais acessados e 560 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -28,16 +28,16 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2016 | 2 | 2 | 2 | 0 | 0 |
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 6 | 6 | 4 | 0 | 0 |
-| 2019 | 40 | 40 | 38 | 0 | 0 |
+| 2019 | 41 | 41 | 39 | 0 | 0 |
 | 2020 | 10 | 10 | 9 | 0 | 0 |
-| 2021 | 32 | 32 | 28 | 0 | 0 |
+| 2021 | 35 | 35 | 30 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 32 | 32 | 31 | 0 | 0 |
 | 2025 | 68 | 68 | 65 | 0 | 0 |
-| 2026 | 281 | 281 | 275 | 0 | 0 |
+| 2026 | 284 | 284 | 278 | 0 | 0 |
 
-Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
+Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
 ## Próximo lote
 
@@ -102,6 +102,12 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - topic: CPI da Pandemia; note: Ler PDF integral do relatório aprovado e votos divergentes; checar andamento posterior junto às autoridades, mantendo pedidos de indiciamento distintos de decisões criminais.
 - topic: ALERJ; note: Repetir acesso oficial a fichas históricas apenas quando servidor responder; páginas indexadas com HTTP 502 não entram como documentos examinados.
 - topic: Publicação e testes; note: Executar build_research.py no workflow do repositório; confirmar que os 11 registros passam por normalização sem perda, testes e leitura do JSON persistido. Preservar dados recentes do coletor e não mudar approvedReviewerIds.
+- PLP 157/2021: conferir o inteiro teor do relatório da CMA assinado por Eliziane Gama quando a proteção de acesso ao PDF permitir. Parecer pela rejeição não é rejeição definitiva.
+- PL 6479/2019: conferir o projeto inicial e parecer de 08/02/2022 em PDF original antes de qualquer comparação jurídica ou cálculo de redução de área protegida.
+- IAB 089/2021: abrir e ler o PDF integral do parecer; a ficha institucional confirma seu voto e temas, não toda a fundamentação.
+- Ascema 2026: confrontar números da carta diretamente com PRODES/INPE e os pontos citados com o plano de governo original do TSE, sem atribuir conclusões da entidade como próprias.
+- Ato de Marabá em 19/10/2026: localizar o vídeo integral e conferir locução/contexto, sem inventar segundos ou citação literal.
+- Conferir atualização posterior de tramitação do PLP 157/2021 e do PL 6479/2019, se houver, diretamente no portal oficial.
 - Comparar texto integral das emendas e dos pareceres dos PL 2343/2025, 3272/2024, 3341/2025 e 2734/2021 com as intervenções em HTML antes de descrever cláusulas decisivas.
 - Buscar manifestação diretamente publicada pela ANADEP e contrapontos de instituições de prevenção à violência e especialistas, especialmente sobre porte de arma e medidas protetivas. O comunicado da ADPETO não autentica por si só a articulação nacional alegada.
 - Reabrir CCJ do PL 2343/2025, CDH do PL 3341/2025 e CSP do PL 3272/2024 para confirmar novos andamentos; parecer de comissão não é lei.
@@ -226,6 +232,9 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - batch: checagens; url: Vídeos YouTube vinculados por Intercept/AFP; web_ref: turn22view4 e turn22view6; error: Falha ao abrir; nenhuma revisão audiovisual alegada.
 - batch: contexto-provas-20261024-06; source: Arquivo ALERJ histórico; date: 2026-10-24; error: Tentativas diretas de abertura das fichas PL 2974/2014, PR 536/2011, Moção 2650/2003 e projetos correlatos retornaram HTTP 502 no navegador. Nenhuma ficha foi tratada como texto efetivamente acessado; há apenas metadados indexados.; urls: https://alerjln1.alerj.rj.gov.br/scpro1115.nsf/18c1dd68f96be3e7832566ec0018d833/45741a7e2ccdc50a83257c980062a2c2; https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/0c5bf5cde95601f903256caa0023131b/7c5e3718a895341783256dc9004b6f49
 - batch: contexto-provas-20261024-06; source: Conteúdo audiovisual e documentos integrais; date: 2026-10-24; error: Nenhum áudio ou vídeo reproduzido. PDFs do relatório da CPI, da PET 38/2026 e do DSF não examinados na íntegra; não criar transcrições, timestamps ou alegações sobre trechos não vistos.
+- batch: costa-verde-ambiente-20261025-30; source: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9928216&rendition_principal=S&ts=1743802486415; reason: Página de verificação de segurança; parecer de Eliziane Gama ao PLP 157/2021 não foi lido integralmente.; checked_at_utc: 2026-10-25T03:17:26.846Z
+- batch: costa-verde-ambiente-20261025-30; source: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9137403&ts=1743802486248; reason: Página de verificação de segurança; outro documento anexado ao PLP 157/2021 sem inspeção de seu PDF.; checked_at_utc: 2026-10-25T03:17:26.846Z
+- batch: costa-verde-ambiente-20261025-30; source: https://ascemanacional.org.br/wp-content/uploads/2026/10/CARTA-ABERTA-AOS-SERVIDORES-E-SERVIDORAS-DA-CARREIRA-AMBIENTAL.pdf; reason: Visualização textual e captura da primeira página disponíveis, mas capturas solicitadas para páginas posteriores falharam por timeout; limitação registrada na ficha 07.; checked_at_utc: 2026-10-25T03:17:26.846Z
 - batch: csp-2026-relatorias-20261024-26; source: Relatórios, substitutivos e emendas em PDF de PL 2343/2025, PL 3272/2024, PL 3341/2025 e PL 2734/2021; status: Integra não consultada nesta execução; note: Metadados e histórico em HTML conferidos. Não se declara falha de acesso ao PDF onde não houve tentativa direta de leitura, nem se afirma conhecer conteúdo integral.
 - batch: csp-2026-relatorias-20261024-26; source: Áudio da Rádio Senado e gravação audiovisual da 13ª CSP; status: Não reproduzidos; note: Zero segundos conferidos; horários exibidos na página não constituem timestamps de audição própria.
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/contlei.nsf/flaviobolsonaroint?ExpandView=&OpenForm=; ref: turn7view0; status: fetch_error; discovery: Índice de leis atribuído a Flávio, menção à Lei 4250/2003; conteúdo não acessado.
