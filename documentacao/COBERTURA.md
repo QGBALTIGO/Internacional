@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T13:01:35.514994Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T13:27:19.459923Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-697 URLs únicas no lote; 678 ainda não vinculadas à edição anterior. 694 materiais acessados e 662 com texto analisado.
+707 URLs únicas no lote; 688 ainda não vinculadas à edição anterior. 704 materiais acessados e 671 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-20 vídeos e 14 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+20 vídeos e 15 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -28,14 +28,14 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2016 | 2 | 2 | 2 | 0 | 0 |
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 6 | 6 | 4 | 0 | 0 |
-| 2019 | 43 | 43 | 41 | 0 | 0 |
+| 2019 | 44 | 44 | 42 | 0 | 0 |
 | 2020 | 22 | 22 | 21 | 0 | 0 |
 | 2021 | 36 | 36 | 31 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
-| 2023 | 29 | 29 | 27 | 0 | 0 |
+| 2023 | 31 | 31 | 29 | 0 | 0 |
 | 2024 | 52 | 52 | 51 | 0 | 0 |
 | 2025 | 94 | 94 | 90 | 0 | 0 |
-| 2026 | 316 | 316 | 309 | 0 | 0 |
+| 2026 | 323 | 323 | 315 | 0 | 0 |
 
 Materiais sem data: 39. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -134,6 +134,13 @@ Materiais sem data: 39. Ausência de registros em um ano significa lacuna deste 
 - Abrir as séries originais e documentação metodológica do SINASE/FBSP e estudos acadêmicos primários, distinguindo medidas, recortes temporais e inferências causais.
 - Conferir audiovisual público original das declarações de 18/06 e 14/10/2026 e de manifestações parlamentares se houver acesso permitido; até esta coleta 0 segundos revisados.
 - Qualquer comparação sensível entre posições de governo e oposição ou juízo empírico permanece pendente de revisão editorial humana identificada.
+- PL 1400/2026: abrir e cotejar PDF oficial do projeto, com redação integral, justificativa e eventuais emendas; espelho HTML é fonte secundária e não prova de acesso ao original.
+- PL 1400/2026: verificar tramitação posterior ao último andamento da ficha oficial já catalogada, sem afirmar aprovação, veto ou vigência.
+- PL 1400/2026: conferir em fonte estatística primária qualquer quantitativo de feminicídios da justificativa antes de lhe atribuir validação independente.
+- ADI 6138: obter acórdão e voto integral para análise jurídica além de notícia institucional; decisão tratou de hipótese delimitada da Lei 13.827, não da redação futura do PL 1400.
+- PL 167/2026 de Wilder Morais: cotejar parecer e emendas em PDF e tramitação posterior antes de comparar detalhadamente os projetos.
+- Resposta da Rede Liberdade tem autoria institucional, mas data exata de avaliação não foi verificada; qualquer conclusão sensível demanda revisão humana editorial identificada, mantendo editorialClassification nulo.
+- Nenhum áudio ou vídeo reproduzido (0 segundos); nenhuma citação literal, marcação temporal ou revisão editorial alegada.
 - Audiência do Senado em 07/10/2025 confirmada por ficha, requerimento e transcrição, resolvendo a dúvida de realização; falta revisar contra audiovisual a integralidade das falas.
 - PL 1473/2025: cotejar PDFs acessíveis do texto original, pareceres, versão relatada por Flávio, substitutivo, texto remetido à Câmara e eventuais notas técnicas; sem confundir projeto com lei.
 - Auditoria da audiência da Câmara de 09/12/2025: buscar ata e falas textuais dos convidados de diferentes posições; relatório de presença e fotos não equivalem a transcrição.
@@ -295,6 +302,10 @@ Materiais sem data: 39. Ausência de registros em um ano significa lacuna deste 
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/89b3addb48a95fe483256cef004aedf1/f6ff55775a5a7d8983256dc1005c4717?OpenDocument=; ref: turn7view2; status: fetch_error; discovery: Parecer 26/11/2003 de comissão presidida por Flávio; não lido.
 - batch: oficiais; url: https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/522484; ref: turn19view2; status: fetch_error; discovery: Explicação pessoal 21/05/2026, link encontrado sem acesso ao conteúdo.
 - batch: oficiais; url: https://digital.stf.jus.br/publico/publicacao/967643; ref: turn2view5; status: fetch_error; discovery: Inq 4995. Não atribuir ao Tribunal os requerimentos da parte. Sem leitura neste lote.
+- batch: pl1400-medidas-protetivas-lei-stf-rede-20261025-40; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10189309&ts=1780088521762; status: Página de verificação de segurança em tentativa de abrir PDF oficial; note: Não foi lida a íntegra PDF do PL 1400; texto acessado foi exclusivamente o espelho HTML de outro domínio.
+- batch: pl1400-medidas-protetivas-lei-stf-rede-20261025-40; url: https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-1400-2026; status: Erro 502 na abertura; note: Não cadastrado como material acessado; a ficha oficial do Senado anteriormente catalogada permaneceu como referência de tramitação.
+- batch: pl1400-medidas-protetivas-lei-stf-rede-20261025-40; url: https://www.cnj.jus.br/85-das-medidas-protetivas-sao-analisadas-em-ate-24-horas-menor-prazo-da-serie-historica/; status: Erro 403; note: Estatísticas de processamento de medidas não foram copiadas de resultados de busca nem tratadas como dados primários examinados.
+- batch: pl1400-medidas-protetivas-lei-stf-rede-20261025-40; url: https://www.gov.br/mulheres/pt-br/central-de-conteudos/noticias/2023/abril/lei-determina-protecao-imediata-a-mulheres-que-denunciam-violencia-domestica-e-familiar; status: Acesso negado à página institucional; note: Não catalogada; utilizado texto normativo HTML da Câmara em vez de atribuir leitura à página indisponível.
 - batch: pl1473-audiencias-20261024-24; source: PDFs dos relatórios e substitutivos da CCJ para o PL 1473/2025; status: Conteúdo não acessado nesta execução; note: As tentativas de abrir anexos retornaram verificação de segurança e não o PDF. O cotejo documental entre versões permanece pendente, sem alegar consulta à íntegra.
 - batch: pl1473-audiencias-20261024-24; source: Áudios e vídeos da audiência 07/10, sessão 22/10 e reportagem Rádio Senado; status: Não reproduzidos; note: Zero segundos efetivamente conferidos. Os horários e durações exibidos pelo portal não foram convertidos em timestamps audiovisuais próprios.
 - batch: pl1473-audiencias-20261024-24; source: Dossiê de 09/12 da Câmara com falas individuais e notas técnicas originais de entidades; status: Não lidos integralmente; note: A ficha oficial confirma a realização e a galeria identifica participantes, mas não traz o teor individual de todas as intervenções nem fundamenta estimativas independentes.

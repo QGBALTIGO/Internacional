@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T13:01:35.514994Z",
-    "inputHash": "69225850ef23153d292c7b14794d34cbf5235d63e1fa4f32f129b5f4f6568eae",
+    "generatedAt": "2026-10-25T13:27:19.459923Z",
+    "inputHash": "07bc08a52bbe73f09cc4c91067eb90a271c10afe6a1874e7c92f69f92656105c",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -13242,6 +13242,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-e40f11d9a14b2d5e",
+      "title": "Ficha oficial distingue o PL 167/2026 de Wilder Morais da iniciativa de Flávio Bolsonaro",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172488",
+      "publisher": "Senado Federal, Atividade Legislativa",
+      "date": "2026-09-25",
+      "eventDate": "2026-09-25",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 167/2026",
+      "topics": [
+        "PL 167/2026",
+        "Wilder Morais",
+        "tramitação legislativa",
+        "iniciativas conexas"
+      ],
+      "stage": "analisado",
+      "summary": "Registro legislativo identifica Wilder Morais como autor de outra proposta relacionada a medidas protetivas policiais, apresentada em fevereiro de 2026, e a relatoria de Alessandro Vieira. Em setembro de 2026 constava relatório favorável com emendas na Comissão de Direitos Humanos, aguardando pauta. Não é o PL 1400/2026 e não consta como lei convertida nessa ficha.",
+      "limitations": "Situação datada do último andamento visível (25/09/2026), não garantia de inexistência de atividade posterior; PDFs dos pareceres e emendas não foram examinados. Não atribuir autoria ou relatoria de terceiros a Flávio.",
+      "locator": "Senado, ficha PL 167/2026, identificação e ementa linhas 20-55; documentos e andamento linhas 104-117 e 160-168.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:27:06.260Z",
+      "lastModifiedAt": "2026-10-25T13:27:06.260Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Wilder Morais (autor); Alessandro Vieira (relator)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 167/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+          "inputId": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40-05",
+          "toolReference": "turn115842view3"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto pertinente lido em 25/10/2026; collected_at marca fechamento do checkpoint e não o horário individual de acesso; PDFs vinculados e mídias não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-695ed4e068e9e32e",
       "title": "Lupa examina alegação viral de pedido de impeachment contra Flávio Dino",
       "url": "https://www.agencialupa.org/noticias/2026/09/24/flavio-bolsonaro-nao-protocolou-pedido-de-impeachment-de-dino/",
@@ -15806,6 +15873,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-e0896e93ce156533",
+      "title": "Rádio Senado contextualiza outros projetos de proteção às mulheres em agosto de 2026",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/08/propostas-para-ampliar-protecao-a-mulheres-tramitam-no-senado",
+      "publisher": "Rádio Senado, metadados e texto de apresentação",
+      "date": "2026-08-24",
+      "eventDate": "2026-08-24",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "Rádio Senado",
+      "topics": [
+        "Rádio Senado",
+        "PL 167/2026",
+        "contexto legislativo",
+        "audiovisual não reproduzido"
+      ],
+      "stage": "acessado",
+      "summary": "Página pública identifica e contextualiza outras propostas em tramitação de proteção a mulheres, entre elas PL 167/2026, sem registrar participação de Flávio nelas. Apenas o texto descritivo e os metadados foram consultados; áudio não foi reproduzido.",
+      "limitations": "Zero segundos de áudio ouvidos, nenhuma transcrição auditiva, duração ou timestamp do player aferidos. O texto de apresentação não autoriza imputar falas da gravação a pessoas citadas nem confundir projetos.",
+      "locator": "Rádio Senado, publicação de 24/08/2026, linhas 19-25 (cabeçalho e descrição).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:27:06.260Z",
+      "lastModifiedAt": "2026-10-25T13:27:06.260Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Marcella Cunha (reportagem institucional)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 167/2026 e outras iniciativas correlatas",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+          "inputId": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40-10",
+          "toolReference": "turn598067view6"
+        }
+      ],
+      "accessMethod": "Texto de apresentação e metadados abertos em 25/10/2026; áudio não reproduzido (0 segundos), sem timestamps ou transcrição verificada. collected_at é fechamento do checkpoint.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-c28216409ef885ba",
       "title": "Filiação: situação corrigida antes do registro da candidatura",
       "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/flavio-bolsonaro-apareceu-filiado-ao-missao-mas-conseguiu-registrar-candidatura-no-tse-pelo-pl/",
@@ -18074,6 +18208,140 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-937d53aaed59d9bc",
+      "title": "Lei 15.412/2026 trata de medidas protetivas no plano cível, distinta do PL 1400",
+      "url": "https://legis.senado.leg.br/norma/43306759/publicacao/43305558",
+      "publisher": "Senado Federal, normas jurídicas",
+      "date": "2026-05-20",
+      "eventDate": "2026-05-20",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Lei 15.412/2026",
+      "topics": [
+        "Lei 15.412/2026",
+        "medidas protetivas",
+        "execução cível",
+        "contexto posterior"
+      ],
+      "stage": "analisado",
+      "summary": "A íntegra textual oficial inclui dispositivo que atribui força executiva a decisões sobre medidas protetivas de urgência de natureza cível. Essa alteração da Lei Maria da Penha é autônoma e posterior ao protocolo do PL 1400/2026; não é aprovação ou sanção da proposta de Flávio.",
+      "limitations": "Leitura do HTML oficial; sem acesso à publicação original do Diário Oficial ou avaliação prática do procedimento. Não confundir a norma aprovada com a tramitação do PL 1400.",
+      "locator": "Senado, Lei 15.412/2026, texto normativo linhas 24-43, especialmente art. 22, §10.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:27:06.260Z",
+      "lastModifiedAt": "2026-10-25T13:27:06.260Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Poder Legislativo federal (lei)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 15.412/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+          "inputId": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40-09",
+          "toolReference": "turn620233view0"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto pertinente lido em 25/10/2026; collected_at marca fechamento do checkpoint e não o horário individual de acesso; PDFs vinculados e mídias não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-790d2b86052bfe58",
+      "title": "Lei 15.411/2026 altera razões legais para afastamento imediato do agressor",
+      "url": "https://legis.senado.leg.br/norma/43304819/publicacao/43307462",
+      "publisher": "Senado Federal, normas jurídicas",
+      "date": "2026-05-20",
+      "eventDate": "2026-05-20",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Lei 15.411/2026",
+      "topics": [
+        "Lei 15.411/2026",
+        "Lei Maria da Penha",
+        "afastamento imediato",
+        "contexto posterior"
+      ],
+      "stage": "analisado",
+      "summary": "A íntegra textual oficial da Lei 15.411/2026 altera o art. 12-C da Lei Maria da Penha e abrange novas dimensões de risco na hipótese de afastamento imediato do agressor, além das previsões anteriores. Lei assinada após a apresentação do PL 1400/2026, que é matéria separada, e não pode ser descrita como sua conversão em lei.",
+      "limitations": "Lido HTML oficial da norma; data de publicação não identificada no recorte examinado, mantida nula. Não houve leitura de Diário Oficial PDF nem análise exaustiva de interpretações judiciais.",
+      "locator": "Senado, publicação oficial do texto da Lei 15.411/2026, linhas 24-36, artigos alteradores do art. 12-C.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:27:06.260Z",
+      "lastModifiedAt": "2026-10-25T13:27:06.260Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Poder Legislativo federal (lei)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 15.411/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+          "inputId": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40-08",
+          "toolReference": "turn598067view0"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto pertinente lido em 25/10/2026; collected_at marca fechamento do checkpoint e não o horário individual de acesso; PDFs vinculados e mídias não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-7b3624d141d1bda9",
       "title": "134, 61 e 2 milhões: posts omitem contexto de valores para alegar falsa contradição sobre repasses a filme de Bolsonaro",
       "url": "https://checamos.afp.com/doc.afp.com.B3DQ6ZQ",
@@ -20130,6 +20398,140 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-fa2d085bbba4248d",
+      "title": "Rede Liberdade registra avaliação desfavorável à proposta de medidas protetivas do PL 1400/2026",
+      "url": "https://www.elasnocongresso.com.br/atividade-legislativa/proposicao/pl-1400-2026",
+      "publisher": "Elas no Congresso, painel de avaliação da Rede Liberdade",
+      "date": "2026-03-25",
+      "eventDate": "2026-03-25",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 1400/2026",
+      "topics": [
+        "PL 1400/2026",
+        "crítica pública",
+        "Rede Liberdade",
+        "medidas protetivas"
+      ],
+      "stage": "analisado",
+      "summary": "O painel apresenta posição desfavorável atribuída à Rede Liberdade, com preocupações sobre a distribuição de competências, capacidade de atendimento e condições de acesso igualitário às medidas protetivas. A posição constitui contraponto público identificado e não um veredito jurídico ou factual do Arquivo.",
+      "limitations": "Data de publicação da avaliação não identificada, por isso published_date nula; 25/03/2026 é data de apresentação do PL, não a data da opinião. Não equivale a manifestação do Judiciário nem a posição de todas as organizações de direitos das mulheres.",
+      "locator": "Página do PL 1400 no Elas no Congresso, avaliação e justificativa institucional, linhas 16-21.",
+      "sourceId": "fonte-59543b713764758f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:27:06.260Z",
+      "lastModifiedAt": "2026-10-25T13:27:06.260Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Contraponto institucional atribuído expressamente à Rede Liberdade, não a Flávio Bolsonaro.",
+      "actor": "Rede Liberdade (avaliação institucional publicada no painel)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1400/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+          "inputId": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40-02",
+          "toolReference": "turn587623view2"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto pertinente lido em 25/10/2026; collected_at marca fechamento do checkpoint e não o horário individual de acesso; PDFs vinculados e mídias não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-ead0d65241a180ce",
+      "title": "Espelho textual do PL 1400/2026 apresenta artigos propostos e justificativa de Flávio Bolsonaro",
+      "url": "https://hubpolitico.com.br/legislativo/senado/proposicao/PL-1400-2026",
+      "publisher": "Hub Político, espelho de texto legislativo",
+      "date": "2026-03-25",
+      "eventDate": "2026-03-25",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1400/2026",
+      "topics": [
+        "PL 1400/2026",
+        "medidas protetivas",
+        "Flávio Bolsonaro: autoria",
+        "texto de proposta"
+      ],
+      "stage": "analisado",
+      "summary": "Espelho textual publicamente acessível reproduz a proposta de Flávio para modificar a Lei Maria da Penha quanto à concessão de medidas protetivas em caráter urgente por autoridade policial e posterior controle judicial. A justificativa do proponente distingue o mecanismo pretendido das possibilidades mais limitadas já previstas na Lei 13.827/2019. A autoria e a data de apresentação são conferíveis na ficha oficial do Senado, previamente catalogada; os dispositivos deste registro provêm do espelho textual, não de PDF oficial examinado.",
+      "limitations": "Fonte secundária que espelha documento público. O PDF original do Senado não foi acessado por barreira de segurança e não houve cotejo página a página. Números sobre feminicídio mencionados pelo proponente não foram validados em base estatística original; não tratar justificativa como evidência independente.",
+      "locator": "Espelho HTML, texto do avulso e autoria, linhas 62-141; dispositivos propostos nos artigos 12 e 18, linhas 71-101; justificativa, linhas 102-141.",
+      "sourceId": "fonte-e32947f80c4e7e7e",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:27:06.260Z",
+      "lastModifiedAt": "2026-10-25T13:27:06.260Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (autor da proposta)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1400/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+          "inputId": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40-01",
+          "toolReference": "turn620233view1"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto pertinente lido em 25/10/2026; collected_at marca fechamento do checkpoint e não o horário individual de acesso; PDFs vinculados e mídias não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-96d113b7f5d56ce5",
       "title": "Agência Senado: promulgação e contexto da Lei 15.358/2026",
       "url": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
@@ -20593,6 +20995,73 @@
         }
       ],
       "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-066bb80c1cf86f1f",
+      "title": "Agência Senado registra a justificativa pública de Wilder Morais sobre medidas protetivas policiais",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/03/17/delegado-pode-decretar-medida-protetiva-urgente-a-mulher-agredida-preve-projeto",
+      "publisher": "Agência Senado",
+      "date": "2026-03-17",
+      "eventDate": "2026-03-17",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 167/2026",
+      "topics": [
+        "PL 167/2026",
+        "Wilder Morais",
+        "argumentos favoráveis",
+        "medidas protetivas"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem institucional explica a proposta de Wilder Morais para concessão urgente de medidas protetivas por delegado e apresenta argumentos de rapidez do atendimento. É material e posicionamento de autor diferente, útil para distinguir propostas semelhantes apresentadas em 2026.",
+      "limitations": "Notícia legislativa institucional não é parecer judicial nem aprovação definitiva. A manifestação publicada é atribuída a Wilder Morais, não a Flávio; não prova os efeitos previstos pela proposta.",
+      "locator": "Agência Senado, reportagem de 17/03/2026, linhas 19-40, justificativas e autoria.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:27:06.260Z",
+      "lastModifiedAt": "2026-10-25T13:27:06.260Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Justificativa favorável da autoria do PL 167/2026, sem atribuição a Flávio.",
+      "actor": "Wilder Morais (autor do PL 167/2026), conforme Agência Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 167/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+          "inputId": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40-06",
+          "toolReference": "turn587623view5"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto pertinente lido em 25/10/2026; collected_at marca fechamento do checkpoint e não o horário individual de acesso; PDFs vinculados e mídias não foram reproduzidos.",
       "newToArchive": true
     },
     {
@@ -32321,6 +32790,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-b753e5de73d1db87",
+      "title": "Lei 14.550/2023 disciplina concessão e duração de medidas protetivas de urgência",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2023/lei-14550-19-abril-2023-794072-publicacaooriginal-167635-pl.html",
+      "publisher": "Câmara dos Deputados, Legislação Informatizada",
+      "date": "2023-04-20",
+      "eventDate": "2023-04-19",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Lei 14.550/2023",
+      "topics": [
+        "Lei 14.550/2023",
+        "Lei Maria da Penha",
+        "medidas protetivas",
+        "contexto normativo"
+      ],
+      "stage": "analisado",
+      "summary": "A norma oficial acrescentou parâmetros ao artigo 19 da Lei Maria da Penha, prevendo concessão com base em cognição sumária e persistência das medidas enquanto existir risco, sem depender de tipificação penal ou instauração de inquérito. Constitui contexto jurídico anterior, sem vínculo de autoria com Flávio Bolsonaro.",
+      "limitations": "Texto original HTML examinado, não compilação exaustiva ou exame de decisões posteriores. Não concluir a eficácia prática das medidas nem atribuir a lei ao autor do PL 1400.",
+      "locator": "Lei 14.550/2023, texto original da Câmara, linhas 29-36, alterações dos parágrafos do art. 19.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:27:06.260Z",
+      "lastModifiedAt": "2026-10-25T13:27:06.260Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Poder Legislativo federal (norma aprovada)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 14.550/2023",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+          "inputId": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40-04",
+          "toolReference": "turn587623view4"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto pertinente lido em 25/10/2026; collected_at marca fechamento do checkpoint e não o horário individual de acesso; PDFs vinculados e mídias não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-8478a599b74b66ad",
       "title": "Agência Senado registra ressalva de Rogério Carvalho e defesa de Flávio em 21/03/2023",
       "url": "https://www12.senado.leg.br/noticias/materias/2023/03/21/comissao-aprova-renda-da-loteca-para-associacao-beneficente-de-reabilitacao",
@@ -32456,6 +32992,74 @@
         }
       ],
       "accessMethod": "Abertura direta e leitura de HTML público em 25/10/2026 pelo web.run; localizadores da extração textual, não timestamps de áudio. Não houve reprodução audiovisual nem leitura de anexos apenas vinculados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-86270f19f4e9921b",
+      "title": "STF explica julgamento da ADI 6138 sobre afastamento excepcional de agressor por polícia",
+      "url": "https://noticias.stf.jus.br/postsnoticias/mes-da-mulher-policia-pode-afastar-agressor-da-convivencia-da-vitima-mesmo-sem-ordem-judicial/",
+      "publisher": "Supremo Tribunal Federal, notícias institucionais",
+      "date": "2023-03-15",
+      "eventDate": "2022-03-23",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "ADI 6138",
+      "topics": [
+        "ADI 6138",
+        "STF",
+        "Lei 13.827/2019",
+        "reserva de jurisdição",
+        "contexto judicial"
+      ],
+      "stage": "analisado",
+      "summary": "Texto institucional relata julgamento do STF que considerou constitucional a possibilidade delimitada de afastamento imediato do agressor sem ordem judicial, prevista na Lei 13.827/2019, com posterior controle judicial. Expõe controvérsia de reserva de jurisdição atribuída à AMB no processo. Decisão antecede o PL 1400/2026 e não examina sua redação.",
+      "limitations": "Foi lida notícia oficial explicativa, não a íntegra do acórdão nem os votos dos ministros. Não extrapolar decisão sobre a Lei 13.827/2019 como validação antecipada de projeto de 2026; argumentos da AMB são atribuídos pela notícia.",
+      "locator": "STF, notícia publicada em 15/03/2023, linhas 20-35, descrição da ADI 6138 e do mecanismo legal.",
+      "sourceId": "fonte-3ed65b2f1d041330",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:27:06.260Z",
+      "lastModifiedAt": "2026-10-25T13:27:06.260Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A notícia relata questionamento feito pela AMB e resposta judicial sobre legislação anterior, não manifestação sobre o PL 1400/2026.",
+      "actor": "Supremo Tribunal Federal; posição processual da Associação dos Magistrados Brasileiros descrita na notícia",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "ADI 6138; Lei 13.827/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+          "inputId": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40-07",
+          "toolReference": "turn598067view7"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto pertinente lido em 25/10/2026; collected_at marca fechamento do checkpoint e não o horário individual de acesso; PDFs vinculados e mídias não foram reproduzidos.",
       "newToArchive": true
     },
     {
@@ -39836,6 +40440,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-93e30e19f2fc712e",
+      "title": "Lei 13.827/2019 já autorizava afastamento excepcional de agressor em hipóteses delimitadas",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2019/lei-13827-13-maio-2019-788098-publicacaooriginal-157905-pl.html",
+      "publisher": "Câmara dos Deputados, Legislação Informatizada",
+      "date": "2019-05-14",
+      "eventDate": "2019-05-13",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Lei Maria da Penha",
+      "topics": [
+        "Lei Maria da Penha",
+        "Lei 13.827/2019",
+        "afastamento do agressor",
+        "contexto do PL 1400"
+      ],
+      "stage": "analisado",
+      "summary": "Texto legal oficial acrescentou o artigo 12-C à Lei Maria da Penha, permitindo afastamento imediato do agressor em hipóteses restritas inclusive por delegado, e em determinadas condições por policial quando não houver delegado disponível, com comunicação e controle judicial em até 24 horas. É direito preexistente, não resultado do PL 1400/2026.",
+      "limitations": "Foi lida a versão HTML original da Câmara, não o Diário Oficial em PDF ou toda a legislação consolidada vigente na data da coleta. Dispositivo tem condicionantes territoriais e institucionais que não podem ser omitidas.",
+      "locator": "Lei 13.827/2019, texto original no portal da Câmara, linhas 23-38, especialmente redação do art. 12-C.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:27:06.260Z",
+      "lastModifiedAt": "2026-10-25T13:27:06.260Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Poder Legislativo federal (norma aprovada)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 13.827/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+          "inputId": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40-03",
+          "toolReference": "turn587623view3"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto pertinente lido em 25/10/2026; collected_at marca fechamento do checkpoint e não o horário individual de acesso; PDFs vinculados e mídias não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-6067b7e18724fc04",
       "title": "Flávio defende decreto sobre armas em pronunciamento de maio de 2019",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/453390",
@@ -46893,13 +47564,15 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T09:34:35.598Z",
+      "lastConsultedAt": "2026-10-25T13:27:06.260Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 18,
+      "sourceCount": 20,
       "periods": [
         2007,
+        2019,
         2020,
+        2023,
         2024,
         2025,
         2026
@@ -46910,8 +47583,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 18,
-      "analysedCount": 18
+      "accessedCount": 20,
+      "analysedCount": 20
     },
     {
       "id": "fonte-0d9079c114e04a58",
@@ -46954,6 +47627,29 @@
       ],
       "formats": [
         "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-59543b713764758f",
+      "name": "Elas no Congresso, painel de avaliação da Rede Liberdade",
+      "url": "https://www.elasnocongresso.com.br/",
+      "responsible": "Elas no Congresso, painel de avaliação da Rede Liberdade",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T13:27:06.260Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "registro"
       ],
       "monitoringEnabled": false,
       "accessedCount": 1,
@@ -47111,6 +47807,29 @@
       "periods": [],
       "formats": [
         "registro"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-e32947f80c4e7e7e",
+      "name": "Hub Político, espelho de texto legislativo",
+      "url": "https://hubpolitico.com.br/",
+      "responsible": "Hub Político, espelho de texto legislativo",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T13:27:06.260Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "documento"
       ],
       "monitoringEnabled": false,
       "accessedCount": 1,
@@ -47819,10 +48538,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z",
-      "lastConsultedAt": "2026-10-25T13:01:23.820Z",
+      "lastConsultedAt": "2026-10-25T13:27:06.260Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 308,
+      "sourceCount": 313,
       "periods": [
         2018,
         2019,
@@ -47843,8 +48562,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 307,
-      "analysedCount": 289
+      "accessedCount": 312,
+      "analysedCount": 293
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -47878,22 +48597,24 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T03:41:16.847912+00:00",
+      "lastConsultedAt": "2026-10-25T13:27:06.260Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 4,
+      "sourceCount": 5,
       "periods": [
         2019,
         2021,
+        2023,
         2025
       ],
       "formats": [
         "documento",
-        "registro"
+        "registro",
+        "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 4,
-      "analysedCount": 3
+      "accessedCount": 5,
+      "analysedCount": 4
     },
     {
       "id": "fonte-d17e0097bbcd6c10",
@@ -48204,6 +48925,31 @@
       "reviewState": "aguardando revisão",
       "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Página e metadados acessados; mídia não reproduzida. Áudio revisado: 0 segundos.",
       "researchItemId": "pesquisa-b56c14b6584b3d25",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-e0896e93ce156533",
+      "title": "Rádio Senado contextualiza outros projetos de proteção às mulheres em agosto de 2026",
+      "type": "audio",
+      "provider": "Rádio Senado, metadados e texto de apresentação",
+      "publisher": "Rádio Senado, metadados e texto de apresentação",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/audios/2026/08/propostas-para-ampliar-protecao-a-mulheres-tramitam-no-senado",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/08/propostas-para-ampliar-protecao-a-mulheres-tramitam-no-senado",
+      "date": "2026-08-24",
+      "youtubeId": null,
+      "description": "Página pública identifica e contextualiza outras propostas em tramitação de proteção a mulheres, entre elas PL 167/2026, sem registrar participação de Flávio nelas. Apenas o texto descritivo e os metadados foram consultados; áudio não foi reproduzido.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Zero segundos de áudio ouvidos, nenhuma transcrição auditiva, duração ou timestamp do player aferidos. O texto de apresentação não autoriza imputar falas da gravação a pessoas citadas nem confundir projetos.",
+      "researchItemId": "pesquisa-e0896e93ce156533",
       "review": {
         "state": "aguardando revisão editorial",
         "reviewer": null,
@@ -50688,6 +51434,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-88f4dd3bd1c0cf94",
+      "itemId": "pesquisa-e40f11d9a14b2d5e",
+      "title": "Ficha oficial distingue o PL 167/2026 de Wilder Morais da iniciativa de Flávio Bolsonaro",
+      "date": "2026-09-25",
+      "datePrecision": "day",
+      "context": "Registro legislativo identifica Wilder Morais como autor de outra proposta relacionada a medidas protetivas policiais, apresentada em fevereiro de 2026, e a relatoria de Alessandro Vieira. Em setembro de 2026 constava relatório favorável com emendas na Comissão de Direitos Humanos, aguardando pauta. Não é o PL 1400/2026 e não consta como lei convertida nessa ficha.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-7595aa44795a9d63",
       "itemId": "pesquisa-695ed4e068e9e32e",
       "title": "Lupa examina alegação viral de pedido de impeachment contra Flávio Dino",
@@ -51030,6 +51785,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-d876b862781cf092",
+      "itemId": "pesquisa-e0896e93ce156533",
+      "title": "Rádio Senado contextualiza outros projetos de proteção às mulheres em agosto de 2026",
+      "date": "2026-08-24",
+      "datePrecision": "day",
+      "context": "Página pública identifica e contextualiza outras propostas em tramitação de proteção a mulheres, entre elas PL 167/2026, sem registrar participação de Flávio nelas. Apenas o texto descritivo e os metadados foram consultados; áudio não foi reproduzido.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-c03cb635bf598a3b",
       "itemId": "pesquisa-c28216409ef885ba",
       "title": "Filiação: situação corrigida antes do registro da candidatura",
@@ -51336,6 +52100,24 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-69c16c06fce33552",
+      "itemId": "pesquisa-937d53aaed59d9bc",
+      "title": "Lei 15.412/2026 trata de medidas protetivas no plano cível, distinta do PL 1400",
+      "date": "2026-05-20",
+      "datePrecision": "day",
+      "context": "A íntegra textual oficial inclui dispositivo que atribui força executiva a decisões sobre medidas protetivas de urgência de natureza cível. Essa alteração da Lei Maria da Penha é autônoma e posterior ao protocolo do PL 1400/2026; não é aprovação ou sanção da proposta de Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-2456618448b28061",
+      "itemId": "pesquisa-790d2b86052bfe58",
+      "title": "Lei 15.411/2026 altera razões legais para afastamento imediato do agressor",
+      "date": "2026-05-20",
+      "datePrecision": "day",
+      "context": "A íntegra textual oficial da Lei 15.411/2026 altera o art. 12-C da Lei Maria da Penha e abrange novas dimensões de risco na hipótese de afastamento imediato do agressor, além das previsões anteriores. Lei assinada após a apresentação do PL 1400/2026, que é matéria separada, e não pode ser descrita como sua conversão em lei.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-17e00a85e442c84e",
       "itemId": "pesquisa-7b3624d141d1bda9",
       "title": "134, 61 e 2 milhões: posts omitem contexto de valores para alegar falsa contradição sobre repasses a filme de Bolsonaro",
@@ -51615,6 +52397,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-61915915b056b39d",
+      "itemId": "pesquisa-fa2d085bbba4248d",
+      "title": "Rede Liberdade registra avaliação desfavorável à proposta de medidas protetivas do PL 1400/2026",
+      "date": "2026-03-25",
+      "datePrecision": "day",
+      "context": "O painel apresenta posição desfavorável atribuída à Rede Liberdade, com preocupações sobre a distribuição de competências, capacidade de atendimento e condições de acesso igualitário às medidas protetivas. A posição constitui contraponto público identificado e não um veredito jurídico ou factual do Arquivo.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-db775cd9da909a2e",
+      "itemId": "pesquisa-ead0d65241a180ce",
+      "title": "Espelho textual do PL 1400/2026 apresenta artigos propostos e justificativa de Flávio Bolsonaro",
+      "date": "2026-03-25",
+      "datePrecision": "day",
+      "context": "Espelho textual publicamente acessível reproduz a proposta de Flávio para modificar a Lei Maria da Penha quanto à concessão de medidas protetivas em caráter urgente por autoridade policial e posterior controle judicial. A justificativa do proponente distingue o mecanismo pretendido das possibilidades mais limitadas já previstas na Lei 13.827/2019. A autoria e a data de apresentação são conferíveis na ficha oficial do Senado, previamente catalogada; os dispositivos deste registro provêm do espelho textual, não de PDF oficial examinado.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-c206c6b9e0dba384",
       "itemId": "pesquisa-96d113b7f5d56ce5",
       "title": "Agência Senado: promulgação e contexto da Lei 15.358/2026",
@@ -51676,6 +52476,15 @@
       "datePrecision": "unknown",
       "context": "Material de AFP Checamos relacionado a Flávio Bolsonaro: Flávio Bolsonaro não defendeu o fim do salário mínimo em capa de revista; imagem viral é falsa. Rótulos, conclusões e correções permanecem atribuídos ao publicador; o Arquivo não cria nova classificação editorial a partir desta coleta.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-e4c9ad925073e96b",
+      "itemId": "pesquisa-066bb80c1cf86f1f",
+      "title": "Agência Senado registra a justificativa pública de Wilder Morais sobre medidas protetivas policiais",
+      "date": "2026-03-17",
+      "datePrecision": "day",
+      "context": "Reportagem institucional explica a proposta de Wilder Morais para concessão urgente de medidas protetivas por delegado e apresenta argumentos de rapidez do atendimento. É material e posicionamento de autor diferente, útil para distinguir propostas semelhantes apresentadas em 2026.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-1543fa96948e535c",
@@ -53262,6 +54071,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-9a42cf4da10b4334",
+      "itemId": "pesquisa-b753e5de73d1db87",
+      "title": "Lei 14.550/2023 disciplina concessão e duração de medidas protetivas de urgência",
+      "date": "2023-04-19",
+      "datePrecision": "day",
+      "context": "A norma oficial acrescentou parâmetros ao artigo 19 da Lei Maria da Penha, prevendo concessão com base em cognição sumária e persistência das medidas enquanto existir risco, sem depender de tipificação penal ou instauração de inquérito. Constitui contexto jurídico anterior, sem vínculo de autoria com Flávio Bolsonaro.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-e4add2c3ff361888",
       "itemId": "pesquisa-8478a599b74b66ad",
       "title": "Agência Senado registra ressalva de Rogério Carvalho e defesa de Flávio em 21/03/2023",
@@ -53277,6 +54095,15 @@
       "date": "2023-03-21",
       "datePrecision": "day",
       "context": "Registro da 3ª reunião da CAE confirma aprovação do projeto e da Emenda 1-CAS-CAE em 21/03/2023, diferentemente da vista de 14/03. A aprovação na comissão antecedeu a apreciação posterior no Plenário do Senado.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-ff7b3b9665e83e58",
+      "itemId": "pesquisa-86270f19f4e9921b",
+      "title": "STF explica julgamento da ADI 6138 sobre afastamento excepcional de agressor por polícia",
+      "date": "2022-03-23",
+      "datePrecision": "day",
+      "context": "Texto institucional relata julgamento do STF que considerou constitucional a possibilidade delimitada de afastamento imediato do agressor sem ordem judicial, prevista na Lei 13.827/2019, com posterior controle judicial. Expõe controvérsia de reserva de jurisdição atribuída à AMB no processo. Decisão antecede o PL 1400/2026 e não examina sua redação.",
       "state": "data informada pela fonte"
     },
     {
@@ -54276,6 +55103,15 @@
       "date": "2025-10-24",
       "datePrecision": "day",
       "context": "Ficha oficial atribui o PL 3030/2019 a Fabiano Contarato, com proposta inicial de cinco anos de internação e liberação compulsória aos 23 anos. O parecer da CDH de 22/10/2025 foi pela prejudicialidade dessa matéria e acolhimento do PL 2169 com substitutivo; a ficha ainda indicava encaminhamento à CCJ para nova relatoria. A decisão de prejudicialidade em uma comissão não autoriza afirmar extinção definitiva de todo o processo legislativo.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-03f2ceb4d4064c65",
+      "itemId": "pesquisa-93e30e19f2fc712e",
+      "title": "Lei 13.827/2019 já autorizava afastamento excepcional de agressor em hipóteses delimitadas",
+      "date": "2019-05-13",
+      "datePrecision": "day",
+      "context": "Texto legal oficial acrescentou o artigo 12-C à Lei Maria da Penha, permitindo afastamento imediato do agressor em hipóteses restritas inclusive por delegado, e em determinadas condições por policial quando não houver delegado disponível, com comunicação e controle judicial em até 24 horas. É direito preexistente, não resultado do PL 1400/2026.",
       "state": "data informada pela fonte"
     },
     {
@@ -60419,6 +61255,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-88f4dd3bd1c0cf94",
+      "itemId": "pesquisa-e40f11d9a14b2d5e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172488",
+      "locator": "Senado, ficha PL 167/2026, identificação e ementa linhas 20-55; documentos e andamento linhas 104-117 e 160-168.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-7595aa44795a9d63",
       "itemId": "pesquisa-695ed4e068e9e32e",
       "sourceId": "fonte-58d9376cef7ffa17",
@@ -60837,6 +61684,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-d876b862781cf092",
+      "itemId": "pesquisa-e0896e93ce156533",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/08/propostas-para-ampliar-protecao-a-mulheres-tramitam-no-senado",
+      "locator": "Rádio Senado, publicação de 24/08/2026, linhas 19-25 (cabeçalho e descrição).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-c03cb635bf598a3b",
       "itemId": "pesquisa-c28216409ef885ba",
       "sourceId": "fonte-a55f10b8449ffda6",
@@ -61211,6 +62069,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-69c16c06fce33552",
+      "itemId": "pesquisa-937d53aaed59d9bc",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/norma/43306759/publicacao/43305558",
+      "locator": "Senado, Lei 15.412/2026, texto normativo linhas 24-43, especialmente art. 22, §10.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-2456618448b28061",
+      "itemId": "pesquisa-790d2b86052bfe58",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/norma/43304819/publicacao/43307462",
+      "locator": "Senado, publicação oficial do texto da Lei 15.411/2026, linhas 24-36, artigos alteradores do art. 12-C.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-17e00a85e442c84e",
       "itemId": "pesquisa-7b3624d141d1bda9",
       "sourceId": "fonte-875b77e7aba40e8b",
@@ -61552,6 +62432,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-61915915b056b39d",
+      "itemId": "pesquisa-fa2d085bbba4248d",
+      "sourceId": "fonte-59543b713764758f",
+      "url": "https://www.elasnocongresso.com.br/atividade-legislativa/proposicao/pl-1400-2026",
+      "locator": "Página do PL 1400 no Elas no Congresso, avaliação e justificativa institucional, linhas 16-21.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-db775cd9da909a2e",
+      "itemId": "pesquisa-ead0d65241a180ce",
+      "sourceId": "fonte-e32947f80c4e7e7e",
+      "url": "https://hubpolitico.com.br/legislativo/senado/proposicao/PL-1400-2026",
+      "locator": "Espelho HTML, texto do avulso e autoria, linhas 62-141; dispositivos propostos nos artigos 12 e 18, linhas 71-101; justificativa, linhas 102-141.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-c206c6b9e0dba384",
       "itemId": "pesquisa-96d113b7f5d56ce5",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -61623,6 +62525,17 @@
       "sourceId": "fonte-875b77e7aba40e8b",
       "url": "https://checamos.afp.com/doc.afp.com.A3YK4CQ",
       "locator": "Página integral acessada; detalhes e documentos vinculados permanecem no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e4c9ad925073e96b",
+      "itemId": "pesquisa-066bb80c1cf86f1f",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/03/17/delegado-pode-decretar-medida-protetiva-urgente-a-mulher-agredida-preve-projeto",
+      "locator": "Agência Senado, reportagem de 17/03/2026, linhas 19-40, justificativas e autoria.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -63565,6 +64478,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-9a42cf4da10b4334",
+      "itemId": "pesquisa-b753e5de73d1db87",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2023/lei-14550-19-abril-2023-794072-publicacaooriginal-167635-pl.html",
+      "locator": "Lei 14.550/2023, texto original da Câmara, linhas 29-36, alterações dos parágrafos do art. 19.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-e4add2c3ff361888",
       "itemId": "pesquisa-8478a599b74b66ad",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -63581,6 +64505,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/38/reuniao/11134/item/82231",
       "locator": "Página de resultado do item 3, linhas 20-44.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ff7b3b9665e83e58",
+      "itemId": "pesquisa-86270f19f4e9921b",
+      "sourceId": "fonte-3ed65b2f1d041330",
+      "url": "https://noticias.stf.jus.br/postsnoticias/mes-da-mulher-policia-pode-afastar-agressor-da-convivencia-da-vitima-mesmo-sem-ordem-judicial/",
+      "locator": "STF, notícia publicada em 15/03/2023, linhas 20-35, descrição da ADI 6138 e do mecanismo legal.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -64802,6 +65737,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136880",
       "locator": "Ficha do PL 3030/2019, HTML linhas 20–38 (autoria, ementa e estágio), 88–110 (parecer), e atos de 22 a 24/10/2025 na tramitação.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-03f2ceb4d4064c65",
+      "itemId": "pesquisa-93e30e19f2fc712e",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2019/lei-13827-13-maio-2019-788098-publicacaooriginal-157905-pl.html",
+      "locator": "Lei 13.827/2019, texto original no portal da Câmara, linhas 23-38, especialmente redação do art. 12-C.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -66316,15 +67262,15 @@
     },
     {
       "year": 2019,
-      "found": 43,
-      "accessed": 43,
-      "analysed": 41,
+      "found": 44,
+      "accessed": 44,
+      "analysed": 42,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 41,
+        "analisado": 42,
         "revisado": 0,
         "publicado": 0
       },
@@ -66344,6 +67290,7 @@
         "segurança pública": 2,
         "previdência social": 1,
         "PL 3030/2019": 1,
+        "Lei Maria da Penha": 1,
         "armas": 1,
         "economia": 1,
         "direito penal": 2,
@@ -66361,11 +67308,12 @@
         "fonte-3ed65b2f1d041330": 1,
         "fonte-d7238973977790d8": 1,
         "fonte-9c2fbd587c9a9fb0": 9,
+        "fonte-29a2bae5277f274b": 1,
         "fonte-58d9376cef7ffa17": 1,
         "fonte-922199d958d5da40": 1
       },
       "formats": {
-        "documento": 20,
+        "documento": 21,
         "reportagem": 8,
         "registro": 3,
         "checagem": 10,
@@ -66511,15 +67459,15 @@
     },
     {
       "year": 2023,
-      "found": 29,
-      "accessed": 29,
-      "analysed": 27,
+      "found": 31,
+      "accessed": 31,
+      "analysed": 29,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 27,
+        "analisado": 29,
         "revisado": 0,
         "publicado": 0
       },
@@ -66538,17 +67486,21 @@
         "liberdade de expressão": 1,
         "legislação digital": 1,
         "8 de janeiro": 1,
+        "Lei 14.550/2023": 1,
+        "ADI 6138": 1,
         "Atividade pública": 1,
         "eleicoes": 1
       },
       "sources": {
         "fonte-2acd9e7dc92e583a": 27,
+        "fonte-29a2bae5277f274b": 1,
+        "fonte-3ed65b2f1d041330": 1,
         "fonte-37b3a9c8aaa5f206": 1,
         "fonte-d17e0097bbcd6c10": 1
       },
       "formats": {
-        "reportagem": 4,
-        "documento": 23,
+        "reportagem": 5,
+        "documento": 24,
         "registro": 1,
         "video": 1
       },
@@ -66693,15 +67645,15 @@
     },
     {
       "year": 2026,
-      "found": 316,
-      "accessed": 316,
-      "analysed": 309,
+      "found": 323,
+      "accessed": 323,
+      "analysed": 315,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
-        "acessado": 7,
-        "analisado": 309,
+        "acessado": 8,
+        "analisado": 315,
         "revisado": 0,
         "publicado": 0
       },
@@ -66733,6 +67685,7 @@
         "live": 1,
         "inteligência artificial": 4,
         "religião": 2,
+        "PL 167/2026": 2,
         "boato eleitoral": 1,
         "Lei 15.517/2026": 3,
         "campanha 2026": 10,
@@ -66749,12 +67702,15 @@
         "dosimetria da pena": 1,
         "desinformacao": 1,
         "drones": 1,
+        "Rádio Senado": 1,
         "documentação pública": 6,
         "idosos": 1,
         "proteção de crianças": 1,
         "pessoas idosas": 2,
         "imagem manipulada": 1,
         "Bolsa Família": 2,
+        "Lei 15.412/2026": 1,
+        "Lei 15.411/2026": 1,
         "resposta pública": 2,
         "orientação de bancada": 1,
         "PL 1473/2025": 1,
@@ -66763,6 +67719,7 @@
         "trajetória": 1,
         "INSS": 1,
         "Lei Maria da Penha": 1,
+        "PL 1400/2026": 2,
         "requerimento parlamentar": 2,
         "PDL 206/2023": 1,
         "imagens-fora-de-contexto": 1
@@ -66784,7 +67741,7 @@
         "fonte-f1199c02c1d5a933": 1,
         "fonte-f963e021c7cefa6f": 2,
         "fonte-9c2fbd587c9a9fb0": 6,
-        "fonte-2acd9e7dc92e583a": 55,
+        "fonte-2acd9e7dc92e583a": 60,
         "fonte-b1a6d0a350c2f59a": 1,
         "fonte-4114d6bfe97e1092": 1,
         "fonte-0a4536d177e98be8": 2,
@@ -66809,25 +67766,27 @@
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
         "fonte-e0d802a79452f4db": 1,
-        "fonte-2837db98d9bb5569": 1
+        "fonte-2837db98d9bb5569": 1,
+        "fonte-59543b713764758f": 1,
+        "fonte-e32947f80c4e7e7e": 1
       },
       "formats": {
         "video": 7,
         "checagem": 206,
-        "reportagem": 43,
-        "registro": 17,
-        "audio": 5,
-        "documento": 38
+        "reportagem": 44,
+        "registro": 19,
+        "audio": 6,
+        "documento": 41
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 678,
-    "items": 697,
+    "newItems": 688,
+    "items": 707,
     "alreadyInArchive": 19,
-    "accessed": 694,
-    "analysed": 662,
+    "accessed": 704,
+    "analysed": 671,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -66835,16 +67794,16 @@
     "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 76,
-    "sourcesConsulted": 71,
+    "sources": 78,
+    "sourcesConsulted": 73,
     "video": 20,
-    "audio": 14,
-    "documents": 253,
+    "audio": 15,
+    "documents": 258,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 229,
-    "accessFailures": 65,
+    "queryCount": 234,
+    "accessFailures": 69,
     "undatedItems": 39
   },
   "queries": [
@@ -67945,6 +68904,51 @@
       "engine": "GitHub conectado, leitura e confronto de checkpoints",
       "interval": "até 2026-10-25T02:57:08Z",
       "resultsState": "As 12 URLs selecionadas não constavam dos registros anteriores consultados; fichas FlagCheck sobre debate da maioridade já catalogadas ficaram fora deste lote."
+    },
+    {
+      "id": "consulta-d76941011d7080c7",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+      "query": "PL 1400/2026 Flávio Bolsonaro proposta íntegra texto delegado medidas protetivas contexto STF lei",
+      "executedAt": "2026-10-25T13:27:06.260Z",
+      "engine": "web.run fast/open, Senado e espelho textual Hub Político; checagem de URL com catálogo GitHub",
+      "interval": "2026-03 a 2026-10",
+      "resultsState": "Ficha oficial do PL 1400 já catalogada, não duplicada; texto HTML espelhado consultado e PDF do Senado indisponível. Fonte secundária claramente indicada como espelho."
+    },
+    {
+      "id": "consulta-20aa3462caa3c0bd",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+      "query": "PL 1400 2026 análise crítica Rede Liberdade Elas no Congresso avaliação",
+      "executedAt": "2026-10-25T13:27:06.260Z",
+      "engine": "web.run, abertura direta e leitura da avaliação atribuída",
+      "interval": "2026",
+      "resultsState": "Posição pública desfavorável da Rede Liberdade lida; data de publicação da opinião não exibida, mantida nula; não adotada como veredito do Arquivo."
+    },
+    {
+      "id": "consulta-e8c631ed6c7e8d07",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+      "query": "Lei Maria da Penha Lei 13827/2019 14550/2023 15411/2026 15412/2026 art 12C art 19 art 22",
+      "executedAt": "2026-10-25T13:27:06.260Z",
+      "engine": "web.run, abertura e leitura de textos normativos oficiais Câmara e Senado",
+      "interval": "2019; 2023; 2026",
+      "resultsState": "Quatro textos legais oficiais HTML efetivamente lidos com recortes e limites, distinguidos do texto de projeto ainda em tramitação."
+    },
+    {
+      "id": "consulta-9b730d2d4abb6a01",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+      "query": "STF ADI 6138 policiais afastamento agressor 2022 decisão AMB",
+      "executedAt": "2026-10-25T13:27:06.260Z",
+      "engine": "web.run, notícia institucional STF e tentativa de íntegra",
+      "interval": "2022-2023",
+      "resultsState": "Notícia oficial STF de 15/03/2023 lida; acórdão integral não consultado. STF julgou mecanismo de lei anterior, não o PL 1400."
+    },
+    {
+      "id": "consulta-07b7a17a84c62992",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+      "query": "PL 167/2026 Wilder Morais Alessandro Vieira medidas protetivas delegado Senado contraponto",
+      "executedAt": "2026-10-25T13:27:06.260Z",
+      "engine": "web.run, abertura de ficha Senado, reportagem da Agência Senado e metadados Rádio Senado",
+      "interval": "2026-02 a 2026-09",
+      "resultsState": "Iniciativa conexa de outro autor identificada, com relatoria e estado legislativo separados de Flávio; nenhum áudio reproduzido."
     },
     {
       "id": "consulta-38a9390a636516c9",
@@ -69104,6 +70108,30 @@
       "discovery": "Inq 4995. Não atribuir ao Tribunal os requerimentos da parte. Sem leitura neste lote."
     },
     {
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10189309&ts=1780088521762",
+      "status": "Página de verificação de segurança em tentativa de abrir PDF oficial",
+      "note": "Não foi lida a íntegra PDF do PL 1400; texto acessado foi exclusivamente o espelho HTML de outro domínio."
+    },
+    {
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-1400-2026",
+      "status": "Erro 502 na abertura",
+      "note": "Não cadastrado como material acessado; a ficha oficial do Senado anteriormente catalogada permaneceu como referência de tramitação."
+    },
+    {
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+      "url": "https://www.cnj.jus.br/85-das-medidas-protetivas-sao-analisadas-em-ate-24-horas-menor-prazo-da-serie-historica/",
+      "status": "Erro 403",
+      "note": "Estatísticas de processamento de medidas não foram copiadas de resultados de busca nem tratadas como dados primários examinados."
+    },
+    {
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40",
+      "url": "https://www.gov.br/mulheres/pt-br/central-de-conteudos/noticias/2023/abril/lei-determina-protecao-imediata-a-mulheres-que-denunciam-violencia-domestica-e-familiar",
+      "status": "Acesso negado à página institucional",
+      "note": "Não catalogada; utilizado texto normativo HTML da Câmara em vez de atribuir leitura à página indisponível."
+    },
+    {
       "batch": "pl1473-audiencias-20261024-24",
       "source": "PDFs dos relatórios e substitutivos da CCJ para o PL 1473/2025",
       "status": "Conteúdo não acessado nesta execução",
@@ -69898,6 +70926,48 @@
       "note": "Qualquer comparação sensível entre posições de governo e oposição ou juízo empírico permanece pendente de revisão editorial humana identificada.",
       "state": "pendente",
       "batch": "pec18-maioridade-flavio-contexto-20261025-29"
+    },
+    {
+      "id": "lacuna-bc00bc17378e246a",
+      "note": "PL 1400/2026: abrir e cotejar PDF oficial do projeto, com redação integral, justificativa e eventuais emendas; espelho HTML é fonte secundária e não prova de acesso ao original.",
+      "state": "pendente",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40"
+    },
+    {
+      "id": "lacuna-8a6baff7589ebedb",
+      "note": "PL 1400/2026: verificar tramitação posterior ao último andamento da ficha oficial já catalogada, sem afirmar aprovação, veto ou vigência.",
+      "state": "pendente",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40"
+    },
+    {
+      "id": "lacuna-502434eb00cf1265",
+      "note": "PL 1400/2026: conferir em fonte estatística primária qualquer quantitativo de feminicídios da justificativa antes de lhe atribuir validação independente.",
+      "state": "pendente",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40"
+    },
+    {
+      "id": "lacuna-9800b0b5d003233e",
+      "note": "ADI 6138: obter acórdão e voto integral para análise jurídica além de notícia institucional; decisão tratou de hipótese delimitada da Lei 13.827, não da redação futura do PL 1400.",
+      "state": "pendente",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40"
+    },
+    {
+      "id": "lacuna-d29c28eefbbe112e",
+      "note": "PL 167/2026 de Wilder Morais: cotejar parecer e emendas em PDF e tramitação posterior antes de comparar detalhadamente os projetos.",
+      "state": "pendente",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40"
+    },
+    {
+      "id": "lacuna-60c4c577fbb82b7d",
+      "note": "Resposta da Rede Liberdade tem autoria institucional, mas data exata de avaliação não foi verificada; qualquer conclusão sensível demanda revisão humana editorial identificada, mantendo editorialClassification nulo.",
+      "state": "pendente",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40"
+    },
+    {
+      "id": "lacuna-31446b7b2114b011",
+      "note": "Nenhum áudio ou vídeo reproduzido (0 segundos); nenhuma citação literal, marcação temporal ou revisão editorial alegada.",
+      "state": "pendente",
+      "batch": "pl1400-medidas-protetivas-lei-stf-rede-20261025-40"
     },
     {
       "id": "lacuna-26c5537cbe4501d7",
@@ -70728,6 +71798,12 @@
       "label": "PEC 18/2025, Emenda 84 e participação de Flávio; respostas políticas, SINASE e PL 2169 como contexto",
       "collected_at_utc": "2026-10-25T02:57:08Z",
       "method": "12 URLs públicas HTML abertas e consultadas, reconciliadas com checkpoints anteriores, nenhum PDF/áudio/vídeo integral examinado e nenhuma classificação nova."
+    },
+    {
+      "id": "checkpoint-20261025-40",
+      "label": "PL 1400/2026, crítica da Rede Liberdade, antecedentes e alterações normativas, ADI 6138 e PL 167 de Wilder Morais",
+      "collected_at_utc": "2026-10-25T13:27:06.260Z",
+      "method": "Nove textos HTML pertinentes e um texto de metadados/descrição de áudio acessados; 10 URLs novas comparadas aos 697 itens; sem PDF oficial do PL, áudio ou vídeo reproduzido e sem vereditos/revisores novos."
     },
     {
       "id": "checkpoint-20261024-24",
