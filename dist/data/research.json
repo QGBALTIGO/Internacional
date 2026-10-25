@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T07:48:36.579902Z",
-    "inputHash": "45484e793f0895aebb50174726b7e6288ae1736dbb0e5889ff9482d144924a1e",
+    "generatedAt": "2026-10-25T08:43:36.780159Z",
+    "inputHash": "c35980f36572cb1e21baaa93302e8ff5bfa9474aebda0753987a17dff5ee6a25",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -16221,6 +16221,558 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-b8337480d4ad358a",
+      "title": "Congresso Nacional: cronologia bicameral e encaminhamento do PL 4598/2025",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-4598-2025",
+      "publisher": "Congresso Nacional",
+      "date": "2026-07-09",
+      "eventDate": "2026-07-09",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4598/2025",
+        "pessoas com deficiência",
+        "processo legislativo",
+        "direito penal",
+        "contraditório público"
+      ],
+      "stage": "analisado",
+      "summary": "O histórico confirma apresentação em 16/09/2025, distribuição a Alessandro Vieira em 17/11/2025, recebimento do relatório em 10/06/2026, retirada e adiamentos antes da aprovação de parecer na CDH, seguida de envio à CCJ. Não indica conversão em lei.",
+      "limitations": "Histórico administrativo, não íntegra da emenda; não inferir voto nominal, consenso de toda a Casa ou sanção.",
+      "locator": "Seção Tramitação, eventos de 16/09/2025 a 09/07/2026 (linhas 24-110).",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T08:43:25.438Z",
+      "lastModifiedAt": "2026-10-25T08:43:25.438Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (autor); CDH e CCJ do Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4598/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+          "inputId": "pl4598-deficiencia-cdh-ccj-20261025-35-02",
+          "toolReference": "turn453540view2"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-659ea4ae2b86e925",
+      "title": "Ficha legislativa do PL 4598/2025: autoria, relatório e encaminhamento à CCJ",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170486",
+      "publisher": "Senado Federal",
+      "date": "2026-07-09",
+      "eventDate": "2026-07-09",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4598/2025",
+        "pessoas com deficiência",
+        "processo legislativo",
+        "direito penal",
+        "contraditório público"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha atribui a Flávio a apresentação em 16/09/2025, identifica relatório favorável com emenda de Alessandro Vieira apresentado em 10/06/2026 e parecer da CDH em 08/07. Em 09/07/2026 registra situação de aguardando designação do relator na CCJ, não aprovação definitiva.",
+      "limitations": "Descrição de proposta e andamento, sem exame dos PDFs integrais. A seção 'Entenda a proposta' declara uso de IA com revisão humana e não foi usada como prova independente.",
+      "locator": "Cabeçalho e situação (linhas 20-52); documentos e autoria/relatoria (linhas 74-122).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T08:43:25.438Z",
+      "lastModifiedAt": "2026-10-25T08:43:25.438Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (autor); Alessandro Vieira (relator da CDH)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4598/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+          "inputId": "pl4598-deficiencia-cdh-ccj-20261025-35-01",
+          "toolReference": "turn854452view0"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-27221af1c40303b9",
+      "title": "Rádio Senado disponibiliza transcrição da aprovação do PL 4598 na CDH",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/07/09/comissao-aprova-mais-protecao-a-pessoas-com-deficiencia-vitimas-de-crimes",
+      "publisher": "Rádio Senado",
+      "date": "2026-07-09",
+      "eventDate": "2026-07-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4598/2025",
+        "pessoas com deficiência",
+        "processo legislativo",
+        "direito penal",
+        "contraditório público"
+      ],
+      "stage": "analisado",
+      "summary": "Matéria de 09/07/2026 apresenta transcrição textual jornalística do encaminhamento do PL 4598/2025 à CCJ, identifica Flávio como autor, Alessandro como relator e Paulo Paim como leitor do relatório. Refere retirada de 'neurodivergentes' da redação apreciada.",
+      "limitations": "Transcrição do publicador lida em HTML, 0 segundos de áudio reproduzidos. Duração de 1min24s é metadado de publicação, não tempo efetivamente ouvido ou revisto.",
+      "locator": "Transcrição publicada na reportagem de Patrícia Oliveira, linhas 9-24; duração indicada apenas pelo player.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T08:43:25.438Z",
+      "lastModifiedAt": "2026-10-25T08:43:25.438Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Patrícia Oliveira (reportagem), Paulo Paim (fala reproduzida na transcrição publicada)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4598/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+          "inputId": "pl4598-deficiencia-cdh-ccj-20261025-35-09",
+          "toolReference": "turn453540view3"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-ffbbd5762abb920e",
+      "title": "Notas taquigráficas da CDH registram leitura de Paulo Paim, posição do PT e ressalvas de Alessandro",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14825",
+      "publisher": "Senado Federal, notas taquigráficas",
+      "date": "2026-07-08",
+      "eventDate": "2026-07-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4598/2025",
+        "pessoas com deficiência",
+        "processo legislativo",
+        "direito penal",
+        "contraditório público"
+      ],
+      "stage": "analisado",
+      "summary": "O texto revisto reproduz Paulo Paim afirmando que apoiava o mérito independentemente de Flávio Bolsonaro ser de campo político oposto e que a orientação da bancada do PT foi favorável. Ao ler o parecer de Alessandro, aponta riscos de descontextualizar regra específica de escolas e de usar o conceito amplo 'neurodivergente' na agravante penal. Damares declara aprovação do relatório com a Emenda 1-CDH.",
+      "limitations": "Transcrição institucional textual examinada, não áudio reproduzido; horários impressos na página NÃO foram verificados por escuta. A fala de Damares nas linhas 112-113 pode sugerir abrangência maior que o texto relatado; cotejo literal com emenda em PDF está pendente. Não afirmar mudança de posição nem contradição aprovada.",
+      "locator": "50ª reunião, item 6 do PL 4598/2025, linhas 93-114, com autoria identificada por intervenções.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T08:43:25.438Z",
+      "lastModifiedAt": "2026-10-25T08:43:25.438Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Paulo Paim declarou apoio ao conteúdo e atribuiu apoio à bancada do PT, embora o projeto fosse de Flávio Bolsonaro; os argumentos jurídicos pela emenda são do relator Alessandro Vieira, apresentados por Paim.",
+      "actor": "Paulo Paim (leitura ad hoc do relatório de Alessandro Vieira), Damares Alves (presidência)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4598/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+          "inputId": "pl4598-deficiencia-cdh-ccj-20261025-35-07",
+          "toolReference": "turn347646view0"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-3f37213621a5a72a",
+      "title": "Agência Senado detalha mudança de redação: expressão neurodivergente retirada da agravante",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/07/08/vai-a-ccj-aumento-de-pena-para-crimes-contra-pessoa-com-deficiencia",
+      "publisher": "Agência Senado",
+      "date": "2026-07-08",
+      "eventDate": "2026-07-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4598/2025",
+        "pessoas com deficiência",
+        "processo legislativo",
+        "direito penal",
+        "contraditório público"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem da Agência Senado apresenta a defesa pública da proposta pelo autor Flávio, informa que a versão aprovada na CDH suprimiu o termo 'neurodivergente' da agravante e atribui a Alessandro a fundamentação baseada na definição jurídica da deficiência e na amplitude da expressão retirada. Também descreve preservação da regra específica do ambiente escolar.",
+      "limitations": "É síntese jornalística institucional, não inspeção independente das versões integrais em PDF. Posições e argumentos seguem atribuídos a cada pessoa, não adotados como juízo próprio sobre adequação penal.",
+      "locator": "Reportagem de 08/07/2026, parágrafos sobre proposta e redação (linhas 23-38).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T08:43:25.438Z",
+      "lastModifiedAt": "2026-10-25T08:43:25.438Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Defesa pública de Flávio é registrada pela Agência Senado; justificativa para ajuste pertence ao relator Alessandro Vieira.",
+      "actor": "Flávio Bolsonaro (autor e posição atribuída); Alessandro Vieira (relator e justificativa atribuída)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4598/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+          "inputId": "pl4598-deficiencia-cdh-ccj-20261025-35-08",
+          "toolReference": "turn854452view2"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-2c142ee593a4bf64",
+      "title": "CDH em 08/07/2026 aprova parecer com Emenda 1-CDH para PL 4598",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14825",
+      "publisher": "Senado Federal, CDH",
+      "date": "2026-07-08",
+      "eventDate": "2026-07-08",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4598/2025",
+        "pessoas com deficiência",
+        "processo legislativo",
+        "direito penal",
+        "contraditório público"
+      ],
+      "stage": "analisado",
+      "summary": "O resultado oficial da 50ª reunião registra que Damares designou Paulo Paim relator ad hoc para apresentar parecer de Alessandro Vieira, aprovado pela comissão com a Emenda 1-CDH. Atribuições distintas foram preservadas. Deliberação de comissão não equivale à aprovação definitiva do projeto.",
+      "limitations": "Ficha de deliberação consultada, sem leitura do PDF completo da emenda nem audição dos trechos vinculados no portal; sem atribuição de voto nominal.",
+      "locator": "50ª CDH, item 6, linhas 233-247.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T08:43:25.438Z",
+      "lastModifiedAt": "2026-10-25T08:43:25.438Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Alessandro Vieira (relator do parecer); Paulo Paim (relator ad hoc); Damares Alves (presidente)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4598/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+          "inputId": "pl4598-deficiencia-cdh-ccj-20261025-35-06",
+          "toolReference": "turn453540view1"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-462c87cf194a38f6",
+      "title": "CDH em 01/07/2026 novamente adia o PL 4598/2025",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14794",
+      "publisher": "Senado Federal, CDH",
+      "date": "2026-07-01",
+      "eventDate": "2026-07-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4598/2025",
+        "pessoas com deficiência",
+        "processo legislativo",
+        "direito penal",
+        "contraditório público"
+      ],
+      "stage": "analisado",
+      "summary": "O resultado da 46ª reunião, item 10, indica 'Adiado' para o PL 4598/2025; o relatório favorável ainda não havia sido aprovado nessa sessão.",
+      "limitations": "Documenta apenas o resultado da pauta de 01/07. Não representa voto contra o mérito nem resultado final.",
+      "locator": "46ª CDH, item 10, linhas 296-310.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T08:43:25.438Z",
+      "lastModifiedAt": "2026-10-25T08:43:25.438Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "CDH; Alessandro Vieira (relator)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4598/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+          "inputId": "pl4598-deficiencia-cdh-ccj-20261025-35-05",
+          "toolReference": "turn492079view3"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-dbabe0c6ca6d9dc4",
+      "title": "CDH em 24/06/2026 adia deliberação do PL 4598/2025",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14774",
+      "publisher": "Senado Federal, CDH",
+      "date": "2026-06-24",
+      "eventDate": "2026-06-24",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4598/2025",
+        "pessoas com deficiência",
+        "processo legislativo",
+        "direito penal",
+        "contraditório público"
+      ],
+      "stage": "analisado",
+      "summary": "A reunião da Comissão de Direitos Humanos registrou adiamento da apreciação do PL 4598/2025. A aprovação só viria em reunião posterior, em 08/07.",
+      "limitations": "Página da reunião lida em HTML; sem integral de relatório ou gravação. A data e o estado foram confrontados com a cronologia do Congresso.",
+      "locator": "Registro do item PL 4598/2025 na 43ª reunião, campos Resultado e Relatoria; conferir também histórico da matéria.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T08:43:25.438Z",
+      "lastModifiedAt": "2026-10-25T08:43:25.438Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "CDH; Alessandro Vieira (relator)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4598/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+          "inputId": "pl4598-deficiencia-cdh-ccj-20261025-35-04",
+          "toolReference": "turn639188view6"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-76a29837ce2bdf3c",
       "title": "VET 29/2024: veto parcial ainda sem apreciação no painel do Congresso",
       "url": "https://www.congressonacional.leg.br/pt_BR/materias/vetos/-/veto/detalhe/16729",
@@ -16354,6 +16906,75 @@
         }
       ],
       "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-f0ee9a307078ede8",
+      "title": "CDH em 17/06/2026 retira PL 4598 da pauta sem decisão de mérito",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14728",
+      "publisher": "Senado Federal, CDH",
+      "date": "2026-06-17",
+      "eventDate": "2026-06-17",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4598/2025",
+        "pessoas com deficiência",
+        "processo legislativo",
+        "direito penal",
+        "contraditório público"
+      ],
+      "stage": "analisado",
+      "summary": "A 39ª reunião registrou o PL 4598/2025 como item 8, com relatório favorável com emenda, mas resultado 'Retirado de pauta'. Essa sessão não aprovou o projeto.",
+      "limitations": "Registro de pauta e resultado; não informa votos nem motivação individual da retirada. Audiovisual disponibilizado no portal não reproduzido.",
+      "locator": "39ª CDH, item 8, campos Relator/Relatório/Resultado, linhas 295-309.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T08:43:25.438Z",
+      "lastModifiedAt": "2026-10-25T08:43:25.438Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "CDH; Alessandro Vieira (relator indicado)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4598/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+          "inputId": "pl4598-deficiencia-cdh-ccj-20261025-35-03",
+          "toolReference": "turn492079view2"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
       "newToArchive": true
     },
     {
@@ -22453,6 +23074,75 @@
         }
       ],
       "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-02e7bd4e5a55d60e",
+      "title": "Lei 15.159/2025: redação vigente originalmente usada como referência no parecer",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15159-3-julho-2025-797686-publicacaooriginal-175803-pl.html",
+      "publisher": "Câmara dos Deputados, legislação informatizada",
+      "date": "2025-07-03",
+      "eventDate": "2025-07-03",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 4598/2025",
+        "pessoas com deficiência",
+        "processo legislativo",
+        "direito penal",
+        "contraditório público"
+      ],
+      "stage": "analisado",
+      "summary": "Texto publicado da Lei 15.159/2025 modifica o Código Penal para agravar delitos em instituições de ensino. O art. 129 §12 II prevê aumento de pena para lesão dolosa ocorrida nessas dependências quando a vítima for pessoa com deficiência ou com condição limitante, entre outros casos. Serve de referência para compreender a alteração proposta pelo PL 4598, sem tratá-lo como lei em vigor.",
+      "limitations": "Acesso à publicação original da lei, não cotejo com código penal compilado em 2026 nem análise jurídica completa de vigência e interações normativas.",
+      "locator": "Artigos 1º e 2º, redação do art. 129 §12 II, linhas 23-49.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T08:43:25.438Z",
+      "lastModifiedAt": "2026-10-25T08:43:25.438Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Poder Legislativo e Presidência da República; lei federal (não de autoria de Flávio)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4598/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+          "inputId": "pl4598-deficiencia-cdh-ccj-20261025-35-10",
+          "toolReference": "turn492079view1"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
       "newToArchive": true
     },
     {
@@ -43076,10 +43766,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T07:48:26.209Z",
+      "lastConsultedAt": "2026-10-25T08:43:25.438Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 3,
+      "sourceCount": 4,
       "periods": [
         2024,
         2025,
@@ -43090,8 +43780,8 @@
         "registro"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 3,
-      "analysedCount": 3
+      "accessedCount": 4,
+      "analysedCount": 4
     },
     {
       "id": "fonte-050cd7980a113c02",
@@ -43194,10 +43884,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T07:48:26.209Z",
+      "lastConsultedAt": "2026-10-25T08:43:25.438Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 15,
+      "sourceCount": 16,
       "periods": [
         2007,
         2020,
@@ -43211,8 +43901,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 15,
-      "analysedCount": 15
+      "accessedCount": 16,
+      "analysedCount": 16
     },
     {
       "id": "fonte-0d9079c114e04a58",
@@ -43914,10 +44604,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
-      "lastConsultedAt": "2026-10-25T07:48:26.209Z",
+      "lastConsultedAt": "2026-10-25T08:43:25.438Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 275,
+      "sourceCount": 283,
       "periods": [
         2018,
         2019,
@@ -43938,8 +44628,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 274,
-      "analysedCount": 258
+      "accessedCount": 282,
+      "analysedCount": 266
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -47013,6 +47703,78 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-f63aa032bdc2991c",
+      "itemId": "pesquisa-b8337480d4ad358a",
+      "title": "Congresso Nacional: cronologia bicameral e encaminhamento do PL 4598/2025",
+      "date": "2026-07-09",
+      "datePrecision": "day",
+      "context": "O histórico confirma apresentação em 16/09/2025, distribuição a Alessandro Vieira em 17/11/2025, recebimento do relatório em 10/06/2026, retirada e adiamentos antes da aprovação de parecer na CDH, seguida de envio à CCJ. Não indica conversão em lei.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-14985c4e23a3f8bc",
+      "itemId": "pesquisa-659ea4ae2b86e925",
+      "title": "Ficha legislativa do PL 4598/2025: autoria, relatório e encaminhamento à CCJ",
+      "date": "2026-07-09",
+      "datePrecision": "day",
+      "context": "A ficha atribui a Flávio a apresentação em 16/09/2025, identifica relatório favorável com emenda de Alessandro Vieira apresentado em 10/06/2026 e parecer da CDH em 08/07. Em 09/07/2026 registra situação de aguardando designação do relator na CCJ, não aprovação definitiva.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-bbe8c1a47aae9b0c",
+      "itemId": "pesquisa-27221af1c40303b9",
+      "title": "Rádio Senado disponibiliza transcrição da aprovação do PL 4598 na CDH",
+      "date": "2026-07-08",
+      "datePrecision": "day",
+      "context": "Matéria de 09/07/2026 apresenta transcrição textual jornalística do encaminhamento do PL 4598/2025 à CCJ, identifica Flávio como autor, Alessandro como relator e Paulo Paim como leitor do relatório. Refere retirada de 'neurodivergentes' da redação apreciada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-1b83e347664223d6",
+      "itemId": "pesquisa-ffbbd5762abb920e",
+      "title": "Notas taquigráficas da CDH registram leitura de Paulo Paim, posição do PT e ressalvas de Alessandro",
+      "date": "2026-07-08",
+      "datePrecision": "day",
+      "context": "O texto revisto reproduz Paulo Paim afirmando que apoiava o mérito independentemente de Flávio Bolsonaro ser de campo político oposto e que a orientação da bancada do PT foi favorável. Ao ler o parecer de Alessandro, aponta riscos de descontextualizar regra específica de escolas e de usar o conceito amplo 'neurodivergente' na agravante penal. Damares declara aprovação do relatório com a Emenda 1-CDH.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-700c14a366cc06c8",
+      "itemId": "pesquisa-3f37213621a5a72a",
+      "title": "Agência Senado detalha mudança de redação: expressão neurodivergente retirada da agravante",
+      "date": "2026-07-08",
+      "datePrecision": "day",
+      "context": "Reportagem da Agência Senado apresenta a defesa pública da proposta pelo autor Flávio, informa que a versão aprovada na CDH suprimiu o termo 'neurodivergente' da agravante e atribui a Alessandro a fundamentação baseada na definição jurídica da deficiência e na amplitude da expressão retirada. Também descreve preservação da regra específica do ambiente escolar.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-42a846e65431db91",
+      "itemId": "pesquisa-2c142ee593a4bf64",
+      "title": "CDH em 08/07/2026 aprova parecer com Emenda 1-CDH para PL 4598",
+      "date": "2026-07-08",
+      "datePrecision": "day",
+      "context": "O resultado oficial da 50ª reunião registra que Damares designou Paulo Paim relator ad hoc para apresentar parecer de Alessandro Vieira, aprovado pela comissão com a Emenda 1-CDH. Atribuições distintas foram preservadas. Deliberação de comissão não equivale à aprovação definitiva do projeto.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-a013db4be9b5cc89",
+      "itemId": "pesquisa-462c87cf194a38f6",
+      "title": "CDH em 01/07/2026 novamente adia o PL 4598/2025",
+      "date": "2026-07-01",
+      "datePrecision": "day",
+      "context": "O resultado da 46ª reunião, item 10, indica 'Adiado' para o PL 4598/2025; o relatório favorável ainda não havia sido aprovado nessa sessão.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-6854a47941b43423",
+      "itemId": "pesquisa-dbabe0c6ca6d9dc4",
+      "title": "CDH em 24/06/2026 adia deliberação do PL 4598/2025",
+      "date": "2026-06-24",
+      "datePrecision": "day",
+      "context": "A reunião da Comissão de Direitos Humanos registrou adiamento da apreciação do PL 4598/2025. A aprovação só viria em reunião posterior, em 08/07.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-e415edbd21abcb55",
       "itemId": "pesquisa-76a29837ce2bdf3c",
       "title": "VET 29/2024: veto parcial ainda sem apreciação no painel do Congresso",
@@ -47028,6 +47790,15 @@
       "date": "2026-06-18",
       "datePrecision": "day",
       "context": "Reportagem de 18/06/2026 atribui a Flávio a defesa de reduzir maioridade penal para 16 anos em geral e 14 para crimes hediondos ao apresentar o programa Brasil sem Medo. Ele fez referência a uma PEC 'de minha autoria', cuja identificação exige pesquisa específica; não confundir sem confirmação com a posterior Emenda 84 de 14/10, cujo proponente oficial foi Rogerio Marinho.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-1d6429e68c8efe77",
+      "itemId": "pesquisa-f0ee9a307078ede8",
+      "title": "CDH em 17/06/2026 retira PL 4598 da pauta sem decisão de mérito",
+      "date": "2026-06-17",
+      "datePrecision": "day",
+      "context": "A 39ª reunião registrou o PL 4598/2025 como item 8, com relatório favorável com emenda, mas resultado 'Retirado de pauta'. Essa sessão não aprovou o projeto.",
       "state": "data informada pela fonte"
     },
     {
@@ -47856,6 +48627,15 @@
       "date": "2025-07-02",
       "datePrecision": "day",
       "context": "Flávio registrou oposição à medida provisória do crédito consignado para trabalhadores da CLT e alegou consequências sobre endividamento e juros. As cifras econômicas que utilizou não foram conferidas com bases originais.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-6046308cf6861d9e",
+      "itemId": "pesquisa-02e7bd4e5a55d60e",
+      "title": "Lei 15.159/2025: redação vigente originalmente usada como referência no parecer",
+      "date": "2025-07-03",
+      "datePrecision": "day",
+      "context": "Texto publicado da Lei 15.159/2025 modifica o Código Penal para agravar delitos em instituições de ensino. O art. 129 §12 II prevê aumento de pena para lesão dolosa ocorrida nessas dependências quando a vítima for pessoa com deficiência ou com condição limitante, entre outros casos. Serve de referência para compreender a alteração proposta pelo PL 4598, sem tratá-lo como lei em vigor.",
       "state": "data informada pela fonte"
     },
     {
@@ -56357,6 +57137,94 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-f63aa032bdc2991c",
+      "itemId": "pesquisa-b8337480d4ad358a",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-4598-2025",
+      "locator": "Seção Tramitação, eventos de 16/09/2025 a 09/07/2026 (linhas 24-110).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-14985c4e23a3f8bc",
+      "itemId": "pesquisa-659ea4ae2b86e925",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170486",
+      "locator": "Cabeçalho e situação (linhas 20-52); documentos e autoria/relatoria (linhas 74-122).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-bbe8c1a47aae9b0c",
+      "itemId": "pesquisa-27221af1c40303b9",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/07/09/comissao-aprova-mais-protecao-a-pessoas-com-deficiencia-vitimas-de-crimes",
+      "locator": "Transcrição publicada na reportagem de Patrícia Oliveira, linhas 9-24; duração indicada apenas pelo player.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-1b83e347664223d6",
+      "itemId": "pesquisa-ffbbd5762abb920e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14825",
+      "locator": "50ª reunião, item 6 do PL 4598/2025, linhas 93-114, com autoria identificada por intervenções.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-700c14a366cc06c8",
+      "itemId": "pesquisa-3f37213621a5a72a",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/07/08/vai-a-ccj-aumento-de-pena-para-crimes-contra-pessoa-com-deficiencia",
+      "locator": "Reportagem de 08/07/2026, parágrafos sobre proposta e redação (linhas 23-38).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-42a846e65431db91",
+      "itemId": "pesquisa-2c142ee593a4bf64",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14825",
+      "locator": "50ª CDH, item 6, linhas 233-247.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-a013db4be9b5cc89",
+      "itemId": "pesquisa-462c87cf194a38f6",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14794",
+      "locator": "46ª CDH, item 10, linhas 296-310.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-6854a47941b43423",
+      "itemId": "pesquisa-dbabe0c6ca6d9dc4",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14774",
+      "locator": "Registro do item PL 4598/2025 na 43ª reunião, campos Resultado e Relatoria; conferir também histórico da matéria.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-e415edbd21abcb55",
       "itemId": "pesquisa-76a29837ce2bdf3c",
       "sourceId": "fonte-ad60f42b08c8e9e7",
@@ -56373,6 +57241,17 @@
       "sourceId": "fonte-0a4536d177e98be8",
       "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/18/flavio-bolsonaro-defende-reducao-da-maioridade-penal-para-16-anos-14-em-crimes-hediondos.htm",
       "locator": "Reportagem de 18/06/2026, cabeçalho e parágrafos do anúncio político, representação HTML linhas 189–200.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-1d6429e68c8efe77",
+      "itemId": "pesquisa-f0ee9a307078ede8",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14728",
+      "locator": "39ª CDH, item 8, campos Relator/Relatório/Resultado, linhas 295-309.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -57385,6 +58264,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/514806",
       "locator": "Pronunciamento 514806, Texto integral, DSF de 03/07/2025, p. 45.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-6046308cf6861d9e",
+      "itemId": "pesquisa-02e7bd4e5a55d60e",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15159-3-julho-2025-797686-publicacaooriginal-175803-pl.html",
+      "locator": "Artigos 1º e 2º, redação do art. 129 §12 II, linhas 23-49.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -61463,15 +62353,15 @@
     },
     {
       "year": 2025,
-      "found": 72,
-      "accessed": 72,
-      "analysed": 69,
+      "found": 73,
+      "accessed": 73,
+      "analysed": 70,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 3,
-        "analisado": 69,
+        "analisado": 70,
         "revisado": 0,
         "publicado": 0
       },
@@ -61484,7 +62374,7 @@
         "PL 5582/2025": 1,
         "PL 1087/2025": 1,
         "imagem sintética": 1,
-        "Flávio Bolsonaro": 5,
+        "Flávio Bolsonaro": 6,
         "PL 2169/2019": 5,
         "Senado": 4,
         "medidas socioeducativas": 1,
@@ -61516,7 +62406,7 @@
       "sources": {
         "fonte-ab7ca292b805c308": 1,
         "fonte-2acd9e7dc92e583a": 56,
-        "fonte-29a2bae5277f274b": 6,
+        "fonte-29a2bae5277f274b": 7,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
         "fonte-ad60f42b08c8e9e7": 1,
@@ -61526,7 +62416,7 @@
       },
       "formats": {
         "audio": 1,
-        "documento": 46,
+        "documento": 47,
         "registro": 5,
         "checagem": 6,
         "reportagem": 13,
@@ -61536,22 +62426,22 @@
     },
     {
       "year": 2026,
-      "found": 291,
-      "accessed": 291,
-      "analysed": 285,
+      "found": 300,
+      "accessed": 300,
+      "analysed": 294,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 6,
-        "analisado": 285,
+        "analisado": 294,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "debate da Globo": 91,
         "checagens": 1,
-        "Flávio Bolsonaro": 20,
+        "Flávio Bolsonaro": 29,
         "licença-maternidade": 1,
         "assistência social": 1,
         "eleições": 6,
@@ -61626,7 +62516,7 @@
         "fonte-f1199c02c1d5a933": 1,
         "fonte-f963e021c7cefa6f": 2,
         "fonte-9c2fbd587c9a9fb0": 6,
-        "fonte-2acd9e7dc92e583a": 39,
+        "fonte-2acd9e7dc92e583a": 47,
         "fonte-b1a6d0a350c2f59a": 1,
         "fonte-4114d6bfe97e1092": 1,
         "fonte-0a4536d177e98be8": 2,
@@ -61641,7 +62531,7 @@
         "fonte-cd19e6197d9bdf02": 1,
         "fonte-7d7b950bffc2fe29": 8,
         "fonte-508d60279dcebcef": 1,
-        "fonte-ad60f42b08c8e9e7": 1,
+        "fonte-ad60f42b08c8e9e7": 2,
         "fonte-050cd7980a113c02": 1,
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
@@ -61651,20 +62541,20 @@
       "formats": {
         "video": 7,
         "checagem": 206,
-        "reportagem": 37,
-        "registro": 5,
+        "reportagem": 39,
+        "registro": 11,
         "audio": 3,
-        "documento": 33
+        "documento": 34
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 626,
-    "items": 644,
+    "newItems": 636,
+    "items": 654,
     "alreadyInArchive": 18,
-    "accessed": 641,
-    "analysed": 611,
+    "accessed": 651,
+    "analysed": 621,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -61676,12 +62566,12 @@
     "sourcesConsulted": 59,
     "video": 19,
     "audio": 8,
-    "documents": 243,
+    "documents": 245,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 205,
-    "accessFailures": 50,
+    "queryCount": 210,
+    "accessFailures": 53,
     "undatedItems": 38
   },
   "queries": [
@@ -63063,6 +63953,51 @@
       "resultsState": "Artigos 61 e 40 localizados; discrepância entre ementa HTML e data real do decreto-lei registrada como precisão de metadado."
     },
     {
+      "id": "consulta-933fd9e7ebe69a3e",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+      "query": "site:senado.leg.br PL 4598 2025 Flávio Bolsonaro relatório Alessandro Vieira CDH neurodivergentes",
+      "executedAt": "2026-10-25T08:43:25.438Z",
+      "engine": "web.run, busca e abertura direta de HTML do Senado",
+      "interval": "2025-2026",
+      "resultsState": "Ficha, relatório e deliberação localizados; separada autoria de relatoria e distinguida aprovação de parecer de lei vigente."
+    },
+    {
+      "id": "consulta-8095cf8a05f1648f",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+      "query": "PL 4598/2025 notas taquigráficas 08 julho 2026 Paulo Paim Damares Flávio",
+      "executedAt": "2026-10-25T08:43:25.438Z",
+      "engine": "web.run, leitura de transcrição institucional textual",
+      "interval": "2026-07-08",
+      "resultsState": "Localizada e lida a íntegra textual do item 6 com explicações técnicas do relator apresentadas ad hoc, manifestações de Paim e Damares; áudio não reproduzido."
+    },
+    {
+      "id": "consulta-86617d90dcfaa081",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+      "query": "PL 4598 2025 retirada 17 junho adiado 24 junho 1 julho comissão direitos humanos",
+      "executedAt": "2026-10-25T08:43:25.438Z",
+      "engine": "web.run, leitura das três reuniões e tramitação do Congresso",
+      "interval": "2026-06-17 a 2026-07-01",
+      "resultsState": "Identificada retirada da pauta e dois adiamentos anteriores à aprovação do parecer em 08/07."
+    },
+    {
+      "id": "consulta-417ade6ede3ef67f",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+      "query": "Lei 15.159 2025 Código Penal lesão corporal instituição de ensino 129 parágrafo 12",
+      "executedAt": "2026-10-25T08:43:25.438Z",
+      "engine": "web.run, abertura de legislação informatizada da Câmara",
+      "interval": "2025",
+      "resultsState": "Consultado texto legal-base com condição espacial escolar; PL 4598 não foi apresentado como lei sancionada."
+    },
+    {
+      "id": "consulta-efc7c75c172c6bbb",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+      "query": "Repositório QGBALTIGO/Internacional materiais PL 4598/2025 170486",
+      "executedAt": "2026-10-25T08:43:25.438Z",
+      "engine": "Conector GitHub, busca de código e leitura amostral de checkpoints anteriores",
+      "interval": "Catálogo até 644 itens no commit e77d01b5",
+      "resultsState": "Nenhuma correspondência por nome/identificador entre checkpoints inspecionados; eventual URL repetida será consolidada pelo build_research.py sem criar material duplicado."
+    },
+    {
       "id": "consulta-908b3c4f53e33516",
       "batch": "primarias-20261024-02",
       "query": "site:alerj.rj.gov.br \"Flávio Bolsonaro\" 2012 projeto lei",
@@ -63797,6 +64732,22 @@
       "batch": "pl4244-agravante-cdh-ccj-20261025-32",
       "url": "https://legis.senado.leg.br/sdleg-getter/documento/download/6ea8ccf0-b2d2-4d09-b258-d7e24222dbde",
       "reason": "Captura de página interna do PDF de pauta retornou tela de segurança; extração parcial/indexada não é inspeção visual completa. Não catalogado como integral acessada."
+    },
+    {
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=10053568&rendition_principal=S&ts=1785790418173",
+      "status": "Página de verificação de segurança na tentativa de acesso",
+      "note": "Não houve leitura integral do PDF do texto inicial pelo visualizador. A autoria e a ementa foram consultadas na ficha oficial."
+    },
+    {
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=10242961&rendition_principal=S&ts=1785790418472",
+      "status": "Página de verificação de segurança na tentativa de acesso",
+      "note": "Não houve leitura integral do PDF do relatório/emenda; diferenças de redação são atribuídas à Agência Senado e às notas taquigráficas."
+    },
+    {
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
+      "note": "Vídeo e áudio referenciados nas páginas da CDH e da Rádio Senado não foram reproduzidos nesta execução; total ouvido e revisado: zero segundos."
     },
     {
       "batch": "primarias-20261024-02",
@@ -64643,6 +65594,42 @@
       "batch": "pl4244-agravante-cdh-ccj-20261025-32"
     },
     {
+      "id": "lacuna-0ed29430aa57de2d",
+      "note": "PL 4598/2025: obter PDFs íntegros do texto inicial, parecer 105/2026-CDH e Emenda 1-CDH para cotejar termos 'neurodivergente', escolas e agravantes antes de avaliação jurídica editorial.",
+      "state": "pendente",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35"
+    },
+    {
+      "id": "lacuna-28d5688d00e2cfd0",
+      "note": "PL 4598/2025: confrontar observação de Damares sobre neurodivergência nas notas da CDH (linhas 112-114) com redação efetivamente aprovada, distinguindo cobertura jurídica parcial de redação literal; nenhuma contradição classificada.",
+      "state": "pendente",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35"
+    },
+    {
+      "id": "lacuna-9e4246df96ca5fb2",
+      "note": "PL 4598/2025: reconsultar CCJ após situação oficial de 09/07/2026; parecer favorável na CDH não é aprovação final nem lei.",
+      "state": "pendente",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35"
+    },
+    {
+      "id": "lacuna-f588bb35794c97b3",
+      "note": "PL 4598/2025: análise da aplicação conjunta da Lei 15.159/2025 e da Lei Brasileira de Inclusão exige legislação compilada e revisão jurídica humana identificada.",
+      "state": "pendente",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35"
+    },
+    {
+      "id": "lacuna-b00fe7b4e5002f78",
+      "note": "Em eventual conferência audiovisual da 50ª CDH, registrar somente segmentos realmente reproduzidos; até aqui há apenas transcrição textual institucional.",
+      "state": "pendente",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35"
+    },
+    {
+      "id": "lacuna-2fc6cc4a5e275d9b",
+      "note": "Novos vereditos, acusações e comparações sensíveis permanecem pendentes de revisor editorial humano autorizado; approvedReviewerIds não deve ser alterado.",
+      "state": "pendente",
+      "batch": "pl4598-deficiencia-cdh-ccj-20261025-35"
+    },
+    {
       "id": "lacuna-d791a02351ceee92",
       "note": "Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.",
       "state": "pendente",
@@ -65134,6 +66121,12 @@
       "title": "Ficha do PL 4244/2025 previamente catalogada (não repetida)",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170061",
       "role": "referência pré-existente; consulta do recorte sem criar URL duplicada"
+    },
+    {
+      "id": "checkpoint-20261025-35",
+      "label": "PL 4598/2025, tramitação Senado, argumentos e contrapontos em CDH, contexto Lei 15.159/2025",
+      "collected_at_utc": "2026-10-25T08:43:25.438Z",
+      "method": "10 URLs oficiais/legislativas e publicações institucionais HTML abertas; 0 segundos de mídia ouvidos, sem novos revisores ou classificações."
     },
     {
       "name": "Checagem ao Vivo",

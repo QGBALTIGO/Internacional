@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T07:48:36.579902Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T08:43:36.780159Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-644 URLs únicas no lote; 626 ainda não vinculadas à edição anterior. 641 materiais acessados e 611 com texto analisado.
+654 URLs únicas no lote; 636 ainda não vinculadas à edição anterior. 651 materiais acessados e 621 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -34,8 +34,8 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 29 | 29 | 27 | 0 | 0 |
 | 2024 | 50 | 50 | 49 | 0 | 0 |
-| 2025 | 72 | 72 | 69 | 0 | 0 |
-| 2026 | 291 | 291 | 285 | 0 | 0 |
+| 2025 | 73 | 73 | 70 | 0 | 0 |
+| 2026 | 300 | 300 | 294 | 0 | 0 |
 
 Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -168,6 +168,12 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - Procurar manifestações técnicas ou críticas específicas à tipificação e proporcionalidade, distinguindo propostas de terceiros de posições de Flávio.
 - Quando permitido, comparar notas oficiais com gravação da 21ª CDH; zero segundos de áudio ou vídeo revisados nesta coleta.
 - Discrepância da ementa HTML do Congresso que aponta 7 de setembro para o Código Penal: confrontar o avulso inicial e versões redacionais quando PDF estiver acessível; Planalto data o Decreto-Lei 2848 em 7 de dezembro de 1940.
+- PL 4598/2025: obter PDFs íntegros do texto inicial, parecer 105/2026-CDH e Emenda 1-CDH para cotejar termos 'neurodivergente', escolas e agravantes antes de avaliação jurídica editorial.
+- PL 4598/2025: confrontar observação de Damares sobre neurodivergência nas notas da CDH (linhas 112-114) com redação efetivamente aprovada, distinguindo cobertura jurídica parcial de redação literal; nenhuma contradição classificada.
+- PL 4598/2025: reconsultar CCJ após situação oficial de 09/07/2026; parecer favorável na CDH não é aprovação final nem lei.
+- PL 4598/2025: análise da aplicação conjunta da Lei 15.159/2025 e da Lei Brasileira de Inclusão exige legislação compilada e revisão jurídica humana identificada.
+- Em eventual conferência audiovisual da 50ª CDH, registrar somente segmentos realmente reproduzidos; até aqui há apenas transcrição textual institucional.
+- Novos vereditos, acusações e comparações sensíveis permanecem pendentes de revisor editorial humano autorizado; approvedReviewerIds não deve ser alterado.
 - Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.
 - Confirmar desfecho legislativo após comunicação de veto total ao PL 3003/2014.
 - Conferir Diários e gravações integrais antes de novas citações, timestamps, comparações ou vereditos; áudio ouvido nesta coleta: zero segundos.
@@ -280,6 +286,9 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - batch: pl2169-cdh-substitutivo-tramitacao-20261025-28; source: https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728; status: inspeção visual bloqueada; note: Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10201058&rendition_principal=S&ts=1775771078593; reason: Visualização do PDF institucional devolveu desafio de verificação de segurança, inclusive em captura de tela; não declarar PDF integral lido nem emenda conferida.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento/download/6ea8ccf0-b2d2-4d09-b258-d7e24222dbde; reason: Captura de página interna do PDF de pauta retornou tela de segurança; extração parcial/indexada não é inspeção visual completa. Não catalogado como integral acessada.
+- batch: pl4598-deficiencia-cdh-ccj-20261025-35; url: https://legis.senado.leg.br/sdleg-getter/documento?dm=10053568&rendition_principal=S&ts=1785790418173; status: Página de verificação de segurança na tentativa de acesso; note: Não houve leitura integral do PDF do texto inicial pelo visualizador. A autoria e a ementa foram consultadas na ficha oficial.
+- batch: pl4598-deficiencia-cdh-ccj-20261025-35; url: https://legis.senado.leg.br/sdleg-getter/documento?dm=10242961&rendition_principal=S&ts=1785790418472; status: Página de verificação de segurança na tentativa de acesso; note: Não houve leitura integral do PDF do relatório/emenda; diferenças de redação são atribuídas à Agência Senado e às notas taquigráficas.
+- batch: pl4598-deficiencia-cdh-ccj-20261025-35; note: Vídeo e áudio referenciados nas páginas da CDH e da Rádio Senado não foram reproduzidos nesta execução; total ouvido e revisado: zero segundos.
 - batch: primarias-20261024-02; source: Executor local de scripts; error: Sem checkout Git ou terminal remoto conectado nesta execução. Normalização content/research.json e dist/data/research.json e research.js pendente; não afirmar publicação automática.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2003–2008; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/e00a7c3c8652b69a83256cca00646ee5/5cbef3b7651fa94c83256f6c0060c240; error: Abertura da fonte oficial retornou 502. Somente resultado de busca, não lido na íntegra; não incluído no catálogo.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2004; url: https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/b24a2da5a077847c032564f4005d4bf2/5aacd46ba577c4f983256ebb006214b9; error: Abertura da página de lei antiga retornou erro de gateway; não registrar sua ementa ou efeito como texto consultado.
