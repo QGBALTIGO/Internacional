@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T12:00:25.777247Z",
-    "inputHash": "e6cc43c14cda6d2497a96d27737234d96f398df14f2ad5a5792b7d5b7f04f6f7",
+    "generatedAt": "2026-10-25T13:01:35.514994Z",
+    "inputHash": "69225850ef23153d292c7b14794d34cbf5235d63e1fa4f32f129b5f4f6568eae",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -25328,6 +25328,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-8223c0cfad6f681f",
+      "title": "Migalhas distingue autoria, emendas e requisitos debatidos após aprovação do PL 2734/2021 na CSP",
+      "url": "https://www.migalhas.com.br/quentes/428037/comissao-de-seguranca-do-senado-aprova-porte-de-arma-para-advogadosAGORA",
+      "publisher": "Migalhas, redação",
+      "date": "2025-04-09",
+      "eventDate": "2025-04-08",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2734/2021",
+      "topics": [
+        "PL 2734/2021",
+        "emendas",
+        "parecer da CSP",
+        "contexto jornalístico"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 9 de abril resume parecer de Alessandro Vieira, alteração da exigência subjetiva, emendas de Moro e Contarato, restrições de locais e prejudicialidade da proposição conexa de Cleitinho. Informa remessa à CCJ, não sanção. Material identifica Agência Senado como fonte das informações.",
+      "limitations": "Material derivado explicitamente da Agência Senado, não fonte independente. Número sobre mortes de advogados entre 2016 e 2019 aparece como justificativa atribuída a Flávio e não foi conferido em levantamento original. Nenhuma aprovação de lei comprovada.",
+      "locator": "Migalhas, 09/04/2025, corpo e atribuição da fonte, linhas 10-17 e 30-56.",
+      "sourceId": "fonte-d71cdccc4686b5ec",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:01:23.820Z",
+      "lastModifiedAt": "2026-10-25T13:01:23.820Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (justificativa reportada); Alessandro Vieira (relator); Sergio Moro e Fabiano Contarato (emendas descritas)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2734/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+          "inputId": "pl2734-advocacia-oab-contexto-20261025-39-06",
+          "toolReference": "turn751218view1"
+        }
+      ],
+      "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-550defdd91c58d36",
       "title": "Notas taquigráficas da CDH: leitura do substitutivo por Plínio Valério em 09/04/2025",
       "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/13425",
@@ -25530,6 +25597,74 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-c151bc173a1bc13a",
+      "title": "Ficha do PL 2530/2024 distingue autoria de Cleitinho e tramitação conjunta com o PL 2734/2021",
+      "url": "https://www25.senado.leg.br/en/web/atividade/materias/-/materia/164284",
+      "publisher": "Senado Federal, Atividade Legislativa",
+      "date": "2025-04-08",
+      "eventDate": "2025-04-08",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 2734/2021",
+      "topics": [
+        "PL 2734/2021",
+        "PL 2530/2024",
+        "Cleitinho",
+        "ABRACRIM",
+        "tramitação no Senado"
+      ],
+      "stage": "analisado",
+      "summary": "A página oficial identifica o PL 2530/2024 como proposição de Cleitinho, distinta do PL 2734/2021 de Flávio Bolsonaro. Registra aprovação do parecer da CSP sobre tramitação conjunta, com prejudicialidade do PL 2530, e posterior situação na CCJ aguardando designação de relator, com último estado datado de 8 de abril de 2025. Lista o Ofício 27/2025 da ABRACRIM favorável aos dois projetos; a peça PDF não foi lida.",
+      "limitations": "Versão /en/web/ da ficha consultada; endereço /web/ em português não abriu em uma tentativa. PDFs do parecer, ofício e texto inicial não examinados; não inferir aprovação definitiva nem posição de toda a OAB pelo ofício de associação profissional.",
+      "locator": "Título, autoria e situação, linhas 38-55; documentos e parecer conjunto, linhas 118-155; ofício ABRACRIM, linhas 148-159.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:01:23.820Z",
+      "lastModifiedAt": "2026-10-25T13:01:23.820Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senador Cleitinho (autor do PL 2530/2024); Alessandro Vieira (relator da CSP)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2530/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+          "inputId": "pl2734-advocacia-oab-contexto-20261025-39-03",
+          "toolReference": "turn240003view2"
+        }
+      ],
+      "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-b43b455335b5b315",
       "title": "Rádio Senado: notícia de 08/04/2025 contextualiza a aprovação do porte para advogados somente na CSP",
       "url": "https://www12.senado.leg.br/noticias/audios/2025/04/csp-autoriza-porte-de-arma-para-advogados",
@@ -25597,6 +25732,140 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-91dee8ae6b774c52",
+      "title": "Agência Estado descreve discussão e objeções ao porte para advogados antes da votação de 08/04/2025",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2025/04/08/comissao-do-senado-avalia-porte-de-arma-automatico-para-14-milhao-de-advogados.htm",
+      "publisher": "Agência Estado, publicada pelo UOL",
+      "date": "2025-04-08",
+      "eventDate": "2025-04-08",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2734/2021",
+      "topics": [
+        "PL 2734/2021",
+        "debate anterior à votação",
+        "argumentação pública",
+        "contexto crítico"
+      ],
+      "stage": "analisado",
+      "summary": "Matéria das 11h01 registra a proposta ainda em discussão, a justificativa pública atribuída a Flávio sobre ameaças decorrentes do exercício profissional e questionamentos aos critérios do porte. É um retrato anterior ao resultado da reunião, cujo substitutivo e exigências foram descritos depois pelo Senado e demais fontes.",
+      "limitations": "O título usa 'automático' em fase anterior à votação; não estender esse adjetivo ao texto aprovado na CSP. Número estimado de inscritos e riscos afirmados na notícia não foram checados em bases originais. Material sindicalizado, não verificação independente de outros veículos que o reproduzem.",
+      "locator": "UOL, texto da Agência Estado, 08/04/2025 às 11h01, título e parágrafos de abertura nas linhas 189-201; debate e ressalvas nos parágrafos subsequentes.",
+      "sourceId": "fonte-0a4536d177e98be8",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:01:23.820Z",
+      "lastModifiedAt": "2026-10-25T13:01:23.820Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (autor, fala atribuída pela reportagem); senadores mencionados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2734/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+          "inputId": "pl2734-advocacia-oab-contexto-20261025-39-05",
+          "toolReference": "turn240003view4"
+        }
+      ],
+      "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-8bb5acb2917176c4",
+      "title": "Rádio Senado publica transcrição jornalística sobre aprovação na CSP e requisitos do substitutivo",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/04/08/comissao-de-seguranca-autoriza-porte-de-arma-para-advogados",
+      "publisher": "Rádio Senado, reportagem de Marcella Cunha",
+      "date": "2025-04-08",
+      "eventDate": "2025-04-08",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "PL 2734/2021",
+      "topics": [
+        "PL 2734/2021",
+        "Rádio Senado",
+        "substitutivo",
+        "debate público"
+      ],
+      "stage": "analisado",
+      "summary": "Transcrição divulgada pela Rádio Senado informa que o substitutivo aprovado na CSP exige exercício efetivo da advocacia e mantém requisitos técnicos, psicológicos e de idoneidade. O texto atribui a Alessandro Vieira a defesa de que não se trata de liberação indiscriminada; registra somente votação em comissão e encaminhamento à CCJ.",
+      "limitations": "Somente HTML e transcrição editorial da rádio examinados; 0 segundos de áudio reproduzidos, nenhum timestamp do conteúdo auditivo ou citação literal por audição validada. A duração é metadado do publicador.",
+      "locator": "Página Rádio Senado: cabeçalho linhas 9-15; transcrição publicada linhas 20-24; duração nominal do áudio 02:18.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:01:23.820Z",
+      "lastModifiedAt": "2026-10-25T13:01:23.820Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Alessandro Vieira (fala atribuída pela reportagem); Flávio Bolsonaro (autor do PL)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2734/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+          "inputId": "pl2734-advocacia-oab-contexto-20261025-39-02",
+          "toolReference": "turn240003view1"
+        }
+      ],
+      "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-54edc85fc9da95cd",
       "title": "Senado: notas da votação de 08/04/2025 registram mudanças nas emendas e ressalvas ao PL 2734/2021",
       "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/13420",
@@ -25661,6 +25930,73 @@
         }
       ],
       "accessMethod": "Página pública em HTML aberta pelo web.run em 24/10/2026, com leitura de trechos pertinentes. collected_at registra o fechamento documental do lote, não o instante exato da consulta. Sem audição própria, sem download de vídeo nem conferência de PDFs.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-14c2b7850bc5cfcf",
+      "title": "CNN registra a aprovação da CSP em 08/04/2025, ressalvando etapa pendente na CCJ",
+      "url": "https://www.cnnbrasil.com.br/politica/comissao-do-senado-aprova-porte-de-arma-para-advogados/",
+      "publisher": "CNN Brasil",
+      "date": "2025-04-08",
+      "eventDate": "2025-04-08",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2734/2021",
+      "topics": [
+        "PL 2734/2021",
+        "imprensa",
+        "condições propostas",
+        "CCJ"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem publicada após a reunião de 8 de abril informa a aprovação do PL 2734/2021 na Comissão de Segurança Pública, descreve limitações relativas a prédios judiciários e outros locais e destaca que a CCJ ainda teria de examinar a proposta. Não constitui lei em vigor nem votação final.",
+      "limitations": "Texto jornalístico secundário; o relatório e as emendas em PDF não foram examinados. A imagem de capa é da sessão, sem prova de voto nominal do retratado.",
+      "locator": "CNN Brasil, 08/04/2025, 15h50; chamada e corpo da matéria, linhas 20-43.",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:01:23.820Z",
+      "lastModifiedAt": "2026-10-25T13:01:23.820Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (autor); Alessandro Vieira (relator), segundo CNN",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2734/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+          "inputId": "pl2734-advocacia-oab-contexto-20261025-39-04",
+          "toolReference": "turn240003view3"
+        }
+      ],
+      "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
       "newToArchive": true
     },
     {
@@ -26061,6 +26397,72 @@
         }
       ],
       "accessMethod": "Página pública em HTML aberta pelo web.run em 24/10/2026, com leitura de trechos pertinentes. collected_at registra o fechamento documental do lote, não o instante exato da consulta. Sem audição própria, sem download de vídeo nem conferência de PDFs.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-23296046ba59f824",
+      "title": "OAB de Santa Catarina manifesta apoio ao PL 2734/2021 e acompanha pedido de vista em 01/04/2025",
+      "url": "https://old.oab-sc.org.br/noticias/oabsc-vai-brasilia-para-aprovar-porte-arma-advocacia-em-condicoes-equivalentes-juizes-e-membros-do-m/23389",
+      "publisher": "OAB Santa Catarina, comunicação institucional",
+      "date": "2025-04-01",
+      "eventDate": "2025-04-01",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 2734/2021",
+      "topics": [
+        "PL 2734/2021",
+        "posição pública da OAB/SC",
+        "porte de arma para advogados"
+      ],
+      "stage": "analisado",
+      "summary": "A seccional catarinense informou mobilização favorável ao porte para a advocacia e presença de representantes em Brasília durante a tramitação do PL 2734/2021; registrou que o debate da CSP de 1º de abril foi suspenso por vista. A posição é da OAB/SC, não uma deliberação nacional do Conselho Federal da OAB.",
+      "limitations": "Artigo institucional de uma seccional; não comprova opinião unânime da categoria nem posição formal do Conselho Federal. Vídeo incorporado e documentos externos não reproduzidos nem abertos.",
+      "locator": "Página institucional, data e título, linhas 74-81; parágrafos iniciais e manifestação da seccional, linhas 80-86.",
+      "sourceId": "fonte-29c88c4f33178543",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:01:23.820Z",
+      "lastModifiedAt": "2026-10-25T13:01:23.820Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "OAB/SC manifestou apoio público em 01/04/2025; a nota não equivale a manifestação formal da OAB nacional.",
+      "actor": "OAB/SC; representantes mencionados Rafael Horn e Rafael Piva Neves",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2734/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+          "inputId": "pl2734-advocacia-oab-contexto-20261025-39-01",
+          "toolReference": "turn240003view0"
+        }
+      ],
+      "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
       "newToArchive": true
     },
     {
@@ -42979,6 +43381,209 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-0e54b403fa47d6b5",
+      "title": "Arquivo da OAB nacional de 2005 registra proposta anterior de Roberto Jefferson sobre porte para advogados",
+      "url": "https://www.oab.org.br/noticia/3845/porte-de-arma-para-advogado-pode-ser-autorizado",
+      "publisher": "OAB, portal nacional",
+      "date": "2005-03-16",
+      "eventDate": "2005-03-16",
+      "year": 2005,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "antecedentes legislativos",
+      "topics": [
+        "antecedentes legislativos",
+        "OAB",
+        "PL 4869/2005",
+        "porte para advogados"
+      ],
+      "stage": "analisado",
+      "summary": "A publicação institucional de 2005 noticia projeto de Roberto Jefferson para incluir advogados entre pessoas habilitadas ao porte e reproduz parte do texto legislativo então proposto. Trata-se de antecedente histórico independente do PL 2734/2021, não de apoio do Conselho Federal da OAB a este projeto de 2021.",
+      "limitations": "Contexto histórico sobre proposição de outro autor e outro período. Não permite concluir posição da entidade nacional em 2025, nem situação legislativa atual do PL 4869/2005.",
+      "locator": "OAB Nacional, notícia de 16/03/2005, título, parágrafos e identificação do PL 4869/05, linhas 42-53.",
+      "sourceId": "fonte-8f89d009ea9e0f4d",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:01:23.820Z",
+      "lastModifiedAt": "2026-10-25T13:01:23.820Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Deputado Roberto Jefferson (autor do PL 4869/2005)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 4869/2005",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+          "inputId": "pl2734-advocacia-oab-contexto-20261025-39-07",
+          "toolReference": "turn240003view5"
+        }
+      ],
+      "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-cf3a1e398a1e4936",
+      "title": "Lei 10.826/2003, Estatuto do Desarmamento, texto oficial compilado",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm",
+      "publisher": "Presidência da República, Planalto",
+      "date": "2003-12-22",
+      "eventDate": "2003-12-22",
+      "year": 2003,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Lei 10.826/2003",
+      "topics": [
+        "Lei 10.826/2003",
+        "Estatuto do Desarmamento",
+        "fonte primária",
+        "PL 2734/2021"
+      ],
+      "stage": "analisado",
+      "summary": "Texto legal oficial do Estatuto do Desarmamento, que disciplina porte, registro e SINARM e é mencionado como diploma a alterar no PL 2734/2021. Regime legal existente não deve ser confundido com conteúdo ainda proposto pelo projeto.",
+      "limitations": "HTML oficial com caracteres de acentuação parcialmente ilegíveis na extração; verificar versão legislativa específica antes de citar redação literal e alterações posteriores. Não foi baixado PDF nem realizada comparação jurídica integral com substitutivo.",
+      "locator": "Planalto, epígrafe e ementa, linhas 4-13; capítulos I e dispositivos pertinentes a registro/porte na página da lei.",
+      "sourceId": "fonte-4a3b67b508a08327",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:01:23.820Z",
+      "lastModifiedAt": "2026-10-25T13:01:23.820Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Poder Executivo e Congresso Nacional (texto legal)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 10.826/2003",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [
+        "jair-referendo-armas-2005"
+      ],
+      "researchOrigins": [
+        {
+          "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+          "inputId": "pl2734-advocacia-oab-contexto-20261025-39-09",
+          "toolReference": "turn240003view7"
+        }
+      ],
+      "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
+      "newToArchive": false
+    },
+    {
+      "id": "pesquisa-18c8c20b6c28e07a",
+      "title": "Lei 8.906/1994, Estatuto da Advocacia, texto oficial e direitos profissionais",
+      "url": "https://planalto.gov.br/ccivil_03/leis/l8906.htm",
+      "publisher": "Presidência da República, Planalto",
+      "date": "1994-07-04",
+      "eventDate": "1994-07-04",
+      "year": 1994,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Lei 8.906/1994",
+      "topics": [
+        "Lei 8.906/1994",
+        "Estatuto da Advocacia",
+        "fonte primária",
+        "PL 2734/2021"
+      ],
+      "stage": "analisado",
+      "summary": "Texto oficial do Estatuto da Advocacia e da OAB. Registra a estrutura dos direitos do advogado, incluindo o art. 7º, e serve de base para contextualizar as mudanças propostas no PL 2734/2021. A lei e o projeto são objetos distintos.",
+      "limitations": "HTML com problema de codificação de caracteres na extração, não utilizado para transcrição literal. Não foi feita leitura de todos os dispositivos e emendas históricas; vínculo com os textos propostos depende de cotejo do parecer integral.",
+      "locator": "Planalto, identificação e ementa, linhas 4-8; Título I e capítulo dos direitos do advogado, linhas 56-67.",
+      "sourceId": "fonte-4a3b67b508a08327",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:01:23.820Z",
+      "lastModifiedAt": "2026-10-25T13:01:23.820Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Poder Executivo e Congresso Nacional (texto legal)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 8.906/1994",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+          "inputId": "pl2734-advocacia-oab-contexto-20261025-39-10",
+          "toolReference": "turn751218view0"
+        }
+      ],
+      "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-1728d7f796d28666",
       "title": "Lei 8.069/1990, art. 121: texto legal vigente de referência para cotejar prazos propostos para internação",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
@@ -44015,6 +44620,73 @@
         }
       ],
       "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-9e04b59caecbd25d",
+      "title": "Polícia Federal descreve serviço público vigente para solicitação de porte de arma para defesa pessoal",
+      "url": "https://www.gov.br/pt-br/servicos/obter-porte-de-arma-de-fogo",
+      "publisher": "Governo Federal, Polícia Federal, Gov.br",
+      "date": null,
+      "eventDate": null,
+      "year": null,
+      "datePrecision": "unknown",
+      "format": "registro",
+      "topic": "Polícia Federal",
+      "topics": [
+        "Polícia Federal",
+        "regime vigente",
+        "porte de arma",
+        "contexto normativo"
+      ],
+      "stage": "analisado",
+      "summary": "Página do serviço oficial lista necessidade efetiva por atividade de risco ou ameaça, registro da arma, documentação, avaliação de aptidão e procedimento administrativo para pedido de porte pessoal. Serve como contexto do regime geral; não atesta aplicação nem vigência da mudança legislativa proposta para advogados.",
+      "limitations": "Página de serviço atualizável sem data de publicação precisa assumida. Informações administrativas podem sofrer alterações; consultar regras oficiais vigentes antes de afirmar efeitos futuros. Nenhum pedido eletrônico ou acesso a sistema privado foi realizado.",
+      "locator": "Gov.br, seção Quem pode utilizar este serviço e requisitos, linhas 132-144; documentação da etapa, linhas 160-192; base legal e validade, linhas 273-284.",
+      "sourceId": "fonte-2493f19155f121c2",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T13:01:23.820Z",
+      "lastModifiedAt": "2026-10-25T13:01:23.820Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Polícia Federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2734/2021",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+          "inputId": "pl2734-advocacia-oab-contexto-20261025-39-08",
+          "toolReference": "turn240003view6"
+        }
+      ],
+      "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
       "newToArchive": true
     },
     {
@@ -45700,7 +46372,7 @@
       "monitoringEnabled": true,
       "accessNote": "3 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z"
     },
     {
       "id": "fonte-e1c9e5407b4d26a8",
@@ -45715,9 +46387,9 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "monitoringEnabled": true,
-      "accessNote": "3 publicações relacionadas nesta consulta",
+      "accessNote": "4 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z"
     },
     {
       "id": "fonte-a08eae094412f4bb",
@@ -45732,9 +46404,9 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "monitoringEnabled": true,
-      "accessNote": "2 publicações relacionadas nesta consulta",
+      "accessNote": "3 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z"
     },
     {
       "id": "fonte-0a4536d177e98be8",
@@ -45745,19 +46417,20 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T02:57:08Z",
+      "lastConsultedAt": "2026-10-25T13:01:23.820Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "periods": [
+        2025,
         2026
       ],
       "formats": [
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 2,
-      "analysedCount": 2
+      "accessedCount": 3,
+      "analysedCount": 3
     },
     {
       "id": "fonte-cbedaeeb02ac6aaf",
@@ -45837,7 +46510,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z",
       "lastConsultedAt": "2026-10-24T11:14:02.380Z",
       "accessNote": "11 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -46032,19 +46705,20 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T11:19:52.714Z",
+      "lastConsultedAt": "2026-10-25T13:01:23.820Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 8,
+      "sourceCount": 9,
       "periods": [
+        2025,
         2026
       ],
       "formats": [
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 8,
-      "analysedCount": 8
+      "accessedCount": 9,
+      "analysedCount": 9
     },
     {
       "id": "fonte-752f21616c18af3d",
@@ -46422,6 +47096,27 @@
       "analysedCount": 2
     },
     {
+      "id": "fonte-2493f19155f121c2",
+      "name": "Governo Federal, Polícia Federal, Gov.br",
+      "url": "https://www.gov.br/",
+      "responsible": "Governo Federal, Polícia Federal, Gov.br",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T13:01:23.820Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [],
+      "formats": [
+        "registro"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-ffa7a1ba1d5f2ee1",
       "name": "HubPolítico",
       "url": "https://hubpolitico.com.br/",
@@ -46590,7 +47285,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z",
       "lastConsultedAt": "2026-10-24T16:19:40.738Z",
       "accessNote": "4 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -46619,6 +47314,29 @@
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
       "lastConsultedAt": "2026-10-25T10:19:44.690Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2025
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-d71cdccc4686b5ec",
+      "name": "Migalhas, redação",
+      "url": "https://www.migalhas.com.br/",
+      "responsible": "Migalhas, redação",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T13:01:23.820Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
       "sourceCount": 1,
@@ -46702,6 +47420,52 @@
       "analysedCount": 0
     },
     {
+      "id": "fonte-29c88c4f33178543",
+      "name": "OAB Santa Catarina, comunicação institucional",
+      "url": "https://old.oab-sc.org.br/",
+      "responsible": "OAB Santa Catarina, comunicação institucional",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T13:01:23.820Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2025
+      ],
+      "formats": [
+        "registro"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-8f89d009ea9e0f4d",
+      "name": "OAB, portal nacional",
+      "url": "https://www.oab.org.br/",
+      "responsible": "OAB, portal nacional",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T13:01:23.820Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2005
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-e0d802a79452f4db",
       "name": "Partido Liberal (PL), comunicação partidária",
       "url": "https://partidoliberal.org.br/",
@@ -46769,6 +47533,30 @@
       "monitoringEnabled": false,
       "accessedCount": 1,
       "analysedCount": 1
+    },
+    {
+      "id": "fonte-4a3b67b508a08327",
+      "name": "Presidência da República, Planalto",
+      "url": "https://www.planalto.gov.br/",
+      "responsible": "Presidência da República, Planalto",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T13:01:23.820Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 2,
+      "periods": [
+        1994,
+        2003
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 2,
+      "analysedCount": 2
     },
     {
       "id": "fonte-efeb3e40f7290242",
@@ -47030,11 +47818,11 @@
       "nature": "órgão público",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
-      "lastConsultedAt": "2026-10-25T12:00:14.117Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z",
+      "lastConsultedAt": "2026-10-25T13:01:23.820Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 306,
+      "sourceCount": 308,
       "periods": [
         2018,
         2019,
@@ -47055,8 +47843,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 305,
-      "analysedCount": 287
+      "accessedCount": 307,
+      "analysedCount": 289
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -47641,6 +48429,31 @@
       "reviewState": "aguardando revisão",
       "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Somente texto público exibido e metadados foram examinados. Mídia não reproduzida: 0 segundos; duração nominal não é duração ouvida e falas transcritas não foram auditadas no áudio.",
       "researchItemId": "pesquisa-c86b3284c046a0a5",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-8bb5acb2917176c4",
+      "title": "Rádio Senado publica transcrição jornalística sobre aprovação na CSP e requisitos do substitutivo",
+      "type": "audio",
+      "provider": "Rádio Senado, reportagem de Marcella Cunha",
+      "publisher": "Rádio Senado, reportagem de Marcella Cunha",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/noticia/2025/04/08/comissao-de-seguranca-autoriza-porte-de-arma-para-advogados",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/04/08/comissao-de-seguranca-autoriza-porte-de-arma-para-advogados",
+      "date": "2025-04-08",
+      "youtubeId": null,
+      "description": "Transcrição divulgada pela Rádio Senado informa que o substitutivo aprovado na CSP exige exercício efetivo da advocacia e mantém requisitos técnicos, psicológicos e de idoneidade. O texto atribui a Alessandro Vieira a defesa de que não se trata de liberação indiscriminada; registra somente votação em comissão e encaminhamento à CCJ.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Somente HTML e transcrição editorial da rádio examinados; 0 segundos de áudio reproduzidos, nenhum timestamp do conteúdo auditivo ou citação literal por audição validada. A duração é metadado do publicador.",
+      "researchItemId": "pesquisa-8bb5acb2917176c4",
       "review": {
         "state": "aguardando revisão editorial",
         "reviewer": null,
@@ -51504,6 +52317,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-4b4d2e68f2783ab1",
+      "itemId": "pesquisa-8223c0cfad6f681f",
+      "title": "Migalhas distingue autoria, emendas e requisitos debatidos após aprovação do PL 2734/2021 na CSP",
+      "date": "2025-04-08",
+      "datePrecision": "day",
+      "context": "Reportagem de 9 de abril resume parecer de Alessandro Vieira, alteração da exigência subjetiva, emendas de Moro e Contarato, restrições de locais e prejudicialidade da proposição conexa de Cleitinho. Informa remessa à CCJ, não sanção. Material identifica Agência Senado como fonte das informações.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-f550b8ca64bfa17a",
       "itemId": "pesquisa-550defdd91c58d36",
       "title": "Notas taquigráficas da CDH: leitura do substitutivo por Plínio Valério em 09/04/2025",
@@ -51531,6 +52353,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-063f14bb54562ac1",
+      "itemId": "pesquisa-c151bc173a1bc13a",
+      "title": "Ficha do PL 2530/2024 distingue autoria de Cleitinho e tramitação conjunta com o PL 2734/2021",
+      "date": "2025-04-08",
+      "datePrecision": "day",
+      "context": "A página oficial identifica o PL 2530/2024 como proposição de Cleitinho, distinta do PL 2734/2021 de Flávio Bolsonaro. Registra aprovação do parecer da CSP sobre tramitação conjunta, com prejudicialidade do PL 2530, e posterior situação na CCJ aguardando designação de relator, com último estado datado de 8 de abril de 2025. Lista o Ofício 27/2025 da ABRACRIM favorável aos dois projetos; a peça PDF não foi lida.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-a840a02504640e7e",
       "itemId": "pesquisa-b43b455335b5b315",
       "title": "Rádio Senado: notícia de 08/04/2025 contextualiza a aprovação do porte para advogados somente na CSP",
@@ -51540,12 +52371,39 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-fdd652ca131d0878",
+      "itemId": "pesquisa-91dee8ae6b774c52",
+      "title": "Agência Estado descreve discussão e objeções ao porte para advogados antes da votação de 08/04/2025",
+      "date": "2025-04-08",
+      "datePrecision": "day",
+      "context": "Matéria das 11h01 registra a proposta ainda em discussão, a justificativa pública atribuída a Flávio sobre ameaças decorrentes do exercício profissional e questionamentos aos critérios do porte. É um retrato anterior ao resultado da reunião, cujo substitutivo e exigências foram descritos depois pelo Senado e demais fontes.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-b28d644e63dc2032",
+      "itemId": "pesquisa-8bb5acb2917176c4",
+      "title": "Rádio Senado publica transcrição jornalística sobre aprovação na CSP e requisitos do substitutivo",
+      "date": "2025-04-08",
+      "datePrecision": "day",
+      "context": "Transcrição divulgada pela Rádio Senado informa que o substitutivo aprovado na CSP exige exercício efetivo da advocacia e mantém requisitos técnicos, psicológicos e de idoneidade. O texto atribui a Alessandro Vieira a defesa de que não se trata de liberação indiscriminada; registra somente votação em comissão e encaminhamento à CCJ.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-98dad5ea5c2bf5a4",
       "itemId": "pesquisa-54edc85fc9da95cd",
       "title": "Senado: notas da votação de 08/04/2025 registram mudanças nas emendas e ressalvas ao PL 2734/2021",
       "date": "2025-04-08",
       "datePrecision": "day",
       "context": "Na 5ª reunião da CSP, Alessandro Vieira informou acolhimento integral da emenda de Contarato, acolhimento parcial da de Moro e rejeição das duas de Kajuru. O texto discutido condicionava o porte à legislação e a regulamento e previa restrições de entrada armada em locais sujeitos a segurança própria. Moro justificou cuidados com treinamento, aptidão e espaços como fóruns e prisões. Contarato reiterou preocupações sobre segurança, mas declarou voto favorável após ajustes. Flávio presidiu a votação simbólica, declarou aprovado o parecer da comissão, agradeceu aos participantes e defendeu a continuidade na CCJ. A aprovação da CSP não torna o projeto lei.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-5513b317a2d46a3b",
+      "itemId": "pesquisa-14c2b7850bc5cfcf",
+      "title": "CNN registra a aprovação da CSP em 08/04/2025, ressalvando etapa pendente na CCJ",
+      "date": "2025-04-08",
+      "datePrecision": "day",
+      "context": "Reportagem publicada após a reunião de 8 de abril informa a aprovação do PL 2734/2021 na Comissão de Segurança Pública, descreve limitações relativas a prédios judiciários e outros locais e destaca que a CCJ ainda teria de examinar a proposta. Não constitui lei em vigor nem votação final.",
       "state": "data informada pela fonte"
     },
     {
@@ -51600,6 +52458,15 @@
       "date": "2025-04-01",
       "datePrecision": "day",
       "context": "Na discussão do PL 2734/2021, o relator defendeu aproximar as regras de porte da advocacia das de magistrados e integrantes do Ministério Público. Contarato cobrou a exigência expressa de capacidade técnica e aptidão psicológica e levantou dúvidas sobre o número potencial de advogados interessados. Flávio respondeu que não haveria concessão automática a todos os advogados e que a proposta pretende afastar a avaliação subjetiva da efetiva necessidade. Moro pediu vista para aperfeiçoar requisitos e restrições de locais; Flávio concedeu vista coletiva. Argumentos são atribuídos aos oradores, sem avaliação independente de números ou efeitos.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-adccee1db24bf7e5",
+      "itemId": "pesquisa-23296046ba59f824",
+      "title": "OAB de Santa Catarina manifesta apoio ao PL 2734/2021 e acompanha pedido de vista em 01/04/2025",
+      "date": "2025-04-01",
+      "datePrecision": "day",
+      "context": "A seccional catarinense informou mobilização favorável ao porte para a advocacia e presença de representantes em Brasília durante a tramitação do PL 2734/2021; registrou que o debate da CSP de 1º de abril foi suspenso por vista. A posição é da OAB/SC, não uma deliberação nacional do Conselho Federal da OAB.",
       "state": "data informada pela fonte"
     },
     {
@@ -53898,6 +54765,33 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-85a8301b9e7cc30f",
+      "itemId": "pesquisa-0e54b403fa47d6b5",
+      "title": "Arquivo da OAB nacional de 2005 registra proposta anterior de Roberto Jefferson sobre porte para advogados",
+      "date": "2005-03-16",
+      "datePrecision": "day",
+      "context": "A publicação institucional de 2005 noticia projeto de Roberto Jefferson para incluir advogados entre pessoas habilitadas ao porte e reproduz parte do texto legislativo então proposto. Trata-se de antecedente histórico independente do PL 2734/2021, não de apoio do Conselho Federal da OAB a este projeto de 2021.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-fb65c1b372966b4b",
+      "itemId": "pesquisa-cf3a1e398a1e4936",
+      "title": "Lei 10.826/2003, Estatuto do Desarmamento, texto oficial compilado",
+      "date": "2003-12-22",
+      "datePrecision": "day",
+      "context": "Texto legal oficial do Estatuto do Desarmamento, que disciplina porte, registro e SINARM e é mencionado como diploma a alterar no PL 2734/2021. Regime legal existente não deve ser confundido com conteúdo ainda proposto pelo projeto.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-ea804bac13b61a58",
+      "itemId": "pesquisa-18c8c20b6c28e07a",
+      "title": "Lei 8.906/1994, Estatuto da Advocacia, texto oficial e direitos profissionais",
+      "date": "1994-07-04",
+      "datePrecision": "day",
+      "context": "Texto oficial do Estatuto da Advocacia e da OAB. Registra a estrutura dos direitos do advogado, incluindo o art. 7º, e serve de base para contextualizar as mudanças propostas no PL 2734/2021. A lei e o projeto são objetos distintos.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-a37b72592fb78503",
       "itemId": "pesquisa-1728d7f796d28666",
       "title": "Lei 8.069/1990, art. 121: texto legal vigente de referência para cotejar prazos propostos para internação",
@@ -54039,6 +54933,15 @@
       "date": null,
       "datePrecision": "unknown",
       "context": "Registro institucional do Tribunal Superior Eleitoral sobre Corregedor-geral eleitoral determina retirada de áudio falso sobre mesários do canal de WhatsApp “Tropa do Flávio”. O catálogo preserva o estágio processual e não transforma decisão liminar, investigação, alegação ou pedido em culpa ou veredito próprio.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-471aa9056d880600",
+      "itemId": "pesquisa-9e04b59caecbd25d",
+      "title": "Polícia Federal descreve serviço público vigente para solicitação de porte de arma para defesa pessoal",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Página do serviço oficial lista necessidade efetiva por atividade de risco ou ameaça, registro da arma, documentação, avaliação de aptidão e procedimento administrativo para pedido de porte pessoal. Serve como contexto do regime geral; não atesta aplicação nem vigência da mudança legislativa proposta para advogados.",
       "state": "identificação de evento pendente"
     },
     {
@@ -61507,6 +62410,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-4b4d2e68f2783ab1",
+      "itemId": "pesquisa-8223c0cfad6f681f",
+      "sourceId": "fonte-d71cdccc4686b5ec",
+      "url": "https://www.migalhas.com.br/quentes/428037/comissao-de-seguranca-do-senado-aprova-porte-de-arma-para-advogadosAGORA",
+      "locator": "Migalhas, 09/04/2025, corpo e atribuição da fonte, linhas 10-17 e 30-56.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-f550b8ca64bfa17a",
       "itemId": "pesquisa-550defdd91c58d36",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -61540,6 +62454,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-063f14bb54562ac1",
+      "itemId": "pesquisa-c151bc173a1bc13a",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/en/web/atividade/materias/-/materia/164284",
+      "locator": "Título, autoria e situação, linhas 38-55; documentos e parecer conjunto, linhas 118-155; ofício ABRACRIM, linhas 148-159.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-a840a02504640e7e",
       "itemId": "pesquisa-b43b455335b5b315",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -61551,11 +62476,44 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-fdd652ca131d0878",
+      "itemId": "pesquisa-91dee8ae6b774c52",
+      "sourceId": "fonte-0a4536d177e98be8",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2025/04/08/comissao-do-senado-avalia-porte-de-arma-automatico-para-14-milhao-de-advogados.htm",
+      "locator": "UOL, texto da Agência Estado, 08/04/2025 às 11h01, título e parágrafos de abertura nas linhas 189-201; debate e ressalvas nos parágrafos subsequentes.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-b28d644e63dc2032",
+      "itemId": "pesquisa-8bb5acb2917176c4",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/04/08/comissao-de-seguranca-autoriza-porte-de-arma-para-advogados",
+      "locator": "Página Rádio Senado: cabeçalho linhas 9-15; transcrição publicada linhas 20-24; duração nominal do áudio 02:18.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-98dad5ea5c2bf5a4",
       "itemId": "pesquisa-54edc85fc9da95cd",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/13420",
       "locator": "Notas taquigráficas revisadas, 5ª CSP, 08/04/2025: HTML linhas 98–114 (item e substitutivo), 115–145 (manifestações de Moro, Contarato, presidência, votação e agradecimentos).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-5513b317a2d46a3b",
+      "itemId": "pesquisa-14c2b7850bc5cfcf",
+      "sourceId": "fonte-7d7b950bffc2fe29",
+      "url": "https://www.cnnbrasil.com.br/politica/comissao-do-senado-aprova-porte-de-arma-para-advogados/",
+      "locator": "CNN Brasil, 08/04/2025, 15h50; chamada e corpo da matéria, linhas 20-43.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -61622,6 +62580,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/13405",
       "locator": "Notas taquigráficas revisadas da 4ª reunião da CSP, 01/04/2025, item 2: HTML linhas 74–90 (relatório), 91–115 (Contarato, Flávio e Moro), 120–130 (ajustes debatidos e vista coletiva).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-adccee1db24bf7e5",
+      "itemId": "pesquisa-23296046ba59f824",
+      "sourceId": "fonte-29c88c4f33178543",
+      "url": "https://old.oab-sc.org.br/noticias/oabsc-vai-brasilia-para-aprovar-porte-arma-advocacia-em-condicoes-equivalentes-juizes-e-membros-do-m/23389",
+      "locator": "Página institucional, data e título, linhas 74-81; parágrafos iniciais e manifestação da seccional, linhas 80-86.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -64433,6 +65402,39 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-85a8301b9e7cc30f",
+      "itemId": "pesquisa-0e54b403fa47d6b5",
+      "sourceId": "fonte-8f89d009ea9e0f4d",
+      "url": "https://www.oab.org.br/noticia/3845/porte-de-arma-para-advogado-pode-ser-autorizado",
+      "locator": "OAB Nacional, notícia de 16/03/2005, título, parágrafos e identificação do PL 4869/05, linhas 42-53.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-fb65c1b372966b4b",
+      "itemId": "pesquisa-cf3a1e398a1e4936",
+      "sourceId": "fonte-4a3b67b508a08327",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm",
+      "locator": "Planalto, epígrafe e ementa, linhas 4-13; capítulos I e dispositivos pertinentes a registro/porte na página da lei.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ea804bac13b61a58",
+      "itemId": "pesquisa-18c8c20b6c28e07a",
+      "sourceId": "fonte-4a3b67b508a08327",
+      "url": "https://planalto.gov.br/ccivil_03/leis/l8906.htm",
+      "locator": "Planalto, identificação e ementa, linhas 4-8; Título I e capítulo dos direitos do advogado, linhas 56-67.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-a37b72592fb78503",
       "itemId": "pesquisa-1728d7f796d28666",
       "sourceId": "fonte-d6671d4bfa16a590",
@@ -64603,6 +65605,17 @@
       "sourceId": "fonte-d17e0097bbcd6c10",
       "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/corregedor-geral-eleitoral-determina-retirada-de-audio-falso-sobre-mesarios-do-canal-de-whatsapp-tropa-do-flavio",
       "locator": "Página integral acessada; detalhes e documentos vinculados permanecem no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-471aa9056d880600",
+      "itemId": "pesquisa-9e04b59caecbd25d",
+      "sourceId": "fonte-2493f19155f121c2",
+      "url": "https://www.gov.br/pt-br/servicos/obter-porte-de-arma-de-fogo",
+      "locator": "Gov.br, seção Quem pode utilizar este serviço e requisitos, linhas 132-144; documentação da etapa, linhas 160-192; base legal e validade, linhas 273-284.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -64907,22 +65920,28 @@
   "coverage": [
     {
       "year": 2003,
-      "found": 0,
-      "accessed": 0,
-      "analysed": 0,
+      "found": 1,
+      "accessed": 1,
+      "analysed": 1,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 0,
-        "analisado": 0,
+        "analisado": 1,
         "revisado": 0,
         "publicado": 0
       },
-      "topics": {},
-      "sources": {},
-      "formats": {},
-      "note": "Lacuna de pesquisa neste lote; não demonstra inexistência de registros."
+      "topics": {
+        "Lei 10.826/2003": 1
+      },
+      "sources": {
+        "fonte-4a3b67b508a08327": 1
+      },
+      "formats": {
+        "documento": 1
+      },
+      "note": "Recorte não exaustivo."
     },
     {
       "year": 2004,
@@ -64945,26 +65964,28 @@
     },
     {
       "year": 2005,
-      "found": 1,
-      "accessed": 1,
-      "analysed": 1,
+      "found": 2,
+      "accessed": 2,
+      "analysed": 2,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 0,
-        "analisado": 1,
+        "analisado": 2,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
-        "atividade parlamentar": 1
+        "atividade parlamentar": 1,
+        "antecedentes legislativos": 1
       },
       "sources": {
-        "fonte-e979cfd37b58c2c5": 1
+        "fonte-e979cfd37b58c2c5": 1,
+        "fonte-8f89d009ea9e0f4d": 1
       },
       "formats": {
-        "documento": 1
+        "documento": 2
       },
       "note": "Recorte não exaustivo."
     },
@@ -65590,15 +66611,15 @@
     },
     {
       "year": 2025,
-      "found": 88,
-      "accessed": 88,
-      "analysed": 84,
+      "found": 94,
+      "accessed": 94,
+      "analysed": 90,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 4,
-        "analisado": 84,
+        "analisado": 90,
         "revisado": 0,
         "publicado": 0
       },
@@ -65623,7 +66644,7 @@
         "PL 4809/2024": 1,
         "Conselho de Ética": 1,
         "RQS 628/2025": 1,
-        "PL 2734/2021": 7,
+        "PL 2734/2021": 13,
         "PL 3272/2024 (contexto)": 3,
         "Correios": 1,
         "PL 3341/2025": 1,
@@ -65645,7 +66666,7 @@
       },
       "sources": {
         "fonte-ab7ca292b805c308": 1,
-        "fonte-2acd9e7dc92e583a": 69,
+        "fonte-2acd9e7dc92e583a": 71,
         "fonte-29a2bae5277f274b": 7,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
@@ -65654,14 +66675,18 @@
         "fonte-3ed65b2f1d041330": 2,
         "fonte-752f21616c18af3d": 1,
         "fonte-c0abac72ff584660": 1,
-        "fonte-4e3c890b0b0a3b74": 1
+        "fonte-4e3c890b0b0a3b74": 1,
+        "fonte-d71cdccc4686b5ec": 1,
+        "fonte-0a4536d177e98be8": 1,
+        "fonte-7d7b950bffc2fe29": 1,
+        "fonte-29c88c4f33178543": 1
       },
       "formats": {
-        "audio": 3,
+        "audio": 4,
         "documento": 48,
-        "registro": 11,
+        "registro": 13,
         "checagem": 6,
-        "reportagem": 18,
+        "reportagem": 21,
         "video": 2
       },
       "note": "Recorte não exaustivo."
@@ -65798,11 +66823,11 @@
     }
   ],
   "metrics": {
-    "newItems": 669,
-    "items": 687,
-    "alreadyInArchive": 18,
-    "accessed": 684,
-    "analysed": 652,
+    "newItems": 678,
+    "items": 697,
+    "alreadyInArchive": 19,
+    "accessed": 694,
+    "analysed": 662,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -65810,17 +66835,17 @@
     "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 71,
-    "sourcesConsulted": 66,
+    "sources": 76,
+    "sourcesConsulted": 71,
     "video": 20,
-    "audio": 13,
-    "documents": 250,
+    "audio": 14,
+    "documents": 253,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 225,
-    "accessFailures": 62,
-    "undatedItems": 38
+    "queryCount": 229,
+    "accessFailures": 65,
+    "undatedItems": 39
   },
   "queries": [
     {
@@ -67156,6 +68181,42 @@
       "resultsState": "As 10 URLs selecionadas não constavam entre 564 registros; PL 2169/2019 ficha principal já catalogada foi mantida, sem duplicação."
     },
     {
+      "id": "consulta-59422723dea7d4de",
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+      "query": "PL 2734 2021 porte advogados OAB SC posição 2025 Conselho Federal",
+      "executedAt": "2026-10-25T13:01:23.820Z",
+      "engine": "web.run fast/open e leitura de publicação institucional OAB/SC e arquivo nacional da OAB",
+      "interval": "2005; 2025",
+      "resultsState": "Acesso confirmado a manifestação da OAB/SC em 01/04/2025 e notícia nacional de 2005 sobre proposta diferente; não obtida deliberação nacional do Conselho Federal a respeito do PL 2734/2021."
+    },
+    {
+      "id": "consulta-908d2f9769202d83",
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+      "query": "PL 2734/2021 Senado CSP rádio Alessandro Vieira texto substitutivo e PL 2530 Cleitinho",
+      "executedAt": "2026-10-25T13:01:23.820Z",
+      "engine": "web.run open e leitura de Rádio Senado e ficha oficial do Senado",
+      "interval": "2024-2026",
+      "resultsState": "Nova transcrição textual da Rádio Senado e ficha de matéria conexa do PL 2530/2024 acessadas; PDFs da emenda e Ofício 27/2025-ABRACRIM foram apenas identificados pela ficha."
+    },
+    {
+      "id": "consulta-8816cc07423e9f9a",
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+      "query": "PL 2734 2021 direitos porte arma advogado objeções 08 abril 2025 CNN Agência Estado Migalhas",
+      "executedAt": "2026-10-25T13:01:23.820Z",
+      "engine": "web.run open de reportagens e leitura textual",
+      "interval": "2025-04-08 a 2025-04-09",
+      "resultsState": "Páginas de CNN, Agência Estado/UOL e Migalhas lidas; distinguido texto anterior à votação e resultado posterior, com indicação de origem secundária nas duas últimas."
+    },
+    {
+      "id": "consulta-d126be968ac7975d",
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+      "query": "site:gov.br porte de arma de fogo defesa pessoal Polícia Federal requisitos art 10 Lei 10826 Estatuto Advocacia Lei 8906 Planalto",
+      "executedAt": "2026-10-25T13:01:23.820Z",
+      "engine": "web.run open de serviço oficial e leis do Planalto",
+      "interval": "normas 1994 e 2003; página de serviço sem data precisa",
+      "resultsState": "Lido texto disponível de duas leis e página de serviço; extração do HTML do Planalto com problemas de codificação de acentos, sem citação literal."
+    },
+    {
       "id": "consulta-18e6c71e0baba735",
       "batch": "pl3071-loteca-abbr-20261025-31",
       "query": "site:senado.leg.br PL 3071/2019 Flávio Bolsonaro loteca ABBR tramitação 2019 2024",
@@ -68136,6 +69197,19 @@
       "note": "Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial."
     },
     {
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164284",
+      "reason": "Tentativa de abertura da variante em português apresentou timeout; utilizada e lida versão /en/web/ de mesmo identificador, sem atribuir leitura ao endereço indisponível."
+    },
+    {
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+      "note": "Anexos PDF do substitutivo do PL 2734/2021 e Ofício 27/2025 da ABRACRIM não foram abertos, portanto sua descrição permanece a constante da ficha legislativa, não inspeção da íntegra."
+    },
+    {
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39",
+      "note": "Na Rádio Senado, somente a transcrição HTML foi lida; reprodução de mídia 0 segundos, sem timestamp conferido."
+    },
+    {
       "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
       "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13328/item/96863",
       "status": "Timeout em tentativa de abertura da página de reunião",
@@ -68994,6 +70068,36 @@
       "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28"
     },
     {
+      "id": "lacuna-81e10a4b501cb801",
+      "note": "PL 2734/2021: identificar deliberação formal e atual do Conselho Federal da OAB sobre a proposta; não generalizar manifestação da OAB/SC.",
+      "state": "pendente",
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39"
+    },
+    {
+      "id": "lacuna-65eb27a2edab42a8",
+      "note": "PL 2734/2021 e PL 2530/2024: abrir íntegra PDF do parecer da CSP e do Ofício 27/2025-ABRACRIM para confrontar requisitos e posição da associação.",
+      "state": "pendente",
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39"
+    },
+    {
+      "id": "lacuna-54a0a4568c7476ab",
+      "note": "PL 2734/2021: checar andamento posterior da CCJ e eventuais emendas ou mudanças de relatoria em 2026, sem presumir que foi transformado em lei.",
+      "state": "pendente",
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39"
+    },
+    {
+      "id": "lacuna-b49252231fa0eb21",
+      "note": "PL 2734/2021: conferir pesquisa original por trás das estatísticas de violência contra advogados; alegações atribuídas à justificativa não são dados independentemente validados.",
+      "state": "pendente",
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39"
+    },
+    {
+      "id": "lacuna-dc9e78766f60a60c",
+      "note": "PL 2734/2021: diferenças entre texto inicial, relatório, emendas e texto adotado exigem comparação jurídica e revisão editorial humana identificada; áudio revisado zero segundos.",
+      "state": "pendente",
+      "batch": "pl2734-advocacia-oab-contexto-20261025-39"
+    },
+    {
       "id": "lacuna-a021303eed32c604",
       "note": "PL 3071/2019: conferir integralmente no PDF do Senado o texto inicial de 22/05/2019, emenda CAS/CAE e autógrafo de 23/05/2024 antes de comparações redacionais precisas.",
       "state": "pendente",
@@ -69654,6 +70758,22 @@
       "label": "PL 2169/2019: versões, parecer e tramitação; PL 3030 e requerimentos de apensamento",
       "collected_at_utc": "2026-10-25T01:17:10.136Z",
       "method": "10 URLs públicas distintas consultadas em HTML, nenhuma já registrada no JSON de 564 materiais; pesquisa factual sem veredito e 0 segundos de áudio conferidos."
+    },
+    {
+      "name": "Rádio Senado, transcrição de 08/04/2025",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/04/08/comissao-de-seguranca-autoriza-porte-de-arma-para-advogados"
+    },
+    {
+      "name": "OAB/SC, manifestação pública de 01/04/2025",
+      "url": "https://old.oab-sc.org.br/noticias/oabsc-vai-brasilia-para-aprovar-porte-arma-advocacia-em-condicoes-equivalentes-juizes-e-membros-do-m/23389"
+    },
+    {
+      "name": "Senado Federal, ficha do PL 2530/2024",
+      "url": "https://www25.senado.leg.br/en/web/atividade/materias/-/materia/164284"
+    },
+    {
+      "name": "Polícia Federal, serviço federal de porte",
+      "url": "https://www.gov.br/pt-br/servicos/obter-porte-de-arma-de-fogo"
     },
     {
       "id": "checkpoint-20261025-31",

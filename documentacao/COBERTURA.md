@@ -1,20 +1,20 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T12:00:25.777247Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T13:01:35.514994Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-687 URLs únicas no lote; 669 ainda não vinculadas à edição anterior. 684 materiais acessados e 652 com texto analisado.
+697 URLs únicas no lote; 678 ainda não vinculadas à edição anterior. 694 materiais acessados e 662 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-20 vídeos e 13 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+20 vídeos e 14 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
 | Ano | Encontrados | Acessados | Texto analisado | Revisados | Checagens publicadas |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| 2003 | 0 | 0 | 0 | 0 | 0 |
+| 2003 | 1 | 1 | 1 | 0 | 0 |
 | 2004 | 0 | 0 | 0 | 0 | 0 |
-| 2005 | 1 | 1 | 1 | 0 | 0 |
+| 2005 | 2 | 2 | 2 | 0 | 0 |
 | 2006 | 2 | 2 | 2 | 0 | 0 |
 | 2007 | 4 | 4 | 4 | 0 | 0 |
 | 2008 | 1 | 1 | 1 | 0 | 0 |
@@ -34,10 +34,10 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 29 | 29 | 27 | 0 | 0 |
 | 2024 | 52 | 52 | 51 | 0 | 0 |
-| 2025 | 88 | 88 | 84 | 0 | 0 |
+| 2025 | 94 | 94 | 90 | 0 | 0 |
 | 2026 | 316 | 316 | 309 | 0 | 0 |
 
-Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
+Materiais sem data: 39. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
 ## Próximo lote
 
@@ -162,6 +162,11 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - Confrontar alegações empíricas sobre reincidência, proteção, internação e eficácia com levantamentos oficiais e literatura independente, sem atribuir estatísticas sem fonte.
 - Obter e comparar manifestações técnicas críticas às mudanças do ECA e respostas públicas específicas em revisão humana editorial identificada.
 - Conferir trechos audiovisuais decisivos da CDH e Plenário quando houver acesso permitido. Até aqui 0 segundos conferidos e nenhuma classificação editorial nova.
+- PL 2734/2021: identificar deliberação formal e atual do Conselho Federal da OAB sobre a proposta; não generalizar manifestação da OAB/SC.
+- PL 2734/2021 e PL 2530/2024: abrir íntegra PDF do parecer da CSP e do Ofício 27/2025-ABRACRIM para confrontar requisitos e posição da associação.
+- PL 2734/2021: checar andamento posterior da CCJ e eventuais emendas ou mudanças de relatoria em 2026, sem presumir que foi transformado em lei.
+- PL 2734/2021: conferir pesquisa original por trás das estatísticas de violência contra advogados; alegações atribuídas à justificativa não são dados independentemente validados.
+- PL 2734/2021: diferenças entre texto inicial, relatório, emendas e texto adotado exigem comparação jurídica e revisão editorial humana identificada; áudio revisado zero segundos.
 - PL 3071/2019: conferir integralmente no PDF do Senado o texto inicial de 22/05/2019, emenda CAS/CAE e autógrafo de 23/05/2024 antes de comparações redacionais precisas.
 - PL 3071/2019: cotejar os PDFs de duas emendas da Comissão de Saúde e parecer de Laura Carneiro na CFT; esta etapa registrou apenas descrição oficial em HTML.
 - PL 3071/2019: conferir situação da CFT e CCJC em consulta posterior; parecer favorável de relatora não é aprovação em colegiado nem promulgação.
@@ -306,6 +311,9 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - batch: pl2064-reincidencia-lei15358-20261025-36; url: https://agenciagov.ebc.com.br/noticias/202603/presidente-lula-sanciona-lei-que-fortalece-o-combate-ao-crime-organizado; status: Redirecionamento para indisponibilidade/acesso não efetivado; note: Não catalogada como texto efetivamente lido; demais registros originais oficiais acessados.
 - batch: pl2064-reincidencia-lei15358-20261025-36; status: Mídia da 13ª reunião da CSP não reproduzida; note: Nenhuma escuta ou revisão de vídeo; 0 segundos e sem timestamps audiovisuais conferidos.
 - batch: pl2169-cdh-substitutivo-tramitacao-20261025-28; source: https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728; status: inspeção visual bloqueada; note: Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial.
+- batch: pl2734-advocacia-oab-contexto-20261025-39; url: https://www25.senado.leg.br/web/atividade/materias/-/materia/164284; reason: Tentativa de abertura da variante em português apresentou timeout; utilizada e lida versão /en/web/ de mesmo identificador, sem atribuir leitura ao endereço indisponível.
+- batch: pl2734-advocacia-oab-contexto-20261025-39; note: Anexos PDF do substitutivo do PL 2734/2021 e Ofício 27/2025 da ABRACRIM não foram abertos, portanto sua descrição permanece a constante da ficha legislativa, não inspeção da íntegra.
+- batch: pl2734-advocacia-oab-contexto-20261025-39; note: Na Rádio Senado, somente a transcrição HTML foi lida; reprodução de mídia 0 segundos, sem timestamp conferido.
 - batch: pl3272-protecao-medidas-cdh-csp-20261025-37; url: https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13328/item/96863; status: Timeout em tentativa de abertura da página de reunião; note: Não cadastrada como registro acessado; busca pode ser repetida. Consulta de pesquisa, não prova de indisponibilidade permanente.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10201058&rendition_principal=S&ts=1775771078593; reason: Visualização do PDF institucional devolveu desafio de verificação de segurança, inclusive em captura de tela; não declarar PDF integral lido nem emenda conferida.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento/download/6ea8ccf0-b2d2-4d09-b258-d7e24222dbde; reason: Captura de página interna do PDF de pauta retornou tela de segurança; extração parcial/indexada não é inspeção visual completa. Não catalogado como integral acessada.
