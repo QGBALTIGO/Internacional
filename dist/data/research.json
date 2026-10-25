@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T01:17:23.153183Z",
-    "inputHash": "973b400dd7e0b861461bed2903f3b532d95c37a3ad21acf239fe3cfe75ec00d3",
+    "generatedAt": "2026-10-25T02:59:31.241900Z",
+    "inputHash": "5b0337b3183445a761b89cb06c0e0c57d661ef5c9531c8b6424d833574d55610",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -479,6 +479,73 @@
         }
       ],
       "accessMethod": "HTML público da página individual aberto e lido em 24/10/2026. O vídeo do debate não foi reproduzido nesta coleta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-eadfc435ee928303",
+      "title": "Folha: revisão jornalística apresenta divergências e limites dos estudos sobre reduzir maioridade penal",
+      "url": "https://www1.folha.uol.com.br/cotidiano/2026/10/maioria-dos-estudos-nao-aponta-reducao-de-violencia-com-reducao-da-maioridade-penal.shtml",
+      "publisher": "Folha de S.Paulo",
+      "date": "2026-10-23",
+      "eventDate": "2026-10-23",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 23/10/2026 revisita estudos e opiniões técnicas sobre associação entre redução da maioridade penal e violência, incluindo limitações e discordâncias. Os achados são atribuídos ao jornal e pesquisadores e não autorizam, sem análise original, concluir causalidade específica para o Brasil ou julgar isoladamente falas de Flávio.",
+      "limitations": "Estudos originais e métodos estatísticos citados pelo jornal não foram lidos diretamente; não foram validados indicadores, grupos de comparação ou efeitos causais. Sem criação de checagem editorial.",
+      "locator": "Reportagem de 23/10/2026, corpo sobre literatura e especialistas, HTML aproximadamente linhas 218–270.",
+      "sourceId": "fonte-244f3d7e18ba861f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Preservadas interpretações e limitações de especialistas relatadas, sem atribuição de resposta individual inexistente.",
+      "actor": "Jornalismo Folha; pesquisadores citados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Contexto empírico, maioridade penal",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-08",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
       "newToArchive": true
     },
     {
@@ -8604,6 +8671,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-a1453990296a962d",
+      "title": "Folha: série sobre internação socioeducativa cita compilação do Fórum de Segurança Pública",
+      "url": "https://www1.folha.uol.com.br/cotidiano/2026/10/numero-de-adolescentes-infratores-internados-cai-pela-metade-em-dez-anos-no-brasil.shtml",
+      "publisher": "Folha de S.Paulo",
+      "date": "2026-10-18",
+      "eventDate": "2026-10-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "analisado",
+      "summary": "A reportagem de 18/10/2026 apresenta números compilados pelo Fórum Brasileiro de Segurança Pública: 26,8 mil adolescentes em medidas e regimes enumerados em 2015 versus 12,2 mil em 2025, queda agregada informada de 54,5%. Não comprova por si a evolução de incidência de atos infracionais, nem é medida de causalidade de mudanças legais.",
+      "limitations": "Dados e metodologia do FBSP/SINASE foram vistos apenas na reportagem, sem planilha original ou microdados; grupos incluem internação, internação provisória, sanção, semiliberdade e medida protetiva, e não devem ser chamados genericamente de crimes cometidos.",
+      "locator": "Reportagem, parágrafos de dados e definição de universo da agregação, HTML linhas 239–251.",
+      "sourceId": "fonte-244f3d7e18ba861f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Perspectiva empírica complementar às propostas políticas, não refuta automaticamente uma declaração parlamentar.",
+      "actor": "Jornalismo Folha; Fórum Brasileiro de Segurança Pública, citado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Contexto empírico, SINASE, FBSP",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-09",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-a117cfd2e5a84c20",
       "title": "Debate Band: Eu não mantenho escritório com o Careca, Lula.",
       "url": "https://flagcheck.com.br/eleicoes-2026/checagem/flavio-bolsonaro-eu-nao-mantenho-escritorio-com-o-careca-lula-band/",
@@ -11648,6 +11782,140 @@
       "newToArchive": false
     },
     {
+      "id": "pesquisa-6be700c74fcd804b",
+      "title": "Rádio Senado: transcrição contextualiza divergência entre governo e oposição sobre maioridade penal",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/10/16/senado-deve-retomar-votacao-da-pec-da-seguranca-na-proxima-semana",
+      "publisher": "Rádio Senado",
+      "date": "2026-10-16",
+      "eventDate": "2026-10-16",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "acessado",
+      "summary": "Página de reportagem da Rádio Senado explica que a controvérsia sobre reduzir a maioridade penal levou ao adiamento da PEC da Segurança. A síntese publicada contrapõe a alternativa governista de discutir a redução para crimes hediondos e a estratégia da oposição de incluir responsabilidade a partir de 14 anos para hipóteses específicas na PEC em tramitação.",
+      "limitations": "Lido apenas o texto/transcrição publicada no portal; nenhum áudio reproduzido, não foram conferidos locutores, minutagem nem duração efetiva. O título com expectativa de votação é prognóstico datado e não confirmação de votação posterior.",
+      "locator": "Página Rádio Senado, abertura e bloco Transcrição; texto institucional HTML disponível.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Inclui perspectivas atribuídas a Randolfe Rodrigues e ao PL, sem inferir endosso de todas as falas por Flávio.",
+      "actor": "Rádio Senado; Randolfe Rodrigues; integrantes da bancada do PL",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 18/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-05",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-4aff6effcd4338c2",
+      "title": "Reportagem BBC News Brasil reproduzida pela Folha coteja propostas de redução da maioridade",
+      "url": "https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-as-diferencas-nas-propostas-de-lula-e-flavio-bolsonaro.shtml",
+      "publisher": "BBC News Brasil, reproduzida pela Folha de S.Paulo",
+      "date": "2026-10-16",
+      "eventDate": "2026-10-16",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem acessível distingue alternativas de redução da maioridade penal colocadas no Senado em outubro de 2026 e contextualiza posições públicas de Flávio Bolsonaro e do governo. É material de apoio ao cotejo, não veredito ou conclusão sobre contradição de pessoas.",
+      "limitations": "Análise secundária de veículo; íntegra audiovisual das declarações e PDFs das propostas ainda não examinados em conjunto. Toda comparação e conclusão sensível permanece pendente de revisão editorial humana identificada.",
+      "locator": "Artigo datado de 16/10/2026, blocos de comparação entre emendas e posições públicas, HTML aproximadamente linhas 249–276.",
+      "sourceId": "fonte-b1a6d0a350c2f59a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Inclui versões e justificativas atribuídas aos proponentes governista e da oposição.",
+      "actor": "Jornalismo BBC/Folha; Rogerio Marinho; Camilo Santana; Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 18/2025; propostas Marinho e Camilo Santana",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-07",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-4155dff4cab35163",
       "title": "Folha relata voto de Flávio Bolsonaro em 2009 sobre porte de armas e publica resposta de sua campanha em 2026",
       "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-votou-contra-projeto-que-suspende-posse-de-arma-de-policial-que-comete-violencia-domestica.shtml",
@@ -11777,6 +12045,341 @@
         }
       ],
       "accessMethod": "Busca web e abertura direta do texto indexado; sem contornar barreiras",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-757e53b0cc107fb8",
+      "title": "Senado: pauta da sessão de 15/10/2026 registra retirada da PEC 18/2025",
+      "url": "https://www25.senado.leg.br/web/atividade/sessao-plenaria/-/pauta/591273",
+      "publisher": "Senado Federal, pauta e resultado plenário",
+      "date": "2026-10-15",
+      "eventDate": "2026-10-15",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "analisado",
+      "summary": "O resultado publicado para a sessão plenária de 15/10/2026 indica retirada de pauta da PEC 18/2025, corroborando a Agência Senado. A retirada não equivale a rejeição definitiva nem aprovação da emenda proposta.",
+      "limitations": "Registro de pauta consultado em HTML; sessão audiovisual não reproduzida. Há divergência isolada de ano em texto de interface, enquanto os campos principais identificam PEC 18/2025; cotejo regimental adicional é pendente.",
+      "locator": "135ª sessão plenária de 15/10/2026, item PEC 18/2025 e resultado de pauta (representação HTML, linhas 514–530).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Registro oficial; não atribui fala a Flávio na sessão.",
+      "actor": "Senado Federal, registro institucional",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 18/2025; sessão plenária 135",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-03",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-6f1dc13e4f4921b5",
+      "title": "Agência Senado: PEC da Segurança sai da pauta; compara emendas Marinho e Camilo Santana",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/15/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-desta-quinta-feira",
+      "publisher": "Agência Senado",
+      "date": "2026-10-15",
+      "eventDate": "2026-10-15",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "analisado",
+      "summary": "A reportagem institucional informa que a PEC foi retirada da pauta do Senado em 15/10/2026. Descreve a Emenda 84, de Marinho, como redução para 16 anos em regra e 14 em certos crimes; e a Emenda 87, de Camilo Santana, como manutenção de 18 anos em regra e 16 nos crimes hediondos. Nenhuma proposta foi tratada como norma aprovada.",
+      "limitations": "Notícia institucional consultada em texto; PDFs das emendas e notas da sessão não cotejados integralmente; comparações de méritos políticos seguem sem classificação própria.",
+      "locator": "Artigo de 15/10/2026, seção principal e subtítulo Emendas, linhas 19–43 da leitura HTML.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Apresenta e diferencia as propostas de Marinho e Camilo Santana, bem como o adiamento explicado por Davi Alcolumbre.",
+      "actor": "Agência Senado; Davi Alcolumbre; Rogerio Marinho; Camilo Santana",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 18/2025; emendas 84 e 87",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-02",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-529070ad3dae05c5",
+      "title": "TV Senado: metadados de reportagem audiovisual sobre emenda de maioridade na PEC da Segurança",
+      "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/10/emenda-a-pec-da-seguranca-propoe-reduzir-maioridade-penal-para-16-anos",
+      "publisher": "TV Senado",
+      "date": "2026-10-15",
+      "eventDate": "2026-10-15",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "video",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "acessado",
+      "summary": "A página de vídeo da TV Senado, datada de 15/10/2026, resume a Emenda 84 de Rogerio Marinho como proposta de reduzir a maioridade para 16 anos em regra e 14 em crimes como tráfico e participação em organização criminosa. O registro documenta a existência e sinopse da mídia, não uma transcrição conferida.",
+      "limitations": "SOMENTE metadados e sinopse HTML consultados; player do YouTube não reproduzido, nenhum áudio ouvido e nenhum segundo de vídeo revisado. Sem timestamps de fala ou transcrição verificada.",
+      "locator": "Página de vídeo, cabeçalho de data e sinopse editorial, linhas 28–35 da leitura HTML.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A página informa proposta de Rogerio Marinho e outra de Carlos Portinho; não atribui gravação individual a Flávio.",
+      "actor": "TV Senado, descrição editorial; Rogerio Marinho, proponente",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 18/2025; Emenda 84",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-04",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-7c6e6858f11f178d",
+      "title": "Senado: PEC 18/2025 registra Flávio entre os signatários da Emenda 84 apresentada por Rogerio Marinho",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172997",
+      "publisher": "Senado Federal, atividade legislativa",
+      "date": "2026-10-14",
+      "eventDate": "2026-10-14",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha oficial identifica a Emenda 84 à PEC 18/2025, apresentada em 14/10/2026 por Rogerio Marinho e diversos senadores, incluindo Flávio Bolsonaro. O projeto principal foi apresentado pelo Executivo, tramitou pela Câmara e não é de autoria de Flávio. No estado consultado, a PEC seguia em tramitação no Senado; assinatura de emenda não equivale a lei vigente.",
+      "limitations": "Consulta ao índice e histórico legislativo HTML, sem leitura do PDF da Emenda 84 ou das 86 emendas individualmente. Data de apresentação não certifica autenticidade de outras reproduções; texto detalhado da proposta conferido por reportagem da Agência Senado.",
+      "locator": "Ficha legislativa, seção Documentos, Emenda 84 PLEN, linhas 1319–1325 da leitura HTML; tabela de emendas linhas 1733–1740; andamento de 14 e 15/10, linhas 1906–1921.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Atribuições formais ao autor Marinho e ao signatário Flávio; argumentos de correntes divergentes mantidos separadamente.",
+      "actor": "Rogerio Marinho, autor da emenda; Flávio Bolsonaro, signatário entre outros senadores",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 18/2025; Emenda 84-PLEN",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-01",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-7bb0b9369a6b391c",
+      "title": "Agência Estado: reportagem documenta apoio público de Flávio à emenda de Marinho em 14/10",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/14/marinho-propoe-emenda-a-pec-da-seguranca-para-reduzir-maioridade-penal-para-16-anos.amp.htm",
+      "publisher": "Agência Estado, publicada pelo UOL",
+      "date": "2026-10-14",
+      "eventDate": "2026-10-14",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia de 14/10/2026 relata proposta de Marinho para responsabilização penal aos 16 anos em geral e 14 em casos específicos e registra apoio de Flávio Bolsonaro, incluindo referência a publicação audiovisual dele. O apoio é atribuído ao jornalismo, sem apresentação de vídeo de Flávio como visto ou ouvido.",
+      "limitations": "Acesso ao texto jornalístico em versão AMP; postagem audiovisual citada não foi aberta nem autenticada. O conteúdo detalhado do PDF oficial da Emenda 84 ainda demanda leitura direta.",
+      "locator": "Reportagem Agência Estado/UOL, publicação em 14/10/2026, corpo principal, representação HTML aproximadamente linhas 290–312.",
+      "sourceId": "fonte-0a4536d177e98be8",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Apoio atribuído a Flávio pela reportagem, enquanto a autoria formal é de Marinho.",
+      "actor": "Rogerio Marinho, autor; Flávio Bolsonaro, apoiador citado na reportagem",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 18/2025; Emenda 84",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-06",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
       "newToArchive": true
     },
     {
@@ -15417,6 +16020,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-085e8825a1c5896a",
+      "title": "Agência Estado: Flávio defendia em junho de 2026 reduzir maioridade para 16 e 14 anos em casos graves",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/18/flavio-bolsonaro-defende-reducao-da-maioridade-penal-para-16-anos-14-em-crimes-hediondos.htm",
+      "publisher": "Agência Estado, publicada pelo UOL",
+      "date": "2026-06-18",
+      "eventDate": "2026-06-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 18/06/2026 atribui a Flávio a defesa de reduzir maioridade penal para 16 anos em geral e 14 para crimes hediondos ao apresentar o programa Brasil sem Medo. Ele fez referência a uma PEC 'de minha autoria', cuja identificação exige pesquisa específica; não confundir sem confirmação com a posterior Emenda 84 de 14/10, cujo proponente oficial foi Rogerio Marinho.",
+      "limitations": "Acesso à reportagem e citação publicada pelo jornal, sem vídeo ou áudio do evento; fala não foi auditada na gravação integral. Identidade da PEC mencionada em junho não foi comprovada nesta coleta.",
+      "locator": "Reportagem de 18/06/2026, cabeçalho e parágrafos do anúncio político, representação HTML linhas 189–200.",
+      "sourceId": "fonte-0a4536d177e98be8",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A própria declaração pública atribuída a Flávio foi mantida em contexto, sem correção factual ou inferência de contradição.",
+      "actor": "Flávio Bolsonaro, declaração reportada; Agência Estado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Agenda eleitoral 2026; maioridade penal",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-12",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-24860c982aca60ee",
       "title": "PL 4.244/2025: parecer da CDH e relatoria na CCJ em 2026",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170061",
@@ -18692,7 +19362,7 @@
     },
     {
       "id": "pesquisa-db58896b202ac887",
-      "title": "CDH aprova substitutivo de Márcio Bittar ao projeto de Flávio",
+      "title": "Agência Senado detalha PL 2169/2019: proposta de Flávio e substitutivo da CDH em 2025",
       "url": "https://www12.senado.leg.br/noticias/materias/2025/10/22/cdh-aprova-tempo-maior-de-internacao-para-adolescente-em-conflito-com-a-lei",
       "publisher": "Agência Senado",
       "date": "2025-10-22",
@@ -18700,16 +19370,20 @@
       "year": 2025,
       "datePrecision": "day",
       "format": "reportagem",
-      "topic": "PL 2169/2019",
+      "topic": "Flávio Bolsonaro",
       "topics": [
-        "PL 2169/2019",
         "CDH",
-        "contraditório"
+        "Flávio Bolsonaro",
+        "PEC 18/2025",
+        "PL 2169/2019",
+        "contexto legislativo",
+        "contraditório",
+        "maioridade penal"
       ],
       "stage": "analisado",
-      "summary": "A CDH aprovou texto substitutivo de Márcio Bittar ao PL 2.169/2019, de Flávio, lido por Marcos Rogério como relator ad hoc. A matéria registra manifestações de Fabiano Contarato e Damares Alves. O projeto seguiu à CCJ sem decisão final demonstrada.",
-      "limitations": "Reportagem institucional lida em HTML, sem abertura independente das peças e gravações mencionadas; fala atribuída à fonte. Pauta não equivale a deliberação; notícia não recebe veredito próprio.",
-      "locator": "Agência Senado, 22/10/2025, abertura, Tramitação conjunta e Código Penal.",
+      "summary": "Reportagem legislativa registra que o PL 2169/2019 originalmente propunha ampliar a internação de três para sete anos, enquanto o substitutivo de Marcio Bittar aprovado pela CDH previa cinco anos como regra e até dez em certas hipóteses. A matéria seguiu para a CCJ, não se tornou lei por deliberação da CDH. Conservam-se separadamente autoria de Flávio, alterações de Bittar e PL conexo de Contarato.",
+      "limitations": "Reportagem institucional reproduz discussão e parecer; PDF integral do substitutivo, mencionado no checkpoint anterior como acesso restrito, continua pendente de cotejo direto. Texto HTML da reportagem não equivale a audição da sessão.",
+      "locator": "Agência Senado, matéria de 22/10/2025, linhas 19–43 e seção de tramitação conjunta.",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "review": {
         "state": "aguardando revisão editorial",
@@ -18727,13 +19401,13 @@
         "endSeconds": null
       },
       "durationSeconds": null,
-      "collectedAt": "2026-10-24T15:38:16.241Z",
-      "lastModifiedAt": "2026-10-24T15:38:16.241Z",
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
       "editorialClassification": null,
       "sourceConclusion": null,
       "factualQuestion": null,
-      "publicResponse": null,
-      "actor": "Agência Senado",
+      "publicResponse": "Argumentos do autor Flávio, do relator Bittar e do projeto conexo de Contarato atribuídos conforme texto.",
+      "actor": "Flávio Bolsonaro, autor; Marcio Bittar, relator do substitutivo; Fabiano Contarato, autor de proposição conexa",
       "literalQuote": null,
       "platform": null,
       "platformId": null,
@@ -18742,18 +19416,23 @@
       "publicationTimeOriginal": null,
       "publicationTimezoneOriginal": null,
       "eventTimezoneOriginal": null,
-      "documentNumber": "PL 2169/2019",
+      "documentNumber": "PL 2169/2019; PL 3030/2019",
       "materialRole": "material da apuração",
       "publicationState": "catálogo de materiais, sem novo veredito",
       "legacyRecordIds": [],
       "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-11",
+          "toolReference": null
+        },
         {
           "batch": "senado-2025-documentos-20261024-18",
           "inputId": "senado-2025-documentos-20261024-18-noticia-22out-cdh",
           "toolReference": "turn613340view3"
         }
       ],
-      "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
       "newToArchive": true
     },
     {
@@ -33585,6 +34264,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-61680c0b9764b115",
+      "title": "Ministério dos Direitos Humanos: página oficial de levantamentos nacionais do SINASE",
+      "url": "https://www.gov.br/mdh/pt-br/navegue-por-temas/crianca-e-adolescente/levantamentos-nacionais-do-sinase/levantamentos-nacionais",
+      "publisher": "Ministério dos Direitos Humanos e da Cidadania",
+      "date": "2018-05-09",
+      "eventDate": null,
+      "year": 2018,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "maioridade penal",
+        "PEC 18/2025",
+        "contexto legislativo"
+      ],
+      "stage": "acessado",
+      "summary": "A página oficial, publicada originalmente em 09/05/2018 e atualizada em 14/08/2026, relaciona levantamentos do SINASE de 2025, 2024 e anos anteriores. Foi indexada como localizador de fontes primárias futuras sobre medidas socioeducativas, não como leitura ou conferência dos dados contidos nos relatórios.",
+      "limitations": "Apenas índice HTML institucional aberto. Arquivos completos, tabelas e eventuais revisões dos relatórios 2024/2025 NÃO foram abertos nem auditados; não extrair deste índice números de internações.",
+      "locator": "Página institucional MDHC, cabeçalho com publicação e atualização e seção Levantamentos Anuais, HTML linhas 388–426.",
+      "sourceId": "fonte-090881237e3f91db",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T02:57:08Z",
+      "lastModifiedAt": "2026-10-25T02:57:08Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Fonte técnica primária para futura verificação; não atribui falas ou respostas a Flávio.",
+      "actor": "Ministério dos Direitos Humanos e da Cidadania",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "SINASE, levantamentos 2025, 2024 e séries anteriores",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+          "inputId": "pec18-maioridade-flavio-contexto-20261025-29-10",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Consulta e leitura de página pública em 24/10/2026 (America/Campo_Grande) via web.run; linhas indicam a extração textual da página, nunca minutagem ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-6820bbccb547c794",
       "title": "PLS 179/2018: Flávio foi relator, não autor, e matéria terminou arquivada",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/132930",
@@ -37896,7 +38642,7 @@
       "monitoringEnabled": true,
       "accessNote": "3 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z"
     },
     {
       "id": "fonte-e1c9e5407b4d26a8",
@@ -37911,9 +38657,9 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "monitoringEnabled": true,
-      "accessNote": "2 publicações relacionadas nesta consulta",
+      "accessNote": "3 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z"
     },
     {
       "id": "fonte-a08eae094412f4bb",
@@ -37928,9 +38674,32 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "monitoringEnabled": true,
-      "accessNote": "0 publicações relacionadas nesta consulta",
+      "accessNote": "2 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z"
+    },
+    {
+      "id": "fonte-0a4536d177e98be8",
+      "name": "Agência Estado, publicada pelo UOL",
+      "url": "https://noticias.uol.com.br/",
+      "responsible": "Agência Estado, publicada pelo UOL",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T02:57:08Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 2,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 2,
+      "analysedCount": 2
     },
     {
       "id": "fonte-cbedaeeb02ac6aaf",
@@ -37964,7 +38733,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z",
       "lastConsultedAt": "2026-10-24T11:14:02.380Z",
       "accessNote": "11 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -38028,6 +38797,29 @@
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
       "lastConsultedAt": "2026-10-24T03:37:46Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-b1a6d0a350c2f59a",
+      "name": "BBC News Brasil, reproduzida pela Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/",
+      "responsible": "BBC News Brasil, reproduzida pela Folha de S.Paulo",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T02:57:08Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
       "sourceCount": 1,
@@ -38327,10 +39119,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T18:58:29.750Z",
+      "lastConsultedAt": "2026-10-25T02:57:08Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 1,
+      "sourceCount": 3,
       "periods": [
         2026
       ],
@@ -38338,8 +39130,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 1,
-      "analysedCount": 1
+      "accessedCount": 3,
+      "analysedCount": 3
     },
     {
       "id": "fonte-f4bf17de55c94544",
@@ -38508,7 +39300,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z",
       "lastConsultedAt": "2026-10-24T16:19:40.738Z",
       "accessNote": "4 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -38549,6 +39341,29 @@
       "monitoringEnabled": false,
       "accessedCount": 1,
       "analysedCount": 1
+    },
+    {
+      "id": "fonte-090881237e3f91db",
+      "name": "Ministério dos Direitos Humanos e da Cidadania",
+      "url": "https://www.gov.br/",
+      "responsible": "Ministério dos Direitos Humanos e da Cidadania",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T02:57:08Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2018
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 0
     },
     {
       "id": "fonte-e24089d8c0bdeda6",
@@ -38786,11 +39601,11 @@
       "nature": "órgão público",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z",
-      "lastConsultedAt": "2026-10-25T01:17:10.136Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z",
+      "lastConsultedAt": "2026-10-25T02:57:08Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 235,
+      "sourceCount": 240,
       "periods": [
         2018,
         2019,
@@ -38811,8 +39626,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 234,
-      "analysedCount": 220
+      "accessedCount": 239,
+      "analysedCount": 223
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -39047,6 +39862,56 @@
       "reviewState": "aguardando revisão",
       "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Página e metadados acessados. Mídia não reproduzida; 0 segundos de áudio revisados. Não atribuir timestamps ou transcrição própria.",
       "researchItemId": "pesquisa-78b2a155a1991d1f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-6be700c74fcd804b",
+      "title": "Rádio Senado: transcrição contextualiza divergência entre governo e oposição sobre maioridade penal",
+      "type": "audio",
+      "provider": "Rádio Senado",
+      "publisher": "Rádio Senado",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/noticia/2026/10/16/senado-deve-retomar-votacao-da-pec-da-seguranca-na-proxima-semana",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/10/16/senado-deve-retomar-votacao-da-pec-da-seguranca-na-proxima-semana",
+      "date": "2026-10-16",
+      "youtubeId": null,
+      "description": "Página de reportagem da Rádio Senado explica que a controvérsia sobre reduzir a maioridade penal levou ao adiamento da PEC da Segurança. A síntese publicada contrapõe a alternativa governista de discutir a redução para crimes hediondos e a estratégia da oposição de incluir responsabilidade a partir de 14 anos para hipóteses específicas na PEC em tramitação.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Lido apenas o texto/transcrição publicada no portal; nenhum áudio reproduzido, não foram conferidos locutores, minutagem nem duração efetiva. O título com expectativa de votação é prognóstico datado e não confirmação de votação posterior.",
+      "researchItemId": "pesquisa-6be700c74fcd804b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-529070ad3dae05c5",
+      "title": "TV Senado: metadados de reportagem audiovisual sobre emenda de maioridade na PEC da Segurança",
+      "type": "video",
+      "provider": "TV Senado",
+      "publisher": "TV Senado",
+      "sourceUrl": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/10/emenda-a-pec-da-seguranca-propoe-reduzir-maioridade-penal-para-16-anos",
+      "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/10/emenda-a-pec-da-seguranca-propoe-reduzir-maioridade-penal-para-16-anos",
+      "date": "2026-10-15",
+      "youtubeId": null,
+      "description": "A página de vídeo da TV Senado, datada de 15/10/2026, resume a Emenda 84 de Rogerio Marinho como proposta de reduzir a maioridade para 16 anos em regra e 14 em crimes como tráfico e participação em organização criminosa. O registro documenta a existência e sinopse da mídia, não uma transcrição conferida.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. SOMENTE metadados e sinopse HTML consultados; player do YouTube não reproduzido, nenhum áudio ouvido e nenhum segundo de vídeo revisado. Sem timestamps de fala ou transcrição verificada.",
+      "researchItemId": "pesquisa-529070ad3dae05c5",
       "review": {
         "state": "aguardando revisão editorial",
         "reviewer": null,
@@ -39616,6 +40481,15 @@
       "date": "2026-10-23",
       "datePrecision": "day",
       "context": "Página individual que consolida a verificação de uma fala de Flávio Bolsonaro no debate da Globo de 23/10/2026. Resultado agregado exibido pela fonte: Falso. O Arquivo mantém sua própria classificação em branco até revisão editorial identificada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-2fff3e28f2fbcd6d",
+      "itemId": "pesquisa-eadfc435ee928303",
+      "title": "Folha: revisão jornalística apresenta divergências e limites dos estudos sobre reduzir maioridade penal",
+      "date": "2026-10-23",
+      "datePrecision": "day",
+      "context": "Reportagem de 23/10/2026 revisita estudos e opiniões técnicas sobre associação entre redução da maioridade penal e violência, incluindo limitações e discordâncias. Os achados são atribuídos ao jornal e pesquisadores e não autorizam, sem análise original, concluir causalidade específica para o Brasil ou julgar isoladamente falas de Flávio.",
       "state": "data informada pela fonte"
     },
     {
@@ -40726,6 +41600,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-71c93678a6e56231",
+      "itemId": "pesquisa-a1453990296a962d",
+      "title": "Folha: série sobre internação socioeducativa cita compilação do Fórum de Segurança Pública",
+      "date": "2026-10-18",
+      "datePrecision": "day",
+      "context": "A reportagem de 18/10/2026 apresenta números compilados pelo Fórum Brasileiro de Segurança Pública: 26,8 mil adolescentes em medidas e regimes enumerados em 2015 versus 12,2 mil em 2025, queda agregada informada de 54,5%. Não comprova por si a evolução de incidência de atos infracionais, nem é medida de causalidade de mudanças legais.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-fa2fd8c9aa897619",
       "itemId": "pesquisa-a117cfd2e5a84c20",
       "title": "Debate Band: Eu não mantenho escritório com o Careca, Lula.",
@@ -41140,6 +42023,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-220c729100a7305e",
+      "itemId": "pesquisa-6be700c74fcd804b",
+      "title": "Rádio Senado: transcrição contextualiza divergência entre governo e oposição sobre maioridade penal",
+      "date": "2026-10-16",
+      "datePrecision": "day",
+      "context": "Página de reportagem da Rádio Senado explica que a controvérsia sobre reduzir a maioridade penal levou ao adiamento da PEC da Segurança. A síntese publicada contrapõe a alternativa governista de discutir a redução para crimes hediondos e a estratégia da oposição de incluir responsabilidade a partir de 14 anos para hipóteses específicas na PEC em tramitação.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-7f7056872ff8405b",
+      "itemId": "pesquisa-4aff6effcd4338c2",
+      "title": "Reportagem BBC News Brasil reproduzida pela Folha coteja propostas de redução da maioridade",
+      "date": "2026-10-16",
+      "datePrecision": "day",
+      "context": "Reportagem acessível distingue alternativas de redução da maioridade penal colocadas no Senado em outubro de 2026 e contextualiza posições públicas de Flávio Bolsonaro e do governo. É material de apoio ao cotejo, não veredito ou conclusão sobre contradição de pessoas.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-edd39b472663ce45",
       "itemId": "pesquisa-4155dff4cab35163",
       "title": "Folha relata voto de Flávio Bolsonaro em 2009 sobre porte de armas e publica resposta de sua campanha em 2026",
@@ -41155,6 +42056,51 @@
       "date": "2026-10",
       "datePrecision": "day",
       "context": "AFP compara vídeo viral com coletiva em que o candidato comentou o primeiro turno. A agência conclui que o trecho foi manipulado.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-a86656fa6dc976b5",
+      "itemId": "pesquisa-757e53b0cc107fb8",
+      "title": "Senado: pauta da sessão de 15/10/2026 registra retirada da PEC 18/2025",
+      "date": "2026-10-15",
+      "datePrecision": "day",
+      "context": "O resultado publicado para a sessão plenária de 15/10/2026 indica retirada de pauta da PEC 18/2025, corroborando a Agência Senado. A retirada não equivale a rejeição definitiva nem aprovação da emenda proposta.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f426bd3432ff871a",
+      "itemId": "pesquisa-6f1dc13e4f4921b5",
+      "title": "Agência Senado: PEC da Segurança sai da pauta; compara emendas Marinho e Camilo Santana",
+      "date": "2026-10-15",
+      "datePrecision": "day",
+      "context": "A reportagem institucional informa que a PEC foi retirada da pauta do Senado em 15/10/2026. Descreve a Emenda 84, de Marinho, como redução para 16 anos em regra e 14 em certos crimes; e a Emenda 87, de Camilo Santana, como manutenção de 18 anos em regra e 16 nos crimes hediondos. Nenhuma proposta foi tratada como norma aprovada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-2c877cea7d64313d",
+      "itemId": "pesquisa-529070ad3dae05c5",
+      "title": "TV Senado: metadados de reportagem audiovisual sobre emenda de maioridade na PEC da Segurança",
+      "date": "2026-10-15",
+      "datePrecision": "day",
+      "context": "A página de vídeo da TV Senado, datada de 15/10/2026, resume a Emenda 84 de Rogerio Marinho como proposta de reduzir a maioridade para 16 anos em regra e 14 em crimes como tráfico e participação em organização criminosa. O registro documenta a existência e sinopse da mídia, não uma transcrição conferida.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-5b356b59910b5ff4",
+      "itemId": "pesquisa-7c6e6858f11f178d",
+      "title": "Senado: PEC 18/2025 registra Flávio entre os signatários da Emenda 84 apresentada por Rogerio Marinho",
+      "date": "2026-10-14",
+      "datePrecision": "day",
+      "context": "A ficha oficial identifica a Emenda 84 à PEC 18/2025, apresentada em 14/10/2026 por Rogerio Marinho e diversos senadores, incluindo Flávio Bolsonaro. O projeto principal foi apresentado pelo Executivo, tramitou pela Câmara e não é de autoria de Flávio. No estado consultado, a PEC seguia em tramitação no Senado; assinatura de emenda não equivale a lei vigente.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-5dd840117975d345",
+      "itemId": "pesquisa-7bb0b9369a6b391c",
+      "title": "Agência Estado: reportagem documenta apoio público de Flávio à emenda de Marinho em 14/10",
+      "date": "2026-10-14",
+      "datePrecision": "day",
+      "context": "Notícia de 14/10/2026 relata proposta de Marinho para responsabilização penal aos 16 anos em geral e 14 em casos específicos e registra apoio de Flávio Bolsonaro, incluindo referência a publicação audiovisual dele. O apoio é atribuído ao jornalismo, sem apresentação de vídeo de Flávio como visto ou ouvido.",
       "state": "data informada pela fonte"
     },
     {
@@ -41653,6 +42599,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-6f9d4e9266addb0d",
+      "itemId": "pesquisa-085e8825a1c5896a",
+      "title": "Agência Estado: Flávio defendia em junho de 2026 reduzir maioridade para 16 e 14 anos em casos graves",
+      "date": "2026-06-18",
+      "datePrecision": "day",
+      "context": "Reportagem de 18/06/2026 atribui a Flávio a defesa de reduzir maioridade penal para 16 anos em geral e 14 para crimes hediondos ao apresentar o programa Brasil sem Medo. Ele fez referência a uma PEC 'de minha autoria', cuja identificação exige pesquisa específica; não confundir sem confirmação com a posterior Emenda 84 de 14/10, cujo proponente oficial foi Rogerio Marinho.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-de5d32cec1c71e68",
       "itemId": "pesquisa-24860c982aca60ee",
       "title": "PL 4.244/2025: parecer da CDH e relatoria na CCJ em 2026",
@@ -42105,10 +43060,10 @@
     {
       "id": "evento-261c49409c105f09",
       "itemId": "pesquisa-db58896b202ac887",
-      "title": "CDH aprova substitutivo de Márcio Bittar ao projeto de Flávio",
+      "title": "Agência Senado detalha PL 2169/2019: proposta de Flávio e substitutivo da CDH em 2025",
       "date": "2025-10-22",
       "datePrecision": "day",
-      "context": "A CDH aprovou texto substitutivo de Márcio Bittar ao PL 2.169/2019, de Flávio, lido por Marcos Rogério como relator ad hoc. A matéria registra manifestações de Fabiano Contarato e Damares Alves. O projeto seguiu à CCJ sem decisão final demonstrada.",
+      "context": "Reportagem legislativa registra que o PL 2169/2019 originalmente propunha ampliar a internação de três para sete anos, enquanto o substitutivo de Marcio Bittar aprovado pela CDH previa cinco anos como regra e até dez em certas hipóteses. A matéria seguiu para a CCJ, não se tornou lei por deliberação da CDH. Conservam-se separadamente autoria de Flávio, alterações de Bittar e PL conexo de Contarato.",
       "state": "data informada pela fonte"
     },
     {
@@ -44135,6 +45090,15 @@
       "datePrecision": "day",
       "context": "Texto promulgado da Lei 8005/2018 altera a Lei 6499/2013 quanto aos efeitos da anistia administrativa. A ficha de autoria identifica Flávio como um dos 11 coautores do PL 4120/2018, juntamente com parlamentares de diferentes partidos.",
       "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-4c8e2efba842d96c",
+      "itemId": "pesquisa-61680c0b9764b115",
+      "title": "Ministério dos Direitos Humanos: página oficial de levantamentos nacionais do SINASE",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "A página oficial, publicada originalmente em 09/05/2018 e atualizada em 14/08/2026, relaciona levantamentos do SINASE de 2025, 2024 e anos anteriores. Foi indexada como localizador de fontes primárias futuras sobre medidas socioeducativas, não como leitura ou conferência dos dados contidos nos relatórios.",
+      "state": "identificação de evento pendente"
     },
     {
       "id": "evento-30f6991f4ca1ed4f",
@@ -47846,6 +48810,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-2fff3e28f2fbcd6d",
+      "itemId": "pesquisa-eadfc435ee928303",
+      "sourceId": "fonte-244f3d7e18ba861f",
+      "url": "https://www1.folha.uol.com.br/cotidiano/2026/10/maioria-dos-estudos-nao-aponta-reducao-de-violencia-com-reducao-da-maioridade-penal.shtml",
+      "locator": "Reportagem de 23/10/2026, corpo sobre literatura e especialistas, HTML aproximadamente linhas 218–270.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-73c50f9b7acd56d4",
       "itemId": "pesquisa-eaa35f05866fac09",
       "sourceId": "fonte-70a74a349f893659",
@@ -49199,6 +50174,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-71c93678a6e56231",
+      "itemId": "pesquisa-a1453990296a962d",
+      "sourceId": "fonte-244f3d7e18ba861f",
+      "url": "https://www1.folha.uol.com.br/cotidiano/2026/10/numero-de-adolescentes-infratores-internados-cai-pela-metade-em-dez-anos-no-brasil.shtml",
+      "locator": "Reportagem, parágrafos de dados e definição de universo da agregação, HTML linhas 239–251.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-fa2fd8c9aa897619",
       "itemId": "pesquisa-a117cfd2e5a84c20",
       "sourceId": "fonte-70a74a349f893659",
@@ -49705,6 +50691,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-220c729100a7305e",
+      "itemId": "pesquisa-6be700c74fcd804b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/10/16/senado-deve-retomar-votacao-da-pec-da-seguranca-na-proxima-semana",
+      "locator": "Página Rádio Senado, abertura e bloco Transcrição; texto institucional HTML disponível.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-7f7056872ff8405b",
+      "itemId": "pesquisa-4aff6effcd4338c2",
+      "sourceId": "fonte-b1a6d0a350c2f59a",
+      "url": "https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-as-diferencas-nas-propostas-de-lula-e-flavio-bolsonaro.shtml",
+      "locator": "Artigo datado de 16/10/2026, blocos de comparação entre emendas e posições públicas, HTML aproximadamente linhas 249–276.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-edd39b472663ce45",
       "itemId": "pesquisa-4155dff4cab35163",
       "sourceId": "fonte-244f3d7e18ba861f",
@@ -49721,6 +50729,61 @@
       "sourceId": "fonte-875b77e7aba40e8b",
       "url": "https://checamos.afp.com/doc.afp.com.D3HE2WE",
       "locator": "Linhas 23-45 da extração web; localizar seções correspondentes na página",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-a86656fa6dc976b5",
+      "itemId": "pesquisa-757e53b0cc107fb8",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/sessao-plenaria/-/pauta/591273",
+      "locator": "135ª sessão plenária de 15/10/2026, item PEC 18/2025 e resultado de pauta (representação HTML, linhas 514–530).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f426bd3432ff871a",
+      "itemId": "pesquisa-6f1dc13e4f4921b5",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/15/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-desta-quinta-feira",
+      "locator": "Artigo de 15/10/2026, seção principal e subtítulo Emendas, linhas 19–43 da leitura HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-2c877cea7d64313d",
+      "itemId": "pesquisa-529070ad3dae05c5",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/10/emenda-a-pec-da-seguranca-propoe-reduzir-maioridade-penal-para-16-anos",
+      "locator": "Página de vídeo, cabeçalho de data e sinopse editorial, linhas 28–35 da leitura HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-5b356b59910b5ff4",
+      "itemId": "pesquisa-7c6e6858f11f178d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172997",
+      "locator": "Ficha legislativa, seção Documentos, Emenda 84 PLEN, linhas 1319–1325 da leitura HTML; tabela de emendas linhas 1733–1740; andamento de 14 e 15/10, linhas 1906–1921.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-5dd840117975d345",
+      "itemId": "pesquisa-7bb0b9369a6b391c",
+      "sourceId": "fonte-0a4536d177e98be8",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/14/marinho-propoe-emenda-a-pec-da-seguranca-para-reduzir-maioridade-penal-para-16-anos.amp.htm",
+      "locator": "Reportagem Agência Estado/UOL, publicação em 14/10/2026, corpo principal, representação HTML aproximadamente linhas 290–312.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -50332,6 +51395,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-6f9d4e9266addb0d",
+      "itemId": "pesquisa-085e8825a1c5896a",
+      "sourceId": "fonte-0a4536d177e98be8",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/18/flavio-bolsonaro-defende-reducao-da-maioridade-penal-para-16-anos-14-em-crimes-hediondos.htm",
+      "locator": "Reportagem de 18/06/2026, cabeçalho e parágrafos do anúncio político, representação HTML linhas 189–200.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-de5d32cec1c71e68",
       "itemId": "pesquisa-24860c982aca60ee",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -50886,7 +51960,7 @@
       "itemId": "pesquisa-db58896b202ac887",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2025/10/22/cdh-aprova-tempo-maior-de-internacao-para-adolescente-em-conflito-com-a-lei",
-      "locator": "Agência Senado, 22/10/2025, abertura, Tramitação conjunta e Código Penal.",
+      "locator": "Agência Senado, matéria de 22/10/2025, linhas 19–43 e seção de tramitação conjunta.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -53368,6 +54442,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-4c8e2efba842d96c",
+      "itemId": "pesquisa-61680c0b9764b115",
+      "sourceId": "fonte-090881237e3f91db",
+      "url": "https://www.gov.br/mdh/pt-br/navegue-por-temas/crianca-e-adolescente/levantamentos-nacionais-do-sinase/levantamentos-nacionais",
+      "locator": "Página institucional MDHC, cabeçalho com publicação e atualização e seção Levantamentos Anuais, HTML linhas 388–426.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-30f6991f4ca1ed4f",
       "itemId": "pesquisa-6820bbccb547c794",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -54471,14 +55556,14 @@
     },
     {
       "year": 2018,
-      "found": 5,
-      "accessed": 5,
+      "found": 6,
+      "accessed": 6,
       "analysed": 4,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
-        "acessado": 1,
+        "acessado": 2,
         "analisado": 4,
         "revisado": 0,
         "publicado": 0
@@ -54486,15 +55571,17 @@
       "topics": {
         "atividade parlamentar": 3,
         "Atividade pública": 1,
+        "Flávio Bolsonaro": 1,
         "execução penal": 1
       },
       "sources": {
         "fonte-e979cfd37b58c2c5": 3,
         "fonte-d7238973977790d8": 1,
+        "fonte-090881237e3f91db": 1,
         "fonte-2acd9e7dc92e583a": 1
       },
       "formats": {
-        "documento": 4,
+        "documento": 5,
         "registro": 1
       },
       "note": "Recorte não exaustivo."
@@ -54803,7 +55890,8 @@
         "PL 5582/2025": 1,
         "PL 1087/2025": 1,
         "imagem sintética": 1,
-        "PL 2169/2019": 6,
+        "Flávio Bolsonaro": 1,
+        "PL 2169/2019": 5,
         "Senado": 4,
         "medidas socioeducativas": 1,
         "RS 7/2025": 1,
@@ -54854,21 +55942,22 @@
     },
     {
       "year": 2026,
-      "found": 271,
-      "accessed": 271,
-      "analysed": 267,
+      "found": 281,
+      "accessed": 281,
+      "analysed": 275,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
-        "acessado": 4,
-        "analisado": 267,
+        "acessado": 6,
+        "analisado": 275,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "debate da Globo": 91,
         "checagens": 1,
+        "Flávio Bolsonaro": 10,
         "licença-maternidade": 1,
         "assistência social": 1,
         "eleições": 6,
@@ -54932,6 +56021,7 @@
         "fonte-ee8b17bd10a7a2e4": 1,
         "fonte-70a74a349f893659": 153,
         "fonte-58d9376cef7ffa17": 21,
+        "fonte-244f3d7e18ba861f": 3,
         "fonte-d8d286c6eb7bc5c3": 1,
         "fonte-875b77e7aba40e8b": 17,
         "fonte-daa0cb3445c7df71": 1,
@@ -54941,9 +56031,10 @@
         "fonte-c50d938768fd1c00": 1,
         "fonte-f1199c02c1d5a933": 1,
         "fonte-9c2fbd587c9a9fb0": 6,
-        "fonte-244f3d7e18ba861f": 1,
+        "fonte-2acd9e7dc92e583a": 35,
+        "fonte-b1a6d0a350c2f59a": 1,
+        "fonte-0a4536d177e98be8": 2,
         "fonte-d17e0097bbcd6c10": 1,
-        "fonte-2acd9e7dc92e583a": 30,
         "fonte-63c50c68422ef210": 1,
         "fonte-5933091ceec7266f": 1,
         "fonte-e24089d8c0bdeda6": 2,
@@ -54959,22 +56050,22 @@
         "fonte-2837db98d9bb5569": 1
       },
       "formats": {
-        "video": 6,
+        "video": 7,
         "checagem": 206,
-        "reportagem": 26,
+        "reportagem": 32,
         "registro": 3,
-        "documento": 28,
-        "audio": 2
+        "audio": 3,
+        "documento": 30
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 556,
-    "items": 574,
+    "newItems": 567,
+    "items": 585,
     "alreadyInArchive": 18,
-    "accessed": 571,
-    "analysed": 546,
+    "accessed": 582,
+    "analysed": 554,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -54982,15 +56073,15 @@
     "statementCandidates": 186,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 50,
-    "sourcesConsulted": 45,
-    "video": 17,
-    "audio": 5,
-    "documents": 212,
+    "sources": 53,
+    "sourcesConsulted": 48,
+    "video": 18,
+    "audio": 6,
+    "documents": 215,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 173,
+    "queryCount": 179,
     "accessFailures": 39,
     "undatedItems": 37
   },
@@ -55930,6 +57021,60 @@
       "engine": "web fast",
       "interval": null,
       "resultsState": "Busca efetuada; não inferir desfecho processual na ausência de decisão direta examinada."
+    },
+    {
+      "id": "consulta-e951764f837041a7",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+      "query": "PL 2169/2019 Flávio Bolsonaro aumento tempo internação ECA Conselho Nacional dos Direitos da Criança Adolescente 2025 2026 audiência",
+      "executedAt": "2026-10-25T02:57:08Z",
+      "engine": "web.run, busca e abertura de páginas de Senado e contexto independente",
+      "interval": "2019–2026",
+      "resultsState": "Localizadas notícias institucionais de 2025 e pesquisa comparativa de 2026, sem novos vereditos."
+    },
+    {
+      "id": "consulta-6012c38b5995b8b4",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+      "query": "PL 2169 2019 Senado documentos texto original avulso emendas site:senado.leg.br",
+      "executedAt": "2026-10-25T02:57:08Z",
+      "engine": "web.run, busca documental",
+      "interval": "2019–2026",
+      "resultsState": "Confirmada diferença entre texto inicial e substitutivo na reportagem institucional; PDF original ainda pendente."
+    },
+    {
+      "id": "consulta-1a6d6f4791501110",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+      "query": "Flávio Bolsonaro outubro 2026 maioridade penal 14 16 anos proposta plano governo entrevista vídeo íntegra declaração",
+      "executedAt": "2026-10-25T02:57:08Z",
+      "engine": "web.run, fontes de jornalismo, Rádio Senado e TV Senado",
+      "interval": "2026",
+      "resultsState": "Localizadas declarações públicas reportadas de junho e outubro, sem reprodução de mídia."
+    },
+    {
+      "id": "consulta-e16464a0eaf79c67",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+      "query": "site:senado.leg.br PEC 18/2025 Emenda 84 Flávio Bolsonaro",
+      "executedAt": "2026-10-25T02:57:08Z",
+      "engine": "web.run, ficha oficial PEC 18/2025",
+      "interval": "outubro de 2026",
+      "resultsState": "Ficha confirma Rogerio Marinho como proponente e Flávio como signatário da Emenda 84, sessão posterior retirou a PEC de pauta."
+    },
+    {
+      "id": "consulta-50f202bf4f51e236",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+      "query": "SINASE 2025 levantamento nacional gov.br mdh 2026 dados internação",
+      "executedAt": "2026-10-25T02:57:08Z",
+      "engine": "web.run, página oficial MDHC e jornalismo de dados",
+      "interval": "2015–2026",
+      "resultsState": "Encontrado índice oficial de levantamentos; PDFs/dados numéricos originais permanecem pendentes."
+    },
+    {
+      "id": "consulta-da4f02ffef951281",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29",
+      "query": "Comparação de URLs do novo recorte com todos os content/research-input/*.json já versionados e com PL 2169 checkpoint 28",
+      "executedAt": "2026-10-25T02:57:08Z",
+      "engine": "GitHub conectado, leitura e confronto de checkpoints",
+      "interval": "até 2026-10-25T02:57:08Z",
+      "resultsState": "As 12 URLs selecionadas não constavam dos registros anteriores consultados; fichas FlagCheck sobre debate da maioridade já catalogadas ficaram fora deste lote."
     },
     {
       "id": "consulta-38a9390a636516c9",
@@ -57297,6 +58442,42 @@
       "batch": "midias-tse-20261024-13"
     },
     {
+      "id": "lacuna-7631bb32d6429b39",
+      "note": "PEC 18/2025: abrir e cotejar integralmente o PDF oficial da Emenda 84-PLEN, assinaturas, justificativa e Emenda 87 antes de comparar textos em detalhe.",
+      "state": "pendente",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29"
+    },
+    {
+      "id": "lacuna-2675fc80c0939d6c",
+      "note": "Identificar com precisão a PEC a que Flávio se referiu em junho de 2026 como sendo de sua autoria, sem confundi-la com a Emenda 84 apresentada por Rogerio Marinho em outubro.",
+      "state": "pendente",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29"
+    },
+    {
+      "id": "lacuna-146f382e2ab07863",
+      "note": "Buscar a pauta e deliberação posteriores de PEC 18/2025, respeitando eventual mudança de situação após 15/10/2026; evitar afirmar desfecho definitivo sem atualização oficial.",
+      "state": "pendente",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29"
+    },
+    {
+      "id": "lacuna-7d050503f8043564",
+      "note": "Abrir as séries originais e documentação metodológica do SINASE/FBSP e estudos acadêmicos primários, distinguindo medidas, recortes temporais e inferências causais.",
+      "state": "pendente",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29"
+    },
+    {
+      "id": "lacuna-5c50a33fc8e0e3cf",
+      "note": "Conferir audiovisual público original das declarações de 18/06 e 14/10/2026 e de manifestações parlamentares se houver acesso permitido; até esta coleta 0 segundos revisados.",
+      "state": "pendente",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29"
+    },
+    {
+      "id": "lacuna-4daf2047ba547cb0",
+      "note": "Qualquer comparação sensível entre posições de governo e oposição ou juízo empírico permanece pendente de revisão editorial humana identificada.",
+      "state": "pendente",
+      "batch": "pec18-maioridade-flavio-contexto-20261025-29"
+    },
+    {
       "id": "lacuna-26c5537cbe4501d7",
       "note": "Audiência do Senado em 07/10/2025 confirmada por ficha, requerimento e transcrição, resolvendo a dúvida de realização; falta revisar contra audiovisual a integralidade das falas.",
       "state": "pendente",
@@ -57831,6 +59012,12 @@
       "url": "https://www.tse.jus.br/legislacao/compilada/",
       "checked_at_utc": "2026-10-24T13:42:51.990Z",
       "scope": "Resolução 23.714/2022 em HTML."
+    },
+    {
+      "id": "checkpoint-20261025-29",
+      "label": "PEC 18/2025, Emenda 84 e participação de Flávio; respostas políticas, SINASE e PL 2169 como contexto",
+      "collected_at_utc": "2026-10-25T02:57:08Z",
+      "method": "12 URLs públicas HTML abertas e consultadas, reconciliadas com checkpoints anteriores, nenhum PDF/áudio/vídeo integral examinado e nenhuma classificação nova."
     },
     {
       "id": "checkpoint-20261024-24",

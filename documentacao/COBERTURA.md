@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T01:17:23.153183Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T02:59:31.241900Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-574 URLs únicas no lote; 556 ainda não vinculadas à edição anterior. 571 materiais acessados e 546 com texto analisado.
+585 URLs únicas no lote; 567 ainda não vinculadas à edição anterior. 582 materiais acessados e 554 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-17 vídeos e 5 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+18 vídeos e 6 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -27,7 +27,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2015 | 2 | 2 | 2 | 0 | 0 |
 | 2016 | 2 | 2 | 2 | 0 | 0 |
 | 2017 | 0 | 0 | 0 | 0 | 0 |
-| 2018 | 5 | 5 | 4 | 0 | 0 |
+| 2018 | 6 | 6 | 4 | 0 | 0 |
 | 2019 | 40 | 40 | 38 | 0 | 0 |
 | 2020 | 10 | 10 | 9 | 0 | 0 |
 | 2021 | 32 | 32 | 28 | 0 | 0 |
@@ -35,7 +35,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 32 | 32 | 31 | 0 | 0 |
 | 2025 | 68 | 68 | 65 | 0 | 0 |
-| 2026 | 271 | 271 | 267 | 0 | 0 |
+| 2026 | 281 | 281 | 275 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -117,6 +117,12 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - Localizar e reproduzir íntegras somente em revisão audiovisual própria.
 - Vincular declarações repetidas a núcleos já catalogados sem multiplicar a mesma proposição.
 - Abrir documentos anexos do TSE antes de resumir fundamentos além da notícia institucional.
+- PEC 18/2025: abrir e cotejar integralmente o PDF oficial da Emenda 84-PLEN, assinaturas, justificativa e Emenda 87 antes de comparar textos em detalhe.
+- Identificar com precisão a PEC a que Flávio se referiu em junho de 2026 como sendo de sua autoria, sem confundi-la com a Emenda 84 apresentada por Rogerio Marinho em outubro.
+- Buscar a pauta e deliberação posteriores de PEC 18/2025, respeitando eventual mudança de situação após 15/10/2026; evitar afirmar desfecho definitivo sem atualização oficial.
+- Abrir as séries originais e documentação metodológica do SINASE/FBSP e estudos acadêmicos primários, distinguindo medidas, recortes temporais e inferências causais.
+- Conferir audiovisual público original das declarações de 18/06 e 14/10/2026 e de manifestações parlamentares se houver acesso permitido; até esta coleta 0 segundos revisados.
+- Qualquer comparação sensível entre posições de governo e oposição ou juízo empírico permanece pendente de revisão editorial humana identificada.
 - Audiência do Senado em 07/10/2025 confirmada por ficha, requerimento e transcrição, resolvendo a dúvida de realização; falta revisar contra audiovisual a integralidade das falas.
 - PL 1473/2025: cotejar PDFs acessíveis do texto original, pareceres, versão relatada por Flávio, substitutivo, texto remetido à Câmara e eventuais notas técnicas; sem confundir projeto com lei.
 - Auditoria da audiência da Câmara de 09/12/2025: buscar ata e falas textuais dos convidados de diferentes posições; relatório de presença e fotos não equivalem a transcrição.
