@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T13:27:19.459923Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T14:27:25.178275Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-707 URLs únicas no lote; 688 ainda não vinculadas à edição anterior. 704 materiais acessados e 671 com texto analisado.
+718 URLs únicas no lote; 699 ainda não vinculadas à edição anterior. 715 materiais acessados e 682 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -32,12 +32,12 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2020 | 22 | 22 | 21 | 0 | 0 |
 | 2021 | 36 | 36 | 31 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
-| 2023 | 31 | 31 | 29 | 0 | 0 |
+| 2023 | 32 | 32 | 30 | 0 | 0 |
 | 2024 | 52 | 52 | 51 | 0 | 0 |
-| 2025 | 94 | 94 | 90 | 0 | 0 |
-| 2026 | 323 | 323 | 315 | 0 | 0 |
+| 2025 | 96 | 96 | 92 | 0 | 0 |
+| 2026 | 330 | 330 | 322 | 0 | 0 |
 
-Materiais sem data: 39. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
+Materiais sem data: 40. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
 ## Próximo lote
 
@@ -186,6 +186,12 @@ Materiais sem data: 39. Ausência de registros em um ano significa lacuna deste 
 - PL 3272/2024: procurar manifestações técnicas diretamente publicadas por entidades e dados empíricos pertinentes ao porte por vítimas. Artigo de opinião encontrado não comprova efeito causal.
 - PL 3272/2024: conferir integrais de vídeos e áudios somente quando licitamente acessíveis. Nesta coleta, 0 segundos reproduzidos e nenhum timestamp de mídia certificado.
 - Não atribuir a Flávio autoria do PL nem manifestações de Rosana, Magno Malta, Plínio, Alessandro, Augusta ou do articulista. Não criar vereditos ou comparações sensíveis sem revisão editorial humana identificada; não alterar approvedReviewerIds.
+- PL 3341/2025: abrir PDFs oficiais integrais do projeto e do P.S. 30/2026-CSP e comparar artigo 9º-A proposto com texto efetivamente votado; não substituir por mera notícia institucional.
+- PL 3341/2025: revisar editorialmente com pessoa autorizada a distinção numérica 50% (rodada 2025 em pesquisa Mulheres 2026) x 51% (rodada 2024) e a atribuição de 51% na fala transcrita de Flávio; não publicar veredito antes dessa revisão.
+- PL 3341/2025: confirmar estado legislativo em CDH após 17/09/2026; aprovação CSP não é lei.
+- Pesquisar se o estudo Ipsos possui retificações posteriores às versões PDF de fevereiro/março de 2026 antes de afirmar erro de fonte ou orador; arquivar versões somente com acesso legítimo.
+- Obter íntegra do relatório FBSP/Datafolha da 5ª edição e microdados/tabelas originais para analisar universos distintos: 15,3% de assédio físico em 12 meses x 50% de qualquer assédio dentro do transporte em período não limitado; não comparar diretamente.
+- Sem contatos com instituições, áudio/vídeo reproduzido, timestamp de mídia validado, veredito, aprovação editorial nova ou revisão por modelo neste lote.
 - Ler em ambiente autorizado as versões íntegras do projeto, Emenda 1-CDH, Parecer 41/2026 e relatório/subemenda da CCJ; PDF devolveu verificação de segurança na consulta atual.
 - Conferir o estágio posterior da CCJ e eventual deliberação terminativa, recurso e tramitação bicameral sem transformar relatório em aprovação.
 - Obter evidência primária para o percentual citado por Damares Alves em 08/04/2026; não atribuí-lo a Flávio nem tratá-lo como estatística verificada.
@@ -326,6 +332,8 @@ Materiais sem data: 39. Ausência de registros em um ano significa lacuna deste 
 - batch: pl2734-advocacia-oab-contexto-20261025-39; note: Anexos PDF do substitutivo do PL 2734/2021 e Ofício 27/2025 da ABRACRIM não foram abertos, portanto sua descrição permanece a constante da ficha legislativa, não inspeção da íntegra.
 - batch: pl2734-advocacia-oab-contexto-20261025-39; note: Na Rádio Senado, somente a transcrição HTML foi lida; reprodução de mídia 0 segundos, sem timestamp conferido.
 - batch: pl3272-protecao-medidas-cdh-csp-20261025-37; url: https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13328/item/96863; status: Timeout em tentativa de abertura da página de reunião; note: Não cadastrada como registro acessado; busca pode ser repetida. Consulta de pesquisa, não prova de indisponibilidade permanente.
+- batch: pl3341-assedio-transporte-fontes-primarias-20261025-41; url: https://publicacoes.forumseguranca.org.br/items/7c9f57aa-e7d6-4d96-8f11-768fe85a2084; status: HTTP 403 na abertura direta; note: A página de índice do relatório FBSP não foi tratada como material acessado; infográfico oficial em URL alternativa foi aberto e conferido.
+- batch: pl3341-assedio-transporte-fontes-primarias-20261025-41; url: https://www.ipsos.com/sites/default/files/ct/publication/documents/2026-03/ICS_Mulheres_Apresentacao.pdf; status: Capturas de páginas PDF posteriores à inspeção principal deram timeout; texto PDF completo e páginas 5 e 20–22 examinadas; note: O levantamento inclui texto extraído e gráficos efetivamente capturados; não se declara sucesso nas capturas que deram timeout.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10201058&rendition_principal=S&ts=1775771078593; reason: Visualização do PDF institucional devolveu desafio de verificação de segurança, inclusive em captura de tela; não declarar PDF integral lido nem emenda conferida.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento/download/6ea8ccf0-b2d2-4d09-b258-d7e24222dbde; reason: Captura de página interna do PDF de pauta retornou tela de segurança; extração parcial/indexada não é inspeção visual completa. Não catalogado como integral acessada.
 - batch: pl4598-deficiencia-cdh-ccj-20261025-35; url: https://legis.senado.leg.br/sdleg-getter/documento?dm=10053568&rendition_principal=S&ts=1785790418173; status: Página de verificação de segurança na tentativa de acesso; note: Não houve leitura integral do PDF do texto inicial pelo visualizador. A autoria e a ementa foram consultadas na ficha oficial.

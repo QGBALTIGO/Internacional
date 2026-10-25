@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T13:27:19.459923Z",
-    "inputHash": "07bc08a52bbe73f09cc4c91067eb90a271c10afe6a1874e7c92f69f92656105c",
+    "generatedAt": "2026-10-25T14:27:25.178275Z",
+    "inputHash": "dd5af1ba0ff0a64b9e639fb623f779d72034181c3e880e54925dcadcbe7e69e1",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -14567,6 +14567,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-ebce209a271e6911",
+      "title": "Agência Senado: CSP aprova campanhas contra assédio no transporte, PL 3341/2025",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/01/csp-aprova-campanhas-contra-assedio-sexual-no-transporte-publico",
+      "publisher": "Agência Senado",
+      "date": "2026-09-01",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem institucional confirma autora Augusta Brito (PT), relatoria favorável de Flávio Bolsonaro (PL) e aprovação do parecer na CSP em 01/09/2026. Descreve campanha educativa, treinamento, informação de canais, dever de notificação e possibilidade contratual de câmeras. Cita 15% de pesquisa FBSP (15,3% na fonte primária, arredondado). Encaminhamento posterior à CDH não é aprovação definitiva.",
+      "limitations": "Reportagem institucional baseada no ato e nas declarações. Não confundir autoria do PL de Augusta Brito com relatoria de Flávio, nem projeto com lei em vigor. Nenhuma gravação reproduzida.",
+      "locator": "Reportagem de 01/09/2026, 13h03, parágrafos sob 'Câmeras' e menção à pesquisa FBSP",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3341/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-agencia-senado-3341",
+          "toolReference": "turn812197view0"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-e1affd6a6420a2e7",
       "title": "HubPolítico: agregação pública da ficha e resumo do PL 2064/2025",
       "url": "https://hubpolitico.com.br/legislativo/senado/proposicao/PL-2064-2025",
@@ -17265,6 +17331,72 @@
         }
       ],
       "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. O horário collected_at corresponde ao fechamento deste checkpoint, não ao horário individual de cada leitura. Nenhum áudio ou vídeo foi reproduzido, conferidos 0 segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-5ddb1c001d260c38",
+      "title": "Câmara: proposta paralela PL 6658/2025 de prevenção de assédio no transporte",
+      "url": "https://www.camara.leg.br/noticias/1285638-comissao-aprova-reforco-a-protecao-de-mulheres-contra-o-assedio-no-transporte-publico",
+      "publisher": "Agência Câmara",
+      "date": "2026-06-25",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia de 25/06/2026 cobre outra iniciativa sobre prevenção da violência contra mulheres em transporte público: PL 6658/2025, autoria do deputado Amom Mandel, com texto relatado na Comissão de Desenvolvimento Urbano por Eli Borges. O substitutivo utiliza a Política Nacional de Mobilidade Urbana, enquanto o PL 3341/2025 modifica a Lei 14.540. Sem confusão entre autores, projetos ou situação legislativa.",
+      "limitations": "Distinto do PL 3341 e não atribuído a Flávio. Documento contextual, sem analisar íntegra do substitutivo em PDF nem afirmar conclusão da Câmara.",
+      "locator": "Matéria de 25/06/2026, parágrafos de autoria/substitutivo e seção 'Próximas etapas'",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 6658/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-pl6658-camara",
+          "toolReference": "turn266323view6"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
       "newToArchive": true
     },
     {
@@ -21065,6 +21197,270 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-efb942dbd60e88d6",
+      "title": "Ipsos: release oficial confirma 71% e diferencia 50% de 2025 contra 51% de 2024",
+      "url": "https://www.ipsos.com/sites/default/files/ct/publication/documents/2026-03/ICS_Mulheres-release.pdf",
+      "publisher": "Ipsos Brasil",
+      "date": "2026-03-05",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "Release oficial do estudo relata 71% das mulheres internautas com alguma experiência de assédio em seis locais, 54% em ruas/espaços públicos e 50% no transporte público na rodada de campo de 2025; expressamente indica 51% no transporte como resultado anterior, de 2024. Evita confundir ano de divulgação (2026) com ano de campo (2025).",
+      "limitations": "PDF disponibilizado com 3 páginas no visualizador apesar de duas páginas numeradas no impresso; as duas páginas de conteúdo foram inspecionadas inclusive por capturas. Nenhum material audiovisual examinado. A relação com fala parlamentar é indicação documental pendente de revisão editorial.",
+      "locator": "PDF página 1, metodologia e índice 71%; página 2, subtítulo 'Os espaços públicos...' e item transporte público 50% (51% em 2024)",
+      "sourceId": "fonte-550c940720c64c87",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Release Ipsos Mulheres 05/03/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-ipsos-release",
+          "toolReference": "turn266323view3"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-d88c046250dc8760",
+      "title": "Folha: retificação pública de 74% para 71% em matéria sobre pesquisa Mulheres 2026",
+      "url": "https://www1.folha.uol.com.br/amp/cotidiano/2026/03/74-das-mulheres-dizem-ja-ter-sofrido-assedio-aponta-pesquisa-em-10-capitais-brasileiras.shtml",
+      "publisher": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "A reportagem de março de 2026 traz nota pública 'Erramos' às 18h46 do mesmo dia, corrigindo 74% para 71% por informação do Instituto Cidades Sustentáveis. O corpo acessível do artigo continua apresentando 56% em ruas e 51% no transporte, números da rodada anterior segundo as tabelas e release Ipsos 2026 (54% e 50% na rodada mais recente). Registrar a divergência documental e suas possíveis consequências exige revisão editorial humana antes de qualquer classificação, especialmente por ser comparação de cobertura jornalística, pesquisa e fala parlamentar.",
+      "limitations": "Somente texto publicamente legível da página AMP foi examinado, sem acesso a histórico de versões originais ou contato com a redação. Não presumir intenção, fraude ou responsabilidade de Flávio pela reportagem. Checagem editorial sensível permanece pendente.",
+      "locator": "Seção 'Erramos' em 05/03/2026 18h46 e parágrafo que menciona 56% e 51% no corpo da reportagem",
+      "sourceId": "fonte-244f3d7e18ba861f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-folha-erramos",
+          "toolReference": "turn378589view0"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-a9ec599048a19695",
+      "title": "Ipsos: publicação e ficha metodológica da pesquisa Mulheres 2026",
+      "url": "https://www.ipsos.com/pt-br/percepcoes-dos-internautas-sobre-desigualdade-de-genero-e-violencia-contra-mulheres",
+      "publisher": "Ipsos-Ipec",
+      "date": "2026-03-05",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "Publicação da própria executora descreve painel de 3.500 internautas, pessoas 16+ em dez capitais com residência há pelo menos dois anos, campo 01–27/12/2025, cotas sexo/idade/classe/ocupação, margem informada de 2 p.p. total e de 4–6 p.p. por capital. Registra 71% das mulheres e detalha 50% no transporte público em 2025 contra 51% em 2024; contrapõe literalmente a atribuição de 51% nas notas da CSP, mas sem criar veredito.",
+      "limitations": "Nota institucional da organização produtora, não auditoria independente do plano amostral; não confundir relato de assédio ao longo da vida com ocorrência de crime no ano. Juízos de comparação ou checagem permanecem sem publicação.",
+      "locator": "Seções 'Assédio: a insegurança como regra' e 'Sobre a Pesquisa'; linhas 30–38 e 50–54 da leitura HTML",
+      "sourceId": "fonte-db1a415ff23254ac",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-ipsos-html",
+          "toolReference": "turn266323view0"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-917e240cccda1f47",
+      "title": "Instituto Cidades Sustentáveis: comunicado original de lançamento da pesquisa Mulheres 2026",
+      "url": "https://icidadessustentaveis.org.br/2026/03/05/sete-em-cada-dez-mulheres-dizem-que-ja-sofreram-assedio-mostra-pesquisa-em-dez-capitais-brasileiras/",
+      "publisher": "Instituto Cidades Sustentáveis",
+      "date": "2026-03-05",
+      "eventDate": null,
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "Comunicado dos organizadores apresenta a pesquisa de 3.500 entrevistas online, confirma que 71% das respondentes mulheres declararam assédio em pelo menos um de seis locais; expõe percepções de prevenção, medidas de proteção e canais de denúncia. Relata lançamento em 05/03/2026 com participantes identificados, sem alegar que qualquer um comentou o PL 3341.",
+      "limitations": "Fonte primária para dados e posicionamentos dos organizadores, não depoimento de Flávio ou resposta institucional ao projeto; estimativas baseadas em questionários declarados.",
+      "locator": "Seções 'Assédio e combate à violência contra a mulher' e 'Divisão de tarefas domésticas'; HTML, parágrafos das 3.500 entrevistas e 71%",
+      "sourceId": "fonte-5b7afcdf6506b13c",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-ics-artigo",
+          "toolReference": "turn266323view1"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-bfe3d4b870eaa92c",
       "title": "PDL 206/2023 continua em tramitação na Câmara: situação na CCJC",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2490435",
@@ -21129,6 +21525,72 @@
         }
       ],
       "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-6f1a98d683917858",
+      "title": "Ipsos-Ipec: apresentação primária Viver nas Cidades Mulheres 2026, tabelas 2024/2025",
+      "url": "https://www.ipsos.com/sites/default/files/ct/publication/documents/2026-03/ICS_Mulheres_Apresentacao.pdf",
+      "publisher": "Ipsos-Ipec / Instituto Cidades Sustentáveis",
+      "date": "2026-03",
+      "eventDate": "2025-12-27",
+      "year": 2026,
+      "datePrecision": "month",
+      "format": "documento",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "Apresentação de 41 páginas, versão fevereiro/2026, referente a entrevistas entre 01 e 27/12/2025. Na tabela comparativa: mulheres que declararam ter sofrido assédio em algum dos locais pesquisados 71% na rodada 2025 versus 74% na anterior; assédio dentro do transporte público 50% na rodada 2025 versus 51% na anterior; assédio em ruas ou espaços públicos 54% versus 56% anteriores. A amostra total é de 3.500 internautas, com 2.066 mulheres na rodada de 2025. Esses são relatos de entrevistadas nas dez capitais, não contagem de crimes ou taxa nacional. Nas notas da CSP de 01/09/2026, Flávio atribuiu 51% à pesquisa Mulheres 2026; a atribuição de ano deve ser conferida por revisor editorial identificado antes de qualquer juízo de acerto/erro.",
+      "limitations": "PDF aberto e texto/figuras inspecionados por páginas e capturas. Os quadros classificam 2024 e 2025 pelo período de campo, embora o estudo seja chamado Mulheres 2026. Os 71% referem-se às mulheres respondentes, não às 3.500 pessoas de ambos os sexos; desenho de painel online com ponderação não autoriza generalização irrestrita ao país. Nenhum áudio da sessão foi ouvido. Comparação sensível continua pendente de revisão editorial humana identificada.",
+      "locator": "PDF páginas 5 (metodologia), 20–23 (vítimas e locais; séries 2024/2025), 25 (transporte; 50% em 2025); notas da CSP HTML 14952, linha editorial do item 3 (PL 3341/2025)",
+      "sourceId": "fonte-94b1df917198f650",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Pesquisa ICS Mulheres 2026, versão fevereiro/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-ipsos-apresentacao",
+          "toolReference": "turn266323view4"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
       "newToArchive": true
     },
     {
@@ -24593,6 +25055,72 @@
       "newToArchive": false
     },
     {
+      "id": "pesquisa-eaf0f197e878cef3",
+      "title": "Congresso Nacional: tramitação bicameral do PL 3341/2025, ainda no Senado",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-3341-2025",
+      "publisher": "Congresso Nacional",
+      "date": "2025-07-10",
+      "eventDate": null,
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "Painel de tramitação da iniciativa de Augusta Brito registra relatório favorável de Flávio apresentado em 27/08/2026 e parecer aprovado pela CSP em 01/09/2026. Em 17/09/2026, a CDH tinha relatoria distribuída à senadora Ivete da Silveira; no painel conferido o estágio permanecia 'matéria com a relatoria'. A fase na Câmara e a sanção não ocorreram nesse painel consultado.",
+      "limitations": "Painel HTML consultado em 25/10/2026, situação sujeita a alteração. A data de documento refere-se à autuação e não ao último estágio. Não prova efeitos legais vigentes.",
+      "locator": "Tramitação 14/11/2025, 27/08/2026, 01/09/2026, 02/09/2026 e 17/09/2026; quadro 'Casa Iniciadora (Senado)'",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3341/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-congresso-3341",
+          "toolReference": "turn266323view5"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-61ec51dfad869a96",
       "title": "Senado: Flávio relatou favoravelmente projeto de Augusta Brito contra assédio no transporte",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169523",
@@ -27599,6 +28127,72 @@
         }
       ],
       "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-3e0ab567fc59774b",
+      "title": "FBSP/Datafolha: infográfico primário da 5ª edição Visível e Invisível (2025)",
+      "url": "https://forumseguranca.org.br/wp-content/uploads/2025/03/visiveleinvisivel-2025-infografico.pdf",
+      "publisher": "Fórum Brasileiro de Segurança Pública / Datafolha",
+      "date": "2025-03",
+      "eventDate": null,
+      "year": 2025,
+      "datePrecision": "month",
+      "format": "documento",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "Infográfico oficial da 5ª edição documenta 15,3% das mulheres entrevistadas em módulo de autopreenchimento relatando assédio físico em transporte público (ônibus/metrô) nos últimos 12 meses, dado resumido como 15% na Agência Senado sobre PL 3341. Pesquisa nacional com 2.007 entrevistas gerais, 1.040 mulheres no módulo e 793 respondentes; campo 10–14/02/2025. Indicador é diferente dos 50% ao longo da vida em dez capitais do estudo Ipsos, portanto não devem ser tratados como contradição sem alinhar pergunta, universo, prazo e método.",
+      "limitations": "O documento efetivamente examinado é infográfico de duas páginas, não o relatório integral da pesquisa ou microdados. Não se atribui ao senador aprovação dos dados por si; fonte da Agência Senado já informa porcentagem arredondada.",
+      "locator": "PDF página 2, bloco 'ASSÉDIO', 15,3% e rodapé 'Metodologia'; página inspecionada graficamente",
+      "sourceId": "fonte-9464736142a8d85d",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Visível e Invisível: a Vitimização de Mulheres no Brasil, 5ª edição (2025)",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-fbsp-infografico",
+          "toolReference": "turn403318view0"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
       "newToArchive": true
     },
     {
@@ -32854,6 +33448,72 @@
         }
       ],
       "accessMethod": "Página HTML pública aberta e texto pertinente lido em 25/10/2026; collected_at marca fechamento do checkpoint e não o horário individual de acesso; PDFs vinculados e mídias não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-6ac57e6eba148f1c",
+      "title": "Câmara: texto original integral da Lei 14.540/2023 (programa nacional contra assédio)",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2023/lei-14540-3-abril-2023-793990-publicacaooriginal-167487-pl.html",
+      "publisher": "Câmara dos Deputados",
+      "date": "2023-04-03",
+      "eventDate": null,
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "Texto legal original consultado, especialmente arts. 1º a 5º: já havia programa nacional de prevenção ao assédio sexual, aplicável às administrações públicas e, pelo art. 2º §1º, a instituições privadas prestadoras de serviços públicos delegados. Inclui educação, capacitação, divulgação e canais de denúncia. O PL 3341/2025 propõe novas diretrizes específicas para serviços coletivos; não criou o programa original nem é lei em vigor.",
+      "limitations": "Texto da publicação original, não certidão de consolidação de alterações posteriores. Não atribuir autoria/relatoria da Lei 14.540 a Flávio. Não transformar proposta de 2025 em dispositivo vigente.",
+      "locator": "Art. 2º §1º; art. 4º incisos I–III; art. 5º incisos I–VII, §§1º–2º; texto de publicação original em HTML",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 14.540/2023",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-lei14540-original",
+          "toolReference": "turn235105view0"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
       "newToArchive": true
     },
     {
@@ -46602,6 +47262,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-1afbae1edeec9eba",
+      "title": "Instituto Cidades Sustentáveis: índice histórico de pesquisas Mulheres 2025 e 2026",
+      "url": "https://icidadessustentaveis.org.br/pesquisas/mulheres/",
+      "publisher": "Instituto Cidades Sustentáveis",
+      "date": null,
+      "eventDate": null,
+      "year": null,
+      "datePrecision": "unknown",
+      "format": "registro",
+      "topic": "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas",
+      "topics": [
+        "PL 3341/2025",
+        "relatoria Flávio Bolsonaro",
+        "prevenção ao assédio no transporte público"
+      ],
+      "stage": "analisado",
+      "summary": "Índice de pesquisa distingue claramente levantamento Mulheres 2026 (71% das mulheres) da edição Mulheres 2025 (74%). Disponibiliza apresentações por edição e lista capitais cobertas. Ajuda rastrear possíveis confusões entre rodadas, mas não equivale a reprocessamento estatístico.",
+      "limitations": "Página de índice sem data de publicação verificável; published_date mantida nula. Dados de rodadas diferentes não devem ser convertidos em taxas nacionais.",
+      "locator": "Seção 'Confira as últimas pesquisas', cards 'Viver nas Cidades Mulheres 2026' e '2025'; links de 'Histórico de pesquisas Mulheres'",
+      "sourceId": "fonte-5b7afcdf6506b13c",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T14:27:13.464Z",
+      "lastModifiedAt": "2026-10-25T14:27:13.464Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": null,
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+          "inputId": "41-ics-indice",
+          "toolReference": "turn266323view2"
+        }
+      ],
+      "accessMethod": "abertura pública e leitura direta de HTML ou PDF com conferência de páginas e localizadores",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-17d3f716455118e4",
       "title": "TSE fixa tese sobre deepfake e delimita regra para as Eleições 2026",
       "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Setembro/tse-fixa-tese-sobre-deepfake-e-delimita-regra-para-as-eleicoes-2026",
@@ -47423,10 +48149,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T09:34:35.598Z",
+      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 5,
+      "sourceCount": 6,
       "periods": [
         2024,
         2025,
@@ -47437,8 +48163,8 @@
         "registro"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 5,
-      "analysedCount": 5
+      "accessedCount": 6,
+      "analysedCount": 6
     },
     {
       "id": "fonte-a4e1c1a2182dd1de",
@@ -47564,10 +48290,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T13:27:06.260Z",
+      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 20,
+      "sourceCount": 22,
       "periods": [
         2007,
         2019,
@@ -47583,8 +48309,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 20,
-      "analysedCount": 20
+      "accessedCount": 22,
+      "analysedCount": 22
     },
     {
       "id": "fonte-0d9079c114e04a58",
@@ -47710,10 +48436,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T02:57:08Z",
+      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 3,
+      "sourceCount": 4,
       "periods": [
         2026
       ],
@@ -47721,8 +48447,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 3,
-      "analysedCount": 3
+      "accessedCount": 4,
+      "analysedCount": 4
     },
     {
       "id": "fonte-c0abac72ff584660",
@@ -47742,6 +48468,29 @@
       ],
       "formats": [
         "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-9464736142a8d85d",
+      "name": "Fórum Brasileiro de Segurança Pública / Datafolha",
+      "url": "https://forumseguranca.org.br/",
+      "responsible": "Fórum Brasileiro de Segurança Pública / Datafolha",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2025
+      ],
+      "formats": [
+        "documento"
       ],
       "monitoringEnabled": false,
       "accessedCount": 1,
@@ -47859,6 +48608,30 @@
       "analysedCount": 1
     },
     {
+      "id": "fonte-5b7afcdf6506b13c",
+      "name": "Instituto Cidades Sustentáveis",
+      "url": "https://icidadessustentaveis.org.br/",
+      "responsible": "Instituto Cidades Sustentáveis",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 2,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "registro",
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 2,
+      "analysedCount": 2
+    },
+    {
       "id": "fonte-39f3da029d318a85",
       "name": "Instituto dos Advogados Brasileiros (IAB)",
       "url": "https://arquivo.iabnacional.org.br/",
@@ -47949,6 +48722,75 @@
       "monitoringEnabled": false,
       "accessedCount": 1,
       "analysedCount": 0
+    },
+    {
+      "id": "fonte-550c940720c64c87",
+      "name": "Ipsos Brasil",
+      "url": "https://www.ipsos.com/",
+      "responsible": "Ipsos Brasil",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-db1a415ff23254ac",
+      "name": "Ipsos-Ipec",
+      "url": "https://www.ipsos.com/",
+      "responsible": "Ipsos-Ipec",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-94b1df917198f650",
+      "name": "Ipsos-Ipec / Instituto Cidades Sustentáveis",
+      "url": "https://www.ipsos.com/",
+      "responsible": "Ipsos-Ipec / Instituto Cidades Sustentáveis",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
     },
     {
       "id": "fonte-ab7ca292b805c308",
@@ -48538,10 +49380,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z",
-      "lastConsultedAt": "2026-10-25T13:27:06.260Z",
+      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 313,
+      "sourceCount": 314,
       "periods": [
         2018,
         2019,
@@ -48562,8 +49404,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 312,
-      "analysedCount": 293
+      "accessedCount": 313,
+      "analysedCount": 294
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -51614,6 +52456,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-992afc12593e9845",
+      "itemId": "pesquisa-ebce209a271e6911",
+      "title": "Agência Senado: CSP aprova campanhas contra assédio no transporte, PL 3341/2025",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Reportagem institucional confirma autora Augusta Brito (PT), relatoria favorável de Flávio Bolsonaro (PL) e aprovação do parecer na CSP em 01/09/2026. Descreve campanha educativa, treinamento, informação de canais, dever de notificação e possibilidade contratual de câmeras. Cita 15% de pesquisa FBSP (15,3% na fonte primária, arredondado). Encaminhamento posterior à CDH não é aprovação definitiva.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-4a218ae11486300f",
       "itemId": "pesquisa-e1affd6a6420a2e7",
       "title": "HubPolítico: agregação pública da ficha e resumo do PL 2064/2025",
@@ -51972,6 +52823,15 @@
       "datePrecision": "day",
       "context": "O resultado da 46ª reunião, item 10, indica 'Adiado' para o PL 4598/2025; o relatório favorável ainda não havia sido aprovado nessa sessão.",
       "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-3ba38d36fc4d649f",
+      "itemId": "pesquisa-5ddb1c001d260c38",
+      "title": "Câmara: proposta paralela PL 6658/2025 de prevenção de assédio no transporte",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Notícia de 25/06/2026 cobre outra iniciativa sobre prevenção da violência contra mulheres em transporte público: PL 6658/2025, autoria do deputado Amom Mandel, com texto relatado na Comissão de Desenvolvimento Urbano por Eli Borges. O substitutivo utiliza a Política Nacional de Mobilidade Urbana, enquanto o PL 3341/2025 modifica a Lei 14.540. Sem confusão entre autores, projetos ou situação legislativa.",
+      "state": "identificação de evento pendente"
     },
     {
       "id": "evento-6854a47941b43423",
@@ -52487,12 +53347,57 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-a2c6b0032461ff3a",
+      "itemId": "pesquisa-efb942dbd60e88d6",
+      "title": "Ipsos: release oficial confirma 71% e diferencia 50% de 2025 contra 51% de 2024",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Release oficial do estudo relata 71% das mulheres internautas com alguma experiência de assédio em seis locais, 54% em ruas/espaços públicos e 50% no transporte público na rodada de campo de 2025; expressamente indica 51% no transporte como resultado anterior, de 2024. Evita confundir ano de divulgação (2026) com ano de campo (2025).",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-8be9cd0fe6be42c8",
+      "itemId": "pesquisa-d88c046250dc8760",
+      "title": "Folha: retificação pública de 74% para 71% em matéria sobre pesquisa Mulheres 2026",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "A reportagem de março de 2026 traz nota pública 'Erramos' às 18h46 do mesmo dia, corrigindo 74% para 71% por informação do Instituto Cidades Sustentáveis. O corpo acessível do artigo continua apresentando 56% em ruas e 51% no transporte, números da rodada anterior segundo as tabelas e release Ipsos 2026 (54% e 50% na rodada mais recente). Registrar a divergência documental e suas possíveis consequências exige revisão editorial humana antes de qualquer classificação, especialmente por ser comparação de cobertura jornalística, pesquisa e fala parlamentar.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-ef6d3fd0e6b1e1f1",
+      "itemId": "pesquisa-a9ec599048a19695",
+      "title": "Ipsos: publicação e ficha metodológica da pesquisa Mulheres 2026",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Publicação da própria executora descreve painel de 3.500 internautas, pessoas 16+ em dez capitais com residência há pelo menos dois anos, campo 01–27/12/2025, cotas sexo/idade/classe/ocupação, margem informada de 2 p.p. total e de 4–6 p.p. por capital. Registra 71% das mulheres e detalha 50% no transporte público em 2025 contra 51% em 2024; contrapõe literalmente a atribuição de 51% nas notas da CSP, mas sem criar veredito.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-a4b0fe144793460d",
+      "itemId": "pesquisa-917e240cccda1f47",
+      "title": "Instituto Cidades Sustentáveis: comunicado original de lançamento da pesquisa Mulheres 2026",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Comunicado dos organizadores apresenta a pesquisa de 3.500 entrevistas online, confirma que 71% das respondentes mulheres declararam assédio em pelo menos um de seis locais; expõe percepções de prevenção, medidas de proteção e canais de denúncia. Relata lançamento em 05/03/2026 com participantes identificados, sem alegar que qualquer um comentou o PL 3341.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-1543fa96948e535c",
       "itemId": "pesquisa-bfe3d4b870eaa92c",
       "title": "PDL 206/2023 continua em tramitação na Câmara: situação na CCJC",
       "date": "2026-03-03",
       "datePrecision": "day",
       "context": "A ficha da Câmara registra o PDL 206/2023 como 'Pronta para Pauta' na CCJC. A última ação visível em 03/03/2026 era parecer do relator deputado Zé Trovão favorável à aprovação. Parecer de relator não significa aprovação final pela comissão ou pelo Plenário. Situação textual consultada em 24/10/2026.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-6f13727f9db6b508",
+      "itemId": "pesquisa-6f1a98d683917858",
+      "title": "Ipsos-Ipec: apresentação primária Viver nas Cidades Mulheres 2026, tabelas 2024/2025",
+      "date": "2025-12-27",
+      "datePrecision": "month",
+      "context": "Apresentação de 41 páginas, versão fevereiro/2026, referente a entrevistas entre 01 e 27/12/2025. Na tabela comparativa: mulheres que declararam ter sofrido assédio em algum dos locais pesquisados 71% na rodada 2025 versus 74% na anterior; assédio dentro do transporte público 50% na rodada 2025 versus 51% na anterior; assédio em ruas ou espaços públicos 54% versus 56% anteriores. A amostra total é de 3.500 internautas, com 2.066 mulheres na rodada de 2025. Esses são relatos de entrevistadas nas dez capitais, não contagem de crimes ou taxa nacional. Nas notas da CSP de 01/09/2026, Flávio atribuiu 51% à pesquisa Mulheres 2026; a atribuição de ano deve ser conferida por revisor editorial identificado antes de qualquer juízo de acerto/erro.",
       "state": "data informada pela fonte"
     },
     {
@@ -52964,6 +53869,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-1b838ffdf346c1e8",
+      "itemId": "pesquisa-eaf0f197e878cef3",
+      "title": "Congresso Nacional: tramitação bicameral do PL 3341/2025, ainda no Senado",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Painel de tramitação da iniciativa de Augusta Brito registra relatório favorável de Flávio apresentado em 27/08/2026 e parecer aprovado pela CSP em 01/09/2026. Em 17/09/2026, a CDH tinha relatoria distribuída à senadora Ivete da Silveira; no painel conferido o estágio permanecia 'matéria com a relatoria'. A fase na Câmara e a sanção não ocorreram nesse painel consultado.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-440a236fc82883ce",
       "itemId": "pesquisa-61ec51dfad869a96",
       "title": "Senado: Flávio relatou favoravelmente projeto de Augusta Brito contra assédio no transporte",
@@ -53367,6 +54281,15 @@
       "datePrecision": "day",
       "context": "Reportagem de 13/03/2025 documenta a discussão inicial do PL 3272/2024 na CDH, com pedido de vista coletiva, requisitos técnicos e justificativa favorável atribuída a Magno Malta. Não comprova aprovação nesta data.",
       "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-31e9c2a910e60d89",
+      "itemId": "pesquisa-3e0ab567fc59774b",
+      "title": "FBSP/Datafolha: infográfico primário da 5ª edição Visível e Invisível (2025)",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Infográfico oficial da 5ª edição documenta 15,3% das mulheres entrevistadas em módulo de autopreenchimento relatando assédio físico em transporte público (ônibus/metrô) nos últimos 12 meses, dado resumido como 15% na Agência Senado sobre PL 3341. Pesquisa nacional com 2.007 entrevistas gerais, 1.040 mulheres no módulo e 793 respondentes; campo 10–14/02/2025. Indicador é diferente dos 50% ao longo da vida em dez capitais do estudo Ipsos, portanto não devem ser tratados como contradição sem alinhar pergunta, universo, prazo e método.",
+      "state": "identificação de evento pendente"
     },
     {
       "id": "evento-21d3345e0392f944",
@@ -54078,6 +55001,15 @@
       "datePrecision": "day",
       "context": "A norma oficial acrescentou parâmetros ao artigo 19 da Lei Maria da Penha, prevendo concessão com base em cognição sumária e persistência das medidas enquanto existir risco, sem depender de tipificação penal ou instauração de inquérito. Constitui contexto jurídico anterior, sem vínculo de autoria com Flávio Bolsonaro.",
       "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-6ba2bf709092f8bd",
+      "itemId": "pesquisa-6ac57e6eba148f1c",
+      "title": "Câmara: texto original integral da Lei 14.540/2023 (programa nacional contra assédio)",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Texto legal original consultado, especialmente arts. 1º a 5º: já havia programa nacional de prevenção ao assédio sexual, aplicável às administrações públicas e, pelo art. 2º §1º, a instituições privadas prestadoras de serviços públicos delegados. Inclui educação, capacitação, divulgação e canais de denúncia. O PL 3341/2025 propõe novas diretrizes específicas para serviços coletivos; não criou o programa original nem é lei em vigor.",
+      "state": "identificação de evento pendente"
     },
     {
       "id": "evento-e4add2c3ff361888",
@@ -55949,6 +56881,15 @@
       "date": null,
       "datePrecision": "unknown",
       "context": "Registro institucional do Tribunal Superior Eleitoral sobre TSE determina reexibição de propaganda eleitoral do candidato Flávio Bolsonaro (PL). O catálogo preserva o estágio processual e não transforma decisão liminar, investigação, alegação ou pedido em culpa ou veredito próprio.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-f9af224e2fda1c32",
+      "itemId": "pesquisa-1afbae1edeec9eba",
+      "title": "Instituto Cidades Sustentáveis: índice histórico de pesquisas Mulheres 2025 e 2026",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Índice de pesquisa distingue claramente levantamento Mulheres 2026 (71% das mulheres) da edição Mulheres 2025 (74%). Disponibiliza apresentações por edição e lista capitais cobertas. Ajuda rastrear possíveis confusões entre rodadas, mas não equivale a reprocessamento estatístico.",
       "state": "identificação de evento pendente"
     },
     {
@@ -61475,6 +62416,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-992afc12593e9845",
+      "itemId": "pesquisa-ebce209a271e6911",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/01/csp-aprova-campanhas-contra-assedio-sexual-no-transporte-publico",
+      "locator": "Reportagem de 01/09/2026, 13h03, parágrafos sob 'Câmeras' e menção à pesquisa FBSP",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-4a218ae11486300f",
       "itemId": "pesquisa-e1affd6a6420a2e7",
       "sourceId": "fonte-ffa7a1ba1d5f2ee1",
@@ -61909,6 +62861,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14794",
       "locator": "46ª CDH, item 10, linhas 296-310.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-3ba38d36fc4d649f",
+      "itemId": "pesquisa-5ddb1c001d260c38",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www.camara.leg.br/noticias/1285638-comissao-aprova-reforco-a-protecao-de-mulheres-contra-o-assedio-no-transporte-publico",
+      "locator": "Matéria de 25/06/2026, parágrafos de autoria/substitutivo e seção 'Próximas etapas'",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -62542,11 +63505,66 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-a2c6b0032461ff3a",
+      "itemId": "pesquisa-efb942dbd60e88d6",
+      "sourceId": "fonte-550c940720c64c87",
+      "url": "https://www.ipsos.com/sites/default/files/ct/publication/documents/2026-03/ICS_Mulheres-release.pdf",
+      "locator": "PDF página 1, metodologia e índice 71%; página 2, subtítulo 'Os espaços públicos...' e item transporte público 50% (51% em 2024)",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-8be9cd0fe6be42c8",
+      "itemId": "pesquisa-d88c046250dc8760",
+      "sourceId": "fonte-244f3d7e18ba861f",
+      "url": "https://www1.folha.uol.com.br/amp/cotidiano/2026/03/74-das-mulheres-dizem-ja-ter-sofrido-assedio-aponta-pesquisa-em-10-capitais-brasileiras.shtml",
+      "locator": "Seção 'Erramos' em 05/03/2026 18h46 e parágrafo que menciona 56% e 51% no corpo da reportagem",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ef6d3fd0e6b1e1f1",
+      "itemId": "pesquisa-a9ec599048a19695",
+      "sourceId": "fonte-db1a415ff23254ac",
+      "url": "https://www.ipsos.com/pt-br/percepcoes-dos-internautas-sobre-desigualdade-de-genero-e-violencia-contra-mulheres",
+      "locator": "Seções 'Assédio: a insegurança como regra' e 'Sobre a Pesquisa'; linhas 30–38 e 50–54 da leitura HTML",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-a4b0fe144793460d",
+      "itemId": "pesquisa-917e240cccda1f47",
+      "sourceId": "fonte-5b7afcdf6506b13c",
+      "url": "https://icidadessustentaveis.org.br/2026/03/05/sete-em-cada-dez-mulheres-dizem-que-ja-sofreram-assedio-mostra-pesquisa-em-dez-capitais-brasileiras/",
+      "locator": "Seções 'Assédio e combate à violência contra a mulher' e 'Divisão de tarefas domésticas'; HTML, parágrafos das 3.500 entrevistas e 71%",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-1543fa96948e535c",
       "itemId": "pesquisa-bfe3d4b870eaa92c",
       "sourceId": "fonte-29a2bae5277f274b",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2490435",
       "locator": "Câmara, proposição 2490435; campo Situação e Última Ação Legislativa (03/03/2026); texto integral e parecer em PDF não abertos.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-6f13727f9db6b508",
+      "itemId": "pesquisa-6f1a98d683917858",
+      "sourceId": "fonte-94b1df917198f650",
+      "url": "https://www.ipsos.com/sites/default/files/ct/publication/documents/2026-03/ICS_Mulheres_Apresentacao.pdf",
+      "locator": "PDF páginas 5 (metodologia), 20–23 (vítimas e locais; séries 2024/2025), 25 (transporte; 50% em 2025); notas da CSP HTML 14952, linha editorial do item 3 (PL 3341/2025)",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -63125,6 +64143,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-1b838ffdf346c1e8",
+      "itemId": "pesquisa-eaf0f197e878cef3",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-3341-2025",
+      "locator": "Tramitação 14/11/2025, 27/08/2026, 01/09/2026, 02/09/2026 e 17/09/2026; quadro 'Casa Iniciadora (Senado)'",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-440a236fc82883ce",
       "itemId": "pesquisa-61ec51dfad869a96",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -63614,6 +64643,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/radio/1/noticia/2025/03/13/porte-de-armas-para-mulheres-sob-medidas-protetivas-esta-em-analise-na-cdh",
       "locator": "Rádio Senado, cabeçalho e Transcrição, linhas 9-25; duração nominal 02:03.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-31e9c2a910e60d89",
+      "itemId": "pesquisa-3e0ab567fc59774b",
+      "sourceId": "fonte-9464736142a8d85d",
+      "url": "https://forumseguranca.org.br/wp-content/uploads/2025/03/visiveleinvisivel-2025-infografico.pdf",
+      "locator": "PDF página 2, bloco 'ASSÉDIO', 15,3% e rodapé 'Metodologia'; página inspecionada graficamente",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -64483,6 +65523,17 @@
       "sourceId": "fonte-29a2bae5277f274b",
       "url": "https://www2.camara.leg.br/legin/fed/lei/2023/lei-14550-19-abril-2023-794072-publicacaooriginal-167635-pl.html",
       "locator": "Lei 14.550/2023, texto original da Câmara, linhas 29-36, alterações dos parágrafos do art. 19.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-6ba2bf709092f8bd",
+      "itemId": "pesquisa-6ac57e6eba148f1c",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2023/lei-14540-3-abril-2023-793990-publicacaooriginal-167487-pl.html",
+      "locator": "Art. 2º §1º; art. 4º incisos I–III; art. 5º incisos I–VII, §§1º–2º; texto de publicação original em HTML",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -66777,6 +67828,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-f9af224e2fda1c32",
+      "itemId": "pesquisa-1afbae1edeec9eba",
+      "sourceId": "fonte-5b7afcdf6506b13c",
+      "url": "https://icidadessustentaveis.org.br/pesquisas/mulheres/",
+      "locator": "Seção 'Confira as últimas pesquisas', cards 'Viver nas Cidades Mulheres 2026' e '2025'; links de 'Histórico de pesquisas Mulheres'",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-0398e9a1801f14c7",
       "itemId": "pesquisa-17d3f716455118e4",
       "sourceId": "fonte-d17e0097bbcd6c10",
@@ -67459,15 +68521,15 @@
     },
     {
       "year": 2023,
-      "found": 31,
-      "accessed": 31,
-      "analysed": 29,
+      "found": 32,
+      "accessed": 32,
+      "analysed": 30,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 29,
+        "analisado": 30,
         "revisado": 0,
         "publicado": 0
       },
@@ -67487,20 +68549,21 @@
         "legislação digital": 1,
         "8 de janeiro": 1,
         "Lei 14.550/2023": 1,
+        "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas": 1,
         "ADI 6138": 1,
         "Atividade pública": 1,
         "eleicoes": 1
       },
       "sources": {
         "fonte-2acd9e7dc92e583a": 27,
-        "fonte-29a2bae5277f274b": 1,
+        "fonte-29a2bae5277f274b": 2,
         "fonte-3ed65b2f1d041330": 1,
         "fonte-37b3a9c8aaa5f206": 1,
         "fonte-d17e0097bbcd6c10": 1
       },
       "formats": {
         "reportagem": 5,
-        "documento": 24,
+        "documento": 25,
         "registro": 1,
         "video": 1
       },
@@ -67563,15 +68626,15 @@
     },
     {
       "year": 2025,
-      "found": 94,
-      "accessed": 94,
-      "analysed": 90,
+      "found": 96,
+      "accessed": 96,
+      "analysed": 92,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 4,
-        "analisado": 90,
+        "analisado": 92,
         "revisado": 0,
         "publicado": 0
       },
@@ -67599,6 +68662,7 @@
         "PL 2734/2021": 13,
         "PL 3272/2024 (contexto)": 3,
         "Correios": 1,
+        "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas": 2,
         "PL 3341/2025": 1,
         "MPV 1292/2025": 1,
         "economia": 1,
@@ -67622,7 +68686,7 @@
         "fonte-29a2bae5277f274b": 7,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
-        "fonte-ad60f42b08c8e9e7": 1,
+        "fonte-ad60f42b08c8e9e7": 2,
         "fonte-875b77e7aba40e8b": 1,
         "fonte-3ed65b2f1d041330": 2,
         "fonte-752f21616c18af3d": 1,
@@ -67631,12 +68695,13 @@
         "fonte-d71cdccc4686b5ec": 1,
         "fonte-0a4536d177e98be8": 1,
         "fonte-7d7b950bffc2fe29": 1,
-        "fonte-29c88c4f33178543": 1
+        "fonte-29c88c4f33178543": 1,
+        "fonte-9464736142a8d85d": 1
       },
       "formats": {
         "audio": 4,
-        "documento": 48,
-        "registro": 13,
+        "documento": 49,
+        "registro": 14,
         "checagem": 6,
         "reportagem": 21,
         "video": 2
@@ -67645,15 +68710,15 @@
     },
     {
       "year": 2026,
-      "found": 323,
-      "accessed": 323,
-      "analysed": 315,
+      "found": 330,
+      "accessed": 330,
+      "analysed": 322,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 8,
-        "analisado": 315,
+        "analisado": 322,
         "revisado": 0,
         "publicado": 0
       },
@@ -67696,6 +68761,7 @@
         "PL 2343/2025": 5,
         "PL 1482/2019": 5,
         "banco-master": 2,
+        "PL 3341/2025: assédio no transporte público, relatoria, evidências e estatísticas": 7,
         "PL 3341/2025": 1,
         "PL 3272/2024": 1,
         "PL 5646/2025": 8,
@@ -67730,7 +68796,7 @@
         "fonte-ee8b17bd10a7a2e4": 1,
         "fonte-70a74a349f893659": 153,
         "fonte-58d9376cef7ffa17": 21,
-        "fonte-244f3d7e18ba861f": 3,
+        "fonte-244f3d7e18ba861f": 4,
         "fonte-d8d286c6eb7bc5c3": 1,
         "fonte-875b77e7aba40e8b": 17,
         "fonte-daa0cb3445c7df71": 1,
@@ -67741,7 +68807,7 @@
         "fonte-f1199c02c1d5a933": 1,
         "fonte-f963e021c7cefa6f": 2,
         "fonte-9c2fbd587c9a9fb0": 6,
-        "fonte-2acd9e7dc92e583a": 60,
+        "fonte-2acd9e7dc92e583a": 61,
         "fonte-b1a6d0a350c2f59a": 1,
         "fonte-4114d6bfe97e1092": 1,
         "fonte-0a4536d177e98be8": 2,
@@ -67750,7 +68816,7 @@
         "fonte-5933091ceec7266f": 1,
         "fonte-e24089d8c0bdeda6": 2,
         "fonte-009ef75a2cd7b2f1": 1,
-        "fonte-29a2bae5277f274b": 5,
+        "fonte-29a2bae5277f274b": 6,
         "fonte-fe11eb2ae2357739": 1,
         "fonte-ffa7a1ba1d5f2ee1": 1,
         "fonte-ad60f42b08c8e9e7": 3,
@@ -67768,25 +68834,29 @@
         "fonte-e0d802a79452f4db": 1,
         "fonte-2837db98d9bb5569": 1,
         "fonte-59543b713764758f": 1,
-        "fonte-e32947f80c4e7e7e": 1
+        "fonte-e32947f80c4e7e7e": 1,
+        "fonte-550c940720c64c87": 1,
+        "fonte-db1a415ff23254ac": 1,
+        "fonte-5b7afcdf6506b13c": 1,
+        "fonte-94b1df917198f650": 1
       },
       "formats": {
         "video": 7,
         "checagem": 206,
-        "reportagem": 44,
+        "reportagem": 49,
         "registro": 19,
         "audio": 6,
-        "documento": 41
+        "documento": 43
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 688,
-    "items": 707,
+    "newItems": 699,
+    "items": 718,
     "alreadyInArchive": 19,
-    "accessed": 704,
-    "analysed": 671,
+    "accessed": 715,
+    "analysed": 682,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -67794,17 +68864,17 @@
     "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 78,
-    "sourcesConsulted": 73,
+    "sources": 83,
+    "sourcesConsulted": 78,
     "video": 20,
     "audio": 15,
-    "documents": 258,
+    "documents": 262,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 234,
-    "accessFailures": 69,
-    "undatedItems": 39
+    "queryCount": 239,
+    "accessFailures": 71,
+    "undatedItems": 40
   },
   "queries": [
     {
@@ -69320,6 +70390,51 @@
       "resultsState": "661 materiais existentes; todas as 16 URLs candidatas são inéditas no arquivo. Os três materiais de CSP anteriores foram mantidos, sem duplicação."
     },
     {
+      "id": "consulta-870cae0736da462a",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+      "query": "PL 3341/2025 Augusta Brito Flávio Bolsonaro assédio no transporte CSP CDH 2026",
+      "executedAt": "2026-10-25T14:27:13.464Z",
+      "engine": "web.run fast/open Senado/Congresso",
+      "interval": "2025-2026",
+      "resultsState": "Agência Senado 01/09 e painel bicameral aberto; relatoria Flávio encerrada na CSP, CDH com Ivete da Silveira em 17/09; ficha original já catalogada foi preservada, não duplicada."
+    },
+    {
+      "id": "consulta-e213c0334fd642e4",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+      "query": "Viver nas Cidades Mulheres 2026 Ipsos Ipec 71 51 transporte público metodologia 3500 PDF",
+      "executedAt": "2026-10-25T14:27:13.464Z",
+      "engine": "web.run fast/open/find/screen Ipsos e Instituto Cidades Sustentáveis",
+      "interval": "2025-12 a 2026-03",
+      "resultsState": "Apresentação PDF e release PDF primários consultados e capturas conferidas: 71% e 50% em transporte na rodada 2025; 51% corresponde à rodada anterior; 3.500 internautas e 2.066 mulheres; cobertura de dez capitais."
+    },
+    {
+      "id": "consulta-835c6500baef9171",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+      "query": "Visível e Invisível 5ª edição 2025 15,3% assédio físico ônibus metrô fonte FBSP",
+      "executedAt": "2026-10-25T14:27:13.464Z",
+      "engine": "web.run fast/open/find/screen no PDF público FBSP",
+      "interval": "2025",
+      "resultsState": "Infográfico oficial aberto com 15,3% e metodologia de 2.007 entrevistas gerais e módulo feminino. Pesquisa diferente da Ipsos por variável e período."
+    },
+    {
+      "id": "consulta-ab7c64d225011a87",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+      "query": "Lei 14540 de 2023 íntegra original Câmara programa prevenção assédio sexual serviços públicos e PL paralelo 6658/2025",
+      "executedAt": "2026-10-25T14:27:13.464Z",
+      "engine": "web.run open/click Câmara dos Deputados",
+      "interval": "2023-2026",
+      "resultsState": "Texto original da Lei 14.540 acessado em HTML, art. 2º §1º e arts. 4º e 5º; iniciativa distinta PL 6658/2025 de Amom Mandel identificada sem confusão de autoria."
+    },
+    {
+      "id": "consulta-6096dc432155ce3c",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+      "query": "Folha erramos 71% 74% Viver nas Cidades Mulheres 2026 5 março 2026",
+      "executedAt": "2026-10-25T14:27:13.464Z",
+      "engine": "web.run open portal público AMP, IPSOS cotejo",
+      "interval": "2026-03",
+      "resultsState": "Nota Erramos de 05/03/2026 consultada, com correção explícita 74 para 71; dados de local do corpo divergem da rodada atual Ipsos; comparação sensível sem veredito."
+    },
+    {
       "id": "consulta-796437e18ad7571e",
       "batch": "pl4244-agravante-cdh-ccj-20261025-32",
       "query": "PL 4244/2025 Flávio Bolsonaro CDH 08/04/2026 Magno Malta resultado notas taquigráficas",
@@ -70242,6 +71357,18 @@
       "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13328/item/96863",
       "status": "Timeout em tentativa de abertura da página de reunião",
       "note": "Não cadastrada como registro acessado; busca pode ser repetida. Consulta de pesquisa, não prova de indisponibilidade permanente."
+    },
+    {
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+      "url": "https://publicacoes.forumseguranca.org.br/items/7c9f57aa-e7d6-4d96-8f11-768fe85a2084",
+      "status": "HTTP 403 na abertura direta",
+      "note": "A página de índice do relatório FBSP não foi tratada como material acessado; infográfico oficial em URL alternativa foi aberto e conferido."
+    },
+    {
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41",
+      "url": "https://www.ipsos.com/sites/default/files/ct/publication/documents/2026-03/ICS_Mulheres_Apresentacao.pdf",
+      "status": "Capturas de páginas PDF posteriores à inspeção principal deram timeout; texto PDF completo e páginas 5 e 20–22 examinadas",
+      "note": "O levantamento inclui texto extraído e gráficos efetivamente capturados; não se declara sucesso nas capturas que deram timeout."
     },
     {
       "batch": "pl4244-agravante-cdh-ccj-20261025-32",
@@ -71240,6 +72367,42 @@
       "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37"
     },
     {
+      "id": "lacuna-a6aab97f7c296649",
+      "note": "PL 3341/2025: abrir PDFs oficiais integrais do projeto e do P.S. 30/2026-CSP e comparar artigo 9º-A proposto com texto efetivamente votado; não substituir por mera notícia institucional.",
+      "state": "pendente",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41"
+    },
+    {
+      "id": "lacuna-22f5704681425f13",
+      "note": "PL 3341/2025: revisar editorialmente com pessoa autorizada a distinção numérica 50% (rodada 2025 em pesquisa Mulheres 2026) x 51% (rodada 2024) e a atribuição de 51% na fala transcrita de Flávio; não publicar veredito antes dessa revisão.",
+      "state": "pendente",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41"
+    },
+    {
+      "id": "lacuna-32e28b9023b7c962",
+      "note": "PL 3341/2025: confirmar estado legislativo em CDH após 17/09/2026; aprovação CSP não é lei.",
+      "state": "pendente",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41"
+    },
+    {
+      "id": "lacuna-1b86270246c5a23e",
+      "note": "Pesquisar se o estudo Ipsos possui retificações posteriores às versões PDF de fevereiro/março de 2026 antes de afirmar erro de fonte ou orador; arquivar versões somente com acesso legítimo.",
+      "state": "pendente",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41"
+    },
+    {
+      "id": "lacuna-f457d861123c2bf0",
+      "note": "Obter íntegra do relatório FBSP/Datafolha da 5ª edição e microdados/tabelas originais para analisar universos distintos: 15,3% de assédio físico em 12 meses x 50% de qualquer assédio dentro do transporte em período não limitado; não comparar diretamente.",
+      "state": "pendente",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41"
+    },
+    {
+      "id": "lacuna-5eef5614b108c391",
+      "note": "Sem contatos com instituições, áudio/vídeo reproduzido, timestamp de mídia validado, veredito, aprovação editorial nova ou revisão por modelo neste lote.",
+      "state": "pendente",
+      "batch": "pl3341-assedio-transporte-fontes-primarias-20261025-41"
+    },
+    {
       "id": "lacuna-80119021fe3f3f8c",
       "note": "Ler em ambiente autorizado as versões íntegras do projeto, Emenda 1-CDH, Parecer 41/2026 e relatório/subemenda da CCJ; PDF devolveu verificação de segurança na consulta atual.",
       "state": "pendente",
@@ -71862,6 +73025,12 @@
       "label": "PL 3272/2024 na CDH, íntegras taquigráficas textuais, defesa da autora, artigo de opinião contrário e iniciativas legislativas de contexto",
       "collected_at_utc": "2026-10-25T10:19:44.690Z",
       "method": "16 URLs distintas com páginas abertas, 1 timeout separado, 0 segundos de mídias reproduzidas, nenhum novo veredito/revisor."
+    },
+    {
+      "id": "checkpoint-20261025-41",
+      "label": "PL 3341/2025: 50% da rodada 2025 e 51% da anterior, legislação existente e antecedentes primários",
+      "collected_at_utc": "2026-10-25T14:27:13.464Z",
+      "method": "11 URLs examinadas como fontes primárias, imprensa ou contexto (incluídos PDF e gráficos); sem audição/vídeo nem classificação sensível. Revisão editorial humana identificada pendente."
     },
     {
       "title": "Ficha do PL 4244/2025 previamente catalogada (não repetida)",
