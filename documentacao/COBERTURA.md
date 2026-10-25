@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T10:20:07.799722Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T12:00:25.777247Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-677 URLs únicas no lote; 659 ainda não vinculadas à edição anterior. 674 materiais acessados e 643 com texto analisado.
+687 URLs únicas no lote; 669 ainda não vinculadas à edição anterior. 684 materiais acessados e 652 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-20 vídeos e 11 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+20 vídeos e 13 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -34,8 +34,8 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 29 | 29 | 27 | 0 | 0 |
 | 2024 | 52 | 52 | 51 | 0 | 0 |
-| 2025 | 87 | 87 | 83 | 0 | 0 |
-| 2026 | 307 | 307 | 301 | 0 | 0 |
+| 2025 | 88 | 88 | 84 | 0 | 0 |
+| 2026 | 316 | 316 | 309 | 0 | 0 |
 
 Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -186,6 +186,11 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - PL 4598/2025: análise da aplicação conjunta da Lei 15.159/2025 e da Lei Brasileira de Inclusão exige legislação compilada e revisão jurídica humana identificada.
 - Em eventual conferência audiovisual da 50ª CDH, registrar somente segmentos realmente reproduzidos; até aqui há apenas transcrição textual institucional.
 - Novos vereditos, acusações e comparações sensíveis permanecem pendentes de revisor editorial humano autorizado; approvedReviewerIds não deve ser alterado.
+- PL 5646/2025: conferir PDFs integrais do texto inicial, do parecer P.S. 8/2026-CI e do substitutivo de Marcos Rogério em ambiente com acesso, comparando dispositivos 13-A/13-B, termos ARP/UAS e prazo de 180 dias sem extrapolar notas taquigráficas.
+- PL 5646/2025: localizar documento oficial de objeção atribuído à assessoria da Liderança do Governo em 14/04/2026 e eventual posição de Ministério da Defesa, Anac, Decea e MJSP; enquanto não consultado, manter como alegação de Marcos Rogério e não parecer governamental validado.
+- PL 5646/2025: verificar deliberações posteriores a 31/08/2026 na CSP e encaminhamentos; não converter relatório aprovado pela CI em lei vigente.
+- PL 5646/2025: pesquisar manifestações de especialistas em direito aeronáutico e segurança pública e fundamentos contrapostos, distinguindo opiniões jurídicas, riscos e dados empiricamente demonstrados.
+- Nenhum áudio/vídeo reproduzido ou timestamp de mídia confirmado nesta coleta, 0 segundos revisados; não emitir vereditos ou atribuir atos de terceiros a Flávio sem revisão humana identificada.
 - Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.
 - Confirmar desfecho legislativo após comunicação de veto total ao PL 3003/2014.
 - Conferir Diários e gravações integrais antes de novas citações, timestamps, comparações ou vereditos; áudio ouvido nesta coleta: zero segundos.
@@ -307,6 +312,9 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - batch: pl4598-deficiencia-cdh-ccj-20261025-35; url: https://legis.senado.leg.br/sdleg-getter/documento?dm=10053568&rendition_principal=S&ts=1785790418173; status: Página de verificação de segurança na tentativa de acesso; note: Não houve leitura integral do PDF do texto inicial pelo visualizador. A autoria e a ementa foram consultadas na ficha oficial.
 - batch: pl4598-deficiencia-cdh-ccj-20261025-35; url: https://legis.senado.leg.br/sdleg-getter/documento?dm=10242961&rendition_principal=S&ts=1785790418472; status: Página de verificação de segurança na tentativa de acesso; note: Não houve leitura integral do PDF do relatório/emenda; diferenças de redação são atribuídas à Agência Senado e às notas taquigráficas.
 - batch: pl4598-deficiencia-cdh-ccj-20261025-35; note: Vídeo e áudio referenciados nas páginas da CDH e da Rádio Senado não foram reproduzidos nesta execução; total ouvido e revisado: zero segundos.
+- batch: pl5646-drones-ci-csp-anac-20261025-38; url: https://www.decea.mil.br/drone/; status: 403 Forbidden ao tentar abrir a página; note: Portal DECEA não foi cadastrado como material lido; buscar outra publicação oficial acessível em pesquisa posterior.
+- batch: pl5646-drones-ci-csp-anac-20261025-38; url: https://www.gov.br/anac/pt-br/noticias/2026/anac-apresenta-novo-regulamento-de-drones-na-maior-feira-do-segmento-na-america-latina; status: Verificação JavaScript/CAPTCHA na abertura; note: Página específica não examinada; regulamentos originais disponíveis no outro portal oficial ANAC foram consultados no lugar.
+- batch: pl5646-drones-ci-csp-anac-20261025-38; url: https://legis.senado.leg.br/sdleg-getter/documento?dm=10204264; status: Timeout na tentativa de acesso ao PDF do parecer/substitutivo; note: PDF íntegro não lido. Não afirmar cotejo integral com a proposição original.
 - batch: primarias-20261024-02; source: Executor local de scripts; error: Sem checkout Git ou terminal remoto conectado nesta execução. Normalização content/research.json e dist/data/research.json e research.js pendente; não afirmar publicação automática.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2003–2008; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/e00a7c3c8652b69a83256cca00646ee5/5cbef3b7651fa94c83256f6c0060c240; error: Abertura da fonte oficial retornou 502. Somente resultado de busca, não lido na íntegra; não incluído no catálogo.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2004; url: https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/b24a2da5a077847c032564f4005d4bf2/5aacd46ba577c4f983256ebb006214b9; error: Abertura da página de lei antiga retornou erro de gateway; não registrar sua ementa ou efeito como texto consultado.

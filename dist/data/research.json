@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T10:20:07.799722Z",
-    "inputHash": "08cbc96ace34b1b7f9266ae94a784f4495c3d7115e714dab302650989a892895",
+    "generatedAt": "2026-10-25T12:00:25.777247Z",
+    "inputHash": "e6cc43c14cda6d2497a96d27737234d96f398df14f2ad5a5792b7d5b7f04f6f7",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -15198,6 +15198,74 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-d3063e44f40e285d",
+      "title": "Portal bicameral registra tramitação na CI e redistribuição à CSP em 31/08/2026",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-5646-2025",
+      "publisher": "Congresso Nacional, acompanhamento bicameral",
+      "date": "2026-08-31",
+      "eventDate": "2026-08-31",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 5646/2025",
+      "topics": [
+        "PL 5646/2025",
+        "contramedidas antidrones",
+        "segurança pública",
+        "Flávio Bolsonaro: autor",
+        "Marcos Rogério: relator"
+      ],
+      "stage": "analisado",
+      "summary": "Linha do tempo oficial indica autuação em novembro de 2025, relatoria de Marcos Rogério em março de 2026, aprovação do parecer substitutivo na CI em 14/04/2026 e distribuição à relatoria na CSP em 31/08/2026. Tramitação posterior na Câmara e sanção aparecem apenas como fases previstas.",
+      "limitations": "Página de acompanhamento acessada em 25/10/2026; não há data específica de publicação da página, mantida nula. Previsão de etapa não é sua realização; não supor aprovação terminativa ou sanção.",
+      "locator": "Cronologia legislativa, linhas 25-82; fases 'Casa Revisora' e 'Sanção' como previstas, linhas 84-99.",
+      "sourceId": "fonte-a4e1c1a2182dd1de",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T12:00:14.117Z",
+      "lastModifiedAt": "2026-10-25T12:00:14.117Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (proponente); Marcos Rogério (relator)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5646/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+          "inputId": "pl5646-drones-ci-csp-anac-20261025-38-06",
+          "toolReference": "turn872366view5"
+        }
+      ],
+      "accessMethod": "HTML oficial aberto e conteúdo textual pertinente examinado em 25/10/2026. collected_at marca fechamento do checkpoint e não a hora individual de cada página; áudio e vídeo não reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-b7763a689dd20aa3",
       "title": "Flávio Bolsonaro aborda combate ao crime organizado, ajuste fiscal e IA em entrevista à RECORD",
       "url": "https://noticias.r7.com/eleicoes/2026/flavio-bolsonaro-aborda-combate-ao-crime-organizado-ajuste-fiscal-e-ia-em-entrevista-a-record-31082026/",
@@ -15669,6 +15737,72 @@
         }
       ],
       "accessMethod": "Busca e navegação em fontes públicas, abertura direta do HTML da Lupa; sem reprodução de vídeos originais.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-afa52795798085e9",
+      "title": "Ministério de Portos e Aeroportos esclarece alcance das regras civis para drones de 2026",
+      "url": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/08/novas-regras-para-drones-reforcam-seguranca-e-orientam-pilotos-sobre-como-operar-no-brasil",
+      "publisher": "Ministério de Portos e Aeroportos",
+      "date": "2026-08-26",
+      "eventDate": "2026-08-26",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "drones",
+      "topics": [
+        "drones",
+        "regulação da aviação civil",
+        "PL 5646/2025: contexto normativo"
+      ],
+      "stage": "analisado",
+      "summary": "Publicação institucional de 26/08/2026 explica categorias de risco, operação de drones civis e a existência de regra distinta para aparelhos até 250 gramas. Ajuda a separar normas operacionais já existentes do projeto de lei proposto por Flávio sobre autorização de neutralização por autoridades públicas.",
+      "limitations": "Explicação institucional de normas ANAC, não parecer governamental sobre constitucionalidade do PL 5646. Não validar independentemente dados de risco nem inferir que o projeto já foi aprovado como lei.",
+      "locator": "Notícia MPor, publicação em 26/08/2026, título e introdução, linhas 2-13; categorias e exceções, linhas 15-26.",
+      "sourceId": "fonte-d1969fb4623b83ff",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T12:00:14.117Z",
+      "lastModifiedAt": "2026-10-25T12:00:14.117Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Explicação pública do governo sobre normas civis existentes, não resposta nominal ao PL 5646/2025.",
+      "actor": "Ministério de Portos e Aeroportos",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "RBAC 100 (contexto de PL 5646/2025)",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+          "inputId": "pl5646-drones-ci-csp-anac-20261025-38-09",
+          "toolReference": "turn696861view4"
+        }
+      ],
+      "accessMethod": "HTML oficial aberto e conteúdo textual pertinente examinado em 25/10/2026. collected_at marca fechamento do checkpoint e não a hora individual de cada página; áudio e vídeo não reproduzidos.",
       "newToArchive": true
     },
     {
@@ -17274,6 +17408,142 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-6c0b430d5cf9e757",
+      "title": "Resolução ANAC 806/2026 delimita operações de drones leves e aeromodelos",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-806",
+      "publisher": "Agência Nacional de Aviação Civil, resoluções",
+      "date": "2026-06-16",
+      "eventDate": "2026-06-15",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 5646/2025",
+      "topics": [
+        "PL 5646/2025",
+        "contramedidas antidrones",
+        "segurança pública",
+        "Flávio Bolsonaro: autor",
+        "Marcos Rogério: relator"
+      ],
+      "stage": "analisado",
+      "summary": "A Resolução 806, de 15/06/2026, publicada em 16/06, trata da operação de aeronaves não tripuladas com até 250 gramas e aeromodelos sob certas condições VLOS/EVLOS. É regra administrativa sobre operação civil, não aprovação do PL 5646 nem parecer sobre legalidade de neutralização policial.",
+      "limitations": "Texto HTML normativo consultado; não inferir que regula hipóteses de destruição de aeronaves por órgãos de segurança. Não houve exame técnico integral de outras regras de tráfego/defesa aérea.",
+      "locator": "Acervo de Resoluções da ANAC, cabeçalho e arts. iniciais, linhas 49-68.",
+      "sourceId": "fonte-d89c63a5fed84026",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T12:00:14.117Z",
+      "lastModifiedAt": "2026-10-25T12:00:14.117Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Diretoria Colegiada da ANAC",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Resolução ANAC 806/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+          "inputId": "pl5646-drones-ci-csp-anac-20261025-38-08",
+          "toolReference": "turn872366view7"
+        }
+      ],
+      "accessMethod": "HTML oficial aberto e conteúdo textual pertinente examinado em 25/10/2026. collected_at marca fechamento do checkpoint e não a hora individual de cada página; áudio e vídeo não reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-3958dc90c18a13d2",
+      "title": "Texto oficial do RBAC 100 fixa requisitos para operação civil de aeronaves não tripuladas",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/boletim-de-pessoal/2026/bps-v-21-no-24-15-a-19-06-2026/rbac-100-emd-00/visualizar_ato_normativo",
+      "publisher": "Agência Nacional de Aviação Civil, acervo normativo",
+      "date": "2026-06-16",
+      "eventDate": "2026-06-16",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 5646/2025",
+      "topics": [
+        "PL 5646/2025",
+        "contramedidas antidrones",
+        "segurança pública",
+        "Flávio Bolsonaro: autor",
+        "Marcos Rogério: relator"
+      ],
+      "stage": "analisado",
+      "summary": "Norma oficial da ANAC publicada em junho de 2026 estabelece requisitos gerais de operação de aeronaves não tripuladas de uso civil. Serve de contexto regulatório para o debate sobre drones, mas não é o PL 5646/2025 e não configura autorização específica, por si só, para o abate por forças de segurança.",
+      "limitations": "Texto HTML do regulamento consultado; não houve cotejo técnico exaustivo de todas as referências cruzadas. Norma civil distinta de projeto legislativo de interceptação e abate. Não atribuir sua autoria a Flávio.",
+      "locator": "Acervo ANAC, identificação, título, aprovação e data de emissão nas linhas 49-58; sumário e dispositivos sobre âmbito e categorias a partir das linhas 62-90.",
+      "sourceId": "fonte-2cc7a7e35bfd943b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T12:00:14.117Z",
+      "lastModifiedAt": "2026-10-25T12:00:14.117Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Contexto regulatório oficial distinto, sem posicionamento expresso da ANAC acerca do substitutivo ao PL 5646/2025.",
+      "actor": "Diretoria Colegiada da ANAC",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "RBAC 100, Emenda 00; Resolução ANAC 805/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+          "inputId": "pl5646-drones-ci-csp-anac-20261025-38-07",
+          "toolReference": "turn872366view6"
+        }
+      ],
+      "accessMethod": "HTML oficial aberto e conteúdo textual pertinente examinado em 25/10/2026. collected_at marca fechamento do checkpoint e não a hora individual de cada página; áudio e vídeo não reproduzidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-ece23059248a56f1",
       "title": "Congresso Nacional: cronologia bicameral do PL 4244 e parecer recebido na CCJ em junho",
       "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-4244-2025",
@@ -18846,6 +19116,346 @@
         }
       ],
       "accessMethod": "Busca pública, abertura e leitura do texto HTML com web.run em 24/10/2026. Carimbo collected_at: fechamento do checkpoint, não horário individual. Nenhum PDF aberto, áudio ouvido ou vídeo reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-bd978fdbbd8c230b",
+      "title": "Rádio Senado fornece transcrição de reportagem sobre base legal para combater drones",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/04/15/proposta-cria-base-legal-para-interceptar-e-abater-drones-em-ameacas-a-ordem-publica",
+      "publisher": "Rádio Senado",
+      "date": "2026-04-15",
+      "eventDate": "2026-04-15",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "PL 5646/2025",
+      "topics": [
+        "PL 5646/2025",
+        "contramedidas antidrones",
+        "segurança pública",
+        "Flávio Bolsonaro: autor",
+        "Marcos Rogério: relator"
+      ],
+      "stage": "analisado",
+      "summary": "A página da Rádio Senado contém transcrição textual de notícia sobre a aprovação do relatório na CI e a previsão de procedimentos próprios pelas instituições, inclusive extensão às Forças Armadas. A duração nominal informada é 01:35, mas a gravação não foi ouvida.",
+      "limitations": "Transcrição pública lida, sem escuta do áudio: 0 segundos. Duração nominal não é duração auditada; nenhuma fala ou timestamp foi autenticado por reprodução.",
+      "locator": "Rádio Senado, publicação 15/04/2026, metadados nas linhas 8-15 e seção Transcrição nas linhas 20-23.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T12:00:14.117Z",
+      "lastModifiedAt": "2026-10-25T12:00:14.117Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Patrícia Oliveira (reportagem); Marcos Rogério (fala reproduzida na transcrição)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5646/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+          "inputId": "pl5646-drones-ci-csp-anac-20261025-38-05",
+          "toolReference": "turn872366view4"
+        }
+      ],
+      "accessMethod": "HTML oficial aberto e conteúdo textual pertinente examinado em 25/10/2026. collected_at marca fechamento do checkpoint e não a hora individual de cada página; áudio e vídeo não reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-83ce99f5b787c5c3",
+      "title": "Senado Notícias indexa peça de áudio sobre aprovação do PL 5646 na CI",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/04/ci-aprova-base-legal-para-interceptar-e-abater-drones",
+      "publisher": "Senado Notícias, seção áudios",
+      "date": "2026-04-15",
+      "eventDate": "2026-04-14",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "PL 5646/2025",
+      "topics": [
+        "PL 5646/2025",
+        "contramedidas antidrones",
+        "segurança pública",
+        "Flávio Bolsonaro: autor",
+        "Marcos Rogério: relator"
+      ],
+      "stage": "acessado",
+      "summary": "Página institucional de 15/04/2026 identifica conteúdo de áudio sobre a aprovação do relatório da CI e atribui autoria do projeto a Flávio e relatoria a Marcos Rogério. A página curta não foi tomada como reprodução de mídia ou fonte independente da reportagem correlata da Rádio Senado.",
+      "limitations": "Somente texto e metadados da página examinados; arquivo do áudio não reproduzido e nenhum timestamp conferido (0 segundos). Mesmo núcleo jornalístico da Rádio Senado, não checagem independente.",
+      "locator": "Senado Notícias, seção Áudios, título, publicação e descrição textual, linhas 19-26.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T12:00:14.117Z",
+      "lastModifiedAt": "2026-10-25T12:00:14.117Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Patrícia Oliveira (notícia textual e áudio identificado na página)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5646/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+          "inputId": "pl5646-drones-ci-csp-anac-20261025-38-10",
+          "toolReference": "turn696861view5"
+        }
+      ],
+      "accessMethod": "Página HTML institucional aberta em 25/10/2026, descrição e metadados consultados; mídia não reproduzida.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-d0676bb1a94c5571",
+      "title": "Notas taquigráficas: relator aponta risco constitucional e explica substitutivo do PL 5646",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14526",
+      "publisher": "Senado Federal, notas taquigráficas revistas",
+      "date": "2026-04-14",
+      "eventDate": "2026-04-14",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 5646/2025",
+      "topics": [
+        "PL 5646/2025",
+        "contramedidas antidrones",
+        "segurança pública",
+        "Flávio Bolsonaro: autor",
+        "Marcos Rogério: relator"
+      ],
+      "stage": "analisado",
+      "summary": "Na reunião de 14/04/2026, Marcos Rogério avaliou que o prazo de 180 dias para regulamentação previsto no projeto original ofenderia a separação de poderes e propôs retirá-lo do substitutivo. Também criticou termos como 'autoridade operacional' e ARP por imprecisão, defendeu procedimentos das corporações e extensão às Forças Armadas. Relatou que assessoria da liderança do Governo pediu retirada da pauta alegando eventual inconstitucionalidade; essa notícia é apenas uma declaração do relator, pois a suposta nota governamental não foi consultada. Sergio Moro defendeu a continuidade e declarou apoio expresso ao substitutivo. A votação da comissão foi simbólica.",
+      "limitations": "Somente transcrição oficial revista em HTML efetivamente lida. Nenhum áudio ou vídeo reproduzido (0 segundos); horários impressos na transcrição não equivalem a timestamps audiovisuais conferidos. Não foi lida a alegada nota governamental nem a íntegra em PDF dos textos original/substitutivo; a crítica constitucional é avaliação do relator, não juízo próprio ou decisão judicial.",
+      "locator": "4ª CI, versão textual revista, seção ITEM 4, linhas 198-246; razões constitucionais em 202-203; redação e substitutivo em 210-228; alegado pedido do Governo em 229-239; contraponto de Moro e votação simbólica em 240-246.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T12:00:14.117Z",
+      "lastModifiedAt": "2026-10-25T12:00:14.117Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Sergio Moro defendeu publicamente a permanência na pauta e a análise na CSP; objeção atribuída por Marcos Rogério à assessoria da liderança do Governo, sem documento oficial acessado.",
+      "actor": "Marcos Rogério (relator e presidente da CI); Sergio Moro (presidente da sessão na discussão do item 4)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5646/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+          "inputId": "pl5646-drones-ci-csp-anac-20261025-38-03",
+          "toolReference": "turn205028view0"
+        }
+      ],
+      "accessMethod": "HTML oficial aberto e conteúdo textual pertinente examinado em 25/10/2026. collected_at marca fechamento do checkpoint e não a hora individual de cada página; áudio e vídeo não reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-42753670a319a014",
+      "title": "Resultado da CI aprova substitutivo ao PL 5646/2025 em 14/04/2026",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/59/reuniao/14526/item/109423",
+      "publisher": "Senado Federal, Comissão de Serviços de Infraestrutura",
+      "date": "2026-04-14",
+      "eventDate": "2026-04-14",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 5646/2025",
+      "topics": [
+        "PL 5646/2025",
+        "contramedidas antidrones",
+        "segurança pública",
+        "Flávio Bolsonaro: autor",
+        "Marcos Rogério: relator"
+      ],
+      "stage": "analisado",
+      "summary": "O item 4 da 4ª reunião extraordinária da CI registra relatório favorável de Marcos Rogério na forma de emenda substitutiva e resultado 'Aprovado o relatório'. Trata-se de parecer da CI, sem conversão da proposta em lei e sem deliberação final da CSP.",
+      "limitations": "Ficha HTML da pauta e resultado lidos diretamente. Parecer e texto inicial em PDF, embora vinculados, não foram lidos; votação nominal não identificada nesta ficha.",
+      "locator": "4ª reunião extraordinária CI, 14/04/2026, item 4, campos Autoria e relatoria, Relatório e Resultado, linhas 20-48.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T12:00:14.117Z",
+      "lastModifiedAt": "2026-10-25T12:00:14.117Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (autor); Marcos Rogério (relator)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5646/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+          "inputId": "pl5646-drones-ci-csp-anac-20261025-38-02",
+          "toolReference": "turn872366view1"
+        }
+      ],
+      "accessMethod": "HTML oficial aberto e conteúdo textual pertinente examinado em 25/10/2026. collected_at marca fechamento do checkpoint e não a hora individual de cada página; áudio e vídeo não reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-290157dac18f3a2e",
+      "title": "Agência Senado explica mudanças do substitutivo do PL 5646 e manifestações favoráveis",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/04/14/regras-para-interceptacao-e-abate-de-drones-seguem-para-a-csp",
+      "publisher": "Agência Senado",
+      "date": "2026-04-14",
+      "eventDate": "2026-04-14",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 5646/2025",
+      "topics": [
+        "PL 5646/2025",
+        "contramedidas antidrones",
+        "segurança pública",
+        "Flávio Bolsonaro: autor",
+        "Marcos Rogério: relator"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia institucional atribui a autoria original a Flávio e o substitutivo a Marcos Rogério, aprovado somente na CI. Relata princípios de necessidade e proporcionalidade, autorização de procedimentos em cada instituição de segurança e argumentos favoráveis de Marcos Rogério e Sergio Moro, deixando explícito o encaminhamento à CSP.",
+      "limitations": "Reportagem institucional consultada, não substitui integral dos textos nem perícia sobre efetividade de contramedidas. Declarações favoráveis de Marcos Rogério e Sergio Moro não são falas de Flávio.",
+      "locator": "Agência Senado, publicação de 14/04/2026, parágrafos do corpo e subtítulo 'Controle remoto', linhas 19-38.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T12:00:14.117Z",
+      "lastModifiedAt": "2026-10-25T12:00:14.117Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Manifestação pública favorável de Marcos Rogério e Sergio Moro, atribuída aos respectivos parlamentares; não é resposta do Executivo.",
+      "actor": "Agência Senado; Marcos Rogério e Sergio Moro citados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5646/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+          "inputId": "pl5646-drones-ci-csp-anac-20261025-38-04",
+          "toolReference": "turn872366view3"
+        }
+      ],
+      "accessMethod": "HTML oficial aberto e conteúdo textual pertinente examinado em 25/10/2026. collected_at marca fechamento do checkpoint e não a hora individual de cada página; áudio e vídeo não reproduzidos.",
       "newToArchive": true
     },
     {
@@ -21101,6 +21711,74 @@
         }
       ],
       "accessMethod": "Fonte efetivamente aberta e lida em 24/10/2026 (HTML ou PDF conforme limitações). O horário UTC é do fechamento do lote, não de cada acesso; áudio e vídeo não reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-8291ecfdd1393334",
+      "title": "Ficha legislativa do PL 5646/2025 identifica autoria de Flávio Bolsonaro e situação na CSP",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171453",
+      "publisher": "Senado Federal, Atividade Legislativa",
+      "date": "2025-11-04",
+      "eventDate": "2025-11-04",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 5646/2025",
+      "topics": [
+        "PL 5646/2025",
+        "contramedidas antidrones",
+        "segurança pública",
+        "Flávio Bolsonaro: autor",
+        "Marcos Rogério: relator"
+      ],
+      "stage": "analisado",
+      "summary": "O projeto apresentado em 04/11/2025 propõe regras legais para interceptar, neutralizar e abater aeronaves não tripuladas em hipóteses ligadas à segurança pública. A ficha registra aprovação de substitutivo na CI e encaminhamento à CSP, onde consta 'matéria com a relatoria' em 31/08/2026, sem sanção ou lei resultante.",
+      "limitations": "A explicação simplificada do portal é identificada como gerada por IA com revisão humana, por isso a catalogação se apoia na ementa e no andamento oficiais. PDFs da redação original e do substitutivo não foram examinados.",
+      "locator": "Cabeçalho, autoria e ementa, linhas 20-25; situação e último estado, linhas 45-52; documento de 08/04 e parecer de 14/04, linhas 102-126.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T12:00:14.117Z",
+      "lastModifiedAt": "2026-10-25T12:00:14.117Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (autor); Marcos Rogério (relator atual)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5646/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+          "inputId": "pl5646-drones-ci-csp-anac-20261025-38-01",
+          "toolReference": "turn872366view0"
+        }
+      ],
+      "accessMethod": "HTML oficial aberto e conteúdo textual pertinente examinado em 25/10/2026. collected_at marca fechamento do checkpoint e não a hora individual de cada página; áudio e vídeo não reproduzidos.",
       "newToArchive": true
     },
     {
@@ -45106,6 +45784,52 @@
       "analysedCount": 2
     },
     {
+      "id": "fonte-2cc7a7e35bfd943b",
+      "name": "Agência Nacional de Aviação Civil, acervo normativo",
+      "url": "https://www.anac.gov.br/",
+      "responsible": "Agência Nacional de Aviação Civil, acervo normativo",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T12:00:14.117Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
+      "id": "fonte-d89c63a5fed84026",
+      "name": "Agência Nacional de Aviação Civil, resoluções",
+      "url": "https://www.anac.gov.br/",
+      "responsible": "Agência Nacional de Aviação Civil, resoluções",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T12:00:14.117Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-9c2fbd587c9a9fb0",
       "name": "Aos Fatos",
       "url": "https://www.aosfatos.org/",
@@ -45370,6 +46094,29 @@
       "monitoringEnabled": false,
       "accessedCount": 5,
       "analysedCount": 5
+    },
+    {
+      "id": "fonte-a4e1c1a2182dd1de",
+      "name": "Congresso Nacional, acompanhamento bicameral",
+      "url": "https://www.congressonacional.leg.br/",
+      "responsible": "Congresso Nacional, acompanhamento bicameral",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T12:00:14.117Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "registro"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
     },
     {
       "id": "fonte-050cd7980a113c02",
@@ -45909,6 +46656,29 @@
       "analysedCount": 1
     },
     {
+      "id": "fonte-d1969fb4623b83ff",
+      "name": "Ministério de Portos e Aeroportos",
+      "url": "https://www.gov.br/",
+      "responsible": "Ministério de Portos e Aeroportos",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T12:00:14.117Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-090881237e3f91db",
       "name": "Ministério dos Direitos Humanos e da Cidadania",
       "url": "https://www.gov.br/",
@@ -46261,10 +47031,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
-      "lastConsultedAt": "2026-10-25T10:19:44.690Z",
+      "lastConsultedAt": "2026-10-25T12:00:14.117Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 300,
+      "sourceCount": 306,
       "periods": [
         2018,
         2019,
@@ -46285,8 +47055,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 299,
-      "analysedCount": 282
+      "accessedCount": 305,
+      "analysedCount": 287
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -46671,6 +47441,56 @@
       "reviewState": "aguardando revisão",
       "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Página e metadados acessados; mídia não reproduzida. Áudio revisado: 0 segundos.",
       "researchItemId": "pesquisa-172c154f4590da6b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-bd978fdbbd8c230b",
+      "title": "Rádio Senado fornece transcrição de reportagem sobre base legal para combater drones",
+      "type": "audio",
+      "provider": "Rádio Senado",
+      "publisher": "Rádio Senado",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/noticia/2026/04/15/proposta-cria-base-legal-para-interceptar-e-abater-drones-em-ameacas-a-ordem-publica",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/04/15/proposta-cria-base-legal-para-interceptar-e-abater-drones-em-ameacas-a-ordem-publica",
+      "date": "2026-04-15",
+      "youtubeId": null,
+      "description": "A página da Rádio Senado contém transcrição textual de notícia sobre a aprovação do relatório na CI e a previsão de procedimentos próprios pelas instituições, inclusive extensão às Forças Armadas. A duração nominal informada é 01:35, mas a gravação não foi ouvida.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Transcrição pública lida, sem escuta do áudio: 0 segundos. Duração nominal não é duração auditada; nenhuma fala ou timestamp foi autenticado por reprodução.",
+      "researchItemId": "pesquisa-bd978fdbbd8c230b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-83ce99f5b787c5c3",
+      "title": "Senado Notícias indexa peça de áudio sobre aprovação do PL 5646 na CI",
+      "type": "audio",
+      "provider": "Senado Notícias, seção áudios",
+      "publisher": "Senado Notícias, seção áudios",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/audios/2026/04/ci-aprova-base-legal-para-interceptar-e-abater-drones",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/04/ci-aprova-base-legal-para-interceptar-e-abater-drones",
+      "date": "2026-04-15",
+      "youtubeId": null,
+      "description": "Página institucional de 15/04/2026 identifica conteúdo de áudio sobre a aprovação do relatório da CI e atribui autoria do projeto a Flávio e relatoria a Marcos Rogério. A página curta não foi tomada como reprodução de mídia ou fonte independente da reportagem correlata da Rádio Senado.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Somente texto e metadados da página examinados; arquivo do áudio não reproduzido e nenhum timestamp conferido (0 segundos). Mesmo núcleo jornalístico da Rádio Senado, não checagem independente.",
+      "researchItemId": "pesquisa-83ce99f5b787c5c3",
       "review": {
         "state": "aguardando revisão editorial",
         "reviewer": null,
@@ -49316,6 +50136,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-aa558f075b6fe46c",
+      "itemId": "pesquisa-d3063e44f40e285d",
+      "title": "Portal bicameral registra tramitação na CI e redistribuição à CSP em 31/08/2026",
+      "date": "2026-08-31",
+      "datePrecision": "day",
+      "context": "Linha do tempo oficial indica autuação em novembro de 2025, relatoria de Marcos Rogério em março de 2026, aprovação do parecer substitutivo na CI em 14/04/2026 e distribuição à relatoria na CSP em 31/08/2026. Tramitação posterior na Câmara e sanção aparecem apenas como fases previstas.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-8f7c5b99e7d8b172",
       "itemId": "pesquisa-b7763a689dd20aa3",
       "title": "Flávio Bolsonaro aborda combate ao crime organizado, ajuste fiscal e IA em entrevista à RECORD",
@@ -49376,6 +50205,15 @@
       "date": "2026-08",
       "datePrecision": "day",
       "context": "Segundo a Lupa, uma fotografia de Flávio foi inserida sobre reportagem do Hora 1 de 22/12/2025 a respeito de investigação envolvendo gestores de saúde; a reportagem não cita o senador.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-bf66b01a72005954",
+      "itemId": "pesquisa-afa52795798085e9",
+      "title": "Ministério de Portos e Aeroportos esclarece alcance das regras civis para drones de 2026",
+      "date": "2026-08-26",
+      "datePrecision": "day",
+      "context": "Publicação institucional de 26/08/2026 explica categorias de risco, operação de drones civis e a existência de regra distinta para aparelhos até 250 gramas. Ajuda a separar normas operacionais já existentes do projeto de lei proposto por Flávio sobre autorização de neutralização por autoridades públicas.",
       "state": "data informada pela fonte"
     },
     {
@@ -49595,6 +50433,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-c8bff6cbfb1d7e0b",
+      "itemId": "pesquisa-6c0b430d5cf9e757",
+      "title": "Resolução ANAC 806/2026 delimita operações de drones leves e aeromodelos",
+      "date": "2026-06-15",
+      "datePrecision": "day",
+      "context": "A Resolução 806, de 15/06/2026, publicada em 16/06, trata da operação de aeronaves não tripuladas com até 250 gramas e aeromodelos sob certas condições VLOS/EVLOS. É regra administrativa sobre operação civil, não aprovação do PL 5646 nem parecer sobre legalidade de neutralização policial.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-ed68d39c80e0c1e2",
+      "itemId": "pesquisa-3958dc90c18a13d2",
+      "title": "Texto oficial do RBAC 100 fixa requisitos para operação civil de aeronaves não tripuladas",
+      "date": "2026-06-16",
+      "datePrecision": "day",
+      "context": "Norma oficial da ANAC publicada em junho de 2026 estabelece requisitos gerais de operação de aeronaves não tripuladas de uso civil. Serve de contexto regulatório para o debate sobre drones, mas não é o PL 5646/2025 e não configura autorização específica, por si só, para o abate por forças de segurança.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-7a4deaae95733555",
       "itemId": "pesquisa-ece23059248a56f1",
       "title": "Congresso Nacional: cronologia bicameral do PL 4244 e parecer recebido na CCJ em junho",
@@ -49808,6 +50664,51 @@
       "date": "2026-04-15",
       "datePrecision": "day",
       "context": "Na manifestação em sessão de 15/04, Flávio questionou procedimento judicial relacionado a postagem e defendeu sua interpretação das prerrogativas parlamentares; a transcrição registra sua posição, não comprova a situação processual nem as avaliações sobre terceiros.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e897fec4e2d4ce74",
+      "itemId": "pesquisa-bd978fdbbd8c230b",
+      "title": "Rádio Senado fornece transcrição de reportagem sobre base legal para combater drones",
+      "date": "2026-04-15",
+      "datePrecision": "day",
+      "context": "A página da Rádio Senado contém transcrição textual de notícia sobre a aprovação do relatório na CI e a previsão de procedimentos próprios pelas instituições, inclusive extensão às Forças Armadas. A duração nominal informada é 01:35, mas a gravação não foi ouvida.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-68c8e1b8d7f43984",
+      "itemId": "pesquisa-83ce99f5b787c5c3",
+      "title": "Senado Notícias indexa peça de áudio sobre aprovação do PL 5646 na CI",
+      "date": "2026-04-14",
+      "datePrecision": "day",
+      "context": "Página institucional de 15/04/2026 identifica conteúdo de áudio sobre a aprovação do relatório da CI e atribui autoria do projeto a Flávio e relatoria a Marcos Rogério. A página curta não foi tomada como reprodução de mídia ou fonte independente da reportagem correlata da Rádio Senado.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-771892a67af41f39",
+      "itemId": "pesquisa-d0676bb1a94c5571",
+      "title": "Notas taquigráficas: relator aponta risco constitucional e explica substitutivo do PL 5646",
+      "date": "2026-04-14",
+      "datePrecision": "day",
+      "context": "Na reunião de 14/04/2026, Marcos Rogério avaliou que o prazo de 180 dias para regulamentação previsto no projeto original ofenderia a separação de poderes e propôs retirá-lo do substitutivo. Também criticou termos como 'autoridade operacional' e ARP por imprecisão, defendeu procedimentos das corporações e extensão às Forças Armadas. Relatou que assessoria da liderança do Governo pediu retirada da pauta alegando eventual inconstitucionalidade; essa notícia é apenas uma declaração do relator, pois a suposta nota governamental não foi consultada. Sergio Moro defendeu a continuidade e declarou apoio expresso ao substitutivo. A votação da comissão foi simbólica.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9e6381e8890e85b6",
+      "itemId": "pesquisa-42753670a319a014",
+      "title": "Resultado da CI aprova substitutivo ao PL 5646/2025 em 14/04/2026",
+      "date": "2026-04-14",
+      "datePrecision": "day",
+      "context": "O item 4 da 4ª reunião extraordinária da CI registra relatório favorável de Marcos Rogério na forma de emenda substitutiva e resultado 'Aprovado o relatório'. Trata-se de parecer da CI, sem conversão da proposta em lei e sem deliberação final da CSP.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-d845fb00ab160bac",
+      "itemId": "pesquisa-290157dac18f3a2e",
+      "title": "Agência Senado explica mudanças do substitutivo do PL 5646 e manifestações favoráveis",
+      "date": "2026-04-14",
+      "datePrecision": "day",
+      "context": "Notícia institucional atribui a autoria original a Flávio e o substitutivo a Marcos Rogério, aprovado somente na CI. Relata princípios de necessidade e proporcionalidade, autorização de procedimentos em cada instituição de segurança e argumentos favoráveis de Marcos Rogério e Sergio Moro, deixando explícito o encaminhamento à CSP.",
       "state": "data informada pela fonte"
     },
     {
@@ -50114,6 +51015,15 @@
       "date": "2025-11-04",
       "datePrecision": "day",
       "context": "Avulso oficial de seis páginas do PL 1473/2025, com carimbo de apresentação à Câmara em 04/11/2025, propõe mudanças no ECA e no Código Penal. Foram lidos dispositivos sobre audiência de custódia, internação provisória, reavaliação e limites para medidas socioeducativas; o texto do art. 121 prevê máximo geral de cinco anos e até dez em casos delimitados. É PROJETO em tramitação, não lei promulgada. A manifestação crítica da Coalizão pela Socioeducação já está catalogada como posicionamento de terceiro.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-0595912314479556",
+      "itemId": "pesquisa-8291ecfdd1393334",
+      "title": "Ficha legislativa do PL 5646/2025 identifica autoria de Flávio Bolsonaro e situação na CSP",
+      "date": "2025-11-04",
+      "datePrecision": "day",
+      "context": "O projeto apresentado em 04/11/2025 propõe regras legais para interceptar, neutralizar e abater aeronaves não tripuladas em hipóteses ligadas à segurança pública. A ficha registra aprovação de substitutivo na CI e encaminhamento à CSP, onde consta 'matéria com a relatoria' em 31/08/2026, sem sanção ou lei resultante.",
       "state": "data informada pela fonte"
     },
     {
@@ -58925,6 +59835,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-aa558f075b6fe46c",
+      "itemId": "pesquisa-d3063e44f40e285d",
+      "sourceId": "fonte-a4e1c1a2182dd1de",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-5646-2025",
+      "locator": "Cronologia legislativa, linhas 25-82; fases 'Casa Revisora' e 'Sanção' como previstas, linhas 84-99.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-8f7c5b99e7d8b172",
       "itemId": "pesquisa-b7763a689dd20aa3",
       "sourceId": "fonte-4315e33aeb7227ab",
@@ -58996,6 +59917,17 @@
       "sourceId": "fonte-58d9376cef7ffa17",
       "url": "https://www.agencialupa.org/eleicoes/2026/08/27/reportagem-da-globo-nao-liga-flavio-bolsonaro-a-desvio-de-verbas-da-saude/",
       "locator": "Lupa, seção 'FALSO', linhas 33-49; fonte cita Hora 1 de 22/12/2025 a partir de 1h20min30s.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-bf66b01a72005954",
+      "itemId": "pesquisa-afa52795798085e9",
+      "sourceId": "fonte-d1969fb4623b83ff",
+      "url": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/08/novas-regras-para-drones-reforcam-seguranca-e-orientam-pilotos-sobre-como-operar-no-brasil",
+      "locator": "Notícia MPor, publicação em 26/08/2026, título e introdução, linhas 2-13; categorias e exceções, linhas 15-26.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -59266,6 +60198,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-c8bff6cbfb1d7e0b",
+      "itemId": "pesquisa-6c0b430d5cf9e757",
+      "sourceId": "fonte-d89c63a5fed84026",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-806",
+      "locator": "Acervo de Resoluções da ANAC, cabeçalho e arts. iniciais, linhas 49-68.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ed68d39c80e0c1e2",
+      "itemId": "pesquisa-3958dc90c18a13d2",
+      "sourceId": "fonte-2cc7a7e35bfd943b",
+      "url": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/boletim-de-pessoal/2026/bps-v-21-no-24-15-a-19-06-2026/rbac-100-emd-00/visualizar_ato_normativo",
+      "locator": "Acervo ANAC, identificação, título, aprovação e data de emissão nas linhas 49-58; sumário e dispositivos sobre âmbito e categorias a partir das linhas 62-90.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-7a4deaae95733555",
       "itemId": "pesquisa-ece23059248a56f1",
       "sourceId": "fonte-050cd7980a113c02",
@@ -59524,6 +60478,61 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/521583",
       "locator": "Pronunciamento 521583, 37ª sessão deliberativa ordinária, texto integral HTML; DSF 16/04/2026, p. 63.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e897fec4e2d4ce74",
+      "itemId": "pesquisa-bd978fdbbd8c230b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/04/15/proposta-cria-base-legal-para-interceptar-e-abater-drones-em-ameacas-a-ordem-publica",
+      "locator": "Rádio Senado, publicação 15/04/2026, metadados nas linhas 8-15 e seção Transcrição nas linhas 20-23.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-68c8e1b8d7f43984",
+      "itemId": "pesquisa-83ce99f5b787c5c3",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/04/ci-aprova-base-legal-para-interceptar-e-abater-drones",
+      "locator": "Senado Notícias, seção Áudios, título, publicação e descrição textual, linhas 19-26.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-771892a67af41f39",
+      "itemId": "pesquisa-d0676bb1a94c5571",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14526",
+      "locator": "4ª CI, versão textual revista, seção ITEM 4, linhas 198-246; razões constitucionais em 202-203; redação e substitutivo em 210-228; alegado pedido do Governo em 229-239; contraponto de Moro e votação simbólica em 240-246.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9e6381e8890e85b6",
+      "itemId": "pesquisa-42753670a319a014",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/59/reuniao/14526/item/109423",
+      "locator": "4ª reunião extraordinária CI, 14/04/2026, item 4, campos Autoria e relatoria, Relatório e Resultado, linhas 20-48.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-d845fb00ab160bac",
+      "itemId": "pesquisa-290157dac18f3a2e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/04/14/regras-para-interceptacao-e-abate-de-drones-seguem-para-a-csp",
+      "locator": "Agência Senado, publicação de 14/04/2026, parágrafos do corpo e subtítulo 'Controle remoto', linhas 19-38.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -59898,6 +60907,17 @@
       "sourceId": "fonte-29a2bae5277f274b",
       "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3119413&filename=Avulso+PL+1473%2F2025",
       "locator": "PDF 'Avulso PL 1473/2025', seis páginas; capa e art. 106 na p. 1-2; art. 121 na p. 3; art. 183 na p. 4; página física 4, índice 3, também visualizada por screenshot; carimbo de 04/11/2025.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-0595912314479556",
+      "itemId": "pesquisa-8291ecfdd1393334",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171453",
+      "locator": "Cabeçalho, autoria e ementa, linhas 20-25; situação e último estado, linhas 45-52; documento de 08/04 e parecer de 14/04, linhas 102-126.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -64570,15 +65590,15 @@
     },
     {
       "year": 2025,
-      "found": 87,
-      "accessed": 87,
-      "analysed": 83,
+      "found": 88,
+      "accessed": 88,
+      "analysed": 84,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 4,
-        "analisado": 83,
+        "analisado": 84,
         "revisado": 0,
         "publicado": 0
       },
@@ -64590,6 +65610,7 @@
         "sistema eleitoral": 1,
         "PL 5582/2025": 1,
         "PL 1087/2025": 1,
+        "PL 5646/2025": 1,
         "imagem sintética": 1,
         "Flávio Bolsonaro": 6,
         "PL 2169/2019": 5,
@@ -64624,7 +65645,7 @@
       },
       "sources": {
         "fonte-ab7ca292b805c308": 1,
-        "fonte-2acd9e7dc92e583a": 68,
+        "fonte-2acd9e7dc92e583a": 69,
         "fonte-29a2bae5277f274b": 7,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
@@ -64638,7 +65659,7 @@
       "formats": {
         "audio": 3,
         "documento": 48,
-        "registro": 10,
+        "registro": 11,
         "checagem": 6,
         "reportagem": 18,
         "video": 2
@@ -64647,15 +65668,15 @@
     },
     {
       "year": 2026,
-      "found": 307,
-      "accessed": 307,
-      "analysed": 301,
+      "found": 316,
+      "accessed": 316,
+      "analysed": 309,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
-        "acessado": 6,
-        "analisado": 301,
+        "acessado": 7,
+        "analisado": 309,
         "revisado": 0,
         "publicado": 0
       },
@@ -64699,8 +65720,10 @@
         "banco-master": 2,
         "PL 3341/2025": 1,
         "PL 3272/2024": 1,
+        "PL 5646/2025": 8,
         "dosimetria da pena": 1,
         "desinformacao": 1,
+        "drones": 1,
         "documentação pública": 6,
         "idosos": 1,
         "proteção de crianças": 1,
@@ -64736,7 +65759,7 @@
         "fonte-f1199c02c1d5a933": 1,
         "fonte-f963e021c7cefa6f": 2,
         "fonte-9c2fbd587c9a9fb0": 6,
-        "fonte-2acd9e7dc92e583a": 50,
+        "fonte-2acd9e7dc92e583a": 55,
         "fonte-b1a6d0a350c2f59a": 1,
         "fonte-4114d6bfe97e1092": 1,
         "fonte-0a4536d177e98be8": 2,
@@ -64749,10 +65772,14 @@
         "fonte-fe11eb2ae2357739": 1,
         "fonte-ffa7a1ba1d5f2ee1": 1,
         "fonte-ad60f42b08c8e9e7": 3,
+        "fonte-a4e1c1a2182dd1de": 1,
         "fonte-4315e33aeb7227ab": 1,
         "fonte-cd19e6197d9bdf02": 1,
+        "fonte-d1969fb4623b83ff": 1,
         "fonte-7d7b950bffc2fe29": 8,
         "fonte-508d60279dcebcef": 1,
+        "fonte-d89c63a5fed84026": 1,
+        "fonte-2cc7a7e35bfd943b": 1,
         "fonte-050cd7980a113c02": 1,
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
@@ -64762,20 +65789,20 @@
       "formats": {
         "video": 7,
         "checagem": 206,
-        "reportagem": 41,
-        "registro": 15,
-        "audio": 3,
-        "documento": 35
+        "reportagem": 43,
+        "registro": 17,
+        "audio": 5,
+        "documento": 38
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 659,
-    "items": 677,
+    "newItems": 669,
+    "items": 687,
     "alreadyInArchive": 18,
-    "accessed": 674,
-    "analysed": 643,
+    "accessed": 684,
+    "analysed": 652,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -64783,16 +65810,16 @@
     "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 67,
-    "sourcesConsulted": 62,
+    "sources": 71,
+    "sourcesConsulted": 66,
     "video": 20,
-    "audio": 11,
-    "documents": 247,
+    "audio": 13,
+    "documents": 250,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 220,
-    "accessFailures": 59,
+    "queryCount": 225,
+    "accessFailures": 62,
     "undatedItems": 38
   },
   "queries": [
@@ -66309,6 +67336,51 @@
       "resultsState": "Nenhuma correspondência por nome/identificador entre checkpoints inspecionados; eventual URL repetida será consolidada pelo build_research.py sem criar material duplicado."
     },
     {
+      "id": "consulta-65adbe26a8f1d4ea",
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+      "query": "PL 5646/2025 Senado Flávio Bolsonaro autoria, andamento, relatoria e resultado da CI",
+      "executedAt": "2026-10-25T12:00:14.117Z",
+      "engine": "web.run, abertura direta de ficha Senado, pauta da CI e portal bicameral",
+      "interval": "2025-11 a 2026-08",
+      "resultsState": "Ficha e cronologia acessadas: autoria Flávio, substitutivo de Marcos Rogério aprovado na CI em 14/04/2026, distribuído à CSP em 31/08/2026; segue em tramitação."
+    },
+    {
+      "id": "consulta-5faaaa826ed65cca",
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+      "query": "PL 5646/2025 notas taquigráficas 14/04/2026 Marcos Rogério 180 dias constitucionalidade e pedido assessoria Governo",
+      "executedAt": "2026-10-25T12:00:14.117Z",
+      "engine": "web.run, leitura direta do texto revisto de notas taquigráficas",
+      "interval": "2026-04-14",
+      "resultsState": "Relator questionou prazo regulamentar e termos do texto inicial, informou pedido de retirada de pauta atribuído a assessoria governamental; não consultada a nota original; Moro favorável a seguir; votação simbólica."
+    },
+    {
+      "id": "consulta-156b5110f44c84c1",
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+      "query": "PL 5646/2025 Agência Senado Rádio Senado reportagens e manifestações públicas",
+      "executedAt": "2026-10-25T12:00:14.117Z",
+      "engine": "web.run, abertura das duas reportagens institucionais e página de áudio indexada",
+      "interval": "2026-04-14 a 2026-04-15",
+      "resultsState": "Textos públicos e transcrição consultados, distinção de autoria e relatoria, 0 segundos de áudio ouvidos, sem conferência de mídia."
+    },
+    {
+      "id": "consulta-1c8e9698f4716878",
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+      "query": "ANAC RBAC 100 resolução 805 806 2026 regras para drones contexto direito aeronáutico",
+      "executedAt": "2026-10-25T12:00:14.117Z",
+      "engine": "web.run, leitura de dois atos normativos originais e notícia oficial MPor",
+      "interval": "2026-06 a 2026-08",
+      "resultsState": "Regras administrativas operacionais de drones civis acessadas; não correspondem à autorização legislativa de abate no PL 5646."
+    },
+    {
+      "id": "consulta-03899977b316047e",
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+      "query": "Deduplicação de 10 URLs candidatas na versão de content/research.json em main",
+      "executedAt": "2026-10-25T12:00:14.117Z",
+      "engine": "Conector GitHub, fetch_blob SHA e comparação local por URL canônica",
+      "interval": "até 2026-10-25",
+      "resultsState": "677 materiais preexistentes; nenhuma das 10 URLs candidatas estava presente no catálogo, sem afirmar deduplicação semântica de todos os temas."
+    },
+    {
       "id": "consulta-908b3c4f53e33516",
       "batch": "primarias-20261024-02",
       "query": "site:alerj.rj.gov.br \"Flávio Bolsonaro\" 2012 projeto lei",
@@ -67094,6 +68166,24 @@
     {
       "batch": "pl4598-deficiencia-cdh-ccj-20261025-35",
       "note": "Vídeo e áudio referenciados nas páginas da CDH e da Rádio Senado não foram reproduzidos nesta execução; total ouvido e revisado: zero segundos."
+    },
+    {
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+      "url": "https://www.decea.mil.br/drone/",
+      "status": "403 Forbidden ao tentar abrir a página",
+      "note": "Portal DECEA não foi cadastrado como material lido; buscar outra publicação oficial acessível em pesquisa posterior."
+    },
+    {
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+      "url": "https://www.gov.br/anac/pt-br/noticias/2026/anac-apresenta-novo-regulamento-de-drones-na-maior-feira-do-segmento-na-america-latina",
+      "status": "Verificação JavaScript/CAPTCHA na abertura",
+      "note": "Página específica não examinada; regulamentos originais disponíveis no outro portal oficial ANAC foram consultados no lugar."
+    },
+    {
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=10204264",
+      "status": "Timeout na tentativa de acesso ao PDF do parecer/substitutivo",
+      "note": "PDF íntegro não lido. Não afirmar cotejo integral com a proposição original."
     },
     {
       "batch": "primarias-20261024-02",
@@ -68048,6 +69138,36 @@
       "batch": "pl4598-deficiencia-cdh-ccj-20261025-35"
     },
     {
+      "id": "lacuna-c052c71ae9d4dbcc",
+      "note": "PL 5646/2025: conferir PDFs integrais do texto inicial, do parecer P.S. 8/2026-CI e do substitutivo de Marcos Rogério em ambiente com acesso, comparando dispositivos 13-A/13-B, termos ARP/UAS e prazo de 180 dias sem extrapolar notas taquigráficas.",
+      "state": "pendente",
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38"
+    },
+    {
+      "id": "lacuna-cfb8d1e1b8d8271d",
+      "note": "PL 5646/2025: localizar documento oficial de objeção atribuído à assessoria da Liderança do Governo em 14/04/2026 e eventual posição de Ministério da Defesa, Anac, Decea e MJSP; enquanto não consultado, manter como alegação de Marcos Rogério e não parecer governamental validado.",
+      "state": "pendente",
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38"
+    },
+    {
+      "id": "lacuna-d1b8c24fece86452",
+      "note": "PL 5646/2025: verificar deliberações posteriores a 31/08/2026 na CSP e encaminhamentos; não converter relatório aprovado pela CI em lei vigente.",
+      "state": "pendente",
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38"
+    },
+    {
+      "id": "lacuna-5c16a0a3377f773e",
+      "note": "PL 5646/2025: pesquisar manifestações de especialistas em direito aeronáutico e segurança pública e fundamentos contrapostos, distinguindo opiniões jurídicas, riscos e dados empiricamente demonstrados.",
+      "state": "pendente",
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38"
+    },
+    {
+      "id": "lacuna-70255437e704aaaf",
+      "note": "Nenhum áudio/vídeo reproduzido ou timestamp de mídia confirmado nesta coleta, 0 segundos revisados; não emitir vereditos ou atribuir atos de terceiros a Flávio sem revisão humana identificada.",
+      "state": "pendente",
+      "batch": "pl5646-drones-ci-csp-anac-20261025-38"
+    },
+    {
       "id": "lacuna-d791a02351ceee92",
       "note": "Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.",
       "state": "pendente",
@@ -68557,6 +69677,12 @@
       "label": "PL 4598/2025, tramitação Senado, argumentos e contrapontos em CDH, contexto Lei 15.159/2025",
       "collected_at_utc": "2026-10-25T08:43:25.438Z",
       "method": "10 URLs oficiais/legislativas e publicações institucionais HTML abertas; 0 segundos de mídia ouvidos, sem novos revisores ou classificações."
+    },
+    {
+      "id": "checkpoint-20261025-38",
+      "label": "PL 5646/2025: relatoria de Marcos Rogério, crítica constitucional ao texto original, votação na CI, CSP pendente e normas ANAC sobre drones",
+      "collected_at_utc": "2026-10-25T12:00:14.117Z",
+      "method": "10 páginas oficiais HTML examinadas, 3 URLs com acesso bloqueado ou restrito, 0 segundos de mídia, zero pareceres PDF lidos e nenhum novo revisor/veredito."
     },
     {
       "name": "Checagem ao Vivo",
