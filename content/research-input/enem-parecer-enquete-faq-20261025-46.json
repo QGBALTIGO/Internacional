@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "batch_id": "enem-parecer-enquete-faq-20261025-46",
+  "collected_at_utc": "2026-10-25T19:48:26.501Z",
+  "scope": "Continuidade de nextBatch sobre o PL 1277/2020: exame do parecer/substitutivo integral da Comissão de Educação em 2023, resultado publicado da enquete a inscritos do Enem 2020 e informações oficiais da modalidade digital. Diferenciar textos aprovados em comissão, calendário administrativo e votação individual de 2020.",
+  "method": "Consulta pública em 25/10/2026 a PDF da Câmara, com extração textual e inspeção visual da página 7 (substitutivo) e da página de assinatura; leitura do corpo de reportagem original do UOL e página de perguntas frequentes do Inep. Pesquisa de links primários complementares e conferência de URLs com os 754 itens já catalogados. Instante UTC é o fechamento do checkpoint, não a hora individual de cada acesso. Não houve audição ou reprodução de vídeo, nem revisão humana editorial.",
+  "records": [
+    {
+      "topic": "PL 1277/2020, tramitação na Câmara e adiamento do Enem",
+      "topics": [
+        "PL 1277/2020",
+        "Comissão de Educação",
+        "tramitação legislativa",
+        "Enem 2020"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "46-camara-parecer-substitutivo-ce",
+      "document_number": "PL 1277/2020, PRL nº 2 CE",
+      "title": "Parecer e substitutivo de Reginaldo Veras ao PL 1277/2020 na Comissão de Educação da Câmara",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2359506",
+      "publisher": "Câmara dos Deputados",
+      "format": "documento",
+      "summary": "PDF institucional do parecer do deputado Prof. Reginaldo Veras, apresentado em 13/11/2023 e relacionado ao projeto originalmente apresentado por Daniella Ribeiro. O substitutivo propõe inserir § 4º no art. 44 da Lei 9.394/1996 para prorrogar automaticamente processos seletivos de ingresso no ensino superior e o início das aulas até trinta dias após o encerramento do ano letivo do ensino médio em calamidade reconhecida pelo Congresso que impeça funcionamento regular das escolas. A Comissão de Educação aprovou parecer em 13/12/2023, mas isso não significa aprovação definitiva nem vigência legal. Flávio Bolsonaro não é identificado como autor ou relator deste substitutivo da Câmara.",
+      "locator": "PDF codteor 2359506, página 7 de 8, título SUBSTITUTIVO AO PROJETO DE LEI Nº 1.277, DE 2020, art. 1º com novo § 4º do art. 44 LDB; página 8 assinatura do relator; ficha e reunião CE de 13/12/2023 já catalogadas.",
+      "limitations": "Inspeção visual específica da página 7 e da página final e acesso à extração textual; não se afirma revisão visual página a página de todos os oito fólios, nem validação criptográfica de assinatura. Nova solicitação de download do mesmo PDF retornou HTTP 429 depois da leitura inicial. O texto da Comissão não é uma lei sancionada nem material audiovisual.",
+      "access_method": "PDF oficial da Câmara consultado pelo leitor público e páginas decisivas conferidas por imagem em 25/10/2026; tentativa posterior encontrou limite 429.",
+      "event_date": "2023-11-13",
+      "published_date": "2023-11-13"
+    },
+    {
+      "topic": "Enem 2020, consulta a inscritos e calendário administrativo",
+      "topics": [
+        "PL 1277/2020",
+        "Enem 2020",
+        "Inep",
+        "enquete",
+        "pesquisa de opinião"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "46-uol-enquete-2020-resultado",
+      "document_number": null,
+      "title": "UOL documenta números divulgados pelo Inep da enquete de datas do Enem 2020",
+      "url": "https://educacao.uol.com.br/noticias/2020/07/01/enquete-enem-2020.htm",
+      "publisher": "UOL Educação",
+      "format": "reportagem",
+      "summary": "Reportagem publicada em 01/07/2020 sobre coletiva do presidente do Inep Alexandre Lopes relata 1.113.350 respostas, 19,3% de 5.783.357 inscritos confirmados; 553.033 (49,7%) escolheram maio de 2021, 392.902 (35,3%) janeiro e 167.415 (15,0%) dezembro de 2020. O próprio texto ressalva que a enquete não fixava automaticamente a data: seriam consultadas entidades do setor educacional. O calendário efetivamente estabelecido pelos editais nº 54 e 55/2020 foi diferente de todas as opções em datas exatas. Não se infere falsidade, motivação política nem qualidade estatística representativa a partir da enquete voluntária.",
+      "locator": "Corpo da reportagem, seção 'Pesquisa tinha 3 opções de data' e seção 'Nova data pode ser definida este mês'; publicação 01/07/2020 às 11h44 e atualização às 21h45.",
+      "limitations": "Matéria jornalística com informação atribuída ao Inep; não equivale à leitura do relatório bruto completo, de microdados ou dos critérios de tabulação da enquete. Apenas quem respondeu voluntariamente à consulta está representado nos percentuais, não todos os inscritos ou eleitores. Não atribuir a Flávio Bolsonaro declarações de Alexandre Lopes.",
+      "access_method": "HTML público do UOL aberto e lido integralmente nas seções de resultados e resposta institucional em 25/10/2026.",
+      "event_date": "2020-07-01",
+      "published_date": "2020-07-01"
+    },
+    {
+      "topic": "Enem 2020, modalidade digital e execução administrativa",
+      "topics": [
+        "Enem 2020",
+        "Inep",
+        "digital",
+        "normas administrativas"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "46-inep-faq-enem-digital",
+      "document_number": null,
+      "title": "Inep: perguntas frequentes históricas documentam regras e cronograma do Enem 2020 Digital",
+      "url": "https://www.gov.br/inep/pt-br/acesso-a-informacao/perguntas-frequentes-1/exame-nacional-do-ensino-medio-enem/digital",
+      "publisher": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)",
+      "format": "registro",
+      "summary": "Página institucional de perguntas frequentes do Enem 2020 Digital, publicada em 17/07/2020. Seu cronograma histórico exibe as provas em 31/01 e 07/02 de 2021, reaplicação e Enem PPL em fevereiro e resultados previstos para março. Descreve questões objetivas nos computadores dos locais de aplicação e redação manuscrita. É contexto adicional ao Edital 55/2020 já catalogado; não demonstra vigência da proposta PL 1277/2020 nem atribui conduta legislativa individual a Flávio.",
+      "locator": "Página do Inep 'Digital', seção 1 CRONOGRAMA, seções 3.2 (provas objetivas, redação impressa) e 4.1 (impossibilidade de fazer em casa); publicado em 17/07/2020.",
+      "limitations": "Página classificada como perguntas frequentes antigas, não texto legal nem prova independente de comparecimento individual. O campo de ano de uma linha de aplicação aparece truncado na cópia HTML ('7/2/202'); para precisão das datas deve-se confrontar o Edital 55/2020 já examinado. Página não substitui os resultados brutos da enquete nem os relatórios de execução.",
+      "access_method": "HTML público do portal gov.br/Inep aberto e lido em 25/10/2026; nenhum vídeo incorporado foi reproduzido.",
+      "event_date": null,
+      "published_date": "2020-07-17"
+    }
+  ],
+  "queries": [
+    {
+      "query": "Câmara PL 1277/2020 parecer Prof. Reginaldo Veras substitutivo PRL 2 CE codteor 2359506",
+      "executed_at": "2026-10-25T19:48:26.501Z",
+      "engine": "busca e leitura de PDF com inspeção visual de folha do substitutivo",
+      "interval": "2023",
+      "result": "PDF do parecer e texto decisivo do substitutivo examinados. Aprovação em comissão distinta de lei."
+    },
+    {
+      "query": "Enem 2020 enquete candidatos Inep 1.113.350 553.033 392.902 167.415 julho 2020",
+      "executed_at": "2026-10-25T19:48:26.501Z",
+      "engine": "busca web e abertura de reportagem UOL em HTML",
+      "interval": "2020-07",
+      "result": "Reportagem com participação de 19,3%, alternativas e justificativa do Inep acessada; base original da consulta não foi localizada em formato integral examinável."
+    },
+    {
+      "query": "Inep Enem 2020 Digital FAQ cronograma 31/1 7/2 redação em papel",
+      "executed_at": "2026-10-25T19:48:26.501Z",
+      "engine": "consulta direta ao portal institucional em HTML",
+      "interval": "2020-2021",
+      "result": "Perguntas frequentes históricas do Inep acessadas, incluindo regras da modalidade digital."
+    },
+    {
+      "query": "Inep gabaritos 10/02/2021 divulgação resultados Enem digital; TCU nota técnica 41; press kit Enem 2020 PDF",
+      "executed_at": "2026-10-25T19:48:26.501Z",
+      "engine": "busca web e tentativas de abertura de fontes oficiais",
+      "interval": "2020-2021",
+      "result": "As buscas retornaram resumos, mas acessos diretos a notícia do Inep, resultado do TCU e PDF press kit não disponibilizaram o documento; não foram considerados materiais acessados nem acrescentados."
+    }
+  ],
+  "blocked": [
+    {
+      "source": "Inep, notícia 'Divulgados gabaritos do Enem 2020 Digital', de 10/02/2021",
+      "status": "Redirecionamento para autenticação em abertura pública",
+      "note": "Resultados de busca continham texto, mas o documento não foi diretamente lido no endereço final; não catalogado como acessado."
+    },
+    {
+      "source": "Tribunal de Contas da União, decisão contendo referência à Nota Técnica 41 do Inep",
+      "status": "Página acessada sem conteúdo da decisão, exigindo JavaScript",
+      "note": "Trechos indexados em busca não equivalem à leitura da decisão ou da própria Nota Técnica 41; não incluída."
+    },
+    {
+      "source": "Inep, press kit Enem 2020 PDF atualizado em 29/03/2021",
+      "status": "HTTP 502 em tentativa de abertura",
+      "note": "O conteúdo exibido em pesquisa não foi apresentado como PDF efetivamente lido; não incluído."
+    },
+    {
+      "source": "Câmara, PDF codteor 2359506, repetição da consulta",
+      "status": "HTTP 429 após consulta inicial bem-sucedida",
+      "note": "Leitura inicial de texto e inspeção visual das páginas decisivas ocorreram antes do limite; não se supõe disponibilidade permanente do servidor."
+    },
+    {
+      "source": "Secretaria de Educação do Espírito Santo, republicação de balanço do Inep 2021",
+      "status": "URL redirecionada para página inicial, sem corpo da reportagem",
+      "note": "Texto indexado de pesquisa não foi interpretado como leitura direta do documento."
+    }
+  ],
+  "gaps": [
+    "PL 1277/2020: localizar ata pública legível da sessão de 19/05/2020 e eventuais retificações, para conciliar 74 a 2 no painel nominal e 75 a 1 na notícia institucional, sem veredito automático.",
+    "Enem 2020: recuperar resultado primário integral da enquete aos inscritos e documentação de sua metodologia, sem equiparar resposta voluntária à população de candidatos.",
+    "PL 1277/2020: verificar posteriores movimentações da CCJC e eventual texto aprovado em outras comissões diretamente no portal oficial, sem confundir relatório de 2023 com lei vigente.",
+    "PL 1277/2020: inspeção visual adicional das páginas do parecer da Câmara não conferidas visualmente e acesso à ata original da sessão, sujeitos à estabilidade do servidor.",
+    "Nenhuma avaliação política sensível, comparação de conduta ou classificação deve ser publicada sem revisor humano identificado e autorizado; zero segundos de audiovisual revisados."
+  ]
+}
