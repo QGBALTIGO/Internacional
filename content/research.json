@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-24T23:39:41.493492Z",
-    "inputHash": "c878a8bb19ab936bea36ecc6ae4dde2d030ea8aab0b0aae61836f8d381f2eb5e",
+    "generatedAt": "2026-10-25T00:13:46.525279Z",
+    "inputHash": "97a28fa9037f4010abbee1f347c5b31271747bd3f6cd6c94f61ff30456823d81",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -12569,6 +12569,140 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-d4a71d2b8a53a360",
+      "title": "Agência Senado explica alcance da Lei 15.517/2026 e fundamento divulgado para veto parcial",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/23/furto-ou-roubo-de-combustiveis-passa-a-ser-punido-com-penas-maiores",
+      "publisher": "Agência Senado",
+      "date": "2026-09-23",
+      "eventDate": "2026-09-22",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Lei 15.517/2026",
+      "topics": [
+        "Lei 15.517/2026",
+        "VET 52/2026",
+        "resposta do Executivo",
+        "contexto legislativo"
+      ],
+      "stage": "analisado",
+      "summary": "A reportagem informa que a lei derivou do PL de Juninho do Pneu aprovado no Senado em 02/09 e explica as penas para furto e roubo de combustíveis. Registra como argumento do Executivo que a causa de aumento de pena prevista para roubo com lesão grave ou morte poderia, na prática, resultar em sanção inferior à já aplicável a certos casos. Essa explicação é a posição noticiada do governo, sem veredito jurídico próprio.",
+      "limitations": "Jornalismo institucional, não perícia independente sobre o alcance jurídico da regra vetada. Não se conferiu a Mensagem 772/2026 em íntegra, nem se apuraram resultados posteriores ao veto.",
+      "locator": "Agência Senado, 23/09/2026 às 15h35, HTML linhas 19–38.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T00:13:31.411Z",
+      "lastModifiedAt": "2026-10-25T00:13:31.411Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Justificativa do Executivo explicitamente atribuída ao governo na seção 'Veto' da reportagem.",
+      "actor": "Agência Senado; justificativa do veto atribuída ao governo federal",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1482/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+          "inputId": "pl1482-combustiveis-lei15517-veto52-20261025-27-09",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-91bcf3ee0fb741c6",
+      "title": "Ministério da Justiça: posição oficial do Executivo sobre sanção e veto da Lei 15.517/2026",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-lei-aumenta-penas-para-furto-de-combustiveis-e-estabelece-regras-para-roubo-receptacao-e-comercio-ilicito",
+      "publisher": "Ministério da Justiça e Segurança Pública",
+      "date": "2026-09-23",
+      "eventDate": "2026-09-22",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Lei 15.517/2026",
+      "topics": [
+        "Lei 15.517/2026",
+        "resposta oficial do Executivo",
+        "veto parcial",
+        "segurança pública"
+      ],
+      "stage": "analisado",
+      "summary": "Comunicado oficial publicado em 23/09 detalha crimes alcançados pela nova lei, identifica Geraldo Alckmin na Presidência em exercício como sancionador e apresenta argumentos de segurança pública atribuídos ao secretário Chico Lucas. O ministério relata veto de um dispositivo para evitar pena inferior à legislação vigente em casos de lesão grave e morte.",
+      "limitations": "Comunicado do próprio Executivo, não avaliação independente dos efeitos da norma. Afirmações sobre dissuasão e mercado clandestino são posições do órgão; não foram confrontadas com dados estatísticos posteriores.",
+      "locator": "MJSP, publicação de 23/09/2026 às 17h25, HTML linhas 296–319.",
+      "sourceId": "fonte-5933091ceec7266f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T00:13:31.411Z",
+      "lastModifiedAt": "2026-10-25T00:13:31.411Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Posição publicada pelo Executivo sobre sanção, alcance legislativo e motivo do veto parcial.",
+      "actor": "Ministério da Justiça e Segurança Pública; secretário Chico Lucas; vice-presidente Geraldo Alckmin como sancionador em exercício",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1482/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+          "inputId": "pl1482-combustiveis-lei15517-veto52-20261025-27-10",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-740a050bff7115b3",
       "title": "Ao vivo: Flávio antecipa live semanal",
       "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-antecipa-live-semanal/",
@@ -12631,6 +12765,140 @@
         }
       ],
       "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-5daac3a94db4f7e4",
+      "title": "Congresso Nacional: VET 52/2026 é veto parcial à Lei 15.517 e estava não apreciado em 24/10/2026",
+      "url": "https://www.congressonacional.leg.br/pt_BR/materias/vetos/-/veto/detalhe/18729",
+      "publisher": "Congresso Nacional, acompanhamento oficial de vetos",
+      "date": "2026-09-23",
+      "eventDate": "2026-09-23",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "VET 52/2026",
+      "topics": [
+        "VET 52/2026",
+        "Lei 15.517/2026",
+        "veto presidencial parcial",
+        "situação processual"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha informa recebimento do veto parcial em 23/09/2026, com foco na alínea 'e' do inciso III do §2º-A do art. 157 do Código Penal, que trataria de lesão corporal grave ou morte; mostrava a situação 'Não Apreciado' e sobrestamento da pauta a partir de 23/10/2026. Isso não corresponde a veto total ou derrubada do veto.",
+      "limitations": "Estado processual mutável, verificado em 24/10/2026 no portal do Congresso. A fundamentação governamental foi consultada via notícias oficiais, não pelo PDF original da Mensagem 772/2026.",
+      "locator": "Ficha Veto nº 52/2026, HTML linhas 0–30 e 35–42.",
+      "sourceId": "fonte-009ef75a2cd7b2f1",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T00:13:31.411Z",
+      "lastModifiedAt": "2026-10-25T00:13:31.411Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Agência Senado de 23/09/2026 e Ministério da Justiça registram a justificativa atribuída ao Executivo para suprimir a hipótese vetada.",
+      "actor": "Presidência da República, autora do veto; Congresso Nacional, responsável por sua apreciação",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "VET 52/2026; Mensagem 772/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+          "inputId": "pl1482-combustiveis-lei15517-veto52-20261025-27-08",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-48fd80fca5e61ed7",
+      "title": "Íntegra publicada da Lei 15.517/2026: criminalização e agravamento de penas para furtos de combustíveis, com dispositivo vetado",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15517-22-setembro-2026-800012-publicacaooriginal-181458-pl.html",
+      "publisher": "Câmara dos Deputados, legislação informatizada, publicação original",
+      "date": "2026-09-23",
+      "eventDate": "2026-09-22",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Lei 15.517/2026",
+      "topics": [
+        "Lei 15.517/2026",
+        "PL 1482/2019",
+        "texto sancionado",
+        "veto parcial"
+      ],
+      "stage": "analisado",
+      "summary": "Texto da Lei 15.517, sancionada em 22/09/2026, estabelece reclusão de quatro a dez anos e multa para furto de determinados combustíveis, hipóteses de aumento de pena e crimes econômicos relacionados à cadeia de produtos de origem criminosa. O art. 157, § 2º-A, III, alínea 'e', aparece assinalado como VETADO. A norma não deve ser atribuída como autoria legislativa a Flávio, que relatou a etapa da CSP.",
+      "limitations": "Íntegra textual da reprodução oficial em HTML, que informa tratar-se de publicação original; não foi cotejada com a imagem da edição do Diário Oficial ou consolidação posterior. Resultado da lei não comprova redução efetiva de criminalidade.",
+      "locator": "Câmara, 'Legislação Informatizada, Publicação Original', HTML linhas 18–82; art. 155, §10, linhas 32–46; art. 157, §2º-A, alínea e, linhas 47–58.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T00:13:31.411Z",
+      "lastModifiedAt": "2026-10-25T00:13:31.411Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A explicação pública do Ministério da Justiça e o registro de veto do Congresso foram consultados separadamente.",
+      "actor": "Poder Executivo, sanção; Congresso Nacional, deliberação do projeto",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 15.517/2026, originada do PL 1482/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+          "inputId": "pl1482-combustiveis-lei15517-veto52-20261025-27-07",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
       "newToArchive": true
     },
     {
@@ -13161,6 +13429,140 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-6878e619c04e7ca0",
+      "title": "Agência Senado: Randolfe acolhe emendas da CSP e defende urgência do PL 1482/2019",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/aumento-de-pena-para-furto-e-roubo-de-combustiveis-vai-ao-plenario-com-urgencia",
+      "publisher": "Agência Senado",
+      "date": "2026-09-02",
+      "eventDate": "2026-09-02",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 1482/2019",
+      "topics": [
+        "PL 1482/2019",
+        "CCJ",
+        "posição pública de Randolfe Rodrigues",
+        "tramitação"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 02/09 registra parecer de Randolfe Rodrigues na CCJ, acolhimento das quatro emendas originadas na CSP e encaminhamento urgente ao Plenário. Apresenta argumentos de Randolfe e Bagattoli favoráveis à proposta, sem atribuí-los a Flávio.",
+      "limitations": "Contexto publicado antes da decisão do Plenário do mesmo dia; não deve substituir os resultados posteriores nem os documentos sancionados. Argumentos e expectativas de redução de crimes não foram verificados independentemente.",
+      "locator": "Agência Senado, 02/09/2026 às 17h49; HTML linhas 19–40.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T00:13:31.411Z",
+      "lastModifiedAt": "2026-10-25T00:13:31.411Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "As justificativas favoráveis de Randolfe Rodrigues e Jaime Bagattoli constam da matéria, com atribuição individual.",
+      "actor": "Agência Senado; Randolfe Rodrigues e Jaime Bagattoli citados; Flávio Bolsonaro relacionado à etapa anterior da CSP",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1482/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+          "inputId": "pl1482-combustiveis-lei15517-veto52-20261025-27-05",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-27ffe2b5570a9625",
+      "title": "Senado CCJ: emendas 3 a 6 da CSP e parecer sobre PL 1482/2019 aprovados em 02/09/2026",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/34/reuniao/14933/item/112496",
+      "publisher": "Senado Federal, ficha da 13ª reunião da CCJ",
+      "date": "2026-09-02",
+      "eventDate": "2026-09-02",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1482/2019",
+      "topics": [
+        "PL 1482/2019",
+        "CCJ",
+        "emendas da CSP",
+        "urgência legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Item 17 da reunião da CCJ confirma parecer favorável ao PL e às emendas 3-CSP-CCJ a 6-CSP-CCJ e aprovação do requerimento de urgência nº 30/2026, de Randolfe Rodrigues. A relatoria de Flávio pertenceu à comissão anterior; o resultado da CCJ não deve ser atribuído como voto nominal dele.",
+      "limitations": "O resultado institucional foi consultado em HTML, sem leitura do PDF integral do parecer ou identificação de votos individuais em votação simbólica.",
+      "locator": "Ficha oficial da CCJ, 13ª reunião de 02/09/2026, item 17; HTML linhas 20–52.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T00:13:31.411Z",
+      "lastModifiedAt": "2026-10-25T00:13:31.411Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "As justificativas públicas de Randolfe e Jaime Bagattoli são publicadas em reportagem complementar da Agência Senado.",
+      "actor": "Randolfe Rodrigues, relator da CCJ e autor do requerimento de urgência; Flávio Bolsonaro, relator anterior da CSP",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1482/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+          "inputId": "pl1482-combustiveis-lei15517-veto52-20261025-27-04",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-2343b52b2dc7e75f",
       "title": "Discurso sobre mensagens atribuídas no caso Banco Master",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/524016",
@@ -13224,6 +13626,73 @@
         }
       ],
       "accessMethod": "Pesquisa e leitura documental assistida por IA. Sem revisão humana ou audição de arquivos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-04300704b21fe296",
+      "title": "Plenário do Senado: PL 1482/2019 aprovado em 02/09/2026 com emendas de redação 3 a 6",
+      "url": "https://www.congressonacional.leg.br/web/atividade/sessao-plenaria/-/pauta/587381",
+      "publisher": "Senado Federal, resultado da 120ª sessão deliberativa",
+      "date": "2026-09-02",
+      "eventDate": "2026-09-02",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1482/2019",
+      "topics": [
+        "PL 1482/2019",
+        "aprovação no Plenário",
+        "parecer CSP de Flávio",
+        "sanção"
+      ],
+      "stage": "analisado",
+      "summary": "Resultado do Plenário de 02/09/2026 registra os três pareceres de CI, CSP e CCJ, identifica Flávio como relator CSP e Sergio Moro como ad hoc, aprova o projeto com emendas de redação 3 a 6 e aprova a redação final. O texto seguiu à sanção presidencial, verificada em documentação posterior.",
+      "limitations": "Resultado de sessão em HTML, sem conferência de voto nominal individual ou reprodução do vídeo acessível na página. Não se atribui a Flávio voto específico.",
+      "locator": "120ª Sessão Deliberativa de 02/09/2026, seção 'Apreciação do PL 1482/2019', HTML linhas 1136–1160.",
+      "sourceId": "fonte-fe11eb2ae2357739",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T00:13:31.411Z",
+      "lastModifiedAt": "2026-10-25T00:13:31.411Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A documentação da sessão preserva atribuições distintas dos relatores e das emendas; motivos públicos da relatoria constam dos documentos de julho.",
+      "actor": "Senado Federal; Juninho do Pneu, autor; Jaime Bagattoli, Flávio Bolsonaro e Randolfe Rodrigues, relatores em comissões distintas",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1482/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+          "inputId": "pl1482-combustiveis-lei15517-veto52-20261025-27-06",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
       "newToArchive": true
     },
     {
@@ -14747,6 +15216,140 @@
         }
       ],
       "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-89b00a52335b9d6d",
+      "title": "Agência Senado: CSP aprova parecer relatado por Flávio sobre furtos e roubos de combustíveis",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/07/14/aumento-de-penas-para-furto-e-roubo-de-combustiveis-segue-para-a-ccj",
+      "publisher": "Agência Senado",
+      "date": "2026-07-14",
+      "eventDate": "2026-07-14",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 1482/2019",
+      "topics": [
+        "PL 1482/2019",
+        "parecer CSP",
+        "argumentos de Flávio Bolsonaro",
+        "criminalização de combustíveis"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem institucional relata aprovação do parecer com emendas em 14/07/2026 e encaminhamento à CCJ. Atribui ao relatório de Flávio argumentos sobre abastecimento, arrecadação, danos ambientais e concorrência. Distingue autoria de Juninho do Pneu, relatoria de Flávio e leitura por Sergio Moro.",
+      "limitations": "Reportagem de acompanhamento institucional, não checagem independente dos impactos econômicos declarados nem leitura própria do PDF do relatório. Aprovação na CSP não era sanção na data da matéria.",
+      "locator": "Agência Senado, 14/07/2026 às 13h54; HTML linhas 19–34.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T00:13:31.411Z",
+      "lastModifiedAt": "2026-10-25T00:13:31.411Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Motivação da relatoria publicada pela Agência Senado, incluindo justificativas atribuídas ao parecer de Flávio.",
+      "actor": "Agência Senado; Flávio Bolsonaro, relator citado; Sergio Moro, leitor ad hoc; Hamilton Mourão, presidente da reunião",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1482/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+          "inputId": "pl1482-combustiveis-lei15517-veto52-20261025-27-03",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-525486bab7df3ce1",
+      "title": "Notas do Senado: Hamilton Mourão lê resposta institucional da CSP sobre tramitação de relatório de Flávio ao PL 1482/2019",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14873",
+      "publisher": "Senado Federal, notas taquigráficas revisadas da CSP",
+      "date": "2026-07-14",
+      "eventDate": "2026-07-14",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 1482/2019",
+      "topics": [
+        "PL 1482/2019",
+        "resposta pública",
+        "notas taquigráficas",
+        "Comissão de Segurança Pública"
+      ],
+      "stage": "analisado",
+      "summary": "Transcrição revisada da 12ª CSP: Hamilton Mourão apresentou comunicado institucional que rebate críticas ao andamento do projeto e expõe designação de Flávio em 12/06, entrega do relatório em 09/07 e reunião de 14/07. Sergio Moro atuou como relator ad hoc e leu o relatório. Os argumentos são atribuídos aos seus respectivos autores, sem considerar a contestação institucional prova autônoma de inexistência de atraso.",
+      "limitations": "Consultado somente o texto oficial revisto; zero segundos de áudio/vídeo ou timestamps foram conferidos. Não houve comparação com gravação, ata de todos os atos ou comunicação jornalística que motivou a resposta.",
+      "locator": "Notas revisadas, abertura 14/07/2026, HTML linhas 23–43; leitura do parecer e debate em trechos posteriores da mesma página.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T00:13:31.411Z",
+      "lastModifiedAt": "2026-10-25T00:13:31.411Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "O comunicado institucional rebate publicamente a caracterização de demora, com datas e justificativas, lido por Hamilton Mourão; não é declaração oral atribuída a Flávio.",
+      "actor": "Hamilton Mourão, que leu o comunicado institucional; Sergio Moro, relator ad hoc que leu parecer de Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1482/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+          "inputId": "pl1482-combustiveis-lei15517-veto52-20261025-27-02",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
       "newToArchive": true
     },
     {
@@ -32055,6 +32658,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-765865610721df1b",
+      "title": "Senado: PL 1482/2019 de Juninho do Pneu teve relatoria de Flávio na CSP e originou Lei 15.517/2026 com veto parcial",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170383",
+      "publisher": "Senado Federal, ficha legislativa",
+      "date": "2019",
+      "eventDate": "2026-09-23",
+      "year": 2019,
+      "datePrecision": "year",
+      "format": "documento",
+      "topic": "PL 1482/2019",
+      "topics": [
+        "PL 1482/2019",
+        "relatoria de Flávio Bolsonaro",
+        "Lei 15.517/2026",
+        "VET 52/2026"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha atribui autoria do projeto ao deputado Juninho do Pneu, identifica designação de Flávio para relatoria na CSP em 12/06/2026, quatro emendas de redação apresentadas por ele e aprovadas na CSP e CCJ, aprovação do projeto no Senado em setembro e conversão em Lei 15.517/2026 com veto parcial em 22/09, publicada em 23/09. Flávio não foi identificado como autor original ou sancionador.",
+      "limitations": "Ficha oficial de tramitação, cuja situação foi verificada na consulta. Metadados de emendas foram lidos; a íntegra em PDF de todos os pareceres e emendas não foi examinada. Registro parlamentar não é avaliação de resultado prático.",
+      "locator": "Identificação e norma gerada: HTML linhas 20–33; emendas e relatores: 380–412; sanção e veto: 436–446.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T00:13:31.411Z",
+      "lastModifiedAt": "2026-10-25T00:13:31.411Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A manifestação pública da CSP sobre críticas à velocidade da tramitação consta da transcrição de 14/07/2026, catalogada separadamente.",
+      "actor": "Juninho do Pneu, autor do projeto na Câmara; Flávio Bolsonaro, relator na CSP; Sergio Moro, relator ad hoc; Randolfe Rodrigues, relator na CCJ",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1482/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+          "inputId": "pl1482-combustiveis-lei15517-veto52-20261025-27-01",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-031c7afae15294d5",
       "title": "Ofício de veto total ao PL 3003/2014 sobre tempo de serviço de militares mulheres",
       "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=144&url=L3NjcHJvMTExNS5uc2YvZTAwYTdjM2M4NjUyYjY5YTgzMjU2Y2NhMDA2NDZlZTUvYTNhYmE2MDY5ZmNiMjAwMDAzMjU4MzYxMDA1ZjYwYzM%2FT3BlbkRvY3VtZW50",
@@ -36816,6 +37486,29 @@
       "analysedCount": 2
     },
     {
+      "id": "fonte-009ef75a2cd7b2f1",
+      "name": "Congresso Nacional, acompanhamento oficial de vetos",
+      "url": "https://www.congressonacional.leg.br/",
+      "responsible": "Congresso Nacional, acompanhamento oficial de vetos",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T00:13:31.411Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-29a2bae5277f274b",
       "name": "Câmara dos Deputados",
       "url": "https://www.camara.leg.br/",
@@ -36824,10 +37517,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T21:35:25.822Z",
+      "lastConsultedAt": "2026-10-25T00:13:31.411Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 6,
+      "sourceCount": 7,
       "periods": [
         2007,
         2025,
@@ -36838,8 +37531,8 @@
         "registro"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 6,
-      "analysedCount": 6
+      "accessedCount": 7,
+      "analysedCount": 7
     },
     {
       "id": "fonte-0d9079c114e04a58",
@@ -37143,6 +37836,29 @@
       "analysedCount": 24
     },
     {
+      "id": "fonte-5933091ceec7266f",
+      "name": "Ministério da Justiça e Segurança Pública",
+      "url": "https://www.gov.br/",
+      "responsible": "Ministério da Justiça e Segurança Pública",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T00:13:31.411Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-e24089d8c0bdeda6",
       "name": "Poder360",
       "url": "https://www.poder360.com.br/",
@@ -37356,10 +38072,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z",
-      "lastConsultedAt": "2026-10-24T23:39:31.888Z",
+      "lastConsultedAt": "2026-10-25T00:13:31.411Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 221,
+      "sourceCount": 227,
       "periods": [
         2018,
         2019,
@@ -37380,8 +38096,31 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 220,
-      "analysedCount": 206
+      "accessedCount": 226,
+      "analysedCount": 212
+    },
+    {
+      "id": "fonte-fe11eb2ae2357739",
+      "name": "Senado Federal, resultado da 120ª sessão deliberativa",
+      "url": "https://www.congressonacional.leg.br/",
+      "responsible": "Senado Federal, resultado da 120ª sessão deliberativa",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T00:13:31.411Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
     },
     {
       "id": "fonte-3ed65b2f1d041330",
@@ -39812,6 +40551,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-3a64d6b2f0467f85",
+      "itemId": "pesquisa-d4a71d2b8a53a360",
+      "title": "Agência Senado explica alcance da Lei 15.517/2026 e fundamento divulgado para veto parcial",
+      "date": "2026-09-22",
+      "datePrecision": "day",
+      "context": "A reportagem informa que a lei derivou do PL de Juninho do Pneu aprovado no Senado em 02/09 e explica as penas para furto e roubo de combustíveis. Registra como argumento do Executivo que a causa de aumento de pena prevista para roubo com lesão grave ou morte poderia, na prática, resultar em sanção inferior à já aplicável a certos casos. Essa explicação é a posição noticiada do governo, sem veredito jurídico próprio.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e512b55f5e9b6abf",
+      "itemId": "pesquisa-91bcf3ee0fb741c6",
+      "title": "Ministério da Justiça: posição oficial do Executivo sobre sanção e veto da Lei 15.517/2026",
+      "date": "2026-09-22",
+      "datePrecision": "day",
+      "context": "Comunicado oficial publicado em 23/09 detalha crimes alcançados pela nova lei, identifica Geraldo Alckmin na Presidência em exercício como sancionador e apresenta argumentos de segurança pública atribuídos ao secretário Chico Lucas. O ministério relata veto de um dispositivo para evitar pena inferior à legislação vigente em casos de lesão grave e morte.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-39e607ce570bb0e6",
       "itemId": "pesquisa-740a050bff7115b3",
       "title": "Ao vivo: Flávio antecipa live semanal",
@@ -39819,6 +40576,24 @@
       "datePrecision": "unknown",
       "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Ao vivo: Flávio antecipa live semanal. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-2d9cb80a6bd34416",
+      "itemId": "pesquisa-5daac3a94db4f7e4",
+      "title": "Congresso Nacional: VET 52/2026 é veto parcial à Lei 15.517 e estava não apreciado em 24/10/2026",
+      "date": "2026-09-23",
+      "datePrecision": "day",
+      "context": "A ficha informa recebimento do veto parcial em 23/09/2026, com foco na alínea 'e' do inciso III do §2º-A do art. 157 do Código Penal, que trataria de lesão corporal grave ou morte; mostrava a situação 'Não Apreciado' e sobrestamento da pauta a partir de 23/10/2026. Isso não corresponde a veto total ou derrubada do veto.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-d4eb69077f269968",
+      "itemId": "pesquisa-48fd80fca5e61ed7",
+      "title": "Íntegra publicada da Lei 15.517/2026: criminalização e agravamento de penas para furtos de combustíveis, com dispositivo vetado",
+      "date": "2026-09-22",
+      "datePrecision": "day",
+      "context": "Texto da Lei 15.517, sancionada em 22/09/2026, estabelece reclusão de quatro a dez anos e multa para furto de determinados combustíveis, hipóteses de aumento de pena e crimes econômicos relacionados à cadeia de produtos de origem criminosa. O art. 157, § 2º-A, III, alínea 'e', aparece assinalado como VETADO. A norma não deve ser atribuída como autoria legislativa a Flávio, que relatou a etapa da CSP.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-8cdbe84f062ede33",
@@ -39893,6 +40668,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-506f3ec481d5bebb",
+      "itemId": "pesquisa-6878e619c04e7ca0",
+      "title": "Agência Senado: Randolfe acolhe emendas da CSP e defende urgência do PL 1482/2019",
+      "date": "2026-09-02",
+      "datePrecision": "day",
+      "context": "Reportagem de 02/09 registra parecer de Randolfe Rodrigues na CCJ, acolhimento das quatro emendas originadas na CSP e encaminhamento urgente ao Plenário. Apresenta argumentos de Randolfe e Bagattoli favoráveis à proposta, sem atribuí-los a Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-b624055df636b58b",
+      "itemId": "pesquisa-27ffe2b5570a9625",
+      "title": "Senado CCJ: emendas 3 a 6 da CSP e parecer sobre PL 1482/2019 aprovados em 02/09/2026",
+      "date": "2026-09-02",
+      "datePrecision": "day",
+      "context": "Item 17 da reunião da CCJ confirma parecer favorável ao PL e às emendas 3-CSP-CCJ a 6-CSP-CCJ e aprovação do requerimento de urgência nº 30/2026, de Randolfe Rodrigues. A relatoria de Flávio pertenceu à comissão anterior; o resultado da CCJ não deve ser atribuído como voto nominal dele.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-299ea3e19b387b3d",
       "itemId": "pesquisa-2343b52b2dc7e75f",
       "title": "Discurso sobre mensagens atribuídas no caso Banco Master",
@@ -39900,6 +40693,15 @@
       "datePrecision": "unknown",
       "context": "Discurso acusa Alexandre de Moraes a partir de mensagens atribuídas no caso e pede impeachment.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-37c11f5ffd5ee2cd",
+      "itemId": "pesquisa-04300704b21fe296",
+      "title": "Plenário do Senado: PL 1482/2019 aprovado em 02/09/2026 com emendas de redação 3 a 6",
+      "date": "2026-09-02",
+      "datePrecision": "day",
+      "context": "Resultado do Plenário de 02/09/2026 registra os três pareceres de CI, CSP e CCJ, identifica Flávio como relator CSP e Sergio Moro como ad hoc, aprova o projeto com emendas de redação 3 a 6 e aprova a redação final. O texto seguiu à sanção presidencial, verificada em documentação posterior.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-d7a4b3dc18784c20",
@@ -40106,6 +40908,24 @@
       "date": "2026-07-15",
       "datePrecision": "day",
       "context": "Comunicado associativo de 15/07/2026 informa articulações que atribui à ANADEP para apresentação e tramitação do PL 2343/2025 e relata a atribuição da relatoria da CSP a Flávio. É uma manifestação favorável de interesse de classe, publicada antes da aprovação do parecer em setembro; contrapõe a narrativa do andamento institucional, não constitui prova independente de que as tratativas narradas ocorreram como descritas.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f3e7a72352dbb7ef",
+      "itemId": "pesquisa-89b00a52335b9d6d",
+      "title": "Agência Senado: CSP aprova parecer relatado por Flávio sobre furtos e roubos de combustíveis",
+      "date": "2026-07-14",
+      "datePrecision": "day",
+      "context": "Reportagem institucional relata aprovação do parecer com emendas em 14/07/2026 e encaminhamento à CCJ. Atribui ao relatório de Flávio argumentos sobre abastecimento, arrecadação, danos ambientais e concorrência. Distingue autoria de Juninho do Pneu, relatoria de Flávio e leitura por Sergio Moro.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-0201a6bfc48e1166",
+      "itemId": "pesquisa-525486bab7df3ce1",
+      "title": "Notas do Senado: Hamilton Mourão lê resposta institucional da CSP sobre tramitação de relatório de Flávio ao PL 1482/2019",
+      "date": "2026-07-14",
+      "datePrecision": "day",
+      "context": "Transcrição revisada da 12ª CSP: Hamilton Mourão apresentou comunicado institucional que rebate críticas ao andamento do projeto e expõe designação de Flávio em 12/06, entrega do relatório em 09/07 e reunião de 14/07. Sergio Moro atuou como relator ad hoc e leu o relatório. Os argumentos são atribuídos aos seus respectivos autores, sem considerar a contestação institucional prova autônoma de inexistência de atraso.",
       "state": "data informada pela fonte"
     },
     {
@@ -42474,6 +43294,15 @@
       "datePrecision": "unknown",
       "context": "Aos Fatos aponta investigações e cobertura de outros parlamentares. Trata patrimônio e vacância de assessores como afirmações distintas, com conclusões diferentes.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-20cc8410f8a03b61",
+      "itemId": "pesquisa-765865610721df1b",
+      "title": "Senado: PL 1482/2019 de Juninho do Pneu teve relatoria de Flávio na CSP e originou Lei 15.517/2026 com veto parcial",
+      "date": "2026-09-23",
+      "datePrecision": "year",
+      "context": "A ficha atribui autoria do projeto ao deputado Juninho do Pneu, identifica designação de Flávio para relatoria na CSP em 12/06/2026, quatro emendas de redação apresentadas por ele e aprovadas na CSP e CCJ, aprovação do projeto no Senado em setembro e conversão em Lei 15.517/2026 com veto parcial em 22/09, publicada em 23/09. Flávio não foi identificado como autor original ou sancionador.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-123ab3596bac7a39",
@@ -48225,11 +49054,55 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-3a64d6b2f0467f85",
+      "itemId": "pesquisa-d4a71d2b8a53a360",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/23/furto-ou-roubo-de-combustiveis-passa-a-ser-punido-com-penas-maiores",
+      "locator": "Agência Senado, 23/09/2026 às 15h35, HTML linhas 19–38.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e512b55f5e9b6abf",
+      "itemId": "pesquisa-91bcf3ee0fb741c6",
+      "sourceId": "fonte-5933091ceec7266f",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-lei-aumenta-penas-para-furto-de-combustiveis-e-estabelece-regras-para-roubo-receptacao-e-comercio-ilicito",
+      "locator": "MJSP, publicação de 23/09/2026 às 17h25, HTML linhas 296–319.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-39e607ce570bb0e6",
       "itemId": "pesquisa-740a050bff7115b3",
       "sourceId": "fonte-e24089d8c0bdeda6",
       "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-antecipa-live-semanal/",
       "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-2d9cb80a6bd34416",
+      "itemId": "pesquisa-5daac3a94db4f7e4",
+      "sourceId": "fonte-009ef75a2cd7b2f1",
+      "url": "https://www.congressonacional.leg.br/pt_BR/materias/vetos/-/veto/detalhe/18729",
+      "locator": "Ficha Veto nº 52/2026, HTML linhas 0–30 e 35–42.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-d4eb69077f269968",
+      "itemId": "pesquisa-48fd80fca5e61ed7",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15517-22-setembro-2026-800012-publicacaooriginal-181458-pl.html",
+      "locator": "Câmara, 'Legislação Informatizada, Publicação Original', HTML linhas 18–82; art. 155, §10, linhas 32–46; art. 157, §2º-A, alínea e, linhas 47–58.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -48324,11 +49197,44 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-506f3ec481d5bebb",
+      "itemId": "pesquisa-6878e619c04e7ca0",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/02/aumento-de-pena-para-furto-e-roubo-de-combustiveis-vai-ao-plenario-com-urgencia",
+      "locator": "Agência Senado, 02/09/2026 às 17h49; HTML linhas 19–40.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-b624055df636b58b",
+      "itemId": "pesquisa-27ffe2b5570a9625",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/34/reuniao/14933/item/112496",
+      "locator": "Ficha oficial da CCJ, 13ª reunião de 02/09/2026, item 17; HTML linhas 20–52.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-299ea3e19b387b3d",
       "itemId": "pesquisa-2343b52b2dc7e75f",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/524016",
       "locator": "Texto integral; DSF 02/09/2026, p.65",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-37c11f5ffd5ee2cd",
+      "itemId": "pesquisa-04300704b21fe296",
+      "sourceId": "fonte-fe11eb2ae2357739",
+      "url": "https://www.congressonacional.leg.br/web/atividade/sessao-plenaria/-/pauta/587381",
+      "locator": "120ª Sessão Deliberativa de 02/09/2026, seção 'Apreciação do PL 1482/2019', HTML linhas 1136–1160.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -48582,6 +49488,28 @@
       "sourceId": "fonte-508d60279dcebcef",
       "url": "https://adpeto.org.br/noticias/2026/7/15/adpeto-informa-sobre-atuacao-da-anadep/",
       "locator": "ADPETO, notícia de 15/07/2026; HTML linhas 75–85.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f3e7a72352dbb7ef",
+      "itemId": "pesquisa-89b00a52335b9d6d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/07/14/aumento-de-penas-para-furto-e-roubo-de-combustiveis-segue-para-a-ccj",
+      "locator": "Agência Senado, 14/07/2026 às 13h54; HTML linhas 19–34.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-0201a6bfc48e1166",
+      "itemId": "pesquisa-525486bab7df3ce1",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14873",
+      "locator": "Notas revisadas, abertura 14/07/2026, HTML linhas 23–43; leitura do parecer e debate em trechos posteriores da mesma página.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -51481,6 +52409,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-20cc8410f8a03b61",
+      "itemId": "pesquisa-765865610721df1b",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170383",
+      "locator": "Identificação e norma gerada: HTML linhas 20–33; emendas e relatores: 380–412; sanção e veto: 436–446.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-123ab3596bac7a39",
       "itemId": "pesquisa-031c7afae15294d5",
       "sourceId": "fonte-e979cfd37b58c2c5",
@@ -52647,15 +53586,15 @@
     },
     {
       "year": 2019,
-      "found": 36,
-      "accessed": 36,
-      "analysed": 34,
+      "found": 37,
+      "accessed": 37,
+      "analysed": 35,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 34,
+        "analisado": 35,
         "revisado": 0,
         "publicado": 0
       },
@@ -52681,11 +53620,12 @@
         "imprensa": 1,
         "Mesa Diretora": 3,
         "inteligência artificial": 2,
-        "transparência": 1
+        "transparência": 1,
+        "PL 1482/2019": 1
       },
       "sources": {
         "fonte-e979cfd37b58c2c5": 1,
-        "fonte-2acd9e7dc92e583a": 23,
+        "fonte-2acd9e7dc92e583a": 24,
         "fonte-3ed65b2f1d041330": 1,
         "fonte-d7238973977790d8": 1,
         "fonte-9c2fbd587c9a9fb0": 9,
@@ -52693,7 +53633,7 @@
       },
       "formats": {
         "reportagem": 6,
-        "documento": 15,
+        "documento": 16,
         "registro": 3,
         "checagem": 10,
         "video": 1,
@@ -52995,15 +53935,15 @@
     },
     {
       "year": 2026,
-      "found": 262,
-      "accessed": 262,
-      "analysed": 258,
+      "found": 271,
+      "accessed": 271,
+      "analysed": 267,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 4,
-        "analisado": 258,
+        "analisado": 267,
         "revisado": 0,
         "publicado": 0
       },
@@ -53035,11 +53975,14 @@
         "inteligência artificial": 4,
         "religião": 2,
         "boato eleitoral": 1,
+        "Lei 15.517/2026": 3,
         "campanha 2026": 10,
+        "VET 52/2026": 1,
         "meio ambiente": 1,
         "STF": 2,
         "candidatura": 1,
         "PL 2343/2025": 5,
+        "PL 1482/2019": 5,
         "banco-master": 2,
         "PL 3341/2025": 1,
         "PL 3272/2024": 1,
@@ -53081,35 +54024,38 @@
         "fonte-9c2fbd587c9a9fb0": 6,
         "fonte-244f3d7e18ba861f": 1,
         "fonte-d17e0097bbcd6c10": 1,
-        "fonte-2acd9e7dc92e583a": 25,
+        "fonte-2acd9e7dc92e583a": 30,
         "fonte-63c50c68422ef210": 1,
+        "fonte-5933091ceec7266f": 1,
         "fonte-e24089d8c0bdeda6": 2,
+        "fonte-009ef75a2cd7b2f1": 1,
+        "fonte-29a2bae5277f274b": 3,
+        "fonte-fe11eb2ae2357739": 1,
         "fonte-4315e33aeb7227ab": 1,
         "fonte-cd19e6197d9bdf02": 1,
         "fonte-7d7b950bffc2fe29": 8,
         "fonte-508d60279dcebcef": 1,
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
-        "fonte-29a2bae5277f274b": 2,
         "fonte-2837db98d9bb5569": 1
       },
       "formats": {
         "video": 6,
         "checagem": 206,
-        "reportagem": 22,
+        "reportagem": 26,
         "registro": 3,
-        "documento": 23,
+        "documento": 28,
         "audio": 2
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 536,
-    "items": 554,
+    "newItems": 546,
+    "items": 564,
     "alreadyInArchive": 18,
-    "accessed": 551,
-    "analysed": 526,
+    "accessed": 561,
+    "analysed": 536,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -53117,16 +54063,16 @@
     "statementCandidates": 186,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 45,
-    "sourcesConsulted": 40,
+    "sources": 48,
+    "sourcesConsulted": 43,
     "video": 17,
     "audio": 5,
-    "documents": 197,
+    "documents": 203,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 162,
-    "accessFailures": 35,
+    "queryCount": 167,
+    "accessFailures": 38,
     "undatedItems": 37
   },
   "queries": [
@@ -54121,6 +55067,51 @@
       "resultsState": "Acesso devolveu página de verificação de segurança, sem páginas PDF legíveis; nenhum PDF incluído como texto analisado e nenhum cotejo integral reivindicado."
     },
     {
+      "id": "consulta-2847fd4f00a8434c",
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+      "query": "site:senado.leg.br \"PL 1482/2019\" Flávio Bolsonaro CSP 2026 parecer relatório Moro",
+      "executedAt": "2026-10-25T00:13:31.411Z",
+      "engine": "web.run fast, abertura da ficha Senado, notas taquigráficas e reportagem institucional; varredura dos 30 checkpoints via GitHub",
+      "interval": "2019–2026",
+      "resultsState": "Relatoria na CSP de 2026, leitura por Sergio Moro como ad hoc e justificativa de Flávio, sem evidência de autoria do projeto por ele."
+    },
+    {
+      "id": "consulta-11f5c3d67a4d5917",
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+      "query": "Senado 14/07/2026 PL 1482/2019 comunicado CSP atraso cronologia Flávio Bolsonaro",
+      "executedAt": "2026-10-25T00:13:31.411Z",
+      "engine": "web.run open, leitura das notas textuais revisadas de 14/07 e Agência Senado",
+      "interval": "julho de 2026",
+      "resultsState": "Comunicado institucional e atos com datas localizados; não confundidos com avaliação independente de crítica da imprensa; 0 segundo de áudio ouvido."
+    },
+    {
+      "id": "consulta-d2d4bfcfca42773f",
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+      "query": "PL 1482 2019 CCJ Randolfe 02 setembro 2026 emendas CSP e plenário resultado",
+      "executedAt": "2026-10-25T00:13:31.411Z",
+      "engine": "web.run open nas fichas oficiais da CCJ, sessão plenária e Agência Senado",
+      "interval": "setembro de 2026",
+      "resultsState": "Aprovadas emendas de redação 3 a 6 na CCJ e no Plenário; resultados posteriores conferidos na sessão oficial. Votos individuais não verificados."
+    },
+    {
+      "id": "consulta-dc6ddbb4df2dff36",
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+      "query": "Lei 15517 de 22 setembro 2026 veto 52/2026 combustíveis lesão grave morte Mensagem 772",
+      "executedAt": "2026-10-25T00:13:31.411Z",
+      "engine": "web.run open em Câmara, Congresso, Agência Senado e Ministério da Justiça",
+      "interval": "setembro–outubro de 2026",
+      "resultsState": "Íntegra HTML da Lei 15.517 consultada; identificada supressão parcial da alínea e e veto ainda não apreciado em 24/10; fundamentos do governo atribuídos às publicações oficiais."
+    },
+    {
+      "id": "consulta-e57660c1ad55f7df",
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+      "query": "Confronto dos 30 checkpoints de content/research-input/ com URLs 170383, 14873, 14933/112496, 18729 e Lei 15517",
+      "executedAt": "2026-10-25T00:13:31.411Z",
+      "engine": "GitHub conectado, fetch_file de 30 JSONs, extração de URLs e busca de identificadores; inspeção da árvore main",
+      "interval": "checkpoints até 24/10/2026",
+      "resultsState": "Não foram encontrados esses novos localizadores nos lotes prévios; PL 1482/2019 não figurava nos registros inspecionados. Um resultado anterior de PL 2064/2025 foi mantido sem duplicação."
+    },
+    {
       "id": "consulta-908b3c4f53e33516",
       "batch": "primarias-20261024-02",
       "query": "site:alerj.rj.gov.br \"Flávio Bolsonaro\" 2012 projeto lei",
@@ -54771,6 +55762,24 @@
       "note": "A ficha oficial confirma a realização e a galeria identifica participantes, mas não traz o teor individual de todas as intervenções nem fundamenta estimativas independentes."
     },
     {
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+      "source": "Item individual da CSP, 12ª reunião de 14/07/2026, portal legis.senado.leg.br",
+      "status": "Falha transitória de leitura nesta execução",
+      "note": "Duas tentativas diretas de abrir o item terminaram em timeout. Não cadastrado como documento lido; a situação foi reconstituída apenas por ficha de tramitação, notas oficiais textuais e reportagem efetivamente acessadas."
+    },
+    {
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+      "source": "PDF da Mensagem 772/2026 e PDFs dos relatórios e emendas do PL 1482/2019",
+      "status": "Íntegra de PDF não consultada",
+      "note": "Não se reivindica acesso, leitura ou cotejo textual dos PDFs. Fichas HTML e lei em HTML não substituem autenticação visual de anexos."
+    },
+    {
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27",
+      "source": "Áudios e vídeo das reuniões da CSP, CCJ e Plenário",
+      "status": "Não reproduzidos",
+      "note": "Zero segundos ou marcações conferidos. Referências de linhas se limitam a texto HTML; horários apresentados nas páginas não constituem timestamps de mídia validados."
+    },
+    {
       "batch": "primarias-20261024-02",
       "source": "Executor local de scripts",
       "error": "Sem checkout Git ou terminal remoto conectado nesta execução. Normalização content/research.json e dist/data/research.json e research.js pendente; não afirmar publicação automática."
@@ -55345,6 +56354,36 @@
       "batch": "pl1473-audiencias-20261024-24"
     },
     {
+      "id": "lacuna-de5478a7d4279247",
+      "note": "Reabrir o VET 52/2026 e verificar posteriormente eventual sessão do Congresso, manutenção ou rejeição; em 24/10/2026 o estado consultado era não apreciado.",
+      "state": "pendente",
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27"
+    },
+    {
+      "id": "lacuna-fbc545e1f858aa3a",
+      "note": "Conferir a íntegra da Mensagem 772/2026, dos pareceres e das quatro emendas de redação em PDF e confrontá-los com a versão sancionada antes de análise jurídica comparativa.",
+      "state": "pendente",
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27"
+    },
+    {
+      "id": "lacuna-706a9f2ec6a7f680",
+      "note": "Localizar críticas jornalísticas específicas à velocidade da tramitação e o contraditório completo antes de qualquer comparação ou juízo de falsidade sobre a resposta institucional da CSP.",
+      "state": "pendente",
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27"
+    },
+    {
+      "id": "lacuna-3dac12a3a9ac4ce9",
+      "note": "Verificar impactos alegados da lei em bases primárias de furto e roubo de combustíveis com séries anteriores e posteriores, sem inferir eficácia de declarações públicas.",
+      "state": "pendente",
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27"
+    },
+    {
+      "id": "lacuna-cf183a7a998cfc71",
+      "note": "Todo novo veredito, acusação ou comparação sensível fica pendente de revisor humano identificado. Nenhum áudio, vídeo, timestamp ou revisão editorial foi certificado nesta coleta.",
+      "state": "pendente",
+      "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27"
+    },
+    {
       "id": "lacuna-d791a02351ceee92",
       "note": "Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.",
       "state": "pendente",
@@ -55789,6 +56828,12 @@
       "label": "PL 1473/2025, audiência pública Senado e Câmara, notas taquigráficas oficiais, posições do relator e registro de adiamento",
       "method": "Sete URLs de páginas HTML distintas abertas e lidas; comparadas contra 531 URLs consolidadas; sem audição, sem leitura das íntegras PDF bloqueadas e sem veredito.",
       "collected_at_utc": "2026-10-24T21:35:25.822Z"
+    },
+    {
+      "id": "checkpoint-20261025-27",
+      "label": "PL 1482/2019, relatoria de Flávio, Lei 15.517/2026 e veto parcial",
+      "collected_at_utc": "2026-10-25T00:13:31.411Z",
+      "method": "10 URLs públicas e únicas abertas e lidas; 0 segundos de mídia; sem novo veredito ou revisor; URLs cotejadas com checkpoints anteriores."
     },
     {
       "name": "Checagem ao Vivo",

@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-24T23:39:41.493492Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T00:13:46.525279Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-554 URLs únicas no lote; 536 ainda não vinculadas à edição anterior. 551 materiais acessados e 526 com texto analisado.
+564 URLs únicas no lote; 546 ainda não vinculadas à edição anterior. 561 materiais acessados e 536 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -28,14 +28,14 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2016 | 2 | 2 | 2 | 0 | 0 |
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 5 | 5 | 4 | 0 | 0 |
-| 2019 | 36 | 36 | 34 | 0 | 0 |
+| 2019 | 37 | 37 | 35 | 0 | 0 |
 | 2020 | 10 | 10 | 9 | 0 | 0 |
 | 2021 | 32 | 32 | 28 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 32 | 32 | 31 | 0 | 0 |
 | 2025 | 62 | 62 | 59 | 0 | 0 |
-| 2026 | 262 | 262 | 258 | 0 | 0 |
+| 2026 | 271 | 271 | 267 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -123,6 +123,11 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - Conferir dados orçamentários e alegações sobre reincidência e efeitos de internação em fontes estatísticas primárias antes de análise crítica.
 - Manter novos vereditos, acusações e comparações sensíveis pendentes de revisão editorial humana identificada; lista approvedReviewerIds intocada; zero segundos de áudio escutados.
 - Continuar busca de votações nominais ALERJ de 2008 e 2009 e imagens oficiais do Diário, sem reconstruir votos a partir de notícias.
+- Reabrir o VET 52/2026 e verificar posteriormente eventual sessão do Congresso, manutenção ou rejeição; em 24/10/2026 o estado consultado era não apreciado.
+- Conferir a íntegra da Mensagem 772/2026, dos pareceres e das quatro emendas de redação em PDF e confrontá-los com a versão sancionada antes de análise jurídica comparativa.
+- Localizar críticas jornalísticas específicas à velocidade da tramitação e o contraditório completo antes de qualquer comparação ou juízo de falsidade sobre a resposta institucional da CSP.
+- Verificar impactos alegados da lei em bases primárias de furto e roubo de combustíveis com séries anteriores e posteriores, sem inferir eficácia de declarações públicas.
+- Todo novo veredito, acusação ou comparação sensível fica pendente de revisor humano identificado. Nenhum áudio, vídeo, timestamp ou revisão editorial foi certificado nesta coleta.
 - Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.
 - Confirmar desfecho legislativo após comunicação de veto total ao PL 3003/2014.
 - Conferir Diários e gravações integrais antes de novas citações, timestamps, comparações ou vereditos; áudio ouvido nesta coleta: zero segundos.
@@ -220,6 +225,9 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - batch: pl1473-audiencias-20261024-24; source: PDFs dos relatórios e substitutivos da CCJ para o PL 1473/2025; status: Conteúdo não acessado nesta execução; note: As tentativas de abrir anexos retornaram verificação de segurança e não o PDF. O cotejo documental entre versões permanece pendente, sem alegar consulta à íntegra.
 - batch: pl1473-audiencias-20261024-24; source: Áudios e vídeos da audiência 07/10, sessão 22/10 e reportagem Rádio Senado; status: Não reproduzidos; note: Zero segundos efetivamente conferidos. Os horários e durações exibidos pelo portal não foram convertidos em timestamps audiovisuais próprios.
 - batch: pl1473-audiencias-20261024-24; source: Dossiê de 09/12 da Câmara com falas individuais e notas técnicas originais de entidades; status: Não lidos integralmente; note: A ficha oficial confirma a realização e a galeria identifica participantes, mas não traz o teor individual de todas as intervenções nem fundamenta estimativas independentes.
+- batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: Item individual da CSP, 12ª reunião de 14/07/2026, portal legis.senado.leg.br; status: Falha transitória de leitura nesta execução; note: Duas tentativas diretas de abrir o item terminaram em timeout. Não cadastrado como documento lido; a situação foi reconstituída apenas por ficha de tramitação, notas oficiais textuais e reportagem efetivamente acessadas.
+- batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: PDF da Mensagem 772/2026 e PDFs dos relatórios e emendas do PL 1482/2019; status: Íntegra de PDF não consultada; note: Não se reivindica acesso, leitura ou cotejo textual dos PDFs. Fichas HTML e lei em HTML não substituem autenticação visual de anexos.
+- batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: Áudios e vídeo das reuniões da CSP, CCJ e Plenário; status: Não reproduzidos; note: Zero segundos ou marcações conferidos. Referências de linhas se limitam a texto HTML; horários apresentados nas páginas não constituem timestamps de mídia validados.
 - batch: primarias-20261024-02; source: Executor local de scripts; error: Sem checkout Git ou terminal remoto conectado nesta execução. Normalização content/research.json e dist/data/research.json e research.js pendente; não afirmar publicação automática.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2003–2008; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/e00a7c3c8652b69a83256cca00646ee5/5cbef3b7651fa94c83256f6c0060c240; error: Abertura da fonte oficial retornou 502. Somente resultado de busca, não lido na íntegra; não incluído no catálogo.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2004; url: https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/b24a2da5a077847c032564f4005d4bf2/5aacd46ba577c4f983256ebb006214b9; error: Abertura da página de lei antiga retornou erro de gateway; não registrar sua ementa ou efeito como texto consultado.
