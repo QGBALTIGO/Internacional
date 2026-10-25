@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T15:31:58.076744Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T16:45:37.198958Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-727 URLs únicas no lote; 708 ainda não vinculadas à edição anterior. 724 materiais acessados e 691 com texto analisado.
+739 URLs únicas no lote; 720 ainda não vinculadas à edição anterior. 736 materiais acessados e 702 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-20 vídeos e 15 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+20 vídeos e 16 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -29,9 +29,9 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 6 | 6 | 4 | 0 | 0 |
 | 2019 | 44 | 44 | 42 | 0 | 0 |
-| 2020 | 22 | 22 | 21 | 0 | 0 |
+| 2020 | 27 | 27 | 25 | 0 | 0 |
 | 2021 | 36 | 36 | 31 | 0 | 0 |
-| 2022 | 28 | 28 | 28 | 0 | 0 |
+| 2022 | 35 | 35 | 35 | 0 | 0 |
 | 2023 | 34 | 34 | 32 | 0 | 0 |
 | 2024 | 53 | 53 | 52 | 0 | 0 |
 | 2025 | 99 | 99 | 95 | 0 | 0 |
@@ -276,6 +276,10 @@ Materiais sem data: 40. Ausência de registros em um ano significa lacuna deste 
 - PL 2734/2021: confirmar movimentação mais recente na CCJ e eventual mudança de relatoria na página oficial em consulta futura; não afirmar vigência legislativa por aprovação em CSP.
 - PL 2734/2021: procurar manifestação formal e atual da OAB e análise técnica de segurança pública, sem atribuir a toda a categoria posições de conselheiros individuais.
 - A gravação original das reuniões não foi reproduzida; zero segundos revisados. Comparações sensíveis e novas verificações próprias permanecem com classification nulo até aprovação por revisor editorial humano identificado.
+- Conferir ata oficial ou retificação do PL 1277/2020 para reconciliar placares 75-1 na reportagem de 19/05/2020 e 74-2 no mapa nominal, sem conclusão sensível automatizada.
+- Ler PDFs integrais das Emendas 54 e 55 da PEC 32/2022, dos destaques e atas do plenário para delimitar objeto jurídico de cada voto nominal antes de qualquer comparação.
+- Conferir em fonte direta os anúncios MEC/INEP de maio de 2020 e o desfecho bicameral do PL 1277/2020, sem presumir que aprovação no Senado gerou lei.
+- Se houver revisão humana identificada, avaliar divergências documentais sem presumir intenção, culpa ou falsidade; nenhum revisor foi cadastrado e zero segundos de áudio foram ouvidos.
 - Revisar autoria, pergunta e intervalo de cada afirmação antes de criar uma nova checagem.
 - Conferir no áudio original trechos decisivos; os segundos revisados neste lote são zero.
 - Explorar ALERJ de 2003 a 2015 por ano, mês e número de proposição.
@@ -360,3 +364,6 @@ Materiais sem data: 40. Ausência de registros em um ano significa lacuna deste 
 - batch: senado-pl2734-csp-20261024-25; source: Relatório, emendas e decisão da CSP em PDF no portal legis.senado.leg.br/sdleg-getter; status: Não foi possível ler o PDF nesta sessão; note: A abertura do anexo retornou verificação de segurança com JavaScript, não bytes do documento. Texto debatido foi documentado apenas a partir de HTML oficial e notas revisadas.
 - batch: senado-pl2734-csp-20261024-25; source: Áudios e vídeos das reuniões 13405 e 13420 e reportagem Rádio Senado; status: Não reproduzidos; note: Zero segundos de gravação conferidos. Horas e ícones do HTML são marcadores publicados pelo portal, não minutos analisados.
 - batch: senado-pl2734-csp-20261024-25; source: Posição institucional atual do Conselho Federal da OAB e estatísticas de violência profissional; status: Não autenticadas nesta sessão; note: Intervenções e referências em materiais consultados não equivalem à leitura de ofício institucional integral ou verificação própria de dados estatísticos.
+- batch: votacoes-pl1277-pec32-20261025-43; source: Rádio Senado, áudio sobre anúncio do adiamento do Enem; status: Áudio não reproduzido; note: Só descrição textual e título foram consultados; zero segundos conferidos, sem timestamp ou transcrição.
+- batch: votacoes-pl1277-pec32-20261025-43; source: Mapas PEC 32/2022 e PL 1277/2020 e anexos PDF; status: Anexos não examinados; note: Mapas HTML e fichas abertas; atas, emendas e pareceres PDF não foram examinados. A diferença 75-1 (notícia já catalogada) versus 74-2 (painel) permanece sem reconciliação.
+- batch: votacoes-pl1277-pec32-20261025-43; source: Divergência de datas do mapa da PEC fase 2; status: Data de sessão/item distinta; note: Lista dos três votos assinala 21/12/2022; corpo da 123ª sessão marca 20/12/2022. Não converter em instante de voto sem ata/gravação.

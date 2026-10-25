@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T15:31:58.076744Z",
-    "inputHash": "9357ca27ff372ec5f50fbf24182fcee1200b88458d42c145501bcbda03e0001c",
+    "generatedAt": "2026-10-25T16:45:37.198958Z",
+    "inputHash": "e1fc6816924f0a1792334faf16e06063234181623977a85e751848b86dbb8ef6",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -34381,6 +34381,336 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-f952d9f85306f27f",
+      "title": "PEC da Transição fase 2: votos nos dois turnos e no destaque do art. 8º",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155594/votacoes",
+      "publisher": "Senado Federal",
+      "date": "2022-12-21",
+      "eventDate": "2022-12-21",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PEC 32/2022",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Na fase 2 da PEC 32/2022, após emendas da Câmara, mapas oficiais registram Flávio votando 'Não' no primeiro turno (63 sim, 11 não) e no segundo turno (63 sim, 11 não), mas 'Sim' no destaque específico do art. 8º (62 sim, 9 não, uma abstenção). A lista de votação traz 21/12 e o painel identifica a 123ª sessão aberta em 20/12, por isso as referências cronológicas devem preservar ambos os marcadores.",
+      "limitations": "A data interna da sessão (20/12) e a data dos itens da lista (21/12) diferem; não foi conferida gravação para fixar o instante. Votar sim em artigo destacado não significa apoio ao conjunto da PEC. Emendas integrais não confrontadas.",
+      "locator": "PEC 32/2022 fase 2, 123ª sessão, três votações nominais: texto primeiro turno, art. 8º destacado e segundo turno, linhas Flávio Bolsonaro.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 32/2022 fase 2",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pec32-segundo-mapa",
+          "toolReference": "turn112666search7"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-e477f98c6d710d6e",
+      "title": "Agência Senado: aprovação final da PEC da Transição após alterações da Câmara",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/12/21/senado-confirma-mudancas-da-camara-e-aprova-pec-da-Transicao",
+      "publisher": "Agência Senado",
+      "date": "2022-12-21",
+      "eventDate": "2022-12-21",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PEC 32/2022",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 21/12/2022 (com atualização no portal) descreve retorno da PEC da Transição da Câmara e confirmação da versão final no Senado; distingue a votação inicial da nova apreciação bicameral e apresenta total de 63 favoráveis a 11 contrários nos turnos finais. Atribui justificativas aos parlamentares citados; não transforma notícia em mapa nominal de Flávio.",
+      "limitations": "Acesso ao HTML da Agência Senado, não à gravação da sessão ou ao texto dos pareceres originais em PDF; data editorial e data de sessão não devem ser confundidas.",
+      "locator": "Reportagem sobre aprovação em 21/12/2022, histórico das alterações da Câmara e resultados dos dois turnos.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 32/2022",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pec32-senado-final",
+          "toolReference": "turn136587view3"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-883668b684931e8d",
+      "title": "Agência Senado: discussão dos apoios e divergências na PEC da Transição",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/12/21/pec-da-transicao-obteve-ampla-maioria",
+      "publisher": "Agência Senado",
+      "date": "2022-12-21",
+      "eventDate": "2022-12-21",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PEC 32/2022",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Publicação institucional contextualiza a base política e a distribuição de apoios na tramitação final da PEC da Transição, incluindo manifestações atribuídas aos interlocutores parlamentares e ao relator. É material jornalístico contextual, sem substituir o mapa individual de votos.",
+      "limitations": "Reportagem não comprova voto nominal isoladamente; declarações atribuídas aos respectivos políticos, sem inferir concordância de todos nem intenção de voto.",
+      "locator": "Título, data e texto jornalístico sobre maioria parlamentar em 21/12/2022.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 32/2022",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pec32-senado-contexto",
+          "toolReference": "turn136587view4"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-3ab50c7306a3f464",
+      "title": "Ficha PEC 32/2022 fase 2: retorno da Câmara e conversão em EC 126",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155594",
+      "publisher": "Senado Federal",
+      "date": "2022-12-21",
+      "eventDate": "2022-12-21",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PEC 32/2022",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha legislativa da PEC 32/2022 fase 2 documenta tramitação após o retorno da Câmara, aprovação e transformação na Emenda Constitucional 126 de 21/12/2022. A autoria da fase bicameral e o registro da conversão não transformam Flávio em autor ou relator da PEC.",
+      "limitations": "Ficha legislativa dinâmica consultada em HTML; partes da tramitação e PDFs mencionados não foram integralmente abertos; para voto individual usar os mapas específicos.",
+      "locator": "PEC 32/2022 (fase 2), datas de leitura/apresentação, descrição da deliberação final e 'Norma Gerada' EC 126/2022.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 32/2022 fase 2",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pec32-ficha-fase2",
+          "toolReference": "turn308031view0"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-2268fc6df2fb0c4f",
+      "title": "Planalto: íntegra textual da Emenda Constitucional nº 126/2022",
+      "url": "https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc126.htm",
+      "publisher": "Presidência da República, Planalto",
+      "date": "2022-12-21",
+      "eventDate": "2022-12-21",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PEC 32/2022",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Texto oficial HTML da Emenda Constitucional 126, promulgada em 21/12/2022, dispõe sobre alterações constitucionais e regras de transição orçamentária para 2023, incluindo o ADCT. Esta é a norma editada; não representa apoio nominal de Flávio a cada dispositivo e não substitui mapas de votação específicos.",
+      "limitations": "Texto HTML consultado diretamente, com aviso de que não substitui DOU de 22/12/2022; não foi aberta a edição em PDF do Diário Oficial, nem se fez cotejo de eventuais alterações posteriores.",
+      "locator": "Emenda Constitucional nº 126, de 21 de dezembro de 2022; ementa; artigos 1º a 10; fecho e indicação da publicação oficial.",
+      "sourceId": "fonte-4a3b67b508a08327",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "EC 126/2022",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pec32-ec126",
+          "toolReference": "turn112666search0"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-a3cac150928bcee9",
       "title": "Discussão da PEC da Transição e limites das despesas orçamentárias",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494839",
@@ -34904,6 +35234,138 @@
         }
       ],
       "accessMethod": "Busca web, abertura e leitura do texto oficial HTML do Senado; sem audição ou acesso indevido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-3211b5d52d94a642",
+      "title": "RQS 791/2022: destaque de Flávio sobre art. 121 retirado pelo próprio autor",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155365",
+      "publisher": "Senado Federal",
+      "date": "2022-12-07",
+      "eventDate": "2022-12-07",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PEC 32/2022",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha oficial confirma Flávio Bolsonaro, líder do PL, como autor do RQS 791/2022 para votação em separado do art. 121 da PEC 32/2022, e registra decisão 'Retirada pelo autor' em 07/12/2022. A retirada do requerimento não significa rejeição por votação e não invalida a existência de outra deliberação relativa ao art. 121 no painel.",
+      "limitations": "Ficha textual pública aberta; requerimento original em PDF e atas não examinados, sem afirmar motivação da retirada.",
+      "locator": "Identificação do Requerimento 791/2022; Autoria; Natureza; Situação Atual; Decisão Retirada pelo autor; tramitação em 07/12/2022.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "RQS 791/2022",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pec32-rqs791",
+          "toolReference": "turn112666search2"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-238325c56bb201c5",
+      "title": "PEC 32/2022 fase inicial: votos nominais de Flávio em texto-base e destaques",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155248/votacoes",
+      "publisher": "Senado Federal",
+      "date": "2022-12-07",
+      "eventDate": "2022-12-07",
+      "year": 2022,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PEC 32/2022",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Mapas da sessão de 07/12/2022 registram Flávio Bolsonaro votando 'Não' na Emenda 55 (substitutivo) em primeiro turno (64 sim, 16 não) e segundo turno (64 sim, 13 não). No destaque da Emenda 54 (27 sim, 50 não), Flávio votou 'Sim'. Votou 'Não' nos destaques da expressão 'de 2024' (55 sim, 23 não) e do art. 121 do ADCT (58 sim, 19 não). Cada votação possui objeto e total próprios e não deve ser fundida em posicionamento genérico.",
+      "limitations": "HTML oficial acessado; não foram lidas íntegras PDF das emendas e destaques para determinar efeito jurídico de cada voto. Diferença entre sim em destaque e não em substitutivo não é contradição automática.",
+      "locator": "Votações da 118ª sessão de 07/12/2022, cinco painéis nominais distintos, linha Flávio Bolsonaro de cada votação.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PEC 32/2022",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pec32-primeiro-mapa",
+          "toolReference": "turn403698view1"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
       "newToArchive": true
     },
     {
@@ -39651,6 +40113,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-c310089f22919dbe",
+      "title": "Rádio Senado: anúncio de mudança de data do Enem não encerra tramitação",
+      "url": "https://www12.senado.leg.br/noticias/audios/2020/05/anuncio-sobre-adiamento-do-enem-nao-interrompe-tramitacao-de-projeto",
+      "publisher": "Rádio Senado",
+      "date": "2020-05-22",
+      "eventDate": "2020-05-22",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PL 1277/2020",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "acessado",
+      "summary": "Página editorial de áudio expõe em título e texto-resumo que anúncio de adiamento do Enem não interrompe automaticamente tramitação do projeto. Foi examinado somente o conteúdo textual e os metadados fornecidos pela página.",
+      "limitations": "Gravação NÃO reproduzida; zero segundos ouvidos, nenhuma transcrição, timestamp ou declaração audiovisual atribuída. Data baseada na página pública, não em escuta.",
+      "locator": "Título e descrição textual visível em página de áudio da Rádio Senado.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1277/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pl1277-radio",
+          "toolReference": "turn136587view6"
+        }
+      ],
+      "accessMethod": "Abertura de página e leitura apenas de título, metadados e texto público; arquivo sonoro não reproduzido.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-e04309c91c184309",
       "title": "Ficha legislativa do PL 1.277/2020 e remessa à Câmara",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/141354",
@@ -39714,6 +40242,270 @@
         }
       ],
       "accessMethod": "Página HTML pública do Senado aberta e lida diretamente em 24/10/2026; sem download de anexos ou reprodução audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-45f6d5f78bf5168c",
+      "title": "Agência Senado: reações ao anúncio de adiamento do Enem e situação do projeto",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/05/20/senadores-comemoram-adiamento-do-enem",
+      "publisher": "Agência Senado",
+      "date": "2020-05-20",
+      "eventDate": "2020-05-20",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PL 1277/2020",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem institucional de 20/05/2020 documenta reações públicas de parlamentares após anúncio de adiamento do Enem pelas autoridades educacionais. É contexto cronológico e resposta institucional relatada pela imprensa do Senado; não constitui leitura do comunicado original do MEC/INEP nem comprovação de sanção do PL.",
+      "limitations": "Notícia aberta em HTML; comunicações originais do MEC/INEP e eventuais anexos não foram acessados nesta etapa. Não confundir anúncio administrativo com vigência do projeto.",
+      "locator": "Título, publicação de 20/05/2020 e parágrafos de reações após anúncio.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1277/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pl1277-reacoes",
+          "toolReference": "turn136587view2"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-afebcc5a2e89398c",
+      "title": "RQS 403/2020: destaque de emenda ao PL 1277 posteriormente retirado pelo autor",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/142005",
+      "publisher": "Senado Federal",
+      "date": "2020-05-19",
+      "eventDate": "2020-05-19",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PL 1277/2020",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha legislativa registra o Requerimento nº 403/2020, formulado por Rogério Carvalho, de destaque da Emenda nº 1 ao PL 1277/2020 e retirado pelo autor em 19/05/2020. Sua retirada não é voto negativo da comissão ou do plenário e não autoriza atribuir voto a Flávio.",
+      "limitations": "Somente ficha oficial HTML consultada; sem análise do PDF integral do requerimento, emenda e deliberação nominal correlata.",
+      "locator": "RQS 403/2020, Autoria, Objeto, Situação/Decisão e tramitação em 19/05/2020.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "RQS 403/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pl1277-rqs403",
+          "toolReference": "turn136587view5"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-8d47ec78e9707bba",
+      "title": "Painel nominal do PL 1277/2020: Flávio votou não no projeto e não registrou voto na Emenda 12",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/141354/votacoes",
+      "publisher": "Senado Federal",
+      "date": "2020-05-19",
+      "eventDate": "2020-05-19",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PL 1277/2020",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Painel da 45ª sessão deliberativa remota de 19/05/2020 indica aprovação do PL 1277/2020 por 74 votos sim e 2 não, com Flávio Bolsonaro marcado 'Não'. Na votação distinta da Emenda nº 12-PLEN, aprovada por 66 sim e nenhum não, a linha de Flávio registra 'Não registrou voto'. Notícia anterior já catalogada reportou placar 75 a 1; a divergência de placares é um ponto documental de reconciliação, não veredito editorial.",
+      "limitations": "Os dois escrutínios são distintos. Ausência de registro na emenda não equivale a voto contrário. Painel HTML consultado diretamente, sem conferir atas PDF, atas de retificação ou vídeo; placar de notícia difere e não foi adjudicado.",
+      "locator": "45ª sessão, votação do PL 1277/2020, mapa por nome, linha Flávio Bolsonaro; votação seguinte da Emenda 12-PLEN, linha do mesmo senador.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1277/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pl1277-votacoes",
+          "toolReference": "turn112666search3"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-895deb938e1261cb",
+      "title": "Agência Senado antes da votação: argumentos de relatoria e autoria para adiar o Enem",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/05/19/projeto-que-adia-enem-esta-na-pauta-do-plenario-desta-terca-feira",
+      "publisher": "Agência Senado",
+      "date": "2020-05-19",
+      "eventDate": "2020-05-19",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022",
+      "topics": [
+        "PL 1277/2020",
+        "voto nominal",
+        "documentação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Publicação institucional anterior à deliberação registra que o projeto para adiar o Enem estava na pauta em 19/05/2020; apresenta argumentos e contexto da autora Daniella Ribeiro e do relator Izalci Lucas acerca das condições de acesso ao ensino e da pandemia. Não é pronunciamento de Flávio Bolsonaro.",
+      "limitations": "Texto jornalístico da Agência Senado, não a íntegra da proposição, nem fonte de voto nominal. Não atribuir à Flávio avaliações da autora ou do relator.",
+      "locator": "Título, data, identificação do PL 1277/2020 e parágrafos de contexto da pauta.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T16:45:26.559Z",
+      "lastModifiedAt": "2026-10-25T16:45:26.559Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1277/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "votacoes-pl1277-pec32-20261025-43",
+          "inputId": "43-pl1277-pauta",
+          "toolReference": "turn136587view1"
+        }
+      ],
+      "accessMethod": "Abertura e leitura direta do HTML público na consulta de 25/10/2026; anexos e gravações não presumidos como examinados.",
       "newToArchive": true
     },
     {
@@ -48363,7 +49155,7 @@
       "monitoringEnabled": true,
       "accessNote": "3 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T16:45:20.009899Z"
     },
     {
       "id": "fonte-e1c9e5407b4d26a8",
@@ -48378,9 +49170,9 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "monitoringEnabled": true,
-      "accessNote": "4 publicações relacionadas nesta consulta",
+      "accessNote": "1 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T16:45:20.009899Z"
     },
     {
       "id": "fonte-a08eae094412f4bb",
@@ -48395,9 +49187,9 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "monitoringEnabled": true,
-      "accessNote": "3 publicações relacionadas nesta consulta",
+      "accessNote": "1 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T16:45:20.009899Z"
     },
     {
       "id": "fonte-0a4536d177e98be8",
@@ -48501,7 +49293,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T16:45:20.009899Z",
       "lastConsultedAt": "2026-10-24T11:14:02.380Z",
       "accessNote": "11 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -49441,9 +50233,9 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T16:45:20.009899Z",
       "lastConsultedAt": "2026-10-24T16:19:40.738Z",
-      "accessNote": "4 publicações relacionadas nesta consulta",
+      "accessNote": "5 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
       "sourceCount": 24,
       "periods": [
@@ -49722,20 +50514,21 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T13:01:23.820Z",
+      "lastConsultedAt": "2026-10-25T16:45:26.559Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "periods": [
         1994,
-        2003
+        2003,
+        2022
       ],
       "formats": [
         "documento"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 2,
-      "analysedCount": 2
+      "accessedCount": 3,
+      "analysedCount": 3
     },
     {
       "id": "fonte-efeb3e40f7290242",
@@ -49997,11 +50790,11 @@
       "nature": "órgão público",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z",
-      "lastConsultedAt": "2026-10-25T15:31:46.000Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T16:45:20.009899Z",
+      "lastConsultedAt": "2026-10-25T16:45:26.559Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 315,
+      "sourceCount": 326,
       "periods": [
         2018,
         2019,
@@ -50022,8 +50815,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 314,
-      "analysedCount": 295
+      "accessedCount": 325,
+      "analysedCount": 305
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -50986,6 +51779,31 @@
       "reviewState": "aguardando revisão",
       "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Somente metadados textuais HTML consultados. Vídeo NÃO reproduzido, 0 segundos ouvidos, nenhum recorte, legenda ou timestamp auditado.",
       "researchItemId": "pesquisa-ce0d7e2e5078568e",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-c310089f22919dbe",
+      "title": "Rádio Senado: anúncio de mudança de data do Enem não encerra tramitação",
+      "type": "audio",
+      "provider": "Rádio Senado",
+      "publisher": "Rádio Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/audios/2020/05/anuncio-sobre-adiamento-do-enem-nao-interrompe-tramitacao-de-projeto",
+      "url": "https://www12.senado.leg.br/noticias/audios/2020/05/anuncio-sobre-adiamento-do-enem-nao-interrompe-tramitacao-de-projeto",
+      "date": "2020-05-22",
+      "youtubeId": null,
+      "description": "Página editorial de áudio expõe em título e texto-resumo que anúncio de adiamento do Enem não interrompe automaticamente tramitação do projeto. Foi examinado somente o conteúdo textual e os metadados fornecidos pela página.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Gravação NÃO reproduzida; zero segundos ouvidos, nenhuma transcrição, timestamp ou declaração audiovisual atribuída. Data baseada na página pública, não em escuta.",
+      "researchItemId": "pesquisa-c310089f22919dbe",
       "review": {
         "state": "aguardando revisão editorial",
         "reviewer": null,
@@ -55748,6 +56566,51 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-b0a18b86f0e98c65",
+      "itemId": "pesquisa-f952d9f85306f27f",
+      "title": "PEC da Transição fase 2: votos nos dois turnos e no destaque do art. 8º",
+      "date": "2022-12-21",
+      "datePrecision": "day",
+      "context": "Na fase 2 da PEC 32/2022, após emendas da Câmara, mapas oficiais registram Flávio votando 'Não' no primeiro turno (63 sim, 11 não) e no segundo turno (63 sim, 11 não), mas 'Sim' no destaque específico do art. 8º (62 sim, 9 não, uma abstenção). A lista de votação traz 21/12 e o painel identifica a 123ª sessão aberta em 20/12, por isso as referências cronológicas devem preservar ambos os marcadores.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e25c211d54efee37",
+      "itemId": "pesquisa-e477f98c6d710d6e",
+      "title": "Agência Senado: aprovação final da PEC da Transição após alterações da Câmara",
+      "date": "2022-12-21",
+      "datePrecision": "day",
+      "context": "Reportagem de 21/12/2022 (com atualização no portal) descreve retorno da PEC da Transição da Câmara e confirmação da versão final no Senado; distingue a votação inicial da nova apreciação bicameral e apresenta total de 63 favoráveis a 11 contrários nos turnos finais. Atribui justificativas aos parlamentares citados; não transforma notícia em mapa nominal de Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f18e3ba6ee49c5c8",
+      "itemId": "pesquisa-883668b684931e8d",
+      "title": "Agência Senado: discussão dos apoios e divergências na PEC da Transição",
+      "date": "2022-12-21",
+      "datePrecision": "day",
+      "context": "Publicação institucional contextualiza a base política e a distribuição de apoios na tramitação final da PEC da Transição, incluindo manifestações atribuídas aos interlocutores parlamentares e ao relator. É material jornalístico contextual, sem substituir o mapa individual de votos.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f39956e15c115361",
+      "itemId": "pesquisa-3ab50c7306a3f464",
+      "title": "Ficha PEC 32/2022 fase 2: retorno da Câmara e conversão em EC 126",
+      "date": "2022-12-21",
+      "datePrecision": "day",
+      "context": "Ficha legislativa da PEC 32/2022 fase 2 documenta tramitação após o retorno da Câmara, aprovação e transformação na Emenda Constitucional 126 de 21/12/2022. A autoria da fase bicameral e o registro da conversão não transformam Flávio em autor ou relator da PEC.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-41fbdae8a3e196bb",
+      "itemId": "pesquisa-2268fc6df2fb0c4f",
+      "title": "Planalto: íntegra textual da Emenda Constitucional nº 126/2022",
+      "date": "2022-12-21",
+      "datePrecision": "day",
+      "context": "Texto oficial HTML da Emenda Constitucional 126, promulgada em 21/12/2022, dispõe sobre alterações constitucionais e regras de transição orçamentária para 2023, incluindo o ADCT. Esta é a norma editada; não representa apoio nominal de Flávio a cada dispositivo e não substitui mapas de votação específicos.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-5c852426fef5e1bb",
       "itemId": "pesquisa-a3cac150928bcee9",
       "title": "Discussão da PEC da Transição e limites das despesas orçamentárias",
@@ -55818,6 +56681,24 @@
       "datePrecision": "unknown",
       "context": "Em intervenção pela ordem, Flávio defendeu a urgência do PDL 371/2022 para sustar resolução eleitoral sobre desinformação e criticou inquéritos judiciais. Suas avaliações de constitucionalidade não equivalem a decisão judicial.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-ef6c783b7a772fea",
+      "itemId": "pesquisa-3211b5d52d94a642",
+      "title": "RQS 791/2022: destaque de Flávio sobre art. 121 retirado pelo próprio autor",
+      "date": "2022-12-07",
+      "datePrecision": "day",
+      "context": "Ficha oficial confirma Flávio Bolsonaro, líder do PL, como autor do RQS 791/2022 para votação em separado do art. 121 da PEC 32/2022, e registra decisão 'Retirada pelo autor' em 07/12/2022. A retirada do requerimento não significa rejeição por votação e não invalida a existência de outra deliberação relativa ao art. 121 no painel.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-19af938856eca758",
+      "itemId": "pesquisa-238325c56bb201c5",
+      "title": "PEC 32/2022 fase inicial: votos nominais de Flávio em texto-base e destaques",
+      "date": "2022-12-07",
+      "datePrecision": "day",
+      "context": "Mapas da sessão de 07/12/2022 registram Flávio Bolsonaro votando 'Não' na Emenda 55 (substitutivo) em primeiro turno (64 sim, 16 não) e segundo turno (64 sim, 13 não). No destaque da Emenda 54 (27 sim, 50 não), Flávio votou 'Sim'. Votou 'Não' nos destaques da expressão 'de 2024' (55 sim, 23 não) e do art. 121 do ADCT (58 sim, 19 não). Cada votação possui objeto e total próprios e não deve ser fundida em posicionamento genérico.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-080d6d235c068628",
@@ -56459,12 +57340,57 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-75c70a374bec590e",
+      "itemId": "pesquisa-c310089f22919dbe",
+      "title": "Rádio Senado: anúncio de mudança de data do Enem não encerra tramitação",
+      "date": "2020-05-22",
+      "datePrecision": "day",
+      "context": "Página editorial de áudio expõe em título e texto-resumo que anúncio de adiamento do Enem não interrompe automaticamente tramitação do projeto. Foi examinado somente o conteúdo textual e os metadados fornecidos pela página.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-994ba8312dfc2ce7",
       "itemId": "pesquisa-e04309c91c184309",
       "title": "Ficha legislativa do PL 1.277/2020 e remessa à Câmara",
       "date": "2020-05-19",
       "datePrecision": "day",
       "context": "Ficha oficial identifica a autoria de Daniella Ribeiro e o encerramento da tramitação no Senado com aprovação em Plenário; último estado registra remessa à Câmara em 20/05/2020. É documento contextual para o voto atribuído a Flávio na reportagem, e não identifica isoladamente o votante.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-cbe9aaba7a203229",
+      "itemId": "pesquisa-45f6d5f78bf5168c",
+      "title": "Agência Senado: reações ao anúncio de adiamento do Enem e situação do projeto",
+      "date": "2020-05-20",
+      "datePrecision": "day",
+      "context": "Reportagem institucional de 20/05/2020 documenta reações públicas de parlamentares após anúncio de adiamento do Enem pelas autoridades educacionais. É contexto cronológico e resposta institucional relatada pela imprensa do Senado; não constitui leitura do comunicado original do MEC/INEP nem comprovação de sanção do PL.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-4e8e397d2a329dc5",
+      "itemId": "pesquisa-afebcc5a2e89398c",
+      "title": "RQS 403/2020: destaque de emenda ao PL 1277 posteriormente retirado pelo autor",
+      "date": "2020-05-19",
+      "datePrecision": "day",
+      "context": "Ficha legislativa registra o Requerimento nº 403/2020, formulado por Rogério Carvalho, de destaque da Emenda nº 1 ao PL 1277/2020 e retirado pelo autor em 19/05/2020. Sua retirada não é voto negativo da comissão ou do plenário e não autoriza atribuir voto a Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9742b597a2ea902c",
+      "itemId": "pesquisa-8d47ec78e9707bba",
+      "title": "Painel nominal do PL 1277/2020: Flávio votou não no projeto e não registrou voto na Emenda 12",
+      "date": "2020-05-19",
+      "datePrecision": "day",
+      "context": "Painel da 45ª sessão deliberativa remota de 19/05/2020 indica aprovação do PL 1277/2020 por 74 votos sim e 2 não, com Flávio Bolsonaro marcado 'Não'. Na votação distinta da Emenda nº 12-PLEN, aprovada por 66 sim e nenhum não, a linha de Flávio registra 'Não registrou voto'. Notícia anterior já catalogada reportou placar 75 a 1; a divergência de placares é um ponto documental de reconciliação, não veredito editorial.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-c1115932b4aaaf5a",
+      "itemId": "pesquisa-895deb938e1261cb",
+      "title": "Agência Senado antes da votação: argumentos de relatoria e autoria para adiar o Enem",
+      "date": "2020-05-19",
+      "datePrecision": "day",
+      "context": "Publicação institucional anterior à deliberação registra que o projeto para adiar o Enem estava na pauta em 19/05/2020; apresenta argumentos e contexto da autora Daniella Ribeiro e do relator Izalci Lucas acerca das condições de acesso ao ensino e da pandemia. Não é pronunciamento de Flávio Bolsonaro.",
       "state": "data informada pela fonte"
     },
     {
@@ -66383,6 +67309,61 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-b0a18b86f0e98c65",
+      "itemId": "pesquisa-f952d9f85306f27f",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155594/votacoes",
+      "locator": "PEC 32/2022 fase 2, 123ª sessão, três votações nominais: texto primeiro turno, art. 8º destacado e segundo turno, linhas Flávio Bolsonaro.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e25c211d54efee37",
+      "itemId": "pesquisa-e477f98c6d710d6e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/12/21/senado-confirma-mudancas-da-camara-e-aprova-pec-da-Transicao",
+      "locator": "Reportagem sobre aprovação em 21/12/2022, histórico das alterações da Câmara e resultados dos dois turnos.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f18e3ba6ee49c5c8",
+      "itemId": "pesquisa-883668b684931e8d",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/12/21/pec-da-transicao-obteve-ampla-maioria",
+      "locator": "Título, data e texto jornalístico sobre maioria parlamentar em 21/12/2022.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f39956e15c115361",
+      "itemId": "pesquisa-3ab50c7306a3f464",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155594",
+      "locator": "PEC 32/2022 (fase 2), datas de leitura/apresentação, descrição da deliberação final e 'Norma Gerada' EC 126/2022.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-41fbdae8a3e196bb",
+      "itemId": "pesquisa-2268fc6df2fb0c4f",
+      "sourceId": "fonte-4a3b67b508a08327",
+      "url": "https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc126.htm",
+      "locator": "Emenda Constitucional nº 126, de 21 de dezembro de 2022; ementa; artigos 1º a 10; fecho e indicação da publicação oficial.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-5c852426fef5e1bb",
       "itemId": "pesquisa-a3cac150928bcee9",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -66465,6 +67446,28 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/494491",
       "locator": "Texto integral do Senado, 117ª Sessão Deliberativa Ordinária; RQS 704/2022 e PDL 371/2022; DSF 07/12/2022, p. 39.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-ef6c783b7a772fea",
+      "itemId": "pesquisa-3211b5d52d94a642",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155365",
+      "locator": "Identificação do Requerimento 791/2022; Autoria; Natureza; Situação Atual; Decisão Retirada pelo autor; tramitação em 07/12/2022.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-19af938856eca758",
+      "itemId": "pesquisa-238325c56bb201c5",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155248/votacoes",
+      "locator": "Votações da 118ª sessão de 07/12/2022, cinco painéis nominais distintos, linha Flávio Bolsonaro de cada votação.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -67252,11 +68255,66 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-75c70a374bec590e",
+      "itemId": "pesquisa-c310089f22919dbe",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/audios/2020/05/anuncio-sobre-adiamento-do-enem-nao-interrompe-tramitacao-de-projeto",
+      "locator": "Título e descrição textual visível em página de áudio da Rádio Senado.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-994ba8312dfc2ce7",
       "itemId": "pesquisa-e04309c91c184309",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/141354",
       "locator": "Cabeçalho 'Projeto de Lei n° 1277, de 2020'; 'Situação Atual'; 'Último estado: 20/05/2020 - REMETIDA À CÂMARA DOS DEPUTADOS'.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-cbe9aaba7a203229",
+      "itemId": "pesquisa-45f6d5f78bf5168c",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/05/20/senadores-comemoram-adiamento-do-enem",
+      "locator": "Título, publicação de 20/05/2020 e parágrafos de reações após anúncio.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-4e8e397d2a329dc5",
+      "itemId": "pesquisa-afebcc5a2e89398c",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/142005",
+      "locator": "RQS 403/2020, Autoria, Objeto, Situação/Decisão e tramitação em 19/05/2020.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9742b597a2ea902c",
+      "itemId": "pesquisa-8d47ec78e9707bba",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/141354/votacoes",
+      "locator": "45ª sessão, votação do PL 1277/2020, mapa por nome, linha Flávio Bolsonaro; votação seguinte da Emenda 12-PLEN, linha do mesmo senador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-c1115932b4aaaf5a",
+      "itemId": "pesquisa-895deb938e1261cb",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/05/19/projeto-que-adia-enem-esta-na-pauta-do-plenario-desta-terca-feira",
+      "locator": "Título, data, identificação do PL 1277/2020 e parágrafos de contexto da pauta.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -69187,15 +70245,15 @@
     },
     {
       "year": 2020,
-      "found": 22,
-      "accessed": 22,
-      "analysed": 21,
+      "found": 27,
+      "accessed": 27,
+      "analysed": 25,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
-        "acessado": 1,
-        "analisado": 21,
+        "acessado": 2,
+        "analisado": 25,
         "revisado": 0,
         "publicado": 0
       },
@@ -69205,21 +70263,23 @@
         "política externa": 1,
         "governo digital": 1,
         "documentação pública": 1,
+        "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022": 5,
         "educação": 2,
         "saude": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 17,
+        "fonte-2acd9e7dc92e583a": 22,
         "fonte-29a2bae5277f274b": 2,
         "fonte-efeb3e40f7290242": 2,
         "fonte-9c2fbd587c9a9fb0": 1
       },
       "formats": {
         "documento": 7,
-        "reportagem": 11,
+        "reportagem": 13,
         "video": 2,
         "checagem": 1,
-        "registro": 1
+        "audio": 1,
+        "registro": 3
       },
       "note": "Recorte não exaustivo."
     },
@@ -69281,20 +70341,21 @@
     },
     {
       "year": 2022,
-      "found": 28,
-      "accessed": 28,
-      "analysed": 28,
+      "found": 35,
+      "accessed": 35,
+      "analysed": 35,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 0,
-        "analisado": 28,
+        "analisado": 35,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "PEC 32/2022": 3,
+        "Votações nominais e tramitação: PL 1277/2020 e PEC 32/2022": 7,
         "assistencia-social": 4,
         "orçamento": 2,
         "eleicoes": 1,
@@ -69311,12 +70372,14 @@
         "atividade parlamentar": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 27,
+        "fonte-2acd9e7dc92e583a": 33,
+        "fonte-4a3b67b508a08327": 1,
         "fonte-d17e0097bbcd6c10": 1
       },
       "formats": {
-        "documento": 22,
-        "reportagem": 6
+        "documento": 23,
+        "registro": 4,
+        "reportagem": 8
       },
       "note": "Recorte não exaustivo."
     },
@@ -69657,11 +70720,11 @@
     }
   ],
   "metrics": {
-    "newItems": 708,
-    "items": 727,
+    "newItems": 720,
+    "items": 739,
     "alreadyInArchive": 19,
-    "accessed": 724,
-    "analysed": 691,
+    "accessed": 736,
+    "analysed": 702,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -69672,13 +70735,13 @@
     "sources": 84,
     "sourcesConsulted": 79,
     "video": 20,
-    "audio": 15,
-    "documents": 267,
+    "audio": 16,
+    "documents": 268,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 244,
-    "accessFailures": 76,
+    "queryCount": 247,
+    "accessFailures": 79,
     "undatedItems": 40
   },
   "queries": [
@@ -71877,6 +72940,33 @@
       "engine": "web.run open/click/find em páginas oficiais",
       "interval": "2025",
       "resultsState": "Confirmados vista em 01/04 e parecer aprovado por votação simbólica em 08/04, sem voto nominal demonstrado."
+    },
+    {
+      "id": "consulta-a7edb894fdadc641",
+      "batch": "votacoes-pl1277-pec32-20261025-43",
+      "query": "site:senado.leg.br \"PL 1277/2020\" \"Flávio Bolsonaro\" votação 19/05/2020",
+      "executedAt": "2026-10-25T16:45:26.559Z",
+      "engine": "web.run fast + abertura de fichas e mapas do Senado",
+      "interval": "2020",
+      "resultsState": "Painel nominal consultado: não de Flávio no PL; na Emenda 12, não registrou voto; notícia anterior 75-1 difere de mapa 74-2."
+    },
+    {
+      "id": "consulta-cf0a8a4c660ed070",
+      "batch": "votacoes-pl1277-pec32-20261025-43",
+      "query": "site:senado.leg.br \"PEC 32/2022\" \"Flávio Bolsonaro\" destaque 2022 votação",
+      "executedAt": "2026-10-25T16:45:26.559Z",
+      "engine": "web.run fast + abertura do Senado",
+      "interval": "2022",
+      "resultsState": "Mapas nominais primeira e segunda fases acessados; 1º e 2º turnos, destaques e requerimento retirado distinguidos."
+    },
+    {
+      "id": "consulta-020f600611e5b037",
+      "batch": "votacoes-pl1277-pec32-20261025-43",
+      "query": "site:planalto.gov.br \"Emenda Constitucional nº 126\" 21 de dezembro de 2022",
+      "executedAt": "2026-10-25T16:45:26.559Z",
+      "engine": "web.run fast + abertura de norma original",
+      "interval": "2022",
+      "resultsState": "Texto oficial da EC126 acessado; não se verificou DOU em imagem nem efeitos posteriores."
     }
   ],
   "accessFailures": [
@@ -72333,6 +73423,24 @@
       "source": "Posição institucional atual do Conselho Federal da OAB e estatísticas de violência profissional",
       "status": "Não autenticadas nesta sessão",
       "note": "Intervenções e referências em materiais consultados não equivalem à leitura de ofício institucional integral ou verificação própria de dados estatísticos."
+    },
+    {
+      "batch": "votacoes-pl1277-pec32-20261025-43",
+      "source": "Rádio Senado, áudio sobre anúncio do adiamento do Enem",
+      "status": "Áudio não reproduzido",
+      "note": "Só descrição textual e título foram consultados; zero segundos conferidos, sem timestamp ou transcrição."
+    },
+    {
+      "batch": "votacoes-pl1277-pec32-20261025-43",
+      "source": "Mapas PEC 32/2022 e PL 1277/2020 e anexos PDF",
+      "status": "Anexos não examinados",
+      "note": "Mapas HTML e fichas abertas; atas, emendas e pareceres PDF não foram examinados. A diferença 75-1 (notícia já catalogada) versus 74-2 (painel) permanece sem reconciliação."
+    },
+    {
+      "batch": "votacoes-pl1277-pec32-20261025-43",
+      "source": "Divergência de datas do mapa da PEC fase 2",
+      "status": "Data de sessão/item distinta",
+      "note": "Lista dos três votos assinala 21/12/2022; corpo da 123ª sessão marca 20/12/2022. Não converter em instante de voto sem ata/gravação."
     }
   ],
   "repetitionGroups": [
@@ -73785,6 +74893,30 @@
       "note": "A gravação original das reuniões não foi reproduzida; zero segundos revisados. Comparações sensíveis e novas verificações próprias permanecem com classification nulo até aprovação por revisor editorial humano identificado.",
       "state": "pendente",
       "batch": "senado-pl2734-csp-20261024-25"
+    },
+    {
+      "id": "lacuna-b4d495e177d1c351",
+      "note": "Conferir ata oficial ou retificação do PL 1277/2020 para reconciliar placares 75-1 na reportagem de 19/05/2020 e 74-2 no mapa nominal, sem conclusão sensível automatizada.",
+      "state": "pendente",
+      "batch": "votacoes-pl1277-pec32-20261025-43"
+    },
+    {
+      "id": "lacuna-95fb64cec875c530",
+      "note": "Ler PDFs integrais das Emendas 54 e 55 da PEC 32/2022, dos destaques e atas do plenário para delimitar objeto jurídico de cada voto nominal antes de qualquer comparação.",
+      "state": "pendente",
+      "batch": "votacoes-pl1277-pec32-20261025-43"
+    },
+    {
+      "id": "lacuna-f79719a609b667ab",
+      "note": "Conferir em fonte direta os anúncios MEC/INEP de maio de 2020 e o desfecho bicameral do PL 1277/2020, sem presumir que aprovação no Senado gerou lei.",
+      "state": "pendente",
+      "batch": "votacoes-pl1277-pec32-20261025-43"
+    },
+    {
+      "id": "lacuna-fae34d02e65c0848",
+      "note": "Se houver revisão humana identificada, avaliar divergências documentais sem presumir intenção, culpa ou falsidade; nenhum revisor foi cadastrado e zero segundos de áudio foram ouvidos.",
+      "state": "pendente",
+      "batch": "votacoes-pl1277-pec32-20261025-43"
     },
     {
       "id": "lacuna-b8e7a0612a3f4bfa",
