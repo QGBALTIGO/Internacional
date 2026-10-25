@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T05:38:59.686434Z",
-    "inputHash": "dd98c85ffc7dac04ea607c1d1fd3151c3761ac8f414d7a2e2066768ee30a5e5c",
+    "generatedAt": "2026-10-25T07:01:17.912135Z",
+    "inputHash": "6f08b6a79fee40153c6c745c8f28d8ec9b1ae1db3093b9376d6197b0f924666f",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -32104,6 +32104,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-7c714f14f578b2c7",
+      "title": "Congresso: painel nominal do dispositivo 50.20.004 do veto à Lei 14.063",
+      "url": "https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/13726/4",
+      "publisher": "Congresso Nacional, tramitação de vetos",
+      "date": "2021-04-19",
+      "eventDate": "2021-04-19",
+      "year": 2021,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "O registro oficial do VET 50/2020, dispositivo 50.20.004 (§ 3º do art. 5º), informa votação em 19/04/2021 e manutenção do veto na Câmara (365 votos sim, 17 não e uma abstenção). Registra expressamente que não houve deliberação no Senado sobre esse dispositivo. Não se pode imputar voto individual de Flávio Bolsonaro nessa etapa.",
+      "limitations": "Fonte primária para este dispositivo específico. Não confundir com votação de toda a MPV nem extrapolar o painel para todos os vetos. Nenhum documento PDF da mensagem presidencial integral foi conferido.",
+      "locator": "Página de votação do dispositivo 50.20.004, linhas 183–209: matéria vetada, texto, data, painel Câmara e indicação 'não houve deliberação no Senado Federal'.",
+      "sourceId": "fonte-c9a823192426bc5c",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Câmara dos Deputados, deliberação sobre veto presidencial; Senado sem votação desse dispositivo",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-05",
+          "toolReference": "turn377394view2"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-4e5908b4d7916480",
       "title": "Representação contra Kajuru após divulgação de conversa presidencial",
       "url": "https://www12.senado.leg.br/noticias/videos/2021/04/flavio-bolsonaro-aciona-conselho-de-etica-do-senado-contra-kajuru-por-divulgar-audio-do-presidente",
@@ -32435,6 +32504,351 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-31f388d8f4f8b94f",
+      "title": "Rádio Senado: explicação pública de Flávio sobre assinaturas eletrônicas após sanção",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2020/09/25/sancionada-lei-que-simplifica-assinatura-digital",
+      "publisher": "Rádio Senado, texto da reportagem institucional",
+      "date": "2020-09-25",
+      "eventDate": null,
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "Transcrição textual publicada pela Rádio Senado em 25/09/2020 registra a defesa pública de Flávio da simplificação dos serviços e relata a sanção da Lei 14.063 com vetos. A notícia contextualiza a posição do relator e não confunde sua manifestação com as razões formais do Executivo para os vetos.",
+      "limitations": "Somente texto da reportagem lido. O áudio apresentado na página não foi reproduzido; duração indicada pela página não é tempo de escuta. Sem citação literal nova ou timestamp audiovisual.",
+      "locator": "Matéria Rádio Senado de 25/09/2020, identificação da reportagem e transcrição no corpo do HTML.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A publicação reproduz a justificativa pública favorável atribuída ao relator sobre simplificação de procedimentos digitais. O texto também noticia vetos presidenciais; não constitui uma nova entrevista realizada pelo Arquivo.",
+      "actor": "Flávio Bolsonaro, relator citado; equipe editorial da Rádio Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-07",
+          "toolReference": "turn108941view4"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-769d1e28ba6e1605",
+      "title": "Agência Câmara: sanção com vetos e tramitação da MP 983",
+      "url": "https://www.camara.leg.br/noticias/695464-SANCIONADA,-COM-VETOS,-LEI-QUE-AMPLIA-O-USO-DE-ASSINATURA-ELETRONICA-EM-DOCUMENTOS-PUBLICOS",
+      "publisher": "Agência Câmara de Notícias",
+      "date": "2020-09-24",
+      "eventDate": "2020-09-23",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "A reportagem institucional da Câmara informa a sanção com vetos da Lei 14.063/2020, resultante da MP 983, e contextualiza os dispositivos vetados e a tramitação anterior. Funciona como fonte jornalística legislativa independente da Rádio Senado, sem comprovar automaticamente o alcance futuro da lei.",
+      "limitations": "HTML lido a partir de URL de publicação que redireciona da variante com vírgulas percent-encoded. Não foram inspecionados anexos legislativos integrais; número e razões de vetos são atribuídos à reportagem.",
+      "locator": "Reportagem de 24/09/2020 da Agência Câmara, título e seções sobre alcance e vetos.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Câmara, contextualização; Executivo, razões de veto atribuídas",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-09",
+          "toolReference": "turn108941view6"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-6905c006c962cf95",
+      "title": "Agência Senado: razões públicas do Executivo para vetos à Lei 14.063",
+      "url": "https://www12.senado.leg.br/noticias/noticias/materias/2020/09/24/sancionada-com-vetos-lei-que-simplifica-assinatura-digital-em-documento-publico",
+      "publisher": "Agência Senado",
+      "date": "2020-09-24",
+      "eventDate": "2020-09-23",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 24/09/2020 documenta a sanção parcial da MP 983, convertida na Lei 14.063, e apresenta justificativas do governo para dispositivos vetados. Esse contexto ajuda a diferenciar encaminhamento favorável do relator no Senado e escolhas subsequentes do Executivo.",
+      "limitations": "Explicações e projeções governamentais são atribuídas à fonte, não verificadas independentemente. Mensagem presidencial integral e todos os textos vetados não foram lidos em PDF.",
+      "locator": "Notícia institucional de 24/09/2020, tópicos sobre vetos e justificativas, no corpo do HTML.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "O Executivo justificou publicamente determinados vetos no texto da sanção, com argumentos sobre segurança, proteção de dados e exigência de certificados. São justificativas atribuídas e não conclusões do Arquivo.",
+      "actor": "Poder Executivo, razões para veto apresentadas na reportagem; Agência Senado, narrativa jornalística",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-08",
+          "toolReference": "turn108941view5"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-a9690531e0980b1a",
+      "title": "Planalto: Lei 14.063/2020 resultante da MP 983",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm",
+      "publisher": "Presidência da República, Portal da Legislação",
+      "date": "2020-09-23",
+      "eventDate": "2020-09-23",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "A Lei 14.063, sancionada em 23/09/2020, regulamenta categorias de assinatura eletrônica em diferentes interações com o poder público. O texto mostra dispositivos vetados e remete à conversão da MP 983/2020; isso permite distinguir proposta inicial, deliberação no Senado e norma sancionada. O portal oferece separadamente texto compilado e atualizado.",
+      "limitations": "Leitura do HTML original, sem autenticação independente de redação consolidada vigente em 2026, regulamentos e eventuais alterações posteriores. O texto legal não prova, isoladamente, eficácia social alegada.",
+      "locator": "Cabeçalho, indicação de conversão da MP 983/2020, arts. 1º, 4º e marcações '(VETADO)' na versão oficial consultada.",
+      "sourceId": "fonte-efeb3e40f7290242",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Presidência da República, sanção; Congresso Nacional, aprovação do texto",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-04",
+          "toolReference": "turn567877view3"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-2551d69cf0ecbf36",
+      "title": "Senado: ficha legislativa e tramitação da MPV 983/2020",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/142535",
+      "publisher": "Senado Federal e Congresso Nacional, atividade legislativa",
+      "date": "2020-09-23",
+      "eventDate": "2020-09-23",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha legislativa liga a MP 983/2020 do Executivo ao PLV 32/2020, ao parecer de plenário apresentado por Flávio em 01/09/2020 e à conversão na Lei 14.063 de 23/09/2020, com veto parcial. A autoria executiva da medida não deve ser confundida com a relatoria parlamentar.",
+      "limitations": "HTML institucional consultado em abertura anterior deste recorte; novas tentativas de carregar o endereço e seu redirecionamento deram timeout. PDFs de versões e do parecer não inspecionados; fatos finais cotejados com a Lei no Planalto e as notas da sessão.",
+      "locator": "Ficha MPV 983/2020: autoria, decisões da Câmara e Senado, Parecer 119/2020 de plenário, legislação gerada e VET 50/2020.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Presidência da República, autora da MP; Flávio Bolsonaro, relator na votação no Senado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-02",
+          "toolReference": "turn863378view0"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-c251495c230ccc7f",
       "title": "Avaliação de discurso presidencial na ONU",
       "url": "https://www12.senado.leg.br/noticias/videos/2020/09/um-discurso-inovador-e-corajoso-diz-flavio-bolsonaro-sobre-fala-do-presidente-da-republica-na-onu",
@@ -32500,6 +32914,75 @@
       ],
       "accessMethod": "",
       "newToArchive": false
+    },
+    {
+      "id": "pesquisa-ce0d7e2e5078568e",
+      "title": "TV Senado: registro de cobertura da aprovação da MP 983/2020",
+      "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2020/09/senado-aprova-proposta-que-simplifica-uso-de-assinatura-digital",
+      "publisher": "TV Senado",
+      "date": "2020-09-01",
+      "eventDate": "2020-09-01",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "video",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "Página da TV Senado que indexa cobertura audiovisual da aprovação do projeto de conversão das assinaturas digitais em 01/09/2020. O registro é referência para localização futura da mídia, não prova de que o vídeo foi reproduzido nem de marcações temporais verificadas.",
+      "limitations": "Somente metadados textuais HTML consultados. Vídeo NÃO reproduzido, 0 segundos ouvidos, nenhum recorte, legenda ou timestamp auditado.",
+      "locator": "Página do programa Notícias, título e data referentes à aprovação pelo Senado.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "TV Senado, notícia da aprovação; relato institucional da sessão",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-13",
+          "toolReference": "turn706682view2"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
     },
     {
       "id": "pesquisa-936c3336a5a219b0",
@@ -32568,6 +33051,144 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-5a99daab247c3a03",
+      "title": "Senado: notas taquigráficas da MP 983/2020 em 1º de setembro de 2020",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/s/24279",
+      "publisher": "Senado Federal, notas taquigráficas oficiais",
+      "date": "2020-09-01",
+      "eventDate": "2020-09-01",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "A íntegra textual da 81ª sessão deliberativa remota registra Flávio Bolsonaro relatando o PLV 32/2020, oriundo da MP 983 do Executivo, recomendando rejeitar emendas apresentadas no Senado por preocupação com o retorno da medida à Câmara. Rose de Freitas questionou a urgência e pediu debate das emendas; Alessandro Vieira sugeriu mais prazo para esclarecimentos; Zenaide Maia retirou destaque. O presidente proclamou a aprovação simbólica do projeto de lei de conversão, o que não individualiza votos nominais.",
+      "limitations": "Fonte primária textual institucional. Sem reprodução de gravação, sem atribuição de minutos escutados e sem acesso ao PDF integral do parecer. Horários impressos na transcrição não são timestamps conferidos pelo Arquivo.",
+      "locator": "Notas de 01/09/2020: pauta e designação linhas 183 e 257–259; relatório e emendas linhas 261–301; contrapontos linhas 303–329; votação e destaques linhas 330–342.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro, relator; Rose de Freitas, Izalci Lucas, Zenaide Maia, Alessandro Vieira e demais oradores individualmente identificados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-01",
+          "toolReference": "turn567877view0"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-96c48f3708eefdd8",
+      "title": "Agência Senado: MP 983 na pauta antes da relatoria de Flávio",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/08/31/mp-das-assinaturas-eletronicas-e-recursos-para-escolas-publicas-estao-na-pauta-desta-terca",
+      "publisher": "Agência Senado",
+      "date": "2020-08-31",
+      "eventDate": "2020-09-01",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "Na véspera da sessão de 01/09/2020, a Agência Senado informou que a MP das assinaturas eletrônicas entraria em pauta e indicou Flávio Bolsonaro na relatoria. O texto é expectativa de apreciação, não prova isolada do resultado, depois confirmado pelas notas.",
+      "limitations": "Reportagem de programação legislativa, com resultado posterior documentado separadamente; não deve ser confundida com ato de aprovação.",
+      "locator": "Notícia de 31/08/2020, parágrafos sobre pauta da MP 983/2020 e relatoria.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Senado Federal; Flávio Bolsonaro indicado como relator, não autor original",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-10",
+          "toolReference": "turn706682view0"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-4ae7adb42e6a59fb",
       "title": "Ex-advogado de Flávio não atua na defesa de homem que esfaqueou Bolsonaro",
       "url": "https://www.aosfatos.org/noticias/ex-advogado-de-flavio-nao-atua-na-defesa-de-homem-que-esfaqueou-bolsonaro/",
@@ -32629,6 +33250,282 @@
         }
       ],
       "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-4dd74e2966fe8de6",
+      "title": "Agência Senado: posições parlamentares sobre a MP 983 em junho de 2020",
+      "url": "https://www12.senado.leg.br/noticias/audios/2020/06/senadores-elogiam-mp-que-simplifica-assinaturas-eletronicas-e-reduz-burocracia",
+      "publisher": "Agência Senado / Rádio Senado",
+      "date": "2020-06-18",
+      "eventDate": null,
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "O texto institucional registra manifestações favoráveis à simplificação de assinaturas eletrônicas por parlamentares de diferentes partidos logo após a edição da MP. As manifestações precederam a designação de Flávio para relatoria, não são posicionamentos atribuíveis a ele.",
+      "limitations": "Apenas texto e metadados da página consultados; nenhuma gravação ou áudio escutado, nenhuma inferência de apoio nominal na votação de setembro.",
+      "locator": "Página de 18/06/2020, identificação das manifestações dos senadores e transcrição/resumo institucional.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Humberto Costa e Vanderlan Cardoso, manifestações parlamentares identificadas na matéria",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-12",
+          "toolReference": "turn901520view7"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-d40d936542e2a5d8",
+      "title": "Agência Senado: anúncio do texto original da MP de assinaturas eletrônicas",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/06/17/mp-simplifica-assinaturas-eletronicas-para-desburocratizar-operacoes-com-governo",
+      "publisher": "Agência Senado",
+      "date": "2020-06-17",
+      "eventDate": "2020-06-16",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem publicada após a edição da MP 983 identifica a iniciativa como medida do Executivo para simplificar assinaturas eletrônicas no atendimento público. Constitui contexto anterior à relatoria de Flávio e ajuda a evitar atribuição incorreta da autoria da MP.",
+      "limitations": "Reportagem contextual, não versão oficial completa; argumentos de eficiência atribuídos aos proponentes, não auditados quanto a resultados efetivos.",
+      "locator": "Notícia de 17/06/2020, título, ementa e contextualização inicial do ato do Executivo.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Presidência da República, autora da medida; Agência Senado, reportagem",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-11",
+          "toolReference": "turn901520view6"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-b751062b245be27e",
+      "title": "Câmara: cadastro normativo da MP 983/2020 e conversão legislativa",
+      "url": "https://www2.camara.leg.br/legin/fed/medpro/2020/medidaprovisoria-983-16-junho-2020-790328-norma-pe.html",
+      "publisher": "Câmara dos Deputados, Legislação Informatizada",
+      "date": "2020-06-16",
+      "eventDate": "2020-06-16",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha normativa da Câmara localiza a publicação da MP 983/2020 e sua conversão na Lei 14.063/2020. Complementa a trilha cronológica e separa o ato executivo inicial do trabalho legislativo de Flávio como relator no Senado.",
+      "limitations": "Cadastro e metadados HTML examinados; cópias PDF ou edições originais do Diário Oficial não foram conferidas visualmente.",
+      "locator": "Página de norma da Câmara, título, metadados da MP de 16/06/2020, publicação e legislação resultante.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Presidência da República, autora da MPV",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-06",
+          "toolReference": "turn108941view7"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-999f1ad72226a250",
+      "title": "Planalto: texto da Medida Provisória 983, de 16 de junho de 2020",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/mpv/mpv983.htm",
+      "publisher": "Presidência da República, Portal da Legislação",
+      "date": "2020-06-16",
+      "eventDate": "2020-06-16",
+      "year": 2020,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "MPV 983/2020",
+        "PLV 32/2020",
+        "Lei 14.063/2020",
+        "assinaturas eletrônicas",
+        "tramitação e vetos"
+      ],
+      "stage": "analisado",
+      "summary": "Texto original da MP 983/2020 sobre assinaturas eletrônicas em interações com entes públicos. Serve para distinguir iniciativa do Poder Executivo, ajustes parlamentares na conversão e redação posteriormente sancionada; nenhum dispositivo da versão original é automaticamente atribuído à autoria de Flávio.",
+      "limitations": "Versão HTML original consultada; caracteres acentuados sofreram problemas de codificação na extração textual. Não foi feito cotejo redacional exaustivo com todas as versões do PLV e suas emendas.",
+      "locator": "Cabeçalho e artigos da MP 983/2020 no Portal da Legislação do Planalto.",
+      "sourceId": "fonte-efeb3e40f7290242",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:01:03.592Z",
+      "lastModifiedAt": "2026-10-25T07:01:03.592Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Presidência da República, proponente original",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "MPV 983/2020",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+          "inputId": "mpv983-assinaturas-lei14063-veto50-20261025-33-03",
+          "toolReference": "turn901520view5"
+        }
+      ],
+      "accessMethod": "Consulta de fonte pública e leitura de conteúdo textual HTML em 25/10/2026 por web.run. O horário UTC do checkpoint é o fechamento do lote e não a hora individual da abertura. Não houve reprodução de áudio ou vídeo.",
       "newToArchive": true
     },
     {
@@ -40743,7 +41640,7 @@
       "monitoringEnabled": true,
       "accessNote": "3 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z"
     },
     {
       "id": "fonte-e1c9e5407b4d26a8",
@@ -40760,7 +41657,7 @@
       "monitoringEnabled": true,
       "accessNote": "3 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z"
     },
     {
       "id": "fonte-a08eae094412f4bb",
@@ -40777,7 +41674,7 @@
       "monitoringEnabled": true,
       "accessNote": "2 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z"
+      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z"
     },
     {
       "id": "fonte-0a4536d177e98be8",
@@ -40834,7 +41731,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
       "lastConsultedAt": "2026-10-24T11:14:02.380Z",
       "accessNote": "11 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -41161,6 +42058,29 @@
       "analysedCount": 1
     },
     {
+      "id": "fonte-c9a823192426bc5c",
+      "name": "Congresso Nacional, tramitação de vetos",
+      "url": "https://www.congressonacional.leg.br/",
+      "responsible": "Congresso Nacional, tramitação de vetos",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T07:01:03.592Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2021
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-29a2bae5277f274b",
       "name": "Câmara dos Deputados",
       "url": "https://www.camara.leg.br/",
@@ -41169,12 +42089,13 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T04:45:32.971Z",
+      "lastConsultedAt": "2026-10-25T07:01:03.592Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 10,
+      "sourceCount": 12,
       "periods": [
         2007,
+        2020,
         2025,
         2026
       ],
@@ -41184,8 +42105,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 10,
-      "analysedCount": 10
+      "accessedCount": 12,
+      "analysedCount": 12
     },
     {
       "id": "fonte-0d9079c114e04a58",
@@ -41492,7 +42413,7 @@
       "nature": "checagem jornalística",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
       "lastConsultedAt": "2026-10-24T16:19:40.738Z",
       "accessNote": "4 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
@@ -41598,6 +42519,29 @@
       ],
       "formats": [
         "video"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 2,
+      "analysedCount": 2
+    },
+    {
+      "id": "fonte-efeb3e40f7290242",
+      "name": "Presidência da República, Portal da Legislação",
+      "url": "https://www.planalto.gov.br/",
+      "responsible": "Presidência da República, Portal da Legislação",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T07:01:03.592Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 2,
+      "periods": [
+        2020
+      ],
+      "formats": [
+        "documento"
       ],
       "monitoringEnabled": false,
       "accessedCount": 2,
@@ -41840,11 +42784,11 @@
       "nature": "órgão público",
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
-      "lastSuccessfulCollectionAt": "2026-10-25T01:45:38.311960Z",
-      "lastConsultedAt": "2026-10-25T05:38:42.332Z",
+      "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
+      "lastConsultedAt": "2026-10-25T07:01:03.592Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 256,
+      "sourceCount": 264,
       "periods": [
         2018,
         2019,
@@ -41865,8 +42809,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 255,
-      "analysedCount": 239
+      "accessedCount": 263,
+      "analysedCount": 247
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -42576,6 +43520,31 @@
       "reviewState": "aguardando revisão",
       "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Áudio e conteúdo integral não revisados.; Elogio é opinião; não recebe automaticamente classificação factual.",
       "researchItemId": "pesquisa-c251495c230ccc7f",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-ce0d7e2e5078568e",
+      "title": "TV Senado: registro de cobertura da aprovação da MP 983/2020",
+      "type": "video",
+      "provider": "TV Senado",
+      "publisher": "TV Senado",
+      "sourceUrl": "https://www12.senado.leg.br/tv/programas/noticias-1/2020/09/senado-aprova-proposta-que-simplifica-uso-de-assinatura-digital",
+      "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2020/09/senado-aprova-proposta-que-simplifica-uso-de-assinatura-digital",
+      "date": "2020-09-01",
+      "youtubeId": null,
+      "description": "Página da TV Senado que indexa cobertura audiovisual da aprovação do projeto de conversão das assinaturas digitais em 01/09/2020. O registro é referência para localização futura da mídia, não prova de que o vídeo foi reproduzido nem de marcações temporais verificadas.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Somente metadados textuais HTML consultados. Vídeo NÃO reproduzido, 0 segundos ouvidos, nenhum recorte, legenda ou timestamp auditado.",
+      "researchItemId": "pesquisa-ce0d7e2e5078568e",
       "review": {
         "state": "aguardando revisão editorial",
         "reviewer": null,
@@ -47050,6 +48019,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-6d94cb4940a19f8c",
+      "itemId": "pesquisa-7c714f14f578b2c7",
+      "title": "Congresso: painel nominal do dispositivo 50.20.004 do veto à Lei 14.063",
+      "date": "2021-04-19",
+      "datePrecision": "day",
+      "context": "O registro oficial do VET 50/2020, dispositivo 50.20.004 (§ 3º do art. 5º), informa votação em 19/04/2021 e manutenção do veto na Câmara (365 votos sim, 17 não e uma abstenção). Registra expressamente que não houve deliberação no Senado sobre esse dispositivo. Não se pode imputar voto individual de Flávio Bolsonaro nessa etapa.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-41aad896b6726ce2",
       "itemId": "pesquisa-4e5908b4d7916480",
       "title": "Representação contra Kajuru após divulgação de conversa presidencial",
@@ -47095,12 +48073,66 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-14265f211f05b384",
+      "itemId": "pesquisa-31f388d8f4f8b94f",
+      "title": "Rádio Senado: explicação pública de Flávio sobre assinaturas eletrônicas após sanção",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Transcrição textual publicada pela Rádio Senado em 25/09/2020 registra a defesa pública de Flávio da simplificação dos serviços e relata a sanção da Lei 14.063 com vetos. A notícia contextualiza a posição do relator e não confunde sua manifestação com as razões formais do Executivo para os vetos.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-db3e94e029c53db2",
+      "itemId": "pesquisa-769d1e28ba6e1605",
+      "title": "Agência Câmara: sanção com vetos e tramitação da MP 983",
+      "date": "2020-09-23",
+      "datePrecision": "day",
+      "context": "A reportagem institucional da Câmara informa a sanção com vetos da Lei 14.063/2020, resultante da MP 983, e contextualiza os dispositivos vetados e a tramitação anterior. Funciona como fonte jornalística legislativa independente da Rádio Senado, sem comprovar automaticamente o alcance futuro da lei.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-c055dc518dcd9dfb",
+      "itemId": "pesquisa-6905c006c962cf95",
+      "title": "Agência Senado: razões públicas do Executivo para vetos à Lei 14.063",
+      "date": "2020-09-23",
+      "datePrecision": "day",
+      "context": "Reportagem de 24/09/2020 documenta a sanção parcial da MP 983, convertida na Lei 14.063, e apresenta justificativas do governo para dispositivos vetados. Esse contexto ajuda a diferenciar encaminhamento favorável do relator no Senado e escolhas subsequentes do Executivo.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-4f8fe3475328486a",
+      "itemId": "pesquisa-a9690531e0980b1a",
+      "title": "Planalto: Lei 14.063/2020 resultante da MP 983",
+      "date": "2020-09-23",
+      "datePrecision": "day",
+      "context": "A Lei 14.063, sancionada em 23/09/2020, regulamenta categorias de assinatura eletrônica em diferentes interações com o poder público. O texto mostra dispositivos vetados e remete à conversão da MP 983/2020; isso permite distinguir proposta inicial, deliberação no Senado e norma sancionada. O portal oferece separadamente texto compilado e atualizado.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-40bfc630b1692b6f",
+      "itemId": "pesquisa-2551d69cf0ecbf36",
+      "title": "Senado: ficha legislativa e tramitação da MPV 983/2020",
+      "date": "2020-09-23",
+      "datePrecision": "day",
+      "context": "A ficha legislativa liga a MP 983/2020 do Executivo ao PLV 32/2020, ao parecer de plenário apresentado por Flávio em 01/09/2020 e à conversão na Lei 14.063 de 23/09/2020, com veto parcial. A autoria executiva da medida não deve ser confundida com a relatoria parlamentar.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-0d1ad38493de13da",
       "itemId": "pesquisa-c251495c230ccc7f",
       "title": "Avaliação de discurso presidencial na ONU",
       "date": "2020-09-22",
       "datePrecision": "day",
       "context": "TV Senado descreve manifestação em sessão semipresencial na qual Flávio elogiou o discurso de Jair Bolsonaro na Assembleia-Geral da ONU.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-a702f2a47248d117",
+      "itemId": "pesquisa-ce0d7e2e5078568e",
+      "title": "TV Senado: registro de cobertura da aprovação da MP 983/2020",
+      "date": "2020-09-01",
+      "datePrecision": "day",
+      "context": "Página da TV Senado que indexa cobertura audiovisual da aprovação do projeto de conversão das assinaturas digitais em 01/09/2020. O registro é referência para localização futura da mídia, não prova de que o vídeo foi reproduzido nem de marcações temporais verificadas.",
       "state": "data informada pela fonte"
     },
     {
@@ -47113,6 +48145,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-3dafbecac1907670",
+      "itemId": "pesquisa-5a99daab247c3a03",
+      "title": "Senado: notas taquigráficas da MP 983/2020 em 1º de setembro de 2020",
+      "date": "2020-09-01",
+      "datePrecision": "day",
+      "context": "A íntegra textual da 81ª sessão deliberativa remota registra Flávio Bolsonaro relatando o PLV 32/2020, oriundo da MP 983 do Executivo, recomendando rejeitar emendas apresentadas no Senado por preocupação com o retorno da medida à Câmara. Rose de Freitas questionou a urgência e pediu debate das emendas; Alessandro Vieira sugeriu mais prazo para esclarecimentos; Zenaide Maia retirou destaque. O presidente proclamou a aprovação simbólica do projeto de lei de conversão, o que não individualiza votos nominais.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-812a00a5658f6088",
+      "itemId": "pesquisa-96c48f3708eefdd8",
+      "title": "Agência Senado: MP 983 na pauta antes da relatoria de Flávio",
+      "date": "2020-09-01",
+      "datePrecision": "day",
+      "context": "Na véspera da sessão de 01/09/2020, a Agência Senado informou que a MP das assinaturas eletrônicas entraria em pauta e indicou Flávio Bolsonaro na relatoria. O texto é expectativa de apreciação, não prova isolada do resultado, depois confirmado pelas notas.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-c189038592233410",
       "itemId": "pesquisa-4ae7adb42e6a59fb",
       "title": "Ex-advogado de Flávio não atua na defesa de homem que esfaqueou Bolsonaro",
@@ -47120,6 +48170,42 @@
       "datePrecision": "unknown",
       "context": "Material de Aos Fatos relacionado a Flávio Bolsonaro: Ex-advogado de Flávio não atua na defesa de homem que esfaqueou Bolsonaro. Rótulos, conclusões e correções permanecem atribuídos ao publicador; o Arquivo não cria nova classificação editorial a partir desta coleta.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-499b78b0f8f4c53f",
+      "itemId": "pesquisa-4dd74e2966fe8de6",
+      "title": "Agência Senado: posições parlamentares sobre a MP 983 em junho de 2020",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "O texto institucional registra manifestações favoráveis à simplificação de assinaturas eletrônicas por parlamentares de diferentes partidos logo após a edição da MP. As manifestações precederam a designação de Flávio para relatoria, não são posicionamentos atribuíveis a ele.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-3814d8008539d742",
+      "itemId": "pesquisa-d40d936542e2a5d8",
+      "title": "Agência Senado: anúncio do texto original da MP de assinaturas eletrônicas",
+      "date": "2020-06-16",
+      "datePrecision": "day",
+      "context": "Reportagem publicada após a edição da MP 983 identifica a iniciativa como medida do Executivo para simplificar assinaturas eletrônicas no atendimento público. Constitui contexto anterior à relatoria de Flávio e ajuda a evitar atribuição incorreta da autoria da MP.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-45de5fb1c48b0e6e",
+      "itemId": "pesquisa-b751062b245be27e",
+      "title": "Câmara: cadastro normativo da MP 983/2020 e conversão legislativa",
+      "date": "2020-06-16",
+      "datePrecision": "day",
+      "context": "A ficha normativa da Câmara localiza a publicação da MP 983/2020 e sua conversão na Lei 14.063/2020. Complementa a trilha cronológica e separa o ato executivo inicial do trabalho legislativo de Flávio como relator no Senado.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-422c97dda2f108c3",
+      "itemId": "pesquisa-999f1ad72226a250",
+      "title": "Planalto: texto da Medida Provisória 983, de 16 de junho de 2020",
+      "date": "2020-06-16",
+      "datePrecision": "day",
+      "context": "Texto original da MP 983/2020 sobre assinaturas eletrônicas em interações com entes públicos. Serve para distinguir iniciativa do Poder Executivo, ajustes parlamentares na conversão e redação posteriormente sancionada; nenhum dispositivo da versão original é automaticamente atribuído à autoria de Flávio.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-994ba8312dfc2ce7",
@@ -56613,6 +57699,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-6d94cb4940a19f8c",
+      "itemId": "pesquisa-7c714f14f578b2c7",
+      "sourceId": "fonte-c9a823192426bc5c",
+      "url": "https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/13726/4",
+      "locator": "Página de votação do dispositivo 50.20.004, linhas 183–209: matéria vetada, texto, data, painel Câmara e indicação 'não houve deliberação no Senado Federal'.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-41aad896b6726ce2",
       "itemId": "pesquisa-4e5908b4d7916480",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -56668,11 +57765,77 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-14265f211f05b384",
+      "itemId": "pesquisa-31f388d8f4f8b94f",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2020/09/25/sancionada-lei-que-simplifica-assinatura-digital",
+      "locator": "Matéria Rádio Senado de 25/09/2020, identificação da reportagem e transcrição no corpo do HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-db3e94e029c53db2",
+      "itemId": "pesquisa-769d1e28ba6e1605",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www.camara.leg.br/noticias/695464-SANCIONADA,-COM-VETOS,-LEI-QUE-AMPLIA-O-USO-DE-ASSINATURA-ELETRONICA-EM-DOCUMENTOS-PUBLICOS",
+      "locator": "Reportagem de 24/09/2020 da Agência Câmara, título e seções sobre alcance e vetos.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-c055dc518dcd9dfb",
+      "itemId": "pesquisa-6905c006c962cf95",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/noticias/materias/2020/09/24/sancionada-com-vetos-lei-que-simplifica-assinatura-digital-em-documento-publico",
+      "locator": "Notícia institucional de 24/09/2020, tópicos sobre vetos e justificativas, no corpo do HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-4f8fe3475328486a",
+      "itemId": "pesquisa-a9690531e0980b1a",
+      "sourceId": "fonte-efeb3e40f7290242",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm",
+      "locator": "Cabeçalho, indicação de conversão da MP 983/2020, arts. 1º, 4º e marcações '(VETADO)' na versão oficial consultada.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-40bfc630b1692b6f",
+      "itemId": "pesquisa-2551d69cf0ecbf36",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/142535",
+      "locator": "Ficha MPV 983/2020: autoria, decisões da Câmara e Senado, Parecer 119/2020 de plenário, legislação gerada e VET 50/2020.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-0d1ad38493de13da",
       "itemId": "pesquisa-c251495c230ccc7f",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/videos/2020/09/um-discurso-inovador-e-corajoso-diz-flavio-bolsonaro-sobre-fala-do-presidente-da-republica-na-onu",
       "locator": null,
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-a702f2a47248d117",
+      "itemId": "pesquisa-ce0d7e2e5078568e",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2020/09/senado-aprova-proposta-que-simplifica-uso-de-assinatura-digital",
+      "locator": "Página do programa Notícias, título e data referentes à aprovação pelo Senado.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -56690,11 +57853,77 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-3dafbecac1907670",
+      "itemId": "pesquisa-5a99daab247c3a03",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/s/24279",
+      "locator": "Notas de 01/09/2020: pauta e designação linhas 183 e 257–259; relatório e emendas linhas 261–301; contrapontos linhas 303–329; votação e destaques linhas 330–342.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-812a00a5658f6088",
+      "itemId": "pesquisa-96c48f3708eefdd8",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/08/31/mp-das-assinaturas-eletronicas-e-recursos-para-escolas-publicas-estao-na-pauta-desta-terca",
+      "locator": "Notícia de 31/08/2020, parágrafos sobre pauta da MP 983/2020 e relatoria.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-c189038592233410",
       "itemId": "pesquisa-4ae7adb42e6a59fb",
       "sourceId": "fonte-9c2fbd587c9a9fb0",
       "url": "https://www.aosfatos.org/noticias/ex-advogado-de-flavio-nao-atua-na-defesa-de-homem-que-esfaqueou-bolsonaro/",
       "locator": "Página integral acessada; detalhes e documentos vinculados permanecem no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-499b78b0f8f4c53f",
+      "itemId": "pesquisa-4dd74e2966fe8de6",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/audios/2020/06/senadores-elogiam-mp-que-simplifica-assinaturas-eletronicas-e-reduz-burocracia",
+      "locator": "Página de 18/06/2020, identificação das manifestações dos senadores e transcrição/resumo institucional.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-3814d8008539d742",
+      "itemId": "pesquisa-d40d936542e2a5d8",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/06/17/mp-simplifica-assinaturas-eletronicas-para-desburocratizar-operacoes-com-governo",
+      "locator": "Notícia de 17/06/2020, título, ementa e contextualização inicial do ato do Executivo.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-45de5fb1c48b0e6e",
+      "itemId": "pesquisa-b751062b245be27e",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/medpro/2020/medidaprovisoria-983-16-junho-2020-790328-norma-pe.html",
+      "locator": "Página de norma da Câmara, título, metadados da MP de 16/06/2020, publicação e legislação resultante.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-422c97dda2f108c3",
+      "itemId": "pesquisa-999f1ad72226a250",
+      "sourceId": "fonte-efeb3e40f7290242",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/mpv/mpv983.htm",
+      "locator": "Cabeçalho e artigos da MP 983/2020 no Portal da Legislação do Planalto.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -58525,20 +59754,21 @@
     },
     {
       "year": 2020,
-      "found": 10,
-      "accessed": 10,
-      "analysed": 9,
+      "found": 22,
+      "accessed": 22,
+      "analysed": 21,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 1,
-        "analisado": 9,
+        "analisado": 21,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "Conselho de Ética": 4,
+        "Flávio Bolsonaro": 12,
         "política externa": 1,
         "governo digital": 1,
         "documentação pública": 1,
@@ -58546,13 +59776,15 @@
         "saude": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 9,
+        "fonte-2acd9e7dc92e583a": 17,
+        "fonte-29a2bae5277f274b": 2,
+        "fonte-efeb3e40f7290242": 2,
         "fonte-9c2fbd587c9a9fb0": 1
       },
       "formats": {
-        "documento": 2,
-        "video": 1,
-        "reportagem": 5,
+        "documento": 7,
+        "reportagem": 11,
+        "video": 2,
         "checagem": 1,
         "registro": 1
       },
@@ -58560,15 +59792,15 @@
     },
     {
       "year": 2021,
-      "found": 35,
-      "accessed": 35,
-      "analysed": 30,
+      "found": 36,
+      "accessed": 36,
+      "analysed": 31,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 5,
-        "analisado": 30,
+        "analisado": 31,
         "revisado": 0,
         "publicado": 0
       },
@@ -58576,7 +59808,7 @@
         "precatórios": 1,
         "justica": 1,
         "cultura": 1,
-        "Flávio Bolsonaro": 3,
+        "Flávio Bolsonaro": 4,
         "Justiça": 1,
         "assistencia-social": 1,
         "CPI da Pandemia": 12,
@@ -58602,10 +59834,11 @@
         "fonte-9c2fbd587c9a9fb0": 1,
         "fonte-bac855b934c3b568": 1,
         "fonte-39f3da029d318a85": 1,
+        "fonte-c9a823192426bc5c": 1,
         "fonte-4fd0eba6b669e169": 1
       },
       "formats": {
-        "documento": 10,
+        "documento": 11,
         "registro": 5,
         "reportagem": 15,
         "checagem": 1,
@@ -58949,11 +60182,11 @@
     }
   ],
   "metrics": {
-    "newItems": 597,
-    "items": 615,
+    "newItems": 610,
+    "items": 628,
     "alreadyInArchive": 18,
-    "accessed": 612,
-    "analysed": 582,
+    "accessed": 625,
+    "analysed": 595,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -58961,16 +60194,16 @@
     "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 61,
-    "sourcesConsulted": 56,
-    "video": 18,
+    "sources": 63,
+    "sourcesConsulted": 58,
+    "video": 19,
     "audio": 7,
-    "documents": 232,
+    "documents": 238,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 195,
-    "accessFailures": 44,
+    "queryCount": 200,
+    "accessFailures": 46,
     "undatedItems": 38
   },
   "queries": [
@@ -59693,6 +60926,51 @@
       "engine": "web e abertura direta",
       "interval": null,
       "resultsState": "17 páginas acessadas."
+    },
+    {
+      "id": "consulta-e2b7437f56339038",
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+      "query": "Flávio Bolsonaro MP 983/2020 relator Senado assinatura eletrônica relatório Lei 14.063/2020",
+      "executedAt": "2026-10-25T07:01:03.592Z",
+      "engine": "web.run fast, abertura e leitura de HTML do Senado e Planalto",
+      "interval": "2020–2021",
+      "resultsState": "Identificadas relatoria de Flávio, autoria executiva, parecer e conversão na Lei 14.063, com veto parcial."
+    },
+    {
+      "id": "consulta-0a5cb848dab98b96",
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+      "query": "site:www25.senado.leg.br notas taquigráficas 01/09/2020 MPV 983 Flávio Bolsonaro",
+      "executedAt": "2026-10-25T07:01:03.592Z",
+      "engine": "web.run, acesso à íntegra textual institucional",
+      "interval": "2020-09-01",
+      "resultsState": "Acessada a transcrição com posição do relator, ressalvas de Rose e Izalci, proposta de adiamento de Alessandro e resultado simbólico da sessão, sem audiovisual."
+    },
+    {
+      "id": "consulta-5ebc1635889ff931",
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+      "query": "VET 50/2020 MPV 983/2020 dispositivo 50.20.004 votação 19 abril 2021",
+      "executedAt": "2026-10-25T07:01:03.592Z",
+      "engine": "web.run, abertura do painel oficial de veto Congresso Nacional",
+      "interval": "2020–2021",
+      "resultsState": "Painel confirma manutenção pela Câmara, 365 sim, 17 não, uma abstenção e ausência de deliberação no Senado sobre esse dispositivo."
+    },
+    {
+      "id": "consulta-15cec15cca5979ea",
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+      "query": "site:senado.leg.br site:camara.leg.br MP 983 2020 Flávio Bolsonaro sanção vetos assinaturas eletrônicas",
+      "executedAt": "2026-10-25T07:01:03.592Z",
+      "engine": "web.run fast e leitura HTML de reportagem e transcrição institucional",
+      "interval": "2020",
+      "resultsState": "Lidas justificativas favoráveis ao projeto, questionamentos parlamentares e razões do veto atribuídas ao governo. Não adotadas como vereditos próprios."
+    },
+    {
+      "id": "consulta-0aa06f702b4463b7",
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+      "query": "Confronto de URLs de fontes primárias e reportagens com 615 registros canônicos",
+      "executedAt": "2026-10-25T07:01:03.592Z",
+      "engine": "Conector GitHub, leitura de content/research.json e comparação em memória",
+      "interval": "Catálogo versionado em 25/10/2026",
+      "resultsState": "13 URLs não encontradas; uma notícia de 01/09/2020 previamente catalogada e excluída deste lote."
     },
     {
       "id": "consulta-d795f39012394a01",
@@ -60877,6 +62155,18 @@
       "note": "Zero segundos conferidos; horários exibidos na página não constituem timestamps de audição própria."
     },
     {
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+      "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/142535",
+      "status": "timeout/instabilidade em novas tentativas de abertura direta",
+      "note": "Histórico foi acessado pelo endereço do Senado em consulta anterior. Não declarar PDF de parecer ou todas as versões como examinadas."
+    },
+    {
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33",
+      "url": "https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/13726",
+      "status": "acesso direto intermitente",
+      "note": "Foi lida página específica do dispositivo 50.20.004. Não extrapolar seus votos aos demais dispositivos."
+    },
+    {
       "batch": "oficiais",
       "url": "https://alerjln1.alerj.rj.gov.br/contlei.nsf/flaviobolsonaroint?ExpandView=&OpenForm=",
       "ref": "turn7view0",
@@ -61538,6 +62828,36 @@
       "batch": "midias-tse-20261024-13"
     },
     {
+      "id": "lacuna-5481db63c1ec2fca",
+      "note": "Conferir em PDF legível o Parecer 119/2020, PLV 32/2020, texto anterior da Câmara e Emendas 77 a 83 antes de comparação redacional dispositivo a dispositivo.",
+      "state": "pendente",
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33"
+    },
+    {
+      "id": "lacuna-730e0a64bcfa1460",
+      "note": "Conferir a mensagem presidencial de veto e o inteiro teor das 20 unidades do VET 50/2020; a votação nominal verificada neste recorte é somente do dispositivo 50.20.004.",
+      "state": "pendente",
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33"
+    },
+    {
+      "id": "lacuna-3b44da92db05e6a1",
+      "note": "Confrontar o texto compilado atual da Lei 14.063 com as versões de 2020 e mudanças posteriores antes de afirmações sobre vigência detalhada em 2026.",
+      "state": "pendente",
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33"
+    },
+    {
+      "id": "lacuna-358b3707e6a2798e",
+      "note": "Gravações da sessão de 01/09/2020 e da TV/Rádio Senado não foram reproduzidas. Áudio revisado: 0 segundos; nenhuma marcação audiovisual validada.",
+      "state": "pendente",
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33"
+    },
+    {
+      "id": "lacuna-9f0167af15d113ec",
+      "note": "Qualquer acusação, comparação sensível ou novo veredito deve ficar com editorialClassification nulo até revisão humana editorial identificada; não alterar approvedReviewerIds.",
+      "state": "pendente",
+      "batch": "mpv983-assinaturas-lei14063-veto50-20261025-33"
+    },
+    {
       "id": "lacuna-7631bb32d6429b39",
       "note": "PEC 18/2025: abrir e cotejar integralmente o PDF oficial da Emenda 84-PLEN, assinaturas, justificativa e Emenda 87 antes de comparar textos em detalhe.",
       "state": "pendente",
@@ -62192,6 +63512,12 @@
       "url": "https://www.tse.jus.br/legislacao/compilada/",
       "checked_at_utc": "2026-10-24T13:42:51.990Z",
       "scope": "Resolução 23.714/2022 em HTML."
+    },
+    {
+      "id": "checkpoint-20261025-33",
+      "label": "MPV 983/2020: relatoria de Flávio, debate no Senado, Lei 14.063, respostas públicas e dispositivo de veto mantido em 2021",
+      "collected_at_utc": "2026-10-25T07:01:03.592Z",
+      "method": "13 URLs institucionais consultadas e confrontadas com 615 itens, sem duplicatas; material audiovisual não reproduzido e 0 segundos revisados, sem vereditos."
     },
     {
       "id": "checkpoint-20261025-29",

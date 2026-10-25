@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T05:38:59.686434Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T07:01:17.912135Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-615 URLs únicas no lote; 597 ainda não vinculadas à edição anterior. 612 materiais acessados e 582 com texto analisado.
+628 URLs únicas no lote; 610 ainda não vinculadas à edição anterior. 625 materiais acessados e 595 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-18 vídeos e 7 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+19 vídeos e 7 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -29,8 +29,8 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 6 | 6 | 4 | 0 | 0 |
 | 2019 | 43 | 43 | 41 | 0 | 0 |
-| 2020 | 10 | 10 | 9 | 0 | 0 |
-| 2021 | 35 | 35 | 30 | 0 | 0 |
+| 2020 | 22 | 22 | 21 | 0 | 0 |
+| 2021 | 36 | 36 | 31 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 27 | 27 | 25 | 0 | 0 |
 | 2024 | 37 | 37 | 36 | 0 | 0 |
@@ -123,6 +123,11 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - Localizar e reproduzir íntegras somente em revisão audiovisual própria.
 - Vincular declarações repetidas a núcleos já catalogados sem multiplicar a mesma proposição.
 - Abrir documentos anexos do TSE antes de resumir fundamentos além da notícia institucional.
+- Conferir em PDF legível o Parecer 119/2020, PLV 32/2020, texto anterior da Câmara e Emendas 77 a 83 antes de comparação redacional dispositivo a dispositivo.
+- Conferir a mensagem presidencial de veto e o inteiro teor das 20 unidades do VET 50/2020; a votação nominal verificada neste recorte é somente do dispositivo 50.20.004.
+- Confrontar o texto compilado atual da Lei 14.063 com as versões de 2020 e mudanças posteriores antes de afirmações sobre vigência detalhada em 2026.
+- Gravações da sessão de 01/09/2020 e da TV/Rádio Senado não foram reproduzidas. Áudio revisado: 0 segundos; nenhuma marcação audiovisual validada.
+- Qualquer acusação, comparação sensível ou novo veredito deve ficar com editorialClassification nulo até revisão humana editorial identificada; não alterar approvedReviewerIds.
 - PEC 18/2025: abrir e cotejar integralmente o PDF oficial da Emenda 84-PLEN, assinaturas, justificativa e Emenda 87 antes de comparar textos em detalhe.
 - Identificar com precisão a PEC a que Flávio se referiu em junho de 2026 como sendo de sua autoria, sem confundi-la com a Emenda 84 apresentada por Rogerio Marinho em outubro.
 - Buscar a pauta e deliberação posteriores de PEC 18/2025, respeitando eventual mudança de situação após 15/10/2026; evitar afirmar desfecho definitivo sem atualização oficial.
@@ -250,6 +255,8 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - batch: costa-verde-ambiente-20261025-30; source: https://ascemanacional.org.br/wp-content/uploads/2026/10/CARTA-ABERTA-AOS-SERVIDORES-E-SERVIDORAS-DA-CARREIRA-AMBIENTAL.pdf; reason: Visualização textual e captura da primeira página disponíveis, mas capturas solicitadas para páginas posteriores falharam por timeout; limitação registrada na ficha 07.; checked_at_utc: 2026-10-25T03:17:26.846Z
 - batch: csp-2026-relatorias-20261024-26; source: Relatórios, substitutivos e emendas em PDF de PL 2343/2025, PL 3272/2024, PL 3341/2025 e PL 2734/2021; status: Integra não consultada nesta execução; note: Metadados e histórico em HTML conferidos. Não se declara falha de acesso ao PDF onde não houve tentativa direta de leitura, nem se afirma conhecer conteúdo integral.
 - batch: csp-2026-relatorias-20261024-26; source: Áudio da Rádio Senado e gravação audiovisual da 13ª CSP; status: Não reproduzidos; note: Zero segundos conferidos; horários exibidos na página não constituem timestamps de audição própria.
+- batch: mpv983-assinaturas-lei14063-veto50-20261025-33; url: https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/142535; status: timeout/instabilidade em novas tentativas de abertura direta; note: Histórico foi acessado pelo endereço do Senado em consulta anterior. Não declarar PDF de parecer ou todas as versões como examinadas.
+- batch: mpv983-assinaturas-lei14063-veto50-20261025-33; url: https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/13726; status: acesso direto intermitente; note: Foi lida página específica do dispositivo 50.20.004. Não extrapolar seus votos aos demais dispositivos.
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/contlei.nsf/flaviobolsonaroint?ExpandView=&OpenForm=; ref: turn7view0; status: fetch_error; discovery: Índice de leis atribuído a Flávio, menção à Lei 4250/2003; conteúdo não acessado.
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/f25edae7e64db53b032564fe005262ef/f7c66e86d7cd4c378325724b006e81cc?OpenDocument=; ref: turn7view1; status: fetch_error; discovery: Ficha de lei vinculada a PL 826-A/2003; não lida.
 - batch: oficiais; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/89b3addb48a95fe483256cef004aedf1/f6ff55775a5a7d8983256dc1005c4717?OpenDocument=; ref: turn7view2; status: fetch_error; discovery: Parecer 26/11/2003 de comissão presidida por Flávio; não lido.
