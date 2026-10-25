@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T09:34:45.677310Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T10:20:07.799722Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-661 URLs únicas no lote; 643 ainda não vinculadas à edição anterior. 658 materiais acessados e 628 com texto analisado.
+677 URLs únicas no lote; 659 ainda não vinculadas à edição anterior. 674 materiais acessados e 643 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-19 vídeos e 8 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+20 vídeos e 11 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -33,8 +33,8 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2021 | 36 | 36 | 31 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 29 | 29 | 27 | 0 | 0 |
-| 2024 | 50 | 50 | 49 | 0 | 0 |
-| 2025 | 73 | 73 | 70 | 0 | 0 |
+| 2024 | 52 | 52 | 51 | 0 | 0 |
+| 2025 | 87 | 87 | 83 | 0 | 0 |
 | 2026 | 307 | 307 | 301 | 0 | 0 |
 
 Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
@@ -169,6 +169,11 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - Áudio da Rádio Senado e vídeo do Plenário de 15/05/2024 não reproduzidos; manter zero segundos revisados e não inventar timestamps ou fala ouvida.
 - MP 983/2020, citada em nextBatch de atividades 2020: prosseguir em lote específico, sem misturar com PL 3071/2019.
 - Revisão editorial humana identificada obrigatória antes de comparar acusações, classificar declarações ou atribuir contradições a senadores ou deputados.
+- PL 3272/2024: consultar em ambiente com acesso os PDFs íntegros do substitutivo CDH, Emenda 1 de Alessandro Vieira e relatório de Flávio Bolsonaro na CSP, comparando dispositivos sem inferir redação por resumos.
+- PL 3272/2024: reabrir CSP após concessão de vista em 01/09/2026 e verificar se houve deliberação posterior. Não confundir parecer favorável com aprovação de lei.
+- PL 3272/2024: procurar manifestações técnicas diretamente publicadas por entidades e dados empíricos pertinentes ao porte por vítimas. Artigo de opinião encontrado não comprova efeito causal.
+- PL 3272/2024: conferir integrais de vídeos e áudios somente quando licitamente acessíveis. Nesta coleta, 0 segundos reproduzidos e nenhum timestamp de mídia certificado.
+- Não atribuir a Flávio autoria do PL nem manifestações de Rosana, Magno Malta, Plínio, Alessandro, Augusta ou do articulista. Não criar vereditos ou comparações sensíveis sem revisão editorial humana identificada; não alterar approvedReviewerIds.
 - Ler em ambiente autorizado as versões íntegras do projeto, Emenda 1-CDH, Parecer 41/2026 e relatório/subemenda da CCJ; PDF devolveu verificação de segurança na consulta atual.
 - Conferir o estágio posterior da CCJ e eventual deliberação terminativa, recurso e tramitação bicameral sem transformar relatório em aprovação.
 - Obter evidência primária para o percentual citado por Damares Alves em 08/04/2026; não atribuí-lo a Flávio nem tratá-lo como estatística verificada.
@@ -296,6 +301,7 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - batch: pl2064-reincidencia-lei15358-20261025-36; url: https://agenciagov.ebc.com.br/noticias/202603/presidente-lula-sanciona-lei-que-fortalece-o-combate-ao-crime-organizado; status: Redirecionamento para indisponibilidade/acesso não efetivado; note: Não catalogada como texto efetivamente lido; demais registros originais oficiais acessados.
 - batch: pl2064-reincidencia-lei15358-20261025-36; status: Mídia da 13ª reunião da CSP não reproduzida; note: Nenhuma escuta ou revisão de vídeo; 0 segundos e sem timestamps audiovisuais conferidos.
 - batch: pl2169-cdh-substitutivo-tramitacao-20261025-28; source: https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728; status: inspeção visual bloqueada; note: Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial.
+- batch: pl3272-protecao-medidas-cdh-csp-20261025-37; url: https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13328/item/96863; status: Timeout em tentativa de abertura da página de reunião; note: Não cadastrada como registro acessado; busca pode ser repetida. Consulta de pesquisa, não prova de indisponibilidade permanente.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10201058&rendition_principal=S&ts=1775771078593; reason: Visualização do PDF institucional devolveu desafio de verificação de segurança, inclusive em captura de tela; não declarar PDF integral lido nem emenda conferida.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento/download/6ea8ccf0-b2d2-4d09-b258-d7e24222dbde; reason: Captura de página interna do PDF de pauta retornou tela de segurança; extração parcial/indexada não é inspeção visual completa. Não catalogado como integral acessada.
 - batch: pl4598-deficiencia-cdh-ccj-20261025-35; url: https://legis.senado.leg.br/sdleg-getter/documento?dm=10053568&rendition_principal=S&ts=1785790418173; status: Página de verificação de segurança na tentativa de acesso; note: Não houve leitura integral do PDF do texto inicial pelo visualizador. A autoria e a ementa foram consultadas na ficha oficial.

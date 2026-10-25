@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T09:34:45.677310Z",
-    "inputHash": "d6066a922dc75546089fb26846808853068581d1d6d4380ffd7865744c4a2bef",
+    "generatedAt": "2026-10-25T10:20:07.799722Z",
+    "inputHash": "08cbc96ace34b1b7f9266ae94a784f4495c3d7115e714dab302650989a892895",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -23242,6 +23242,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-24fe033f820fe306",
+      "title": "Agência Senado reúne outras estratégias de proteção e controle de armas em 2025",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/07/25/desarmamento-acolhimento-e-penas-senado-tem-novos-projetos-de-protecao-a-mulher",
+      "publisher": "Agência Senado",
+      "date": "2025-07-25",
+      "eventDate": "2025-07-25",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3272/2024 (contexto)",
+      "topics": [
+        "PL 3272/2024 (contexto)",
+        "PL 3093/2025",
+        "controle de armas",
+        "medidas protetivas"
+      ],
+      "stage": "analisado",
+      "summary": "Panorama público descreve iniciativas apresentadas pela senadora Augusta Brito para desarmamento voluntário e restrição do porte de agressores, incluindo PL 3093/2025. São instrumentos distintos da proposta de Rosana, não resposta formal nem voto contrário ao PL 3272/2024.",
+      "limitations": "Reportagem institucional sobre projetos diferentes; não equivale a crítica formal a Flávio ou análise causal sobre segurança. Metodologia das pesquisas gerais não reexaminada.",
+      "locator": "Agência Senado, seção 'Armas', linhas 26-39.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado; Augusta Brito (proponente de projetos distintos)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-11",
+          "toolReference": "turn211913view1"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-7b7675c00a873bcf",
       "title": "Agência Câmara registra inclusão da Rede Sarah em emenda ao PL de Flávio",
       "url": "https://www.camara.leg.br/noticias/1182948-COMISSAO-DE-SAUDE-APROVA-DESTINACAO-DE-RECURSOS-DA-LOTECA-PARA-A-REDE-SARAH",
@@ -23649,6 +23716,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-35b2bb05fe06df2f",
+      "title": "Augusta Brito explicita proposta pública de prevenção e controle de armas",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/07/01/augusta-apresenta-projetos-para-aumentar-controle-de-armas-e-proteger-as-mulheres",
+      "publisher": "Agência Senado",
+      "date": "2025-07-01",
+      "eventDate": "2025-07-01",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3272/2024 (contexto)",
+      "topics": [
+        "PL 3272/2024 (contexto)",
+        "PL 3093/2025",
+        "controle de armas",
+        "medidas protetivas"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de pronunciamento de Augusta Brito em 01/07/2025 registra defesa de regulamentação e prevenção da violência armada e enumera sete propostas próprias, incluindo restrição de acesso por agressores. Não registra debate direto com Flávio sobre PL 3272.",
+      "limitations": "Declaração e síntese legislativa publicadas pelo Senado, não confronto individual entre Flávio e Augusta. Links para íntegras citadas não foram considerados lidos.",
+      "locator": "Agência Senado, publicação 01/07/2025, título, pronunciamento e lista de propostas, linhas 19-34.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Augusta Brito (proponente citada em pronunciamento)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-12",
+          "toolReference": "turn211913view2"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-927c9bca9145f4f3",
       "title": "Declarações sobre IOF, superávit e juros",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/514593",
@@ -23777,6 +23911,141 @@
         }
       ],
       "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-1f1d448abd4545cd",
+      "title": "Ficha oficial do PL 3093/2025: arma do agressor e medida protetiva",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169329",
+      "publisher": "Senado Federal, proposições",
+      "date": "2025-06-26",
+      "eventDate": "2025-06-26",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 3272/2024 (contexto)",
+      "topics": [
+        "PL 3272/2024 (contexto)",
+        "PL 3093/2025",
+        "controle de armas",
+        "medidas protetivas"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha oficial identifica PL 3093/2025, de Augusta Brito, sobre suspensão imediata de registro e porte e apreensão de arma do agressor em decorrência de medida protetiva de urgência. O projeto é distinto do PL 3272/2024, que trata da mulher protegida.",
+      "limitations": "Resumo automatizado do portal é assinalado pelo próprio Senado como gerado por IA com revisão humana, não usado como prova autônoma. Inteiro teor PDF não examinado; ficha mostra em tramitação.",
+      "locator": "Senado, PL 3093/2025, cabeçalho, autoria, ementa e situação, linhas 20-48; seção de documentos, linhas 65-78.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Augusta Brito (autora)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3093/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-13",
+          "toolReference": "turn211913view3"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-df4aed4722259f9f",
+      "title": "Ipea e Fórum de Segurança Pública contextualizam homicídios femininos e residência",
+      "url": "https://fontesegura.forumseguranca.org.br/homicidios-de-mulheres-nas-residencias-e-a-mensuracao-do-feminicidio-no-brasil/",
+      "publisher": "Fonte Segura, Ipea e Fórum Brasileiro de Segurança Pública",
+      "date": "2025-05-28",
+      "eventDate": "2025-05-28",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "Texto analítico apresenta dados e limitações da mensuração do feminicídio e sua relação com a localização residencial das mortes. Oferece contexto empírico de violência doméstica; não testa eficácia de conceder porte de arma a mulheres sob medida protetiva, nem fornece veredito sobre PL 3272.",
+      "limitations": "Texto contextual derivado de bases e estudos, sem conferência das séries integrais do Atlas da Violência; estatísticas atribuídas às instituições, não validadas independentemente nesta coleta.",
+      "locator": "Fonte Segura, edição de 28/05/2025, título, subtítulo e primeiros parágrafos, linhas 23-34.",
+      "sourceId": "fonte-c0abac72ff584660",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Instituto de Pesquisa Econômica Aplicada e Fórum Brasileiro de Segurança Pública (texto conjunto)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-15",
+          "toolReference": "turn211913view5"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
       "newToArchive": true
     },
     {
@@ -23909,6 +24178,74 @@
         }
       ],
       "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-62a75a6dbbfdf729",
+      "title": "Artigo de opinião jurídica critica proposta de porte no PL 3272/2024",
+      "url": "https://www.migalhas.com.br/depeso/428618/senado-aprova-porte-de-arma-para-mulher-sob-medida-protetiva",
+      "publisher": "Migalhas, coluna De Peso",
+      "date": "2025-04-22",
+      "eventDate": "2025-04-22",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "Ensaio assinado em 22/04/2025 argumenta contra o PL 3272/2024 por preocupações sobre armas em ambientes domésticos e fragilização de políticas preventivas. O autor trata riscos como avaliação normativa, não checagem independente de efeito causal. O título sugere aprovação pelo Senado, mas o resultado institucional confirmado é aprovação somente na CDH.",
+      "limitations": "Opinião assinada de terceiro, não posição institucional do Senado ou fato comprovado pelo arquivo. Eventuais afirmações científicas não cotejadas com dados originais; referência genérica 'Senado aprovou' deve ser limitada à CDH.",
+      "locator": "Migalhas, coluna De Peso, seções 1, 2 e 3, linhas 8-13, 29-46 e 59-63.",
+      "sourceId": "fonte-4e3c890b0b0a3b74",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Crítica independente assinada pelo articulista, não resposta de Flávio nem veredito editorial.",
+      "actor": "Júlio Cesar Konkowski da Silva (autor da opinião)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-14",
+          "toolReference": "turn211913view4"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
       "newToArchive": true
     },
     {
@@ -24106,6 +24443,346 @@
         }
       ],
       "accessMethod": "Pesquisa e leitura documental assistida por IA. Sem revisão humana ou audição de arquivos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-e701458d5c0df354",
+      "title": "Agência Senado esclarece aprovação somente na CDH e requisitos da proposta",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/04/09/cdh-aprova-porte-de-arma-para-mulher-sob-medida-protetiva-de-urgencia",
+      "publisher": "Agência Senado",
+      "date": "2025-04-09",
+      "eventDate": "2025-04-09",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem institucional informa aprovação do PL 3272/2024 na CDH em forma de substitutivo, encaminhamento à CSP e requisitos de capacidade técnica e psicológica. Registra sugestão de Alessandro Vieira de idade excepcional de 18 anos. Autoria original é de Rosana Martinelli.",
+      "limitations": "Síntese jornalística do Senado; não substitui íntegras das emendas. Números estatísticos atribuídos ao relator não foram checados nas séries originais.",
+      "locator": "Agência Senado, publicação 09/04/2025, título e parágrafos iniciais, linhas 19-34.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado; Magno Malta, Plínio Valério e Alessandro Vieira citados",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-03",
+          "toolReference": "turn576942view3"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-d3b5b0c686a7ec68",
+      "title": "TV Senado disponibiliza página do noticiário sobre decisão da CDH em abril de 2025",
+      "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2025/04/porte-de-arma-para-mulher-sob-medida-protetiva-tem-aprovacao-da-cdh",
+      "publisher": "TV Senado",
+      "date": "2025-04-09",
+      "eventDate": "2025-04-09",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "video",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "acessado",
+      "summary": "Página da TV Senado identifica vídeo de 09/04/2025 sobre a aprovação, na CDH, do PL 3272/2024. O texto descritivo menciona números de medidas protetivas e feminicídios de 2024, não verificados nesta coleta.",
+      "limitations": "Apenas metadados e descrição textual da página acessados; player não reproduzido, 0 segundos assistidos e nenhum timestamp conferido; números não cotejados com base original.",
+      "locator": "TV Senado, notícia de 09/04/2025, título e descrição textual, linhas 28-35.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "TV Senado (noticiário institucional)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-10",
+          "toolReference": "turn211913view0"
+        }
+      ],
+      "accessMethod": "Página oficial de TV Senado aberta e descrição textual lida; sem reprodução de vídeo em 25/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-c86b3284c046a0a5",
+      "title": "Rádio Senado traz transcrição do noticiário sobre a aprovação do PL 3272 na CDH",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/04/09/mulheres-em-risco-poderao-portar-arma-para-defesa-pessoal",
+      "publisher": "Rádio Senado",
+      "date": "2025-04-09",
+      "eventDate": "2025-04-09",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "Página de 09/04/2025 fornece transcrição escrita da reportagem: proposta discutida na CDH, emenda de Alessandro Vieira, exigência de necessidade e competência da Polícia Federal para conceder o porte. Relata encaminhamento posterior à CSP.",
+      "limitations": "Somente texto público exibido e metadados foram examinados. Mídia não reproduzida: 0 segundos; duração nominal não é duração ouvida e falas transcritas não foram auditadas no áudio.",
+      "locator": "Rádio Senado, seção Transcrição, linhas 21-28; duração nominal indicada na página: 02:25.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Paulo Barreira (reportagem); Plínio Valério (leitor do relatório); Magno Malta (relator)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-04",
+          "toolReference": "turn576942view4"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-550defdd91c58d36",
+      "title": "Notas taquigráficas da CDH: leitura do substitutivo por Plínio Valério em 09/04/2025",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/13425",
+      "publisher": "Senado Federal, notas taquigráficas",
+      "date": "2025-04-09",
+      "eventDate": "2025-04-09",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "Transcrição oficial revista apresenta a história do projeto, Emenda 1 de Alessandro Vieira e leitura do voto do relator pela aprovação com substitutivo. É registro escrito da reunião, não audição autenticada do audiovisual nem autoria de Flávio.",
+      "limitations": "Texto público revisto lido; 0 segundos de áudio/vídeo reproduzidos, horários impressos na nota não convertidos em timestamps de mídia. PDF final do substitutivo não foi cotejado.",
+      "locator": "CDH, 11ª reunião, item 6, transcrição em HTML, linhas 97-116; versão revista.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Plínio Valério (leitor ad hoc do relatório de Magno Malta); Damares Alves (presidência); Rosana Martinelli (autora)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-02",
+          "toolReference": "turn576942view0"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-54c791b5eebc84dd",
+      "title": "Reunião da CDH de 09/04/2025 aprova parecer e substitutivo ao PL 3272/2024",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13425",
+      "publisher": "Senado Federal, Comissão de Direitos Humanos",
+      "date": "2025-04-09",
+      "eventDate": "2025-04-09",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "A 11ª reunião da CDH registra aprovação do relatório favorável ao PL 3272/2024 e à Emenda 1, na forma da Emenda 2-CDH (substitutivo). Plínio Valério atuou como relator ad hoc do parecer de Magno Malta. A deliberação é somente da CDH, anterior à relatoria de Flávio Bolsonaro na CSP.",
+      "limitations": "HTML da pauta e resultado lido; documentos PDF referenciados e gravação não examinados. Aprovação do parecer na CDH não equivale a lei nem votação conclusiva na CSP.",
+      "locator": "11ª reunião da CDH, seção Resultado da pauta, item 6, linhas 199-213.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Rosana Martinelli (autora); Magno Malta (relator); Plínio Valério (relator ad hoc)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-01",
+          "toolReference": "turn532318view0"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
       "newToArchive": true
     },
     {
@@ -24507,6 +25184,74 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-13f4b477449f5d19",
+      "title": "Reunião da CDH de 02/04/2025 foi cancelada, com PL 3272 na pauta",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13402/item/97225",
+      "publisher": "Senado Federal, CDH",
+      "date": "2025-04-02",
+      "eventDate": "2025-04-02",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "A 9ª reunião extraordinária da CDH de 02/04/2025 constou como cancelada em razão do prolongamento de audiência pública. O PL 3272 figurava no item 6 da pauta; não há deliberação desse item nessa reunião.",
+      "limitations": "Página da reunião cancelada acessada; relatórios e emendas PDF indicados em links não examinados. Ausência de resultado decorre do cancelamento.",
+      "locator": "CDH, 9ª reunião, cabeçalho e observações, linhas 20-47.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Rosana Martinelli (autora); Magno Malta (relator)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-09",
+          "toolReference": "turn576942view2"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-d8ee3babb592edd6",
       "title": "Senado: CSP concedeu vista ao PL 2734/2021 em 01/04/2025",
       "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/13405/item/97237",
@@ -24837,6 +25582,74 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-a833c3961e9015f7",
+      "title": "CDH registra nova retirada do PL 3272 da pauta em 26/03/2025",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13393/item/97094",
+      "publisher": "Senado Federal, CDH",
+      "date": "2025-03-26",
+      "eventDate": "2025-03-26",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "Item 4 da 6ª reunião da CDH registra retirada de pauta após apresentação de relatório favorável ao projeto e à emenda, nos termos de substitutivo. Não houve aprovação neste item.",
+      "limitations": "Registro textual do item acessado; PDFs do avulso e da emenda não examinados. Retirada de pauta não permite inferir rejeição ou voto individual.",
+      "locator": "CDH, 6ª reunião de 26/03/2025, item 4, campos Relatório e Resultado, linhas 53-67.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Rosana Martinelli (autora); Magno Malta (relator)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-08",
+          "toolReference": "turn532318view2"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-e612fa1e8997b1e4",
       "title": "Parecer oral de Flávio como relator do PDL 206/2023 sobre vistos",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/512517",
@@ -25037,6 +25850,74 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-da88b3bc700c217c",
+      "title": "CDH retira PL 3272 da pauta em 19/03/2025 a pedido do relator",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13364/item/96955",
+      "publisher": "Senado Federal, CDH",
+      "date": "2025-03-19",
+      "eventDate": "2025-03-19",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "Item 2 da 4ª reunião da CDH lista o PL 3272/2024 com relatório favorável de Magno Malta e resultado de retirada de pauta a pedido do relator. Retirada não é rejeição nem aprovação.",
+      "limitations": "Ficha e resultado oficiais lidos em HTML; anexos da pauta em PDF e votação nominal não foram examinados.",
+      "locator": "CDH, 4ª reunião de 19/03/2025, item 2, campos Autoria, Relatório e Resultado, linhas 35-50.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Rosana Martinelli (autora); Magno Malta (relator)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-07",
+          "toolReference": "turn532318view3"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-03f806591dedd29a",
       "title": "Agência Senado registra debate e votos divergentes sobre exigência de vistos",
       "url": "https://www12.senado.leg.br/noticias/materias/2025/03/19/senado-aprova-sustar-exigencia-de-visto-de-australia-canada-eua-e-japao",
@@ -25101,6 +25982,74 @@
         }
       ],
       "accessMethod": "Abertura direta e leitura da página HTML pública em 24/10/2026, sem acessar mídia ou PDFs de anexos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-22581f79cf092d23",
+      "title": "Rádio Senado registra vista na CDH antes da deliberação de abril",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/03/13/porte-de-armas-para-mulheres-sob-medidas-protetivas-esta-em-analise-na-cdh",
+      "publisher": "Rádio Senado",
+      "date": "2025-03-13",
+      "eventDate": "2025-03-13",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 13/03/2025 documenta a discussão inicial do PL 3272/2024 na CDH, com pedido de vista coletiva, requisitos técnicos e justificativa favorável atribuída a Magno Malta. Não comprova aprovação nesta data.",
+      "limitations": "Transcrição pública lida sem reproduzir mídia, 0 segundos ouvidos; justificativa da eficácia preventiva é opinião atribuída ao relator, não resultado de experimento validado pelo acervo.",
+      "locator": "Rádio Senado, cabeçalho e Transcrição, linhas 9-25; duração nominal 02:03.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Cesar Mendes (reportagem); Magno Malta (relator citado); Rosana Martinelli (autora)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-05",
+          "toolReference": "turn316984view4"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
       "newToArchive": true
     },
     {
@@ -25846,6 +26795,142 @@
         }
       ],
       "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-18956670eab27035",
+      "title": "Rádio Senado documenta lançamento e motivação original do PL 3272 em 2024",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/08/30/projeto-autoriza-porte-de-arma-por-mulher-sob-medida-protetiva-de-urgencia",
+      "publisher": "Rádio Senado",
+      "date": "2024-08-30",
+      "eventDate": "2024-08-30",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "A transcrição textual de 30/08/2024 registra a justificativa da autora para facultar porte de arma condicionado a requisitos a mulheres sob medidas protetivas. Os números e avaliações de eficácia são atribuições ao noticiário e à senadora, não comprovação do projeto.",
+      "limitations": "A transcrição disponibilizada foi lida, mas o áudio não foi reproduzido: 0 segundos. Dados citados e o texto original do PL não foram verificados diretamente no PDF.",
+      "locator": "Rádio Senado, reportagem de 30/08/2024, seção Transcrição, linhas 9-26; duração nominal 02:26.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Alexandre Campos (reportagem); Rosana Martinelli (autora citada)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-16",
+          "toolReference": "turn211913view6"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-d6050658317d8458",
+      "title": "Justificativa pública de Rosana Martinelli na apresentação do PL 3272/2024",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/08/27/propostas-no-senado-reforcam-combate-a-violencia-domestica-no-brasil",
+      "publisher": "Agência Senado",
+      "date": "2024-08-27",
+      "eventDate": "2024-08-27",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 3272/2024",
+      "topics": [
+        "PL 3272/2024",
+        "violência doméstica",
+        "medidas protetivas",
+        "segurança pública",
+        "Flávio Bolsonaro: relatoria posterior na CSP"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 27/08/2024 identifica autoria de Rosana e apresenta sua defesa de um mecanismo adicional de proteção com porte condicionado a requisitos. A avaliação de eficácia das medidas protetivas aparece como argumento da proponente, não conclusão independente.",
+      "limitations": "Trechos da justificativa reproduzidos por reportagem institucional; texto inicial assinado não foi examinado em PDF nesta consulta. Dados nacionais citados pela autora não foram reconferidos na fonte estatística.",
+      "locator": "Agência Senado, subtítulo 'Porte de arma', linhas 59-65.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T10:19:44.690Z",
+      "lastModifiedAt": "2026-10-25T10:19:44.690Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Justificativa pública atribuída à autora Rosana Martinelli no noticiário institucional.",
+      "actor": "Rosana Martinelli (autora, citada pela Agência Senado)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3272/2024",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+          "inputId": "pl3272-protecao-medidas-cdh-csp-20261025-37-06",
+          "toolReference": "turn576942view1"
+        }
+      ],
+      "accessMethod": "HTML público aberto e conteúdo textual examinado em 25/10/2026; áudio/vídeo não reproduzidos (0 segundos).",
       "newToArchive": true
     },
     {
@@ -44523,6 +45608,29 @@
       "analysedCount": 3
     },
     {
+      "id": "fonte-c0abac72ff584660",
+      "name": "Fonte Segura, Ipea e Fórum Brasileiro de Segurança Pública",
+      "url": "https://fontesegura.forumseguranca.org.br/",
+      "responsible": "Fonte Segura, Ipea e Fórum Brasileiro de Segurança Pública",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T10:19:44.690Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2025
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-f4bf17de55c94544",
       "name": "Globo / Globoplay",
       "url": "https://globoplay.globo.com/",
@@ -44753,6 +45861,29 @@
       "monitoringEnabled": true,
       "accessedCount": 24,
       "analysedCount": 24
+    },
+    {
+      "id": "fonte-4e3c890b0b0a3b74",
+      "name": "Migalhas, coluna De Peso",
+      "url": "https://www.migalhas.com.br/",
+      "responsible": "Migalhas, coluna De Peso",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T10:19:44.690Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2025
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
     },
     {
       "id": "fonte-5933091ceec7266f",
@@ -45130,10 +46261,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
-      "lastConsultedAt": "2026-10-25T09:34:35.598Z",
+      "lastConsultedAt": "2026-10-25T10:19:44.690Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 286,
+      "sourceCount": 300,
       "periods": [
         2018,
         2019,
@@ -45154,8 +46285,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 285,
-      "analysedCount": 269
+      "accessedCount": 299,
+      "analysedCount": 282
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -45647,6 +46778,81 @@
       }
     },
     {
+      "id": "pesquisa-d3b5b0c686a7ec68",
+      "title": "TV Senado disponibiliza página do noticiário sobre decisão da CDH em abril de 2025",
+      "type": "video",
+      "provider": "TV Senado",
+      "publisher": "TV Senado",
+      "sourceUrl": "https://www12.senado.leg.br/tv/programas/noticias-1/2025/04/porte-de-arma-para-mulher-sob-medida-protetiva-tem-aprovacao-da-cdh",
+      "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2025/04/porte-de-arma-para-mulher-sob-medida-protetiva-tem-aprovacao-da-cdh",
+      "date": "2025-04-09",
+      "youtubeId": null,
+      "description": "Página da TV Senado identifica vídeo de 09/04/2025 sobre a aprovação, na CDH, do PL 3272/2024. O texto descritivo menciona números de medidas protetivas e feminicídios de 2024, não verificados nesta coleta.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Apenas metadados e descrição textual da página acessados; player não reproduzido, 0 segundos assistidos e nenhum timestamp conferido; números não cotejados com base original.",
+      "researchItemId": "pesquisa-d3b5b0c686a7ec68",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-c86b3284c046a0a5",
+      "title": "Rádio Senado traz transcrição do noticiário sobre a aprovação do PL 3272 na CDH",
+      "type": "audio",
+      "provider": "Rádio Senado",
+      "publisher": "Rádio Senado",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/noticia/2025/04/09/mulheres-em-risco-poderao-portar-arma-para-defesa-pessoal",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/04/09/mulheres-em-risco-poderao-portar-arma-para-defesa-pessoal",
+      "date": "2025-04-09",
+      "youtubeId": null,
+      "description": "Página de 09/04/2025 fornece transcrição escrita da reportagem: proposta discutida na CDH, emenda de Alessandro Vieira, exigência de necessidade e competência da Polícia Federal para conceder o porte. Relata encaminhamento posterior à CSP.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Somente texto público exibido e metadados foram examinados. Mídia não reproduzida: 0 segundos; duração nominal não é duração ouvida e falas transcritas não foram auditadas no áudio.",
+      "researchItemId": "pesquisa-c86b3284c046a0a5",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-22581f79cf092d23",
+      "title": "Rádio Senado registra vista na CDH antes da deliberação de abril",
+      "type": "audio",
+      "provider": "Rádio Senado",
+      "publisher": "Rádio Senado",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/noticia/2025/03/13/porte-de-armas-para-mulheres-sob-medidas-protetivas-esta-em-analise-na-cdh",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/03/13/porte-de-armas-para-mulheres-sob-medidas-protetivas-esta-em-analise-na-cdh",
+      "date": "2025-03-13",
+      "youtubeId": null,
+      "description": "Reportagem de 13/03/2025 documenta a discussão inicial do PL 3272/2024 na CDH, com pedido de vista coletiva, requisitos técnicos e justificativa favorável atribuída a Magno Malta. Não comprova aprovação nesta data.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Transcrição pública lida sem reproduzir mídia, 0 segundos ouvidos; justificativa da eficácia preventiva é opinião atribuída ao relator, não resultado de experimento validado pelo acervo.",
+      "researchItemId": "pesquisa-22581f79cf092d23",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
       "id": "pesquisa-c184a1acd4ecbf15",
       "title": "Rádio Senado: transcrição institucional da sanção da Lei 14.978 e falas atribuídas",
       "type": "audio",
@@ -45665,6 +46871,31 @@
       "reviewState": "aguardando revisão",
       "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Zero segundos de áudio ouvidos. Duração informada de 2min19s não indica tempo revisado. Sem timestamps de fala conferidos.",
       "researchItemId": "pesquisa-c184a1acd4ecbf15",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-18956670eab27035",
+      "title": "Rádio Senado documenta lançamento e motivação original do PL 3272 em 2024",
+      "type": "audio",
+      "provider": "Rádio Senado",
+      "publisher": "Rádio Senado",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/noticia/2024/08/30/projeto-autoriza-porte-de-arma-por-mulher-sob-medida-protetiva-de-urgencia",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/08/30/projeto-autoriza-porte-de-arma-por-mulher-sob-medida-protetiva-de-urgencia",
+      "date": "2024-08-30",
+      "youtubeId": null,
+      "description": "A transcrição textual de 30/08/2024 registra a justificativa da autora para facultar porte de arma condicionado a requisitos a mulheres sob medidas protetivas. Os números e avaliações de eficácia são atribuições ao noticiário e à senadora, não comprovação do projeto.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. A transcrição disponibilizada foi lida, mas o áudio não foi reproduzido: 0 segundos. Dados citados e o texto original do PL não foram verificados diretamente no PDF.",
+      "researchItemId": "pesquisa-18956670eab27035",
       "review": {
         "state": "aguardando revisão editorial",
         "reviewer": null,
@@ -49174,6 +50405,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-2f9f34e670704a21",
+      "itemId": "pesquisa-24fe033f820fe306",
+      "title": "Agência Senado reúne outras estratégias de proteção e controle de armas em 2025",
+      "date": "2025-07-25",
+      "datePrecision": "day",
+      "context": "Panorama público descreve iniciativas apresentadas pela senadora Augusta Brito para desarmamento voluntário e restrição do porte de agressores, incluindo PL 3093/2025. São instrumentos distintos da proposta de Rosana, não resposta formal nem voto contrário ao PL 3272/2024.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-dc4e58b3f81c4169",
       "itemId": "pesquisa-7b7675c00a873bcf",
       "title": "Agência Câmara registra inclusão da Rede Sarah em emenda ao PL de Flávio",
@@ -49228,6 +50468,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-a60a6c5ad184602d",
+      "itemId": "pesquisa-35b2bb05fe06df2f",
+      "title": "Augusta Brito explicita proposta pública de prevenção e controle de armas",
+      "date": "2025-07-01",
+      "datePrecision": "day",
+      "context": "Reportagem de pronunciamento de Augusta Brito em 01/07/2025 registra defesa de regulamentação e prevenção da violência armada e enumera sete propostas próprias, incluindo restrição de acesso por agressores. Não registra debate direto com Flávio sobre PL 3272.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-b39cf32796a15523",
       "itemId": "pesquisa-927c9bca9145f4f3",
       "title": "Declarações sobre IOF, superávit e juros",
@@ -49246,6 +50495,24 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-49ec9d346a2d00f7",
+      "itemId": "pesquisa-1f1d448abd4545cd",
+      "title": "Ficha oficial do PL 3093/2025: arma do agressor e medida protetiva",
+      "date": "2025-06-26",
+      "datePrecision": "day",
+      "context": "Ficha oficial identifica PL 3093/2025, de Augusta Brito, sobre suspensão imediata de registro e porte e apreensão de arma do agressor em decorrência de medida protetiva de urgência. O projeto é distinto do PL 3272/2024, que trata da mulher protegida.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-a2e8c715daf49dbf",
+      "itemId": "pesquisa-df4aed4722259f9f",
+      "title": "Ipea e Fórum de Segurança Pública contextualizam homicídios femininos e residência",
+      "date": "2025-05-28",
+      "datePrecision": "day",
+      "context": "Texto analítico apresenta dados e limitações da mensuração do feminicídio e sua relação com a localização residencial das mortes. Oferece contexto empírico de violência doméstica; não testa eficácia de conceder porte de arma a mulheres sob medida protetiva, nem fornece veredito sobre PL 3272.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-ca30e6c13f29c676",
       "itemId": "pesquisa-767f7b2bb851e8cc",
       "title": "PL 2.413/2025: autoria de Angelo Coronel e relatoria de Flávio",
@@ -49261,6 +50528,15 @@
       "date": "2026-09-01",
       "datePrecision": "day",
       "context": "Ficha identifica Carlos Portinho como autor, relatório favorável de Flávio apresentado em 27/08/2026, parecer P.S. 29/2026-CSP de 01/09/2026 e emenda de Alessandro Vieira. O estado exibido na consulta de 24/10/2026 era 'aguardando designação do relator' na CCJ desde 01/09/2026. Autoria e relatoria estão separadas.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e48d855fc66da004",
+      "itemId": "pesquisa-62a75a6dbbfdf729",
+      "title": "Artigo de opinião jurídica critica proposta de porte no PL 3272/2024",
+      "date": "2025-04-22",
+      "datePrecision": "day",
+      "context": "Ensaio assinado em 22/04/2025 argumenta contra o PL 3272/2024 por preocupações sobre armas em ambientes domésticos e fragilização de políticas preventivas. O autor trata riscos como avaliação normativa, não checagem independente de efeito causal. O título sugere aprovação pelo Senado, mas o resultado institucional confirmado é aprovação somente na CDH.",
       "state": "data informada pela fonte"
     },
     {
@@ -49289,6 +50565,51 @@
       "datePrecision": "unknown",
       "context": "Fala encaminha voto favorável à PEC 2/2016 e atribui números sobre concessões privadas à Abcon.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-22717771e3cbeed4",
+      "itemId": "pesquisa-e701458d5c0df354",
+      "title": "Agência Senado esclarece aprovação somente na CDH e requisitos da proposta",
+      "date": "2025-04-09",
+      "datePrecision": "day",
+      "context": "Reportagem institucional informa aprovação do PL 3272/2024 na CDH em forma de substitutivo, encaminhamento à CSP e requisitos de capacidade técnica e psicológica. Registra sugestão de Alessandro Vieira de idade excepcional de 18 anos. Autoria original é de Rosana Martinelli.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-5cdc82ff9a1ac5a9",
+      "itemId": "pesquisa-d3b5b0c686a7ec68",
+      "title": "TV Senado disponibiliza página do noticiário sobre decisão da CDH em abril de 2025",
+      "date": "2025-04-09",
+      "datePrecision": "day",
+      "context": "Página da TV Senado identifica vídeo de 09/04/2025 sobre a aprovação, na CDH, do PL 3272/2024. O texto descritivo menciona números de medidas protetivas e feminicídios de 2024, não verificados nesta coleta.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-5799c145ffe18fee",
+      "itemId": "pesquisa-c86b3284c046a0a5",
+      "title": "Rádio Senado traz transcrição do noticiário sobre a aprovação do PL 3272 na CDH",
+      "date": "2025-04-09",
+      "datePrecision": "day",
+      "context": "Página de 09/04/2025 fornece transcrição escrita da reportagem: proposta discutida na CDH, emenda de Alessandro Vieira, exigência de necessidade e competência da Polícia Federal para conceder o porte. Relata encaminhamento posterior à CSP.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f550b8ca64bfa17a",
+      "itemId": "pesquisa-550defdd91c58d36",
+      "title": "Notas taquigráficas da CDH: leitura do substitutivo por Plínio Valério em 09/04/2025",
+      "date": "2025-04-09",
+      "datePrecision": "day",
+      "context": "Transcrição oficial revista apresenta a história do projeto, Emenda 1 de Alessandro Vieira e leitura do voto do relator pela aprovação com substitutivo. É registro escrito da reunião, não audição autenticada do audiovisual nem autoria de Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-b1ede764964e6120",
+      "itemId": "pesquisa-54c791b5eebc84dd",
+      "title": "Reunião da CDH de 09/04/2025 aprova parecer e substitutivo ao PL 3272/2024",
+      "date": "2025-04-09",
+      "datePrecision": "day",
+      "context": "A 11ª reunião da CDH registra aprovação do relatório favorável ao PL 3272/2024 e à Emenda 1, na forma da Emenda 2-CDH (substitutivo). Plínio Valério atuou como relator ad hoc do parecer de Magno Malta. A deliberação é somente da CDH, anterior à relatoria de Flávio Bolsonaro na CSP.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-98716e76a9808031",
@@ -49345,6 +50666,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-f507ee9ce81cb02a",
+      "itemId": "pesquisa-13f4b477449f5d19",
+      "title": "Reunião da CDH de 02/04/2025 foi cancelada, com PL 3272 na pauta",
+      "date": "2025-04-02",
+      "datePrecision": "day",
+      "context": "A 9ª reunião extraordinária da CDH de 02/04/2025 constou como cancelada em razão do prolongamento de audiência pública. O PL 3272 figurava no item 6 da pauta; não há deliberação desse item nessa reunião.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-59e2025bd415d222",
       "itemId": "pesquisa-d8ee3babb592edd6",
       "title": "Senado: CSP concedeu vista ao PL 2734/2021 em 01/04/2025",
@@ -49390,6 +50720,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-aa27462ed9a85c8f",
+      "itemId": "pesquisa-a833c3961e9015f7",
+      "title": "CDH registra nova retirada do PL 3272 da pauta em 26/03/2025",
+      "date": "2025-03-26",
+      "datePrecision": "day",
+      "context": "Item 4 da 6ª reunião da CDH registra retirada de pauta após apresentação de relatório favorável ao projeto e à emenda, nos termos de substitutivo. Não houve aprovação neste item.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-4527beff1e15f02f",
       "itemId": "pesquisa-e612fa1e8997b1e4",
       "title": "Parecer oral de Flávio como relator do PDL 206/2023 sobre vistos",
@@ -49417,12 +50756,30 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-45ea5844e33eaa83",
+      "itemId": "pesquisa-da88b3bc700c217c",
+      "title": "CDH retira PL 3272 da pauta em 19/03/2025 a pedido do relator",
+      "date": "2025-03-19",
+      "datePrecision": "day",
+      "context": "Item 2 da 4ª reunião da CDH lista o PL 3272/2024 com relatório favorável de Magno Malta e resultado de retirada de pauta a pedido do relator. Retirada não é rejeição nem aprovação.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-46d386c76f0a271c",
       "itemId": "pesquisa-03f806591dedd29a",
       "title": "Agência Senado registra debate e votos divergentes sobre exigência de vistos",
       "date": "2025-03-19",
       "datePrecision": "day",
       "context": "Reportagem institucional relata aprovação do PDL no Senado, argumentos favoráveis de Flávio sobre turismo e posições contrárias de parlamentares que defenderam reciprocidade e competências do Executivo. Registrar as duas perspectivas e a necessidade da apreciação na Câmara, sem avaliar efeitos econômicos como comprovados.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-198ae14792301e92",
+      "itemId": "pesquisa-22581f79cf092d23",
+      "title": "Rádio Senado registra vista na CDH antes da deliberação de abril",
+      "date": "2025-03-13",
+      "datePrecision": "day",
+      "context": "Reportagem de 13/03/2025 documenta a discussão inicial do PL 3272/2024 na CDH, com pedido de vista coletiva, requisitos técnicos e justificativa favorável atribuída a Magno Malta. Não comprova aprovação nesta data.",
       "state": "data informada pela fonte"
     },
     {
@@ -49522,6 +50879,24 @@
       "date": "2024-09-18",
       "datePrecision": "day",
       "context": "Texto integral HTML da lei sancionada foi aberto para cotejo da norma em vigor em sua publicação, sem confundir com dispositivos objeto de veto ou com projetos anteriores.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-540871b90773fd30",
+      "itemId": "pesquisa-18956670eab27035",
+      "title": "Rádio Senado documenta lançamento e motivação original do PL 3272 em 2024",
+      "date": "2024-08-30",
+      "datePrecision": "day",
+      "context": "A transcrição textual de 30/08/2024 registra a justificativa da autora para facultar porte de arma condicionado a requisitos a mulheres sob medidas protetivas. Os números e avaliações de eficácia são atribuições ao noticiário e à senadora, não comprovação do projeto.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9bfa1a792026583d",
+      "itemId": "pesquisa-d6050658317d8458",
+      "title": "Justificativa pública de Rosana Martinelli na apresentação do PL 3272/2024",
+      "date": "2024-08-27",
+      "datePrecision": "day",
+      "context": "Reportagem de 27/08/2024 identifica autoria de Rosana e apresenta sua defesa de um mecanismo adicional de proteção com porte condicionado a requisitos. A avaliação de eficácia das medidas protetivas aparece como argumento da proponente, não conclusão independente.",
       "state": "data informada pela fonte"
     },
     {
@@ -58881,6 +60256,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-2f9f34e670704a21",
+      "itemId": "pesquisa-24fe033f820fe306",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/07/25/desarmamento-acolhimento-e-penas-senado-tem-novos-projetos-de-protecao-a-mulher",
+      "locator": "Agência Senado, seção 'Armas', linhas 26-39.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-dc4e58b3f81c4169",
       "itemId": "pesquisa-7b7675c00a873bcf",
       "sourceId": "fonte-29a2bae5277f274b",
@@ -58947,6 +60333,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-a60a6c5ad184602d",
+      "itemId": "pesquisa-35b2bb05fe06df2f",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/07/01/augusta-apresenta-projetos-para-aumentar-controle-de-armas-e-proteger-as-mulheres",
+      "locator": "Agência Senado, publicação 01/07/2025, título, pronunciamento e lista de propostas, linhas 19-34.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-b39cf32796a15523",
       "itemId": "pesquisa-927c9bca9145f4f3",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -58969,6 +60366,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-49ec9d346a2d00f7",
+      "itemId": "pesquisa-1f1d448abd4545cd",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169329",
+      "locator": "Senado, PL 3093/2025, cabeçalho, autoria, ementa e situação, linhas 20-48; seção de documentos, linhas 65-78.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-a2e8c715daf49dbf",
+      "itemId": "pesquisa-df4aed4722259f9f",
+      "sourceId": "fonte-c0abac72ff584660",
+      "url": "https://fontesegura.forumseguranca.org.br/homicidios-de-mulheres-nas-residencias-e-a-mensuracao-do-feminicidio-no-brasil/",
+      "locator": "Fonte Segura, edição de 28/05/2025, título, subtítulo e primeiros parágrafos, linhas 23-34.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-ca30e6c13f29c676",
       "itemId": "pesquisa-767f7b2bb851e8cc",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -58985,6 +60404,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168625",
       "locator": "Identificação e situação, HTML linhas 20–48; relatório e emenda, 98–138; atos e tramitação na ficha.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e48d855fc66da004",
+      "itemId": "pesquisa-62a75a6dbbfdf729",
+      "sourceId": "fonte-4e3c890b0b0a3b74",
+      "url": "https://www.migalhas.com.br/depeso/428618/senado-aprova-porte-de-arma-para-mulher-sob-medida-protetiva",
+      "locator": "Migalhas, coluna De Peso, seções 1, 2 e 3, linhas 8-13, 29-46 e 59-63.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -59018,6 +60448,61 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/512967",
       "locator": "Texto integral; DSF 09/04/2025, p.56",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-22717771e3cbeed4",
+      "itemId": "pesquisa-e701458d5c0df354",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/04/09/cdh-aprova-porte-de-arma-para-mulher-sob-medida-protetiva-de-urgencia",
+      "locator": "Agência Senado, publicação 09/04/2025, título e parágrafos iniciais, linhas 19-34.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-5cdc82ff9a1ac5a9",
+      "itemId": "pesquisa-d3b5b0c686a7ec68",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2025/04/porte-de-arma-para-mulher-sob-medida-protetiva-tem-aprovacao-da-cdh",
+      "locator": "TV Senado, notícia de 09/04/2025, título e descrição textual, linhas 28-35.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-5799c145ffe18fee",
+      "itemId": "pesquisa-c86b3284c046a0a5",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/04/09/mulheres-em-risco-poderao-portar-arma-para-defesa-pessoal",
+      "locator": "Rádio Senado, seção Transcrição, linhas 21-28; duração nominal indicada na página: 02:25.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f550b8ca64bfa17a",
+      "itemId": "pesquisa-550defdd91c58d36",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/13425",
+      "locator": "CDH, 11ª reunião, item 6, transcrição em HTML, linhas 97-116; versão revista.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-b1ede764964e6120",
+      "itemId": "pesquisa-54c791b5eebc84dd",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13425",
+      "locator": "11ª reunião da CDH, seção Resultado da pauta, item 6, linhas 199-213.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -59090,6 +60575,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-f507ee9ce81cb02a",
+      "itemId": "pesquisa-13f4b477449f5d19",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13402/item/97225",
+      "locator": "CDH, 9ª reunião, cabeçalho e observações, linhas 20-47.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-59e2025bd415d222",
       "itemId": "pesquisa-d8ee3babb592edd6",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -59145,6 +60641,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-aa27462ed9a85c8f",
+      "itemId": "pesquisa-a833c3961e9015f7",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13393/item/97094",
+      "locator": "CDH, 6ª reunião de 26/03/2025, item 4, campos Relatório e Resultado, linhas 53-67.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-4527beff1e15f02f",
       "itemId": "pesquisa-e612fa1e8997b1e4",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -59178,11 +60685,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-45ea5844e33eaa83",
+      "itemId": "pesquisa-da88b3bc700c217c",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13364/item/96955",
+      "locator": "CDH, 4ª reunião de 19/03/2025, item 2, campos Autoria, Relatório e Resultado, linhas 35-50.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-46d386c76f0a271c",
       "itemId": "pesquisa-03f806591dedd29a",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2025/03/19/senado-aprova-sustar-exigencia-de-visto-de-australia-canada-eua-e-japao",
       "locator": "Agência Senado, matéria de 19/03/2025 às 19h22; discussão do PDL 206/2023 e manifestações de parlamentares.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-198ae14792301e92",
+      "itemId": "pesquisa-22581f79cf092d23",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/03/13/porte-de-armas-para-mulheres-sob-medidas-protetivas-esta-em-analise-na-cdh",
+      "locator": "Rádio Senado, cabeçalho e Transcrição, linhas 9-25; duração nominal 02:03.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -59304,6 +60833,28 @@
       "sourceId": "fonte-29a2bae5277f274b",
       "url": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-14978-18-setembro-2024-796251-publicacaooriginal-173037-pl.html",
       "locator": "Publicação original da Lei 14.978, versão HTML (300 linhas).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-540871b90773fd30",
+      "itemId": "pesquisa-18956670eab27035",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/08/30/projeto-autoriza-porte-de-arma-por-mulher-sob-medida-protetiva-de-urgencia",
+      "locator": "Rádio Senado, reportagem de 30/08/2024, seção Transcrição, linhas 9-26; duração nominal 02:26.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9bfa1a792026583d",
+      "itemId": "pesquisa-d6050658317d8458",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/08/27/propostas-no-senado-reforcam-combate-a-violencia-domestica-no-brasil",
+      "locator": "Agência Senado, subtítulo 'Porte de arma', linhas 59-65.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -62964,15 +64515,15 @@
     },
     {
       "year": 2024,
-      "found": 50,
-      "accessed": 50,
-      "analysed": 49,
+      "found": 52,
+      "accessed": 52,
+      "analysed": 51,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 1,
-        "analisado": 49,
+        "analisado": 51,
         "revisado": 0,
         "publicado": 0
       },
@@ -62980,7 +64531,7 @@
         "PLP 210/2024": 1,
         "PL 1829/2019": 2,
         "Flávio Bolsonaro": 18,
-        "PL 3272/2024": 1,
+        "PL 3272/2024": 3,
         "economia": 2,
         "Justiça": 1,
         "Abin": 1,
@@ -63001,7 +64552,7 @@
         "elegibilidade de militares": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 44,
+        "fonte-2acd9e7dc92e583a": 46,
         "fonte-29a2bae5277f274b": 3,
         "fonte-9a210054a698a70e": 1,
         "fonte-875b77e7aba40e8b": 1,
@@ -63009,8 +64560,8 @@
       },
       "formats": {
         "documento": 32,
-        "audio": 3,
-        "reportagem": 8,
+        "audio": 4,
+        "reportagem": 9,
         "registro": 5,
         "checagem": 1,
         "video": 1
@@ -63019,15 +64570,15 @@
     },
     {
       "year": 2025,
-      "found": 73,
-      "accessed": 73,
-      "analysed": 70,
+      "found": 87,
+      "accessed": 87,
+      "analysed": 83,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
-        "acessado": 3,
-        "analisado": 70,
+        "acessado": 4,
+        "analisado": 83,
         "revisado": 0,
         "publicado": 0
       },
@@ -63052,11 +64603,13 @@
         "Conselho de Ética": 1,
         "RQS 628/2025": 1,
         "PL 2734/2021": 7,
+        "PL 3272/2024 (contexto)": 3,
         "Correios": 1,
         "PL 3341/2025": 1,
         "MPV 1292/2025": 1,
         "economia": 1,
         "Lei 15152/2025": 1,
+        "PL 3272/2024": 11,
         "PL 2413/2025": 1,
         "PL 2343/2025": 1,
         "imunidade parlamentar": 1,
@@ -63071,22 +64624,24 @@
       },
       "sources": {
         "fonte-ab7ca292b805c308": 1,
-        "fonte-2acd9e7dc92e583a": 56,
+        "fonte-2acd9e7dc92e583a": 68,
         "fonte-29a2bae5277f274b": 7,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
         "fonte-ad60f42b08c8e9e7": 1,
         "fonte-875b77e7aba40e8b": 1,
         "fonte-3ed65b2f1d041330": 2,
-        "fonte-752f21616c18af3d": 1
+        "fonte-752f21616c18af3d": 1,
+        "fonte-c0abac72ff584660": 1,
+        "fonte-4e3c890b0b0a3b74": 1
       },
       "formats": {
-        "audio": 1,
-        "documento": 47,
-        "registro": 5,
+        "audio": 3,
+        "documento": 48,
+        "registro": 10,
         "checagem": 6,
-        "reportagem": 13,
-        "video": 1
+        "reportagem": 18,
+        "video": 2
       },
       "note": "Recorte não exaustivo."
     },
@@ -63216,11 +64771,11 @@
     }
   ],
   "metrics": {
-    "newItems": 643,
-    "items": 661,
+    "newItems": 659,
+    "items": 677,
     "alreadyInArchive": 18,
-    "accessed": 658,
-    "analysed": 628,
+    "accessed": 674,
+    "analysed": 643,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -63228,16 +64783,16 @@
     "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 65,
-    "sourcesConsulted": 60,
-    "video": 19,
-    "audio": 8,
-    "documents": 246,
+    "sources": 67,
+    "sourcesConsulted": 62,
+    "video": 20,
+    "audio": 11,
+    "documents": 247,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 214,
-    "accessFailures": 58,
+    "queryCount": 220,
+    "accessFailures": 59,
     "undatedItems": 38
   },
   "queries": [
@@ -64619,6 +66174,60 @@
       "resultsState": "13 URLs distintas ainda não catalogadas; material anterior preservado."
     },
     {
+      "id": "consulta-6ba3cc0520779659",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+      "query": "PL 3272/2024, linha do tempo da CDH em março e abril de 2025: resultado das reuniões, substitutivo e Magno Malta/Plínio Valério",
+      "executedAt": "2026-10-25T10:19:44.690Z",
+      "engine": "web.run, abertura direta de fichas oficiais e notas taquigráficas do Senado",
+      "interval": "2025-03 a 2025-04",
+      "resultsState": "Retirado em 19/03 e 26/03; reunião 02/04 cancelada; parecer na forma de substitutivo aprovado pela CDH em 09/04, não é lei."
+    },
+    {
+      "id": "consulta-907afd0f3a3f8e52",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+      "query": "PL 3272/2024, justificativa pública da autora Rosana Martinelli e transcrições institucionais Rádio Senado",
+      "executedAt": "2026-10-25T10:19:44.690Z",
+      "engine": "web.run, leitura direta de 3 páginas de Rádio Senado e reportagem de Agência Senado",
+      "interval": "2024-08 a 2025-04",
+      "resultsState": "Argumentos publicamente atribuídos à autora e relatoria identificados; áudio não ouvido e estimativas não checadas nas bases originais."
+    },
+    {
+      "id": "consulta-9a6bfc7bcd420ac5",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+      "query": "PL 3272/2024 opiniões contrárias porte arma mulheres medida protetiva riscos segurança",
+      "executedAt": "2026-10-25T10:19:44.690Z",
+      "engine": "web.run, pesquisa e abertura de artigo jurídico assinado",
+      "interval": "2025-04",
+      "resultsState": "Um ensaio crítico individual aberto em Migalhas; artigo de opinião, não checagem e com título impreciso sobre alcance da aprovação."
+    },
+    {
+      "id": "consulta-c09b9324ba0b9dc9",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+      "query": "Projetos de desarmamento de agressores, PL 3093/2025 e posicionamento público de Augusta Brito",
+      "executedAt": "2026-10-25T10:19:44.690Z",
+      "engine": "web.run, abertura de ficha legislativa e notícias oficiais do Senado",
+      "interval": "2025-06 a 2025-07",
+      "resultsState": "Propostas diferentes de controle de armas dos agressores, não resposta direta a Flávio nem oposição nominal ao PL 3272."
+    },
+    {
+      "id": "consulta-20bdbb8afd02c0ad",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+      "query": "Ipea Fórum Brasileiro de Segurança Pública homicídios mulheres residência mensuração feminicídio Fonte Segura",
+      "executedAt": "2026-10-25T10:19:44.690Z",
+      "engine": "web.run, consulta textual direta à publicação",
+      "interval": "2025-05",
+      "resultsState": "Texto de contexto estatístico consultado, sem estudo de eficácia da autorização do porte à vítima."
+    },
+    {
+      "id": "consulta-f04b091eee6c25b2",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+      "query": "Catálogo QGBALTIGO/Internacional: conferir URLs candidatas de PL 3272/2024",
+      "executedAt": "2026-10-25T10:19:44.690Z",
+      "engine": "Conector GitHub, leitura estruturada de content/research.json main",
+      "interval": "até 2026-10-25T10:16:34Z",
+      "resultsState": "661 materiais existentes; todas as 16 URLs candidatas são inéditas no arquivo. Os três materiais de CSP anteriores foram mantidos, sem duplicação."
+    },
+    {
       "id": "consulta-796437e18ad7571e",
       "batch": "pl4244-agravante-cdh-ccj-20261025-32",
       "query": "PL 4244/2025 Flávio Bolsonaro CDH 08/04/2026 Magno Malta resultado notas taquigráficas",
@@ -65453,6 +67062,12 @@
       "source": "https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728",
       "status": "inspeção visual bloqueada",
       "note": "Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial."
+    },
+    {
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/13328/item/96863",
+      "status": "Timeout em tentativa de abertura da página de reunião",
+      "note": "Não cadastrada como registro acessado; busca pode ser repetida. Consulta de pesquisa, não prova de indisponibilidade permanente."
     },
     {
       "batch": "pl4244-agravante-cdh-ccj-20261025-32",
@@ -66331,6 +67946,36 @@
       "batch": "pl3071-loteca-abbr-20261025-31"
     },
     {
+      "id": "lacuna-c340ffec3d219cd5",
+      "note": "PL 3272/2024: consultar em ambiente com acesso os PDFs íntegros do substitutivo CDH, Emenda 1 de Alessandro Vieira e relatório de Flávio Bolsonaro na CSP, comparando dispositivos sem inferir redação por resumos.",
+      "state": "pendente",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37"
+    },
+    {
+      "id": "lacuna-dcbe924f064fe020",
+      "note": "PL 3272/2024: reabrir CSP após concessão de vista em 01/09/2026 e verificar se houve deliberação posterior. Não confundir parecer favorável com aprovação de lei.",
+      "state": "pendente",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37"
+    },
+    {
+      "id": "lacuna-fc98f572557e2640",
+      "note": "PL 3272/2024: procurar manifestações técnicas diretamente publicadas por entidades e dados empíricos pertinentes ao porte por vítimas. Artigo de opinião encontrado não comprova efeito causal.",
+      "state": "pendente",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37"
+    },
+    {
+      "id": "lacuna-33017538265fb660",
+      "note": "PL 3272/2024: conferir integrais de vídeos e áudios somente quando licitamente acessíveis. Nesta coleta, 0 segundos reproduzidos e nenhum timestamp de mídia certificado.",
+      "state": "pendente",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37"
+    },
+    {
+      "id": "lacuna-fc8546b3b97e1ea6",
+      "note": "Não atribuir a Flávio autoria do PL nem manifestações de Rosana, Magno Malta, Plínio, Alessandro, Augusta ou do articulista. Não criar vereditos ou comparações sensíveis sem revisão editorial humana identificada; não alterar approvedReviewerIds.",
+      "state": "pendente",
+      "batch": "pl3272-protecao-medidas-cdh-csp-20261025-37"
+    },
+    {
       "id": "lacuna-80119021fe3f3f8c",
       "note": "Ler em ambiente autorizado as versões íntegras do projeto, Emenda 1-CDH, Parecer 41/2026 e relatório/subemenda da CCJ; PDF devolveu verificação de segurança na consulta atual.",
       "state": "pendente",
@@ -66895,6 +68540,12 @@
       "label": "PL 3071/2019: Loteca, ABBR, votação no Senado, emendas para Rede Sarah e tramitação pendente na Câmara",
       "collected_at_utc": "2026-10-25T04:45:32.971Z",
       "method": "13 URLs HTML oficiais distintas efetivamente lidas; verificados 593 registros prévios; Senado/Câmara/Rádio Senado, resposta do autor e ressalva parlamentar; nenhum PDF ou áudio integral inspecionado, classificação e revisão nulas."
+    },
+    {
+      "id": "checkpoint-20261025-37",
+      "label": "PL 3272/2024 na CDH, íntegras taquigráficas textuais, defesa da autora, artigo de opinião contrário e iniciativas legislativas de contexto",
+      "collected_at_utc": "2026-10-25T10:19:44.690Z",
+      "method": "16 URLs distintas com páginas abertas, 1 timeout separado, 0 segundos de mídias reproduzidas, nenhum novo veredito/revisor."
     },
     {
       "title": "Ficha do PL 4244/2025 previamente catalogada (não repetida)",
