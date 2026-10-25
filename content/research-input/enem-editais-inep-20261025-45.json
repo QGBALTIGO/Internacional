@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "batch_id": "enem-editais-inep-20261025-45",
+  "collected_at_utc": "2026-10-25T18:33:05.987Z",
+  "scope": "Retomar nextBatch do PL 1277/2020 mediante leitura direta dos editais 54 e 55/2020 e do índice normativo do Inep. Distinguir datas dos atos administrativos das deliberações legislativas e conservar divergência de placares sem veredito.",
+  "method": "Consultas públicas em 25/10/2026, abertura dos dois arquivos PDF oficiais do Inep no RIEP com leitura de texto e inspeção visual da primeira página de cada documento, e abertura de índice normativo HTML no portal do Inep; cotejo de URLs com 751 registros já catalogados. Não se ouviu ou reproduziu áudio ou vídeo. O instante UTC de collected_at_utc é o fechamento efetivo do lote; não é horário individual de cada abertura.",
+  "records": [
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e atos do Inep",
+      "topics": [
+        "PL 1277/2020",
+        "Enem 2020",
+        "Inep",
+        "atos administrativos"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "45-inep-edital54-impresso",
+      "document_number": "Edital Inep nº 54/2020",
+      "title": "Edital Inep nº 54/2020: cronograma oficial do Enem impresso",
+      "url": "https://riep.inep.gov.br/bitstreams/4c4bb1df-eb8b-4124-9650-e38e5d87b2b2/download",
+      "publisher": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)",
+      "format": "documento",
+      "summary": "Íntegra oficial do Edital nº 54, de 28/07/2020, veiculada no DOU de 31/07/2020. O item 1.3 estabelece o calendário do Enem 2020 impresso e prevê aplicação em 17 e 24/01/2021. Registra a execução administrativa da mudança de datas; o edital não demonstra que o PL 1277/2020 tenha sido convertido em lei.",
+      "locator": "Página 1/56 do PDF; Diário Oficial da União, edição 146, seção 3, página 73; cabeçalho e item 1.3, linha 'Aplicação: 17 e 24/1/2021'.",
+      "limitations": "A primeira página foi examinada visualmente e o PDF apresentou texto extraível, mas não houve revisão jurídico-redacional integral de todas as 56 páginas. Cópia de publicação DOU disponibilizada pelo repositório institucional RIEP/Inep, não laudo de autenticidade. Não vincular o ato a voto individual ou a uma lei sancionada.",
+      "access_method": "PDF acessado em HTTPS no repositório oficial do Inep; texto extraído pelo leitor público e página inicial inspecionada por imagem em 25/10/2026.",
+      "event_date": "2020-07-28",
+      "published_date": "2020-07-31"
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e atos do Inep",
+      "topics": [
+        "PL 1277/2020",
+        "Enem 2020",
+        "Inep",
+        "atos administrativos"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "45-inep-edital55-digital",
+      "document_number": "Edital Inep nº 55/2020",
+      "title": "Edital Inep nº 55/2020: cronograma oficial do Enem digital",
+      "url": "https://riep.inep.gov.br/bitstreams/4d3bd622-e1ee-452a-abde-80447bd03ad7/download",
+      "publisher": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)",
+      "format": "documento",
+      "summary": "Íntegra oficial do Edital nº 55, de 28/07/2020, publicada no DOU de 31/07/2020. O item 1.3 prevê aplicação do Enem 2020 digital em 31/01 e 07/02/2021, em datas distintas da edição impressa. Trata-se de ato administrativo do Inep e não de desfecho legislativo do PL 1277/2020.",
+      "locator": "Página 1/20 do PDF; Diário Oficial da União, edição 146, seção 3, página 87; item 1.3, linha 'Aplicação: 31/1/2021 e 7/2/2021'.",
+      "limitations": "Examinados visualmente capa, cabeçalho e cronograma da primeira página; não houve leitura redacional exaustiva dos 20 fólios. PDF é reprodução da publicação DOU servida pelo RIEP/Inep. Não afirmar que data prevista significa realização efetiva ou aprovação final de projeto de lei.",
+      "access_method": "PDF público acessado em HTTPS pelo repositório oficial do Inep, texto extraído e página 1 conferida visualmente em 25/10/2026.",
+      "event_date": "2020-07-28",
+      "published_date": "2020-07-31"
+    },
+    {
+      "topic": "PL 1277/2020, adiamento do Enem e atos do Inep",
+      "topics": [
+        "PL 1277/2020",
+        "Enem 2020",
+        "Inep",
+        "atos administrativos"
+      ],
+      "access_status": "accessed",
+      "stage": "analisado",
+      "editorialClassification": null,
+      "reviewer": null,
+      "reviewedAt": null,
+      "id": "45-inep-indice-legislacao",
+      "document_number": null,
+      "title": "Índice oficial de editais e retificações do Enem 2020 no Inep",
+      "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/legislacao/enem/2020",
+      "publisher": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)",
+      "format": "registro",
+      "summary": "Índice institucional publicado em 21/10/2020 e atualizado em 06/01/2021 lista os editais nº 54 e 55, além dos atos nº 47, 33 e 34 e suas retificações. Oferece contexto de publicação e alterações do calendário do Enem 2020, sem afirmar que todos os atos foram examinados na íntegra.",
+      "locator": "Página '2020' em Centrais de Conteúdo > Legislação > Enem; linhas da lista 'Edital nº 55', 'Edital nº 54', 'Edital nº 47' e retificações de 33/34; cabeçalho 'Publicado em 21/10/2020 ... Atualizado em 06/01/2021'.",
+      "limitations": "Índice HTML acessado e lido; os demais editais listados não foram automaticamente considerados consultados. A marca 'Edital vigente' retrata a apresentação histórica do portal, não garante vigência atual de disposições do calendário de 2020.",
+      "access_method": "Página HTML pública do portal institucional do Inep aberta e lida em 25/10/2026.",
+      "event_date": null,
+      "published_date": "2020-10-21"
+    }
+  ],
+  "queries": [
+    {
+      "query": "Inep Enem 2020 Edital 54 de 28 de julho de 2020 PDF Diário Oficial aplicação 17 e 24 janeiro 2021",
+      "executed_at": "2026-10-25T18:33:05.987Z",
+      "engine": "busca web e abertura do PDF oficial do RIEP/Inep com imagem da página 1",
+      "interval": "2020-2021",
+      "result": "Edital 54/2020 diretamente acessado, DOU 31/07/2020 seção 3 p.73, item 1.3 prevê prova impressa em 17 e 24/01/2021."
+    },
+    {
+      "query": "Inep Enem 2020 Edital 55 de 28 de julho de 2020 PDF Diário Oficial aplicação 31 janeiro e 7 fevereiro 2021",
+      "executed_at": "2026-10-25T18:33:05.987Z",
+      "engine": "busca web e abertura do PDF oficial do RIEP/Inep com imagem da página 1",
+      "interval": "2020-2021",
+      "result": "Edital 55/2020 diretamente acessado, DOU 31/07/2020 seção 3 p.87, item 1.3 prevê prova digital em 31/01 e 07/02/2021."
+    },
+    {
+      "query": "site:gov.br/inep Enem 2020 legislação índice editais retificação 54 55 47 33 34",
+      "executed_at": "2026-10-25T18:33:05.987Z",
+      "engine": "busca web e abertura direta de HTML do Inep",
+      "interval": "2020-2021",
+      "result": "Índice HTML institucional consultado lista editais originais, de julho e retificações; publicado 21/10/2020, atualizado 06/01/2021."
+    },
+    {
+      "query": "Senado PL 1277/2020 votação nominal 74 2 reportagem 75 1 ata retificação Diário do Senado",
+      "executed_at": "2026-10-25T18:33:05.987Z",
+      "engine": "busca web e leitura de ficha já catalogada do Senado; tentativa de acesso ao leitor de diários",
+      "interval": "19/05/2020",
+      "result": "Ficha do Senado consultada novamente; a divergência entre 74-2 e 75-1 não foi considerada resolvida por esta leitura. Página de diário não trouxe íntegra textual examinável."
+    }
+  ],
+  "blocked": [
+    {
+      "source": "URL original do PDF do Edital 54 no servidor download.inep.gov.br",
+      "status": "HTTP 502 na consulta pública",
+      "note": "O PDF não foi considerado lido no endereço bloqueado. Foi examinada a cópia disponibilizada pelo próprio repositório RIEP do Inep, registrada no catálogo."
+    },
+    {
+      "source": "Agência Brasil, reportagens de julho de 2020 sobre enquete/calendário",
+      "status": "HTTP 500 nas aberturas tentadas",
+      "note": "Resultados de pesquisa não foram tratados como leitura efetiva nem incorporados aos três registros."
+    },
+    {
+      "source": "Diário do Senado Federal, edição de maio de 2020 no leitor online",
+      "status": "Leitor sem conteúdo textual examinável na abertura",
+      "note": "Não foi atestada leitura da ata nem reconciliação definitiva do placar de 74-2 com o de 75-1."
+    },
+    {
+      "source": "Registros audiovisuais sobre Enem e sessão legislativa",
+      "status": "Não reproduzidos",
+      "note": "Nenhum áudio ou vídeo examinado; zero segundos de audição e nenhuma minutagem validada."
+    }
+  ],
+  "gaps": [
+    "PL 1277/2020: obter em formato legível a ata da sessão de 19/05/2020, inclusive eventual retificação nominal, para cotejar a notícia 75-1 com painel 74-2 sem atribuir falsidade automática.",
+    "Enem 2020: localizar e abrir relatório primário do resultado integral da enquete aos candidatos (base, porcentagens e datas), sem confiar só em notícias secundárias.",
+    "PL 1277/2020: examinar PDF do parecer completo na Câmara e movimentações posteriores na CCJC; os editais do Inep não alteram o status legislativo do projeto.",
+    "Revisão editorial humana identificada permanece obrigatória para qualquer acusação, veredito ou comparação política sensível; approvedReviewerIds não deve ser alterado."
+  ]
+}
