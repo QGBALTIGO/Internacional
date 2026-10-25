@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T00:13:46.525279Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T01:17:23.153183Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-564 URLs únicas no lote; 546 ainda não vinculadas à edição anterior. 561 materiais acessados e 536 com texto analisado.
+574 URLs únicas no lote; 556 ainda não vinculadas à edição anterior. 571 materiais acessados e 546 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -28,13 +28,13 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2016 | 2 | 2 | 2 | 0 | 0 |
 | 2017 | 0 | 0 | 0 | 0 | 0 |
 | 2018 | 5 | 5 | 4 | 0 | 0 |
-| 2019 | 37 | 37 | 35 | 0 | 0 |
+| 2019 | 40 | 40 | 38 | 0 | 0 |
 | 2020 | 10 | 10 | 9 | 0 | 0 |
 | 2021 | 32 | 32 | 28 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
 | 2023 | 24 | 24 | 22 | 0 | 0 |
 | 2024 | 32 | 32 | 31 | 0 | 0 |
-| 2025 | 62 | 62 | 59 | 0 | 0 |
+| 2025 | 68 | 68 | 65 | 0 | 0 |
 | 2026 | 271 | 271 | 267 | 0 | 0 |
 
 Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
@@ -128,6 +128,11 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - Localizar críticas jornalísticas específicas à velocidade da tramitação e o contraditório completo antes de qualquer comparação ou juízo de falsidade sobre a resposta institucional da CSP.
 - Verificar impactos alegados da lei em bases primárias de furto e roubo de combustíveis com séries anteriores e posteriores, sem inferir eficácia de declarações públicas.
 - Todo novo veredito, acusação ou comparação sensível fica pendente de revisor humano identificado. Nenhum áudio, vídeo, timestamp ou revisão editorial foi certificado nesta coleta.
+- PL 2169/2019: obter e cotejar visualmente a íntegra assinada do substitutivo da CDH (PDF) e o avulso inicial antes de comparação textual definitiva.
+- PL 2169/2019 e PL 3030/2019: acompanhar a CCJ; não confundir aprovação da CDH com lei vigente, nem presumir que pedidos retirados de tramitação conjunta tiveram eficácia.
+- Confrontar alegações empíricas sobre reincidência, proteção, internação e eficácia com levantamentos oficiais e literatura independente, sem atribuir estatísticas sem fonte.
+- Obter e comparar manifestações técnicas críticas às mudanças do ECA e respostas públicas específicas em revisão humana editorial identificada.
+- Conferir trechos audiovisuais decisivos da CDH e Plenário quando houver acesso permitido. Até aqui 0 segundos conferidos e nenhuma classificação editorial nova.
 - Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.
 - Confirmar desfecho legislativo após comunicação de veto total ao PL 3003/2014.
 - Conferir Diários e gravações integrais antes de novas citações, timestamps, comparações ou vereditos; áudio ouvido nesta coleta: zero segundos.
@@ -228,6 +233,7 @@ Materiais sem data: 37. Ausência de registros em um ano significa lacuna deste 
 - batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: Item individual da CSP, 12ª reunião de 14/07/2026, portal legis.senado.leg.br; status: Falha transitória de leitura nesta execução; note: Duas tentativas diretas de abrir o item terminaram em timeout. Não cadastrado como documento lido; a situação foi reconstituída apenas por ficha de tramitação, notas oficiais textuais e reportagem efetivamente acessadas.
 - batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: PDF da Mensagem 772/2026 e PDFs dos relatórios e emendas do PL 1482/2019; status: Íntegra de PDF não consultada; note: Não se reivindica acesso, leitura ou cotejo textual dos PDFs. Fichas HTML e lei em HTML não substituem autenticação visual de anexos.
 - batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: Áudios e vídeo das reuniões da CSP, CCJ e Plenário; status: Não reproduzidos; note: Zero segundos ou marcações conferidos. Referências de linhas se limitam a texto HTML; horários apresentados nas páginas não constituem timestamps de mídia validados.
+- batch: pl2169-cdh-substitutivo-tramitacao-20261025-28; source: https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728; status: inspeção visual bloqueada; note: Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial.
 - batch: primarias-20261024-02; source: Executor local de scripts; error: Sem checkout Git ou terminal remoto conectado nesta execução. Normalização content/research.json e dist/data/research.json e research.js pendente; não afirmar publicação automática.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2003–2008; url: https://alerjln1.alerj.rj.gov.br/scpro0307.nsf/e00a7c3c8652b69a83256cca00646ee5/5cbef3b7651fa94c83256f6c0060c240; error: Abertura da fonte oficial retornou 502. Somente resultado de busca, não lido na íntegra; não incluído no catálogo.
 - batch: senado-2023-2024-20261024-04; source: Arquivo institucional ALERJ, 2004; url: https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/b24a2da5a077847c032564f4005d4bf2/5aacd46ba577c4f983256ebb006214b9; error: Abertura da página de lei antiga retornou erro de gateway; não registrar sua ementa ou efeito como texto consultado.

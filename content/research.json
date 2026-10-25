@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T00:13:46.525279Z",
-    "inputHash": "97a28fa9037f4010abbee1f347c5b31271747bd3f6cd6c94f61ff30456823d81",
+    "generatedAt": "2026-10-25T01:17:23.153183Z",
+    "inputHash": "973b400dd7e0b861461bed2903f3b532d95c37a3ad21acf239fe3cfe75ec00d3",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-24",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -18823,6 +18823,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-d35268b629b82977",
+      "title": "CDH: parecer favorável ao PL 2169/2019 na forma do substitutivo e prejudicialidade do PL 3030/2019",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14095/item/103040",
+      "publisher": "Senado Federal, ficha de reunião da Comissão de Direitos Humanos",
+      "date": "2025-10-22",
+      "eventDate": "2025-10-22",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2169/2019",
+      "topics": [
+        "PL 2169/2019",
+        "votação em comissão",
+        "substitutivo",
+        "PL 3030/2019"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha da reunião confirma que o relatório de Marcio Bittar, apresentado em plenário da CDH por Marcos Rogério como relator ad hoc, foi aprovado em 22/10/2025. O parecer foi favorável ao PL 2169 de Flávio com Emenda 1-CDH (substitutivo) e considerou prejudicado o PL 3030 de Fabiano Contarato. Parecer aprovado na CDH não equivale à conclusão da CCJ ou vigência de lei.",
+      "limitations": "Foi lido o resultado oficial em HTML; PDF de relatório listado não foi conferido integralmente e não houve leitura de votação nominal nem audição.",
+      "locator": "70ª reunião extraordinária, item 2, seção 'Autoria e relatoria', 'Relatório' e 'Resultado', HTML linhas 39–72.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T01:17:10.136Z",
+      "lastModifiedAt": "2026-10-25T01:17:10.136Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A justificativa e manifestações dos envolvidos constam de notas taquigráficas oficiais catalogadas separadamente.",
+      "actor": "Flávio Bolsonaro, autor; Marcio Bittar, relator; Marcos Rogério, relator ad hoc; CDH, colegiado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2169/2019; PL 3030/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+          "inputId": "pl2169-cdh-substitutivo-tramitacao-20261025-28-02",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-d309ba4b07c576dd",
       "title": "Senado: íntegra textual da CCJ de 22/10 relata adoção sem nova votação e justificativa de Flávio ao PL 1473/2025",
       "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14080",
@@ -18888,6 +18955,73 @@
         }
       ],
       "accessMethod": "Página HTML efetivamente aberta e lida em 24/10/2026. collected_at é o encerramento do lote em UTC, não horário individual da consulta. Nenhum PDF desta fonte foi conferido por extração/screenshot, e nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-c966245125d90aa0",
+      "title": "Discurso de Damares Alves após aprovação do PL 2169 na CDH menciona proposta de Flávio e outra de Contarato",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/517786",
+      "publisher": "Senado Federal, texto integral de pronunciamento",
+      "date": "2025-10-22",
+      "eventDate": "2025-10-22",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2169/2019",
+      "topics": [
+        "PL 2169/2019",
+        "PL 1473/2025",
+        "reação parlamentar",
+        "situação legislativa"
+      ],
+      "stage": "analisado",
+      "summary": "Texto integral do discurso de 22/10/2025 registra que Damares celebrou a aprovação na Comissão de Direitos Humanos da proposta de autoria de Flávio e se referiu a proposta semelhante atribuída a Fabiano Contarato, já apreciada em outra comissão. A fala é uma manifestação favorável de terceira pessoa e não demonstra, por si, lei aprovada ou efeitos sociais.",
+      "limitations": "Íntegra textual oficial consultada; nenhum áudio ou vídeo foi reproduzido. A declaração da senadora é evidência do posicionamento dela, não deve ser atribuída literalmente a Flávio.",
+      "locator": "Pronunciamento de 22/10/2025 durante 151ª sessão, HTML linhas 20–44 (identificação), 59–66 (referência ao tema).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T01:17:10.136Z",
+      "lastModifiedAt": "2026-10-25T01:17:10.136Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Manifestação pública favorável de Damares Alves atribuída à própria senadora.",
+      "actor": "Damares Alves, autora do discurso; menção a Flávio Bolsonaro e Fabiano Contarato",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Pronunciamento 517786; PL 2169/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+          "inputId": "pl2169-cdh-substitutivo-tramitacao-20261025-28-07",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
       "newToArchive": true
     },
     {
@@ -19027,6 +19161,74 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-149b1cf6c2e24ef1",
+      "title": "Notas taquigráficas integrais da CDH: intervenção de Flávio e leitura do substitutivo ao PL 2169/2019",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14095",
+      "publisher": "Senado Federal, notas taquigráficas oficiais revisadas",
+      "date": "2025-10-22",
+      "eventDate": "2025-10-22",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "medidas socioeducativas",
+      "topics": [
+        "medidas socioeducativas",
+        "PL 2169/2019",
+        "substitutivo da CDH",
+        "declaração de Flávio",
+        "contraditório parlamentar"
+      ],
+      "stage": "analisado",
+      "summary": "A íntegra textual revisada registra Flávio, autor do PL 2169, defendendo tramitação célere e discutindo com Fabiano Contarato a aproximação com o PL 1473/2025, de autoria deste, que tivera substitutivo relatado por Flávio na CCJ. Contarato pondera os riscos regimentais da tramitação conjunta e agradece a atuação de Flávio. Marcos Rogério lê parecer de Marcio Bittar com substitutivo ao PL 2169 que altera a proposta original de sete anos: cinco anos como prazo geral e até dez para atos com violência ou grave ameaça e hipóteses descritas como hediondas ou equiparadas, além de outras mudanças no ECA e no Código Penal. São argumentos e texto proposto, não lei vigente nem resultado estatístico comprovado.",
+      "limitations": "Somente transcrição oficial revisada em HTML, não a gravação: 0 segundos ouvidos. Os fundamentos do parecer sobre eficácia/reincidência não foram confrontados com estatísticas independentes; a redação integral do substitutivo em PDF não foi cotejada visualmente.",
+      "locator": "70ª reunião CDH de 22/10/2025; HTML linhas 99–110 (Flávio e Contarato), 134–161 (relatório substitutivo), 177–181 (deliberação).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T01:17:10.136Z",
+      "lastModifiedAt": "2026-10-25T01:17:10.136Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A manifestação favorável de Flávio, os alertas procedimentais de Contarato e os argumentos do relator Bittar são atribuídos separadamente na mesma transcrição.",
+      "actor": "Flávio Bolsonaro; Fabiano Contarato; Marcos Rogério, relator ad hoc do parecer de Marcio Bittar; Damares Alves",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2169/2019; PL 3030/2019; PL 1473/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+          "inputId": "pl2169-cdh-substitutivo-tramitacao-20261025-28-01",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-023681089972fe3d",
       "title": "Texto original do PL 2.169/2019 e proposta de substitutivo na CDH",
       "url": "https://www12.senado.leg.br/noticias/materias/2025/10/20/cdh-vota-aumento-do-prazo-maximo-de-internacao-em-medida-socioeducativa",
@@ -19089,6 +19291,72 @@
         }
       ],
       "accessMethod": "Abertura e leitura da página pública HTML com web.run. Data de collected_at é o fechamento do checkpoint, não o horário individual de cada página. Nenhum áudio foi ouvido e nenhum anexo PDF foi examinado.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-b51119c23d99e7a6",
+      "title": "CDH em 15 de outubro de 2025 retirou de pauta o PL 2169, aprovado em reunião posterior",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14024/item/102796",
+      "publisher": "Senado Federal, ficha da 67ª reunião extraordinária da CDH",
+      "date": "2025-10-15",
+      "eventDate": "2025-10-15",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2169/2019",
+      "topics": [
+        "PL 2169/2019",
+        "cronologia de pauta",
+        "Comissão de Direitos Humanos"
+      ],
+      "stage": "analisado",
+      "summary": "Item da 67ª reunião da CDH, em 15/10/2025, registra 'Retirado de pauta' para o PL 2169/2019. O mesmo projeto foi apreciado e obteve parecer favorável na reunião de 22/10, registrada separadamente. Retirada da pauta em 15/10 não significa arquivamento do projeto.",
+      "limitations": "Resultado procedimental consultado via HTML. Não se atribui motivação à retirada sem documento comprobatório e não foi examinada gravação da reunião.",
+      "locator": "67ª reunião da CDH, item 1, HTML linhas 20–55, campo 'Resultado'.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T01:17:10.136Z",
+      "lastModifiedAt": "2026-10-25T01:17:10.136Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Posicionamentos posteriores dos parlamentares constam nas notas taquigráficas oficiais de 22/10.",
+      "actor": "CDH; Marcio Bittar, relator do parecer proposto; Flávio Bolsonaro, autor",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2169/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+          "inputId": "pl2169-cdh-substitutivo-tramitacao-20261025-28-08",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
       "newToArchive": true
     },
     {
@@ -20078,6 +20346,140 @@
         }
       ],
       "accessMethod": "Abertura direta da página institucional em HTML e leitura do texto publicado; sem reprodução de áudio/vídeo, sem conferir íntegras de PDFs citados.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-2f6a94ca65d87a47",
+      "title": "RQS 628/2025: deferida retirada definitiva do pedido de tramitação conjunta feito por Flávio",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170023",
+      "publisher": "Senado Federal, ficha de requerimento",
+      "date": "2025-08-25",
+      "eventDate": "2025-08-25",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "RQS 628/2025",
+      "topics": [
+        "RQS 628/2025",
+        "RQS 607/2025",
+        "retirada deferida",
+        "PL 2169/2019"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio pediu a retirada definitiva do RQS 607/2025, que havia solicitado tramitação conjunta do PL 1473/2025 e do PL 2169/2019. A Presidência deferiu a retirada em 25/08/2025; a ficha também registra publicação no Diário do Senado de 26/08. O dado impede apresentar o primeiro requerimento como ato de unificação efetivado.",
+      "limitations": "Metadados e decisão acessados em HTML, sem leitura da imagem da página do Diário ou do PDF de avulso.",
+      "locator": "Ficha RQS 628/2025, HTML linhas 20–39, 77–81 e 96–104.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T01:17:10.136Z",
+      "lastModifiedAt": "2026-10-25T01:17:10.136Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Retirada requerida pelo próprio parlamentar e despacho deferido publicamente registrado.",
+      "actor": "Flávio Bolsonaro, requerente; Presidência do Senado, autoridade decisória",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "RQS 628/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+          "inputId": "pl2169-cdh-substitutivo-tramitacao-20261025-28-06",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-54e4358a730769c6",
+      "title": "RQS 607/2025: pedido de Flávio de tramitação conjunta do PL 1473/2025 com o PL 2169/2019 foi retirado",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169924",
+      "publisher": "Senado Federal, ficha de requerimento",
+      "date": "2025-08-15",
+      "eventDate": "2025-08-25",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2169/2019",
+      "topics": [
+        "PL 2169/2019",
+        "PL 1473/2025",
+        "tramitação conjunta",
+        "retirada de requerimento"
+      ],
+      "stage": "analisado",
+      "summary": "Flávio apresentou em 15/08/2025 o RQS 607 solicitando tramitação conjunta do PL 1473/2025 com o PL 2169/2019 e matérias relacionadas. A ficha informa situação encerrada com retirada pelo próprio autor em 25/08/2025, associada ao RQS 628. Não há fundamento nessa ficha para declarar que o requerimento 607 efetivamente reuniu as propostas.",
+      "limitations": "Ficha e tramitação consultadas em HTML; não foi examinado PDF/Diário integral da petição ou dos despachos. A retirada é resultado processual, não julgamento sobre mérito legislativo.",
+      "locator": "Ficha RQS 607/2025, HTML linhas 20–39, 61–85 e 96–104.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T01:17:10.136Z",
+      "lastModifiedAt": "2026-10-25T01:17:10.136Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Posição processual formalizada pelo próprio Flávio, complementada pelo requerimento de retirada RQS 628.",
+      "actor": "Flávio Bolsonaro, autor do requerimento",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "RQS 607/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+          "inputId": "pl2169-cdh-substitutivo-tramitacao-20261025-28-05",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
       "newToArchive": true
     },
     {
@@ -31480,6 +31882,73 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-6e567c3ddb7f5314",
+      "title": "PL 3030/2019 de Fabiano Contarato: proposta conexa examinada e considerada prejudicada na CDH",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136880",
+      "publisher": "Senado Federal, ficha legislativa",
+      "date": "2019-05-21",
+      "eventDate": "2025-10-24",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 3030/2019",
+      "topics": [
+        "PL 3030/2019",
+        "Fabiano Contarato",
+        "medidas socioeducativas",
+        "tramitação paralela"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha oficial atribui o PL 3030/2019 a Fabiano Contarato, com proposta inicial de cinco anos de internação e liberação compulsória aos 23 anos. O parecer da CDH de 22/10/2025 foi pela prejudicialidade dessa matéria e acolhimento do PL 2169 com substitutivo; a ficha ainda indicava encaminhamento à CCJ para nova relatoria. A decisão de prejudicialidade em uma comissão não autoriza afirmar extinção definitiva de todo o processo legislativo.",
+      "limitations": "Metadados e histórico lidos em HTML, sem exame do avulso inicial ou do parecer integral em PDF. A ementa oficial reproduz uma referência aparentemente incorreta ao número da lei do ECA; este resumo emprega a referência correta Lei 8.069/1990 pela fonte primária legal, sem corrigir silenciosamente a citação da ficha.",
+      "locator": "Ficha do PL 3030/2019, HTML linhas 20–38 (autoria, ementa e estágio), 88–110 (parecer), e atos de 22 a 24/10/2025 na tramitação.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T01:17:10.136Z",
+      "lastModifiedAt": "2026-10-25T01:17:10.136Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A proposta alternativa de Contarato e suas ponderações na sessão de 22/10/2025 são registradas em transcrição oficial distinta.",
+      "actor": "Fabiano Contarato, autor; Marcio Bittar, relator de relatório conjunto com PL 2169",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 3030/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+          "inputId": "pl2169-cdh-substitutivo-tramitacao-20261025-28-03",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-6067b7e18724fc04",
       "title": "Flávio defende decreto sobre armas em pronunciamento de maio de 2019",
       "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/453390",
@@ -31675,6 +32144,72 @@
         }
       ],
       "accessMethod": "HTML institucional do Senado Federal aberto e lido diretamente nesta execução em 24/10/2026. Documentos PDF vinculados não foram abertos; nenhum áudio ou vídeo foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-1d494d4f3e32b9c9",
+      "title": "Agência Senado em 2019: apresentação pública da versão original de sete anos do projeto de Flávio",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/04/15/projeto-eleva-prazo-maximo-de-internacao-de-jovens-infratores-de-tres-para-sete-anos",
+      "publisher": "Agência Senado",
+      "date": "2019-04-15",
+      "eventDate": "2019-04-09",
+      "year": 2019,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2169/2019",
+      "topics": [
+        "PL 2169/2019",
+        "proposta original",
+        "declaração pública em justificativa"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem institucional contemporânea à apresentação registra a proposta original do PL 2169/2019: elevar o teto de internação de três para sete anos e a liberação compulsória de 21 para 25 anos. Atribui à justificativa escrita do autor argumentos sobre atos infracionais graves. Esse texto inicial difere do substitutivo posterior aprovado na CDH; nenhuma dessas versões é descrita como lei promulgada.",
+      "limitations": "Reportagem resume o projeto e reproduz declaração curta de justificativa, sem acesso demonstrado ao PDF do projeto inicial nem verificação estatística independente da alegação de crescimento de infrações.",
+      "locator": "Agência Senado, matéria publicada em 15/04/2019 às 16h24, HTML linhas 19–29.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T01:17:10.136Z",
+      "lastModifiedAt": "2026-10-25T01:17:10.136Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "A motivação favorável atribuída à justificativa de Flávio foi documentada pela Agência Senado, sem endosso editorial próprio.",
+      "actor": "Agência Senado; argumento escrito atribuído ao autor Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2169/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+          "inputId": "pl2169-cdh-substitutivo-tramitacao-20261025-28-04",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
       "newToArchive": true
     },
     {
@@ -32722,6 +33257,73 @@
         }
       ],
       "accessMethod": "HTML público aberto e lido via web.run em 24/10/2026. Localizadores são linhas da apresentação textual da página; não constituem páginas de PDF ou timestamps de áudio.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-5610cab212d66c8d",
+      "title": "Congresso: tramitação bicameral do PL 2169/2019 permanecia sem relator designado na CCJ",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2169-2019",
+      "publisher": "Congresso Nacional, consulta de matérias bicamerais",
+      "date": "2019",
+      "eventDate": "2025-10-24",
+      "year": 2019,
+      "datePrecision": "year",
+      "format": "documento",
+      "topic": "PL 2169/2019",
+      "topics": [
+        "PL 2169/2019",
+        "andamento na CCJ",
+        "status processual",
+        "aprovação não definitiva"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha bicameral identifica Flávio como autor, conserva a tramitação do PL 2169 e indica 'Aguardando designação do relator' como situação exibida para a fase da CCJ. A aprovação de parecer na CDH em 22/10/2025 não foi tratada como sanção ou lei vigente.",
+      "limitations": "Status mutável lido na consulta de 24/10/2026, não previsão de andamento futuro. O histórico legislativo é extenso e não foi integralmente cotejado com cada Diário do Senado.",
+      "locator": "Página bicameral PL 2169/2019, HTML linhas 0–23 (iniciativa, estado) e 25–40 (passagem às comissões).",
+      "sourceId": "fonte-922199d958d5da40",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T01:17:10.136Z",
+      "lastModifiedAt": "2026-10-25T01:17:10.136Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Histórico institucional complementa as manifestações de autoria e relatoria, sem inferência sobre impacto do projeto.",
+      "actor": "Flávio Bolsonaro, autor; Congresso Nacional, registro de andamento",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2169/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+          "inputId": "pl2169-cdh-substitutivo-tramitacao-20261025-28-10",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
       "newToArchive": true
     },
     {
@@ -34753,6 +35355,73 @@
         }
       ],
       "accessMethod": "Leitura direta da página HTML institucional em 24/10/2026; não houve conferência audiovisual nem reprodução de mídia.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-1728d7f796d28666",
+      "title": "Lei 8.069/1990, art. 121: texto legal vigente de referência para cotejar prazos propostos para internação",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "publisher": "Presidência da República, legislação federal compilada",
+      "date": "1990-07-13",
+      "eventDate": "1990-07-13",
+      "year": 1990,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "ECA",
+      "topics": [
+        "ECA",
+        "parâmetros legais",
+        "PL 2169/2019",
+        "internação socioeducativa"
+      ],
+      "stage": "analisado",
+      "summary": "Na consulta ao texto compilado do Estatuto da Criança e do Adolescente, o art. 121 estabelece reavaliação da internação no máximo a cada seis meses, período máximo de três anos e liberação compulsória aos 21 anos. Esses parâmetros servem para distinguir a lei vigente da proposta original de Flávio e do substitutivo de Marcio Bittar discutido na CDH.",
+      "limitations": "O portal disponibiliza texto compilado com alterações até 2026 e sua extração web apresenta caracteres de codificação corrompida. Conferidos os dispositivos numéricos em texto, não o histórico gráfico do Diário Oficial nem a integralidade de todas as alterações da lei.",
+      "locator": "Texto compilado no Planalto, seção VII, art. 121, parágrafos 2º, 3º e 5º; HTML linhas 1234–1246.",
+      "sourceId": "fonte-d6671d4bfa16a590",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T01:17:10.136Z",
+      "lastModifiedAt": "2026-10-25T01:17:10.136Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Fonte normativa para comparação de textos. Não é manifestação de Flávio nem avaliação jurídica de constitucionalidade das propostas.",
+      "actor": "Legislador federal, texto normativo compilado",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 8.069/1990, art. 121",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+          "inputId": "pl2169-cdh-substitutivo-tramitacao-20261025-28-09",
+          "toolReference": null
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e examinada em 24/10/2026 (America/Campo_Grande) via web.run. Localizadores são linhas da representação textual do HTML na ferramenta e não páginas originais, minutagens ou confirmação de áudio.",
       "newToArchive": true
     },
     {
@@ -37509,6 +38178,29 @@
       "analysedCount": 1
     },
     {
+      "id": "fonte-922199d958d5da40",
+      "name": "Congresso Nacional, consulta de matérias bicamerais",
+      "url": "https://www.congressonacional.leg.br/",
+      "responsible": "Congresso Nacional, consulta de matérias bicamerais",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T01:17:10.136Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2019
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-29a2bae5277f274b",
       "name": "Câmara dos Deputados",
       "url": "https://www.camara.leg.br/",
@@ -37882,6 +38574,29 @@
       "analysedCount": 2
     },
     {
+      "id": "fonte-d6671d4bfa16a590",
+      "name": "Presidência da República, legislação federal compilada",
+      "url": "https://www.planalto.gov.br/",
+      "responsible": "Presidência da República, legislação federal compilada",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T01:17:10.136Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        1990
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-a55f10b8449ffda6",
       "name": "Projeto Comprova",
       "url": "https://projetocomprova.com.br/",
@@ -38072,10 +38787,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-24T23:37:30.613717Z",
-      "lastConsultedAt": "2026-10-25T00:13:31.411Z",
+      "lastConsultedAt": "2026-10-25T01:17:10.136Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 227,
+      "sourceCount": 235,
       "periods": [
         2018,
         2019,
@@ -38096,8 +38811,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 226,
-      "analysedCount": 212
+      "accessedCount": 234,
+      "analysedCount": 220
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -41406,12 +42121,30 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-07cc3c352cc3373f",
+      "itemId": "pesquisa-d35268b629b82977",
+      "title": "CDH: parecer favorável ao PL 2169/2019 na forma do substitutivo e prejudicialidade do PL 3030/2019",
+      "date": "2025-10-22",
+      "datePrecision": "day",
+      "context": "A ficha da reunião confirma que o relatório de Marcio Bittar, apresentado em plenário da CDH por Marcos Rogério como relator ad hoc, foi aprovado em 22/10/2025. O parecer foi favorável ao PL 2169 de Flávio com Emenda 1-CDH (substitutivo) e considerou prejudicado o PL 3030 de Fabiano Contarato. Parecer aprovado na CDH não equivale à conclusão da CCJ ou vigência de lei.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-4c6aef51fb583026",
       "itemId": "pesquisa-d309ba4b07c576dd",
       "title": "Senado: íntegra textual da CCJ de 22/10 relata adoção sem nova votação e justificativa de Flávio ao PL 1473/2025",
       "date": "2025-10-22",
       "datePrecision": "day",
       "context": "A transcrição oficial da 37ª reunião da CCJ registra, após inexistência de novas emendas, adoção definitiva do substitutivo sem outra votação, conforme art. 284 do Regimento. Em manifestação posterior, Flávio agradece a aprovação, caracteriza-a como unânime e defende alterações nas medidas socioeducativas, apresentando uma possibilidade de internação de até dez anos na proposta e explicitando sua posição favorável à redução da maioridade penal. A fala de unanimidade é atribuída ao senador e não apaga o voto contrário registrado pela ficha oficial em 08/10. O período de internação referido é conteúdo de proposta, não lei em vigor.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-68fa98989cdaee16",
+      "itemId": "pesquisa-c966245125d90aa0",
+      "title": "Discurso de Damares Alves após aprovação do PL 2169 na CDH menciona proposta de Flávio e outra de Contarato",
+      "date": "2025-10-22",
+      "datePrecision": "day",
+      "context": "Texto integral do discurso de 22/10/2025 registra que Damares celebrou a aprovação na Comissão de Direitos Humanos da proposta de autoria de Flávio e se referiu a proposta semelhante atribuída a Fabiano Contarato, já apreciada em outra comissão. A fala é uma manifestação favorável de terceira pessoa e não demonstra, por si, lei aprovada ou efeitos sociais.",
       "state": "data informada pela fonte"
     },
     {
@@ -41433,12 +42166,30 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-4fe8e85e1547f83c",
+      "itemId": "pesquisa-149b1cf6c2e24ef1",
+      "title": "Notas taquigráficas integrais da CDH: intervenção de Flávio e leitura do substitutivo ao PL 2169/2019",
+      "date": "2025-10-22",
+      "datePrecision": "day",
+      "context": "A íntegra textual revisada registra Flávio, autor do PL 2169, defendendo tramitação célere e discutindo com Fabiano Contarato a aproximação com o PL 1473/2025, de autoria deste, que tivera substitutivo relatado por Flávio na CCJ. Contarato pondera os riscos regimentais da tramitação conjunta e agradece a atuação de Flávio. Marcos Rogério lê parecer de Marcio Bittar com substitutivo ao PL 2169 que altera a proposta original de sete anos: cinco anos como prazo geral e até dez para atos com violência ou grave ameaça e hipóteses descritas como hediondas ou equiparadas, além de outras mudanças no ECA e no Código Penal. São argumentos e texto proposto, não lei vigente nem resultado estatístico comprovado.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-03c32bce6205d518",
       "itemId": "pesquisa-023681089972fe3d",
       "title": "Texto original do PL 2.169/2019 e proposta de substitutivo na CDH",
       "date": "2025-10-22",
       "datePrecision": "day",
       "context": "Reportagem anterior à votação compara a proposta original de Flávio sobre internação socioeducativa com a alteração sugerida por Márcio Bittar e distingue o PL 2.169 do PL 1.473/2025, de Fabiano Contarato. Prévia não é resultado da votação.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e02ea54d5e9ba6c8",
+      "itemId": "pesquisa-b51119c23d99e7a6",
+      "title": "CDH em 15 de outubro de 2025 retirou de pauta o PL 2169, aprovado em reunião posterior",
+      "date": "2025-10-15",
+      "datePrecision": "day",
+      "context": "Item da 67ª reunião da CDH, em 15/10/2025, registra 'Retirado de pauta' para o PL 2169/2019. O mesmo projeto foi apreciado e obteve parecer favorável na reunião de 22/10, registrada separadamente. Retirada da pauta em 15/10 não significa arquivamento do projeto.",
       "state": "data informada pela fonte"
     },
     {
@@ -41574,6 +42325,24 @@
       "date": "2025-08-26",
       "datePrecision": "day",
       "context": "Representação desmembrada da PCE 1/2020, com relatoria do senador Dr. Hiran. Página registra defesa preliminar apresentada por Flávio em 18/07/2024 e relatório preliminar juntado em 26/08/2025; na ficha consultada consta 'Em tramitação' e 'Pronta para a pauta no conselho'.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-f5ce7a775c4270d7",
+      "itemId": "pesquisa-2f6a94ca65d87a47",
+      "title": "RQS 628/2025: deferida retirada definitiva do pedido de tramitação conjunta feito por Flávio",
+      "date": "2025-08-25",
+      "datePrecision": "day",
+      "context": "Flávio pediu a retirada definitiva do RQS 607/2025, que havia solicitado tramitação conjunta do PL 1473/2025 e do PL 2169/2019. A Presidência deferiu a retirada em 25/08/2025; a ficha também registra publicação no Diário do Senado de 26/08. O dado impede apresentar o primeiro requerimento como ato de unificação efetivado.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-488f139720a027e4",
+      "itemId": "pesquisa-54e4358a730769c6",
+      "title": "RQS 607/2025: pedido de Flávio de tramitação conjunta do PL 1473/2025 com o PL 2169/2019 foi retirado",
+      "date": "2025-08-25",
+      "datePrecision": "day",
+      "context": "Flávio apresentou em 15/08/2025 o RQS 607 solicitando tramitação conjunta do PL 1473/2025 com o PL 2169/2019 e matérias relacionadas. A ficha informa situação encerrada com retirada pelo próprio autor em 25/08/2025, associada ao RQS 628. Não há fundamento nessa ficha para declarar que o requerimento 607 efetivamente reuniu as propostas.",
       "state": "data informada pela fonte"
     },
     {
@@ -43134,6 +43903,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-f7440b9e808c71d1",
+      "itemId": "pesquisa-6e567c3ddb7f5314",
+      "title": "PL 3030/2019 de Fabiano Contarato: proposta conexa examinada e considerada prejudicada na CDH",
+      "date": "2025-10-24",
+      "datePrecision": "day",
+      "context": "Ficha oficial atribui o PL 3030/2019 a Fabiano Contarato, com proposta inicial de cinco anos de internação e liberação compulsória aos 23 anos. O parecer da CDH de 22/10/2025 foi pela prejudicialidade dessa matéria e acolhimento do PL 2169 com substitutivo; a ficha ainda indicava encaminhamento à CCJ para nova relatoria. A decisão de prejudicialidade em uma comissão não autoriza afirmar extinção definitiva de todo o processo legislativo.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-61cc5016fe55c1f9",
       "itemId": "pesquisa-6067b7e18724fc04",
       "title": "Flávio defende decreto sobre armas em pronunciamento de maio de 2019",
@@ -43158,6 +43936,15 @@
       "date": "2019-04-05",
       "datePrecision": "day",
       "context": "A notícia institucional apresenta o PL 2171/2019, de Flávio, para incluir a tipificação de arrastão no Código Penal. O projeto e suas penas são propostas legislativas, não uma lei comprovadamente vigente.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9a54e98162e832d3",
+      "itemId": "pesquisa-1d494d4f3e32b9c9",
+      "title": "Agência Senado em 2019: apresentação pública da versão original de sete anos do projeto de Flávio",
+      "date": "2019-04-09",
+      "datePrecision": "day",
+      "context": "Reportagem institucional contemporânea à apresentação registra a proposta original do PL 2169/2019: elevar o teto de internação de três para sete anos e a liberação compulsória de 21 para 25 anos. Atribui à justificativa escrita do autor argumentos sobre atos infracionais graves. Esse texto inicial difere do substitutivo posterior aprovado na CDH; nenhuma dessas versões é descrita como lei promulgada.",
       "state": "data informada pela fonte"
     },
     {
@@ -43302,6 +44089,15 @@
       "date": "2026-09-23",
       "datePrecision": "year",
       "context": "A ficha atribui autoria do projeto ao deputado Juninho do Pneu, identifica designação de Flávio para relatoria na CSP em 12/06/2026, quatro emendas de redação apresentadas por ele e aprovadas na CSP e CCJ, aprovação do projeto no Senado em setembro e conversão em Lei 15.517/2026 com veto parcial em 22/09, publicada em 23/09. Flávio não foi identificado como autor original ou sancionador.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-6110d784d6c9d2fe",
+      "itemId": "pesquisa-5610cab212d66c8d",
+      "title": "Congresso: tramitação bicameral do PL 2169/2019 permanecia sem relator designado na CCJ",
+      "date": "2025-10-24",
+      "datePrecision": "year",
+      "context": "A ficha bicameral identifica Flávio como autor, conserva a tramitação do PL 2169 e indica 'Aguardando designação do relator' como situação exibida para a fase da CCJ. A aprovação de parecer na CDH em 22/10/2025 não foi tratada como sanção ou lei vigente.",
       "state": "data informada pela fonte"
     },
     {
@@ -43581,6 +44377,15 @@
       "date": "2005-05-18",
       "datePrecision": "day",
       "context": "O registro de emendas de plenário ao PLC 27/2005, originado do Executivo, identifica Flávio entre os coautores de emendas supressivas e modificativas relativas ao regime e aos servidores da SEAP. A autoria das emendas é compartilhada com outros deputados.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-a37b72592fb78503",
+      "itemId": "pesquisa-1728d7f796d28666",
+      "title": "Lei 8.069/1990, art. 121: texto legal vigente de referência para cotejar prazos propostos para internação",
+      "date": "1990-07-13",
+      "datePrecision": "day",
+      "context": "Na consulta ao texto compilado do Estatuto da Criança e do Adolescente, o art. 121 estabelece reavaliação da internação no máximo a cada seis meses, período máximo de três anos e liberação compulsória aos 21 anos. Esses parâmetros servem para distinguir a lei vigente da proposta original de Flávio e do substitutivo de Marcio Bittar discutido na CDH.",
       "state": "data informada pela fonte"
     },
     {
@@ -50099,11 +50904,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-07cc3c352cc3373f",
+      "itemId": "pesquisa-d35268b629b82977",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14095/item/103040",
+      "locator": "70ª reunião extraordinária, item 2, seção 'Autoria e relatoria', 'Relatório' e 'Resultado', HTML linhas 39–72.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-4c6aef51fb583026",
       "itemId": "pesquisa-d309ba4b07c576dd",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14080",
       "locator": "Notas taquigráficas revisadas, 22/10/2025, abertura do item 2, turnos e anúncio da adoção pelo presidente, seguido da manifestação do relator Flávio; página HTML, linhas 26–36. Horários da coluna do portal não foram empregados como timestamps audiovisuais.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-68fa98989cdaee16",
+      "itemId": "pesquisa-c966245125d90aa0",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/517786",
+      "locator": "Pronunciamento de 22/10/2025 durante 151ª sessão, HTML linhas 20–44 (identificação), 59–66 (referência ao tema).",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -50132,11 +50959,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-4fe8e85e1547f83c",
+      "itemId": "pesquisa-149b1cf6c2e24ef1",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14095",
+      "locator": "70ª reunião CDH de 22/10/2025; HTML linhas 99–110 (Flávio e Contarato), 134–161 (relatório substitutivo), 177–181 (deliberação).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-03c32bce6205d518",
       "itemId": "pesquisa-023681089972fe3d",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2025/10/20/cdh-vota-aumento-do-prazo-maximo-de-internacao-em-medida-socioeducativa",
       "locator": "Agência Senado, 20/10/2025, abertura e descrição dos textos.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e02ea54d5e9ba6c8",
+      "itemId": "pesquisa-b51119c23d99e7a6",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/834/reuniao/14024/item/102796",
+      "locator": "67ª reunião da CDH, item 1, HTML linhas 20–55, campo 'Resultado'.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -50302,6 +51151,28 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164613",
       "locator": "Senado: estado 20-38; defesa 104-117; último andamento 135-145.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-f5ce7a775c4270d7",
+      "itemId": "pesquisa-2f6a94ca65d87a47",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170023",
+      "locator": "Ficha RQS 628/2025, HTML linhas 20–39, 77–81 e 96–104.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-488f139720a027e4",
+      "itemId": "pesquisa-54e4358a730769c6",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169924",
+      "locator": "Ficha RQS 607/2025, HTML linhas 20–39, 61–85 e 96–104.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -52211,6 +53082,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-f7440b9e808c71d1",
+      "itemId": "pesquisa-6e567c3ddb7f5314",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/136880",
+      "locator": "Ficha do PL 3030/2019, HTML linhas 20–38 (autoria, ementa e estágio), 88–110 (parecer), e atos de 22 a 24/10/2025 na tramitação.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-61cc5016fe55c1f9",
       "itemId": "pesquisa-6067b7e18724fc04",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -52238,6 +53120,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2019/04/15/projeto-torna-arrastao-crime",
       "locator": "Título e corpo de reportagem de 15/04/2019; identificação PL 2171/2019.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9a54e98162e832d3",
+      "itemId": "pesquisa-1d494d4f3e32b9c9",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/04/15/projeto-eleva-prazo-maximo-de-internacao-de-jovens-infratores-de-tres-para-sete-anos",
+      "locator": "Agência Senado, matéria publicada em 15/04/2019 às 16h24, HTML linhas 19–29.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -52414,6 +53307,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/170383",
       "locator": "Identificação e norma gerada: HTML linhas 20–33; emendas e relatores: 380–412; sanção e veto: 436–446.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-6110d784d6c9d2fe",
+      "itemId": "pesquisa-5610cab212d66c8d",
+      "sourceId": "fonte-922199d958d5da40",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2169-2019",
+      "locator": "Página bicameral PL 2169/2019, HTML linhas 0–23 (iniciativa, estado) e 25–40 (passagem às comissões).",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -52755,6 +53659,17 @@
       "sourceId": "fonte-e979cfd37b58c2c5",
       "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=81&url=L3NjcHJvMDMwNy5uc2YvZTAwYTdjM2M4NjUyYjY5YTgzMjU2Y2NhMDA2NDZlZTUvMTdlOTczZDRjMTA5YWM0ZTgzMjU3MDUyMDA2NjFiOWU%2FT3BlbkRvY3VtZW50",
       "locator": "Emendas de plenário de 18/05/2005, em especial supressivas 6 a 13 e modificativas 14 e 15, linhas 453-542.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-a37b72592fb78503",
+      "itemId": "pesquisa-1728d7f796d28666",
+      "sourceId": "fonte-d6671d4bfa16a590",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "locator": "Texto compilado no Planalto, seção VII, art. 121, parágrafos 2º, 3º e 5º; HTML linhas 1234–1246.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -53586,15 +54501,15 @@
     },
     {
       "year": 2019,
-      "found": 37,
-      "accessed": 37,
-      "analysed": 35,
+      "found": 40,
+      "accessed": 40,
+      "analysed": 38,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 35,
+        "analisado": 38,
         "revisado": 0,
         "publicado": 0
       },
@@ -53612,11 +54527,12 @@
         "educação": 1,
         "segurança pública": 2,
         "previdência social": 1,
+        "PL 3030/2019": 1,
         "armas": 1,
         "economia": 1,
         "direito penal": 2,
+        "PL 2169/2019": 3,
         "governo": 1,
-        "PL 2169/2019": 1,
         "imprensa": 1,
         "Mesa Diretora": 3,
         "inteligência artificial": 2,
@@ -53625,15 +54541,16 @@
       },
       "sources": {
         "fonte-e979cfd37b58c2c5": 1,
-        "fonte-2acd9e7dc92e583a": 24,
+        "fonte-2acd9e7dc92e583a": 26,
         "fonte-3ed65b2f1d041330": 1,
         "fonte-d7238973977790d8": 1,
         "fonte-9c2fbd587c9a9fb0": 9,
-        "fonte-58d9376cef7ffa17": 1
+        "fonte-58d9376cef7ffa17": 1,
+        "fonte-922199d958d5da40": 1
       },
       "formats": {
-        "reportagem": 6,
-        "documento": 16,
+        "reportagem": 7,
+        "documento": 18,
         "registro": 3,
         "checagem": 10,
         "video": 1,
@@ -53865,15 +54782,15 @@
     },
     {
       "year": 2025,
-      "found": 62,
-      "accessed": 62,
-      "analysed": 59,
+      "found": 68,
+      "accessed": 68,
+      "analysed": 65,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 3,
-        "analisado": 59,
+        "analisado": 65,
         "revisado": 0,
         "publicado": 0
       },
@@ -53886,14 +54803,16 @@
         "PL 5582/2025": 1,
         "PL 1087/2025": 1,
         "imagem sintética": 1,
-        "PL 2169/2019": 2,
+        "PL 2169/2019": 6,
         "Senado": 4,
+        "medidas socioeducativas": 1,
         "RS 7/2025": 1,
         "política externa": 1,
         "Atividade pública": 1,
         "justica": 1,
         "PL 4809/2024": 1,
         "Conselho de Ética": 1,
+        "RQS 628/2025": 1,
         "PL 2734/2021": 7,
         "Correios": 1,
         "PL 3341/2025": 1,
@@ -53914,7 +54833,7 @@
       },
       "sources": {
         "fonte-ab7ca292b805c308": 1,
-        "fonte-2acd9e7dc92e583a": 49,
+        "fonte-2acd9e7dc92e583a": 55,
         "fonte-29a2bae5277f274b": 3,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
@@ -53925,7 +54844,7 @@
       },
       "formats": {
         "audio": 1,
-        "documento": 38,
+        "documento": 44,
         "registro": 4,
         "checagem": 6,
         "reportagem": 12,
@@ -54051,11 +54970,11 @@
     }
   ],
   "metrics": {
-    "newItems": 546,
-    "items": 564,
+    "newItems": 556,
+    "items": 574,
     "alreadyInArchive": 18,
-    "accessed": 561,
-    "analysed": 536,
+    "accessed": 571,
+    "analysed": 546,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -54063,16 +54982,16 @@
     "statementCandidates": 186,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 48,
-    "sourcesConsulted": 43,
+    "sources": 50,
+    "sourcesConsulted": 45,
     "video": 17,
     "audio": 5,
-    "documents": 203,
+    "documents": 212,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 167,
-    "accessFailures": 38,
+    "queryCount": 173,
+    "accessFailures": 39,
     "undatedItems": 37
   },
   "queries": [
@@ -55112,6 +56031,60 @@
       "resultsState": "Não foram encontrados esses novos localizadores nos lotes prévios; PL 1482/2019 não figurava nos registros inspecionados. Um resultado anterior de PL 2064/2025 foi mantido sem duplicação."
     },
     {
+      "id": "consulta-8f16b93f13f313e6",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+      "query": "PL 2169/2019 Flávio Bolsonaro CDH 22 outubro 2025 texto substitutivo Marcio Bittar Marcos Rogério 5 10 anos",
+      "executedAt": "2026-10-25T01:17:10.136Z",
+      "engine": "web.run: consulta e abertura das notas taquigráficas e da ficha oficial de reunião da CDH",
+      "interval": "2019–2026",
+      "resultsState": "Verificados texto original de 7 anos, substitutivo relatado por Bittar com regra de 5 anos e hipóteses de até 10, leitura ad hoc por Marcos Rogério e aprovação apenas na CDH."
+    },
+    {
+      "id": "consulta-6da3c6020bd64bea",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+      "query": "PL 2169/2019 PL 3030/2019 Fabiano Contarato 24/10/2025 prejudicialidade CCJ",
+      "executedAt": "2026-10-25T01:17:10.136Z",
+      "engine": "web.run: leitura da ficha PL 3030 e histórico bicameral PL 2169",
+      "interval": "2019–2026",
+      "resultsState": "PL 3030 é de Contarato, não de Flávio; parecer da CDH pela prejudicialidade, com situação de CCJ ainda aguardando relatoria."
+    },
+    {
+      "id": "consulta-c1645ab8ce2895ee",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+      "query": "RQS 607/2025 RQS 628/2025 Flávio retirada tramitação conjunta PL 1473 PL 2169",
+      "executedAt": "2026-10-25T01:17:10.136Z",
+      "engine": "web.run: abertura de fichas públicas dos dois requerimentos no Senado",
+      "interval": "agosto de 2025",
+      "resultsState": "O requerimento de reunião foi retirado por Flávio e a retirada deferida pela Presidência; não se registrou apensamento consumado por esse pedido."
+    },
+    {
+      "id": "consulta-16c0fd10398288ee",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+      "query": "Flávio Contarato Damares Alves reunião CDH 22 outubro 2025 defesa resposta plenário texto integral",
+      "executedAt": "2026-10-25T01:17:10.136Z",
+      "engine": "web.run: consulta e leitura de notas taquigráficas de 22/10 e discurso do Plenário do Senado",
+      "interval": "2025-10-22",
+      "resultsState": "Declarações diferenciadas por interlocutor: Flávio defende o avanço dos projetos, Contarato manifesta cautela regimental, Damares comemora a tramitação. Nenhum áudio ouvido."
+    },
+    {
+      "id": "consulta-8245ecc793eda8af",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+      "query": "ECA art 121 prazo internação três anos liberação 21 texto compilado Planalto",
+      "executedAt": "2026-10-25T01:17:10.136Z",
+      "engine": "web.run: acesso ao texto compilado público da Lei 8.069/1990",
+      "interval": "lei consultada em 24/10/2026",
+      "resultsState": "Localizados limites vigentes de três anos, revisão semestral e liberação aos 21, separados dos números dos projetos ainda em tramitação."
+    },
+    {
+      "id": "consulta-021907f0c7d2aacd",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+      "query": "Comparação contra content/research.json (564 entradas) e nextBatch, URLs das notas 14095, reunião 103040, RQS 607 628, PL3030, lei ECA",
+      "executedAt": "2026-10-25T01:17:10.136Z",
+      "engine": "GitHub conectado, leitura completa do JSON via endpoint Contents e comparação exata de URLs canônicas",
+      "interval": "checkpoint atual até 2026-10-25T01:14Z",
+      "resultsState": "As 10 URLs selecionadas não constavam entre 564 registros; PL 2169/2019 ficha principal já catalogada foi mantida, sem duplicação."
+    },
+    {
       "id": "consulta-908b3c4f53e33516",
       "batch": "primarias-20261024-02",
       "query": "site:alerj.rj.gov.br \"Flávio Bolsonaro\" 2012 projeto lei",
@@ -55780,6 +56753,12 @@
       "note": "Zero segundos ou marcações conferidos. Referências de linhas se limitam a texto HTML; horários apresentados nas páginas não constituem timestamps de mídia validados."
     },
     {
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
+      "source": "https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728",
+      "status": "inspeção visual bloqueada",
+      "note": "Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial."
+    },
+    {
       "batch": "primarias-20261024-02",
       "source": "Executor local de scripts",
       "error": "Sem checkout Git ou terminal remoto conectado nesta execução. Normalização content/research.json e dist/data/research.json e research.js pendente; não afirmar publicação automática."
@@ -56384,6 +57363,36 @@
       "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27"
     },
     {
+      "id": "lacuna-29a5fdc8a5cbfeb3",
+      "note": "PL 2169/2019: obter e cotejar visualmente a íntegra assinada do substitutivo da CDH (PDF) e o avulso inicial antes de comparação textual definitiva.",
+      "state": "pendente",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28"
+    },
+    {
+      "id": "lacuna-a6dad162c65ac4b2",
+      "note": "PL 2169/2019 e PL 3030/2019: acompanhar a CCJ; não confundir aprovação da CDH com lei vigente, nem presumir que pedidos retirados de tramitação conjunta tiveram eficácia.",
+      "state": "pendente",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28"
+    },
+    {
+      "id": "lacuna-39bca3baed10faa6",
+      "note": "Confrontar alegações empíricas sobre reincidência, proteção, internação e eficácia com levantamentos oficiais e literatura independente, sem atribuir estatísticas sem fonte.",
+      "state": "pendente",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28"
+    },
+    {
+      "id": "lacuna-81c06945ee99360e",
+      "note": "Obter e comparar manifestações técnicas críticas às mudanças do ECA e respostas públicas específicas em revisão humana editorial identificada.",
+      "state": "pendente",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28"
+    },
+    {
+      "id": "lacuna-1dbba39d366ff261",
+      "note": "Conferir trechos audiovisuais decisivos da CDH e Plenário quando houver acesso permitido. Até aqui 0 segundos conferidos e nenhuma classificação editorial nova.",
+      "state": "pendente",
+      "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28"
+    },
+    {
       "id": "lacuna-d791a02351ceee92",
       "note": "Confirmar tramitação final e eventual sanção dos projetos ALERJ encontrados, sem equiparar proposição a lei.",
       "state": "pendente",
@@ -56834,6 +57843,12 @@
       "label": "PL 1482/2019, relatoria de Flávio, Lei 15.517/2026 e veto parcial",
       "collected_at_utc": "2026-10-25T00:13:31.411Z",
       "method": "10 URLs públicas e únicas abertas e lidas; 0 segundos de mídia; sem novo veredito ou revisor; URLs cotejadas com checkpoints anteriores."
+    },
+    {
+      "id": "checkpoint-20261025-28",
+      "label": "PL 2169/2019: versões, parecer e tramitação; PL 3030 e requerimentos de apensamento",
+      "collected_at_utc": "2026-10-25T01:17:10.136Z",
+      "method": "10 URLs públicas distintas consultadas em HTML, nenhuma já registrada no JSON de 564 materiais; pesquisa factual sem veredito e 0 segundos de áudio conferidos."
     },
     {
       "name": "Checagem ao Vivo",
