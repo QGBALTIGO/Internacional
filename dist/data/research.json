@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T08:43:36.780159Z",
-    "inputHash": "c35980f36572cb1e21baaa93302e8ff5bfa9474aebda0753987a17dff5ee6a25",
+    "generatedAt": "2026-10-25T09:34:45.677310Z",
+    "inputHash": "d6066a922dc75546089fb26846808853068581d1d6d4380ffd7865744c4a2bef",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -14500,6 +14500,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-e1affd6a6420a2e7",
+      "title": "HubPolítico: agregação pública da ficha e resumo do PL 2064/2025",
+      "url": "https://hubpolitico.com.br/legislativo/senado/proposicao/PL-2064-2025",
+      "publisher": "HubPolítico",
+      "date": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 2064/2025",
+        "segurança pública",
+        "direito penal",
+        "relatoria",
+        "Lei 15.358/2026"
+      ],
+      "stage": "analisado",
+      "summary": "Página pública de acompanhamento atribui corretamente a autoria do PL a Jaime Bagattoli, resume o objetivo penal e registra situação em tramitação após 01/09/2026. Serve apenas como repositório secundário, sem valor de validação independente dos registros originais do Senado.",
+      "limitations": "Agregador comercial secundário que declara utilizar dados do Senado. Não é fonte independente de texto assinado; link para texto integral não foi usado como prova de leitura do PDF nem há avaliação jurídica própria.",
+      "locator": "Ficha pública, cabeçalho, autoria e linhas 18-46.",
+      "sourceId": "fonte-ffa7a1ba1d5f2ee1",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T09:34:35.598Z",
+      "lastModifiedAt": "2026-10-25T09:34:35.598Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "HubPolítico, reprodução de dados legislativos públicos",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2064/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2064-reincidencia-lei15358-20261025-36",
+          "inputId": "pl2064-reincidencia-lei15358-20261025-36-09",
+          "toolReference": "turn297912view4"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. collected_at é o fechamento deste checkpoint, não instante de acesso individual. Áudio/vídeo não reproduzidos: 0 segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-d297e391025246bd",
       "title": "Senado: notas integrais de 01/09/2026 documentam três relatorias de Flávio na CSP",
       "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/14952",
@@ -14511,11 +14580,17 @@
       "format": "documento",
       "topic": "PL 2343/2025",
       "topics": [
+        "Flávio Bolsonaro",
+        "Lei 15.358/2026",
+        "PL 2064/2025",
         "PL 2343/2025",
         "PL 3272/2024",
         "PL 3341/2025",
+        "debate em comissão",
+        "direito penal",
+        "relatoria",
         "respostas públicas",
-        "debate em comissão"
+        "segurança pública"
       ],
       "stage": "analisado",
       "summary": "Transcrição revista da 13ª CSP apresenta Flávio como relator favorável ao PL 3341/2025, de Augusta Brito, para prevenção do assédio sexual nos transportes; registra justificativa e emenda ao PL 2343/2025 sobre porte para defensores e advogados públicos; e discussão do PL 3272/2024 sobre armas para mulheres sob medida protetiva, com pedido de vista. Há manifestações diferentes de senadores, sem juízo editorial sobre veracidade de estudos citados nas falas.",
@@ -14562,6 +14637,11 @@
           "batch": "csp-2026-relatorias-20261024-26",
           "inputId": "csp-2026-relatorias-20261024-26-csp14952-notas",
           "toolReference": null
+        },
+        {
+          "batch": "pl2064-reincidencia-lei15358-20261025-36",
+          "inputId": "pl2064-reincidencia-lei15358-20261025-36-05",
+          "toolReference": "turn278068view1"
         }
       ],
       "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
@@ -14702,25 +14782,28 @@
       "newToArchive": true
     },
     {
-      "id": "pesquisa-737e9bdf05bd493e",
-      "title": "PL 2.064/2025: três versões de relatório de Flávio na CSP em 2026",
-      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168377",
-      "publisher": "Senado Federal",
+      "id": "pesquisa-a1b60225105673b9",
+      "title": "Pauta e resultado completo da 13ª CSP, com PL 2064 separado dos demais itens",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/14952",
+      "publisher": "Senado Federal, CSP",
       "date": "2026-09-01",
       "eventDate": "2026-09-01",
       "year": 2026,
       "datePrecision": "day",
-      "format": "documento",
-      "topic": "reincidência",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
       "topics": [
-        "reincidência",
+        "Flávio Bolsonaro",
+        "PL 2064/2025",
+        "segurança pública",
+        "direito penal",
         "relatoria",
-        "direito penal"
+        "Lei 15.358/2026"
       ],
       "stage": "analisado",
-      "summary": "O projeto sobre benefícios penais é de Jaime Bagattoli, não de Flávio. A ficha lista Flávio como relator na CSP e versões de parecer de 12/06, 03/07 e 09/07/2026, com alterações no número de emendas, e situação pronta para pauta em 01/09/2026.",
-      "limitations": "Não inferir teor das mudanças entre versões apenas pela quantidade de emendas. Nenhum dos relatórios PDFs nem votação foram abertos; matéria não apresentada como lei.",
-      "locator": "Ficha PL 2064/2025; autoria Jaime Bagattoli; relatoria Flávio; documentos de 12/06, 03/07 e 09/07/2026; última situação de 01/09.",
+      "summary": "A relação integral de itens da reunião de 01/09/2026 contextualiza a retirada do PL 2064 da pauta e distingue esse resultado das deliberações sobre outros projetos. A página oferece mídias, mas nenhuma foi reproduzida nesta coleta.",
+      "limitations": "Lista e resultado textual consultados, sem conferir a íntegra audiovisual, seus trechos ou minutagem. As durações indicadas pela página são metadados e não tempo de audição.",
+      "locator": "13ª CSP, seção Resultado da pauta e item 4, linhas 150-169; cabeçalho e opções de mídia, linhas 20-40.",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "review": {
         "state": "aguardando revisão editorial",
@@ -14738,8 +14821,78 @@
         "endSeconds": null
       },
       "durationSeconds": null,
-      "collectedAt": "2026-10-24T16:19:40.738Z",
-      "lastModifiedAt": "2026-10-24T16:19:40.738Z",
+      "collectedAt": "2026-10-25T09:34:35.598Z",
+      "lastModifiedAt": "2026-10-25T09:34:35.598Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (presidente e relator do item 4)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2064/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2064-reincidencia-lei15358-20261025-36",
+          "inputId": "pl2064-reincidencia-lei15358-20261025-36-04",
+          "toolReference": "turn297912view1"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. collected_at é o fechamento deste checkpoint, não instante de acesso individual. Áudio/vídeo não reproduzidos: 0 segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-737e9bdf05bd493e",
+      "title": "Ficha oficial do PL 2064/2025: Jaime Bagattoli autor e Flávio Bolsonaro relator",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168377",
+      "publisher": "Senado Federal, Atividade Legislativa",
+      "date": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "Lei 15.358/2026",
+        "PL 2064/2025",
+        "direito penal",
+        "reincidência",
+        "relatoria",
+        "segurança pública"
+      ],
+      "stage": "analisado",
+      "summary": "O projeto de Jaime Bagattoli restringe benefícios penais em situações de reincidência e criminalidade habitual. A ficha registra Flávio como relator e situação de tramitação, com último estado em 01/09/2026: pronta para a pauta na CSP. Três relatórios apresentados por Flávio em 12/06, 03/07 e 09/07/2026 são identificados com duas, cinco e seis emendas, respectivamente. A apresentação de relatório não significa aprovação da comissão.",
+      "limitations": "Ficha e metadados de relatórios consultados, mas não os PDFs originais ou texto integral das emendas. Explicação de proposta gerada por IA na página não foi usada como fundamento factual; sem certificação de texto normativo de cada versão.",
+      "locator": "Campos Autoria, Situação Atual e Documentos, linhas 20-50 e 99-137; movimentação de 01/09/2026.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T09:34:35.598Z",
+      "lastModifiedAt": "2026-10-25T09:34:35.598Z",
       "editorialClassification": null,
       "sourceConclusion": null,
       "factualQuestion": null,
@@ -14759,12 +14912,17 @@
       "legacyRecordIds": [],
       "researchOrigins": [
         {
+          "batch": "pl2064-reincidencia-lei15358-20261025-36",
+          "inputId": "pl2064-reincidencia-lei15358-20261025-36-01",
+          "toolReference": "turn278068view0"
+        },
+        {
           "batch": "senado-2026-proposicoes-20261024-19",
           "inputId": "senado-2026-proposicoes-20261024-19-pl2064",
           "toolReference": "turn231234view6"
         }
       ],
-      "accessMethod": "Busca pública, abertura e leitura do texto HTML com web.run em 24/10/2026. Carimbo collected_at: fechamento do checkpoint, não horário individual. Nenhum PDF aberto, áudio ouvido ou vídeo reproduzido.",
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. collected_at é o fechamento deste checkpoint, não instante de acesso individual. Áudio/vídeo não reproduzidos: 0 segundos.",
       "newToArchive": true
     },
     {
@@ -14835,6 +14993,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-1c70b77c992a746e",
+      "title": "Histórico bicameral do PL 2064/2025: distribuição, relatórios e etapa pendente",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2064-2025",
+      "publisher": "Congresso Nacional",
+      "date": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 2064/2025",
+        "segurança pública",
+        "direito penal",
+        "relatoria",
+        "Lei 15.358/2026"
+      ],
+      "stage": "analisado",
+      "summary": "O acompanhamento oficial confirma apresentação em 05/05/2025, envio à CSP e depois à CCJ, avocação da relatoria da CSP por Flávio em 01/07/2025, três versões de relatório em junho/julho de 2026 e ausência de decisão terminativa até a movimentação verificada em setembro de 2026. Não se confunde a proposição com lei sancionada.",
+      "limitations": "Histórico administrativo HTML, sem conferência do teor dos PDFs e sem concluir efeito jurídico concreto de emendas ainda não deliberadas.",
+      "locator": "Seções Casa Iniciadora e Tramitação; movimentações 05/05/2025 a 01/09/2026, linhas 17-84.",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T09:34:35.598Z",
+      "lastModifiedAt": "2026-10-25T09:34:35.598Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Jaime Bagattoli (autor); Flávio Bolsonaro (relator CSP)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2064/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2064-reincidencia-lei15358-20261025-36",
+          "inputId": "pl2064-reincidencia-lei15358-20261025-36-02",
+          "toolReference": "turn297912view0"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. collected_at é o fechamento deste checkpoint, não instante de acesso individual. Áudio/vídeo não reproduzidos: 0 segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-15719968ce2a05f4",
       "title": "Agência Senado: PL 2343/2025 foi enviado à CCJ após parecer relatado por Flávio na CSP",
       "url": "https://www12.senado.leg.br/noticias/materias/2026/09/01/vai-a-ccj-projeto-que-libera-porte-de-arma-para-defensores-publicos",
@@ -14899,6 +15126,75 @@
         }
       ],
       "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-0d785aa8b23d8b4a",
+      "title": "CSP de 01/09/2026: PL 2064 retirado de pauta a pedido de Flávio Bolsonaro",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/14952/item/112378",
+      "publisher": "Senado Federal, CSP",
+      "date": "2026-09-01",
+      "eventDate": "2026-09-01",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 2064/2025",
+        "segurança pública",
+        "direito penal",
+        "relatoria",
+        "Lei 15.358/2026"
+      ],
+      "stage": "analisado",
+      "summary": "O item 4 da 13ª reunião da Comissão de Segurança Pública identifica relatório favorável com seis emendas e registra o resultado 'Retirado de pauta, a pedido do relator'. A retirada não é aprovação ou rejeição do mérito.",
+      "limitations": "Resultado do item consultado em HTML; não foram lidos relatório PDF nem analisados votos, que não ocorreram nesse item.",
+      "locator": "13ª CSP, item 4, campos Autoria e relatoria, Relatório e Resultado, linhas 20-43.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T09:34:35.598Z",
+      "lastModifiedAt": "2026-10-25T09:34:35.598Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Retirada por iniciativa do próprio relator, conforme publicação da CSP.",
+      "actor": "Flávio Bolsonaro (relator); Jaime Bagattoli (autor)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2064/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2064-reincidencia-lei15358-20261025-36",
+          "inputId": "pl2064-reincidencia-lei15358-20261025-36-03",
+          "toolReference": "turn278068view2"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. collected_at é o fechamento deste checkpoint, não instante de acesso individual. Áudio/vídeo não reproduzidos: 0 segundos.",
       "newToArchive": true
     },
     {
@@ -19224,6 +19520,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-96d113b7f5d56ce5",
+      "title": "Agência Senado: promulgação e contexto da Lei 15.358/2026",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
+      "publisher": "Agência Senado",
+      "date": "2026-03-25",
+      "eventDate": "2026-03-24",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 2064/2025",
+        "segurança pública",
+        "direito penal",
+        "relatoria",
+        "Lei 15.358/2026"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem de 25/03/2026 explica a sanção com vetos e os objetivos/medidas da Lei Antifacção. Serve como interpretação institucional complementar ao texto legal e à posterior explicação de Flávio sobre a necessidade de revisar o relatório de outro projeto.",
+      "limitations": "Síntese jornalística institucional, não substitui interpretação jurídica independente nem perícia de efeitos da lei. Não confundir a lei oriunda do PL 5582/2025 com o PL 2064/2025.",
+      "locator": "Reportagem publicada em 25/03/2026, linhas 19-33 e demais seções sobre sanção e benefícios penais.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T09:34:35.598Z",
+      "lastModifiedAt": "2026-10-25T09:34:35.598Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado (reportagem institucional)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 15.358/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2064-reincidencia-lei15358-20261025-36",
+          "inputId": "pl2064-reincidencia-lei15358-20261025-36-08",
+          "toolReference": "turn297912view3"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. collected_at é o fechamento deste checkpoint, não instante de acesso individual. Áudio/vídeo não reproduzidos: 0 segundos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-b3fe3efbefefe3d8",
       "title": "Flávio diz que será candidato mesmo se Bolsonaro reverter inelegibilidade | CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-sera-candidato-mesmo-se-bolsonaro-reverter-inelegibilidade/",
@@ -19286,6 +19651,144 @@
         }
       ],
       "accessMethod": "HTML público aberto e lido diretamente em 24/10/2026.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-a1acef1f8e343726",
+      "title": "Texto original publicado da Lei 15.358/2026, Lei Antifacção",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15358-24-marco-2026-798846-publicacaooriginal-178585-pl.html",
+      "publisher": "Câmara dos Deputados, Legislação Informatizada",
+      "date": "2026-03-24",
+      "eventDate": "2026-03-24",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 2064/2025",
+        "segurança pública",
+        "direito penal",
+        "relatoria",
+        "Lei 15.358/2026"
+      ],
+      "stage": "analisado",
+      "summary": "Texto original da Lei 15.358, de 24/03/2026, Marco Legal do Combate ao Crime Organizado, altera dispositivos do Código Penal, Código de Processo Penal e Lei de Execução Penal, entre outros. Contextualiza a referência de Flávio à Lei Antifacção. É norma diferente do PL 2064/2025, cuja tramitação continua.",
+      "limitations": "Publicação original consultada, não cotejo de redação consolidada atualizada nem análise comparativa cláusula a cláusula com as três versões de relatório do PL 2064. Não atribuir autoria do marco legal a Flávio.",
+      "locator": "Publicação original, cabeçalho e ementa, linhas 17-29; corpo da lei disponível em HTML.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T09:34:35.598Z",
+      "lastModifiedAt": "2026-10-25T09:34:35.598Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Congresso Nacional e Presidência da República, lei federal; não autoria de Flávio Bolsonaro",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 15.358/2026",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2064-reincidencia-lei15358-20261025-36",
+          "inputId": "pl2064-reincidencia-lei15358-20261025-36-06",
+          "toolReference": "turn278068view3"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. collected_at é o fechamento deste checkpoint, não instante de acesso individual. Áudio/vídeo não reproduzidos: 0 segundos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-0d3f0d2e27de9444",
+      "title": "Mensagem presidencial 216/2026: razões públicas do veto parcial à Lei Antifacção",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15358-24-marco-2026-798846-veto-178586-pl.html",
+      "publisher": "Câmara dos Deputados, Legislação Informatizada",
+      "date": "2026-03-24",
+      "eventDate": "2026-03-24",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 2064/2025",
+        "segurança pública",
+        "direito penal",
+        "relatoria",
+        "Lei 15.358/2026"
+      ],
+      "stage": "analisado",
+      "summary": "A Mensagem 216, de 24/03/2026, expõe razões oficiais para o veto parcial ao PL 5582/2025 que originou a Lei Antifacção. Trata-se da justificativa pública do Executivo sobre projeto distinto do PL 2064. O documento não permite inferir posição do Executivo acerca do parecer de Flávio no PL 2064.",
+      "limitations": "Texto da mensagem consultado em HTML, não andamento posterior dos dispositivos vetados nem análise própria de constitucionalidade. Razões são atribuídas ao Executivo, não conclusão do arquivo.",
+      "locator": "Mensagem 216, parágrafos introdutórios e razões de veto, linhas 24-56.",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T09:34:35.598Z",
+      "lastModifiedAt": "2026-10-25T09:34:35.598Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Justificativa oficial do Executivo sobre vetos ao marco legal correlato, sem atribuição de resposta direta ao PL 2064.",
+      "actor": "Presidência da República; órgãos federais consultados na mensagem",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Mensagem 216/2026 (Lei 15.358/2026)",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2064-reincidencia-lei15358-20261025-36",
+          "inputId": "pl2064-reincidencia-lei15358-20261025-36-07",
+          "toolReference": "turn297912view2"
+        }
+      ],
+      "accessMethod": "Página HTML pública aberta e texto disponível examinado em 25/10/2026. collected_at é o fechamento deste checkpoint, não instante de acesso individual. Áudio/vídeo não reproduzidos: 0 segundos.",
       "newToArchive": true
     },
     {
@@ -43766,10 +44269,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T08:43:25.438Z",
+      "lastConsultedAt": "2026-10-25T09:34:35.598Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 4,
+      "sourceCount": 5,
       "periods": [
         2024,
         2025,
@@ -43780,8 +44283,8 @@
         "registro"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 4,
-      "analysedCount": 4
+      "accessedCount": 5,
+      "analysedCount": 5
     },
     {
       "id": "fonte-050cd7980a113c02",
@@ -43884,10 +44387,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T08:43:25.438Z",
+      "lastConsultedAt": "2026-10-25T09:34:35.598Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 16,
+      "sourceCount": 18,
       "periods": [
         2007,
         2020,
@@ -43901,8 +44404,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 16,
-      "analysedCount": 16
+      "accessedCount": 18,
+      "analysedCount": 18
     },
     {
       "id": "fonte-0d9079c114e04a58",
@@ -44062,6 +44565,29 @@
       "monitoringEnabled": false,
       "accessedCount": 2,
       "analysedCount": 2
+    },
+    {
+      "id": "fonte-ffa7a1ba1d5f2ee1",
+      "name": "HubPolítico",
+      "url": "https://hubpolitico.com.br/",
+      "responsible": "HubPolítico",
+      "nature": "imprensa ou publicador identificado",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T09:34:35.598Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2026
+      ],
+      "formats": [
+        "reportagem"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
     },
     {
       "id": "fonte-39f3da029d318a85",
@@ -44604,10 +45130,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
-      "lastConsultedAt": "2026-10-25T08:43:25.438Z",
+      "lastConsultedAt": "2026-10-25T09:34:35.598Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 283,
+      "sourceCount": 286,
       "periods": [
         2018,
         2019,
@@ -44628,8 +45154,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 282,
-      "analysedCount": 266
+      "accessedCount": 285,
+      "analysedCount": 269
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -47469,6 +47995,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-4a218ae11486300f",
+      "itemId": "pesquisa-e1affd6a6420a2e7",
+      "title": "HubPolítico: agregação pública da ficha e resumo do PL 2064/2025",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "Página pública de acompanhamento atribui corretamente a autoria do PL a Jaime Bagattoli, resume o objetivo penal e registra situação em tramitação após 01/09/2026. Serve apenas como repositório secundário, sem valor de validação independente dos registros originais do Senado.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-d7a4b3dc18784c20",
       "itemId": "pesquisa-d297e391025246bd",
       "title": "Senado: notas integrais de 01/09/2026 documentam três relatorias de Flávio na CSP",
@@ -47496,12 +48031,21 @@
       "state": "data informada pela fonte"
     },
     {
-      "id": "evento-6f18eb7b31fc0baf",
-      "itemId": "pesquisa-737e9bdf05bd493e",
-      "title": "PL 2.064/2025: três versões de relatório de Flávio na CSP em 2026",
+      "id": "evento-ba5c9dbd62218eda",
+      "itemId": "pesquisa-a1b60225105673b9",
+      "title": "Pauta e resultado completo da 13ª CSP, com PL 2064 separado dos demais itens",
       "date": "2026-09-01",
       "datePrecision": "day",
-      "context": "O projeto sobre benefícios penais é de Jaime Bagattoli, não de Flávio. A ficha lista Flávio como relator na CSP e versões de parecer de 12/06, 03/07 e 09/07/2026, com alterações no número de emendas, e situação pronta para pauta em 01/09/2026.",
+      "context": "A relação integral de itens da reunião de 01/09/2026 contextualiza a retirada do PL 2064 da pauta e distingue esse resultado das deliberações sobre outros projetos. A página oferece mídias, mas nenhuma foi reproduzida nesta coleta.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-6f18eb7b31fc0baf",
+      "itemId": "pesquisa-737e9bdf05bd493e",
+      "title": "Ficha oficial do PL 2064/2025: Jaime Bagattoli autor e Flávio Bolsonaro relator",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "O projeto de Jaime Bagattoli restringe benefícios penais em situações de reincidência e criminalidade habitual. A ficha registra Flávio como relator e situação de tramitação, com último estado em 01/09/2026: pronta para a pauta na CSP. Três relatórios apresentados por Flávio em 12/06, 03/07 e 09/07/2026 são identificados com duas, cinco e seis emendas, respectivamente. A apresentação de relatório não significa aprovação da comissão.",
       "state": "data informada pela fonte"
     },
     {
@@ -47514,12 +48058,30 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-28b0cb496c3240c5",
+      "itemId": "pesquisa-1c70b77c992a746e",
+      "title": "Histórico bicameral do PL 2064/2025: distribuição, relatórios e etapa pendente",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "O acompanhamento oficial confirma apresentação em 05/05/2025, envio à CSP e depois à CCJ, avocação da relatoria da CSP por Flávio em 01/07/2025, três versões de relatório em junho/julho de 2026 e ausência de decisão terminativa até a movimentação verificada em setembro de 2026. Não se confunde a proposição com lei sancionada.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-f7180b7c1493847c",
       "itemId": "pesquisa-15719968ce2a05f4",
       "title": "Agência Senado: PL 2343/2025 foi enviado à CCJ após parecer relatado por Flávio na CSP",
       "date": "2026-09-01",
       "datePrecision": "day",
       "context": "Reportagem de 01/09/2026 relata o parecer favorável de Flávio ao PL 2343/2025, proposto por Carlos Portinho, com emenda de Alessandro Vieira incluindo advogados públicos e mantendo comprovação de capacidade técnica e psicológica. O prosseguimento para a CCJ é informado como etapa seguinte, sem vigência imediata.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9e9970e1a1af40a8",
+      "itemId": "pesquisa-0d785aa8b23d8b4a",
+      "title": "CSP de 01/09/2026: PL 2064 retirado de pauta a pedido de Flávio Bolsonaro",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "O item 4 da 13ª reunião da Comissão de Segurança Pública identifica relatório favorável com seis emendas e registra o resultado 'Retirado de pauta, a pedido do relator'. A retirada não é aprovação ou rejeição do mérito.",
       "state": "data informada pela fonte"
     },
     {
@@ -48108,6 +48670,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-c206c6b9e0dba384",
+      "itemId": "pesquisa-96d113b7f5d56ce5",
+      "title": "Agência Senado: promulgação e contexto da Lei 15.358/2026",
+      "date": "2026-03-24",
+      "datePrecision": "day",
+      "context": "Reportagem de 25/03/2026 explica a sanção com vetos e os objetivos/medidas da Lei Antifacção. Serve como interpretação institucional complementar ao texto legal e à posterior explicação de Flávio sobre a necessidade de revisar o relatório de outro projeto.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-88cb261f3776decb",
       "itemId": "pesquisa-b3fe3efbefefe3d8",
       "title": "Flávio diz que será candidato mesmo se Bolsonaro reverter inelegibilidade | CNN Brasil",
@@ -48115,6 +48686,24 @@
       "datePrecision": "unknown",
       "context": "Registro público de declarações ou entrevista de Flávio Bolsonaro: Flávio diz que será candidato mesmo se Bolsonaro reverter inelegibilidade | CNN Brasil. A presença no catálogo documenta a fala e o contexto, sem validar automaticamente o conteúdo.",
       "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-793fea1da9b68457",
+      "itemId": "pesquisa-a1acef1f8e343726",
+      "title": "Texto original publicado da Lei 15.358/2026, Lei Antifacção",
+      "date": "2026-03-24",
+      "datePrecision": "day",
+      "context": "Texto original da Lei 15.358, de 24/03/2026, Marco Legal do Combate ao Crime Organizado, altera dispositivos do Código Penal, Código de Processo Penal e Lei de Execução Penal, entre outros. Contextualiza a referência de Flávio à Lei Antifacção. É norma diferente do PL 2064/2025, cuja tramitação continua.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-d1356a422e843101",
+      "itemId": "pesquisa-0d3f0d2e27de9444",
+      "title": "Mensagem presidencial 216/2026: razões públicas do veto parcial à Lei Antifacção",
+      "date": "2026-03-24",
+      "datePrecision": "day",
+      "context": "A Mensagem 216, de 24/03/2026, expõe razões oficiais para o veto parcial ao PL 5582/2025 que originou a Lei Antifacção. Trata-se da justificativa pública do Executivo sobre projeto distinto do PL 2064. O documento não permite inferir posição do Executivo acerca do parecer de Flávio no PL 2064.",
+      "state": "data informada pela fonte"
     },
     {
       "id": "evento-1327f080bef551f9",
@@ -56851,6 +57440,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-4a218ae11486300f",
+      "itemId": "pesquisa-e1affd6a6420a2e7",
+      "sourceId": "fonte-ffa7a1ba1d5f2ee1",
+      "url": "https://hubpolitico.com.br/legislativo/senado/proposicao/PL-2064-2025",
+      "locator": "Ficha pública, cabeçalho, autoria e linhas 18-46.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-d7a4b3dc18784c20",
       "itemId": "pesquisa-d297e391025246bd",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -56884,11 +57484,22 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-ba5c9dbd62218eda",
+      "itemId": "pesquisa-a1b60225105673b9",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/14952",
+      "locator": "13ª CSP, seção Resultado da pauta e item 4, linhas 150-169; cabeçalho e opções de mídia, linhas 20-40.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-6f18eb7b31fc0baf",
       "itemId": "pesquisa-737e9bdf05bd493e",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168377",
-      "locator": "Ficha PL 2064/2025; autoria Jaime Bagattoli; relatoria Flávio; documentos de 12/06, 03/07 e 09/07/2026; última situação de 01/09.",
+      "locator": "Campos Autoria, Situação Atual e Documentos, linhas 20-50 e 99-137; movimentação de 01/09/2026.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -56906,11 +57517,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-28b0cb496c3240c5",
+      "itemId": "pesquisa-1c70b77c992a746e",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2064-2025",
+      "locator": "Seções Casa Iniciadora e Tramitação; movimentações 05/05/2025 a 01/09/2026, linhas 17-84.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-f7180b7c1493847c",
       "itemId": "pesquisa-15719968ce2a05f4",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2026/09/01/vai-a-ccj-projeto-que-libera-porte-de-arma-para-defensores-publicos",
       "locator": "Agência Senado, 01/09/2026 às 12h53; HTML linhas 19–34.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9e9970e1a1af40a8",
+      "itemId": "pesquisa-0d785aa8b23d8b4a",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2429/reuniao/14952/item/112378",
+      "locator": "13ª CSP, item 4, campos Autoria e relatoria, Relatório e Resultado, linhas 20-43.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -57632,11 +58265,44 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-c206c6b9e0dba384",
+      "itemId": "pesquisa-96d113b7f5d56ce5",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
+      "locator": "Reportagem publicada em 25/03/2026, linhas 19-33 e demais seções sobre sanção e benefícios penais.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-88cb261f3776decb",
       "itemId": "pesquisa-b3fe3efbefefe3d8",
       "sourceId": "fonte-7d7b950bffc2fe29",
       "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-sera-candidato-mesmo-se-bolsonaro-reverter-inelegibilidade/",
       "locator": "Página integral acessada no publicador.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-793fea1da9b68457",
+      "itemId": "pesquisa-a1acef1f8e343726",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15358-24-marco-2026-798846-publicacaooriginal-178585-pl.html",
+      "locator": "Publicação original, cabeçalho e ementa, linhas 17-29; corpo da lei disponível em HTML.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-d1356a422e843101",
+      "itemId": "pesquisa-0d3f0d2e27de9444",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15358-24-marco-2026-798846-veto-178586-pl.html",
+      "locator": "Mensagem 216, parágrafos introdutórios e razões de veto, linhas 24-56.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -62426,22 +63092,22 @@
     },
     {
       "year": 2026,
-      "found": 300,
-      "accessed": 300,
-      "analysed": 294,
+      "found": 307,
+      "accessed": 307,
+      "analysed": 301,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 6,
-        "analisado": 294,
+        "analisado": 301,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "debate da Globo": 91,
         "checagens": 1,
-        "Flávio Bolsonaro": 29,
+        "Flávio Bolsonaro": 37,
         "licença-maternidade": 1,
         "assistência social": 1,
         "eleições": 6,
@@ -62478,7 +63144,6 @@
         "banco-master": 2,
         "PL 3341/2025": 1,
         "PL 3272/2024": 1,
-        "reincidência": 1,
         "dosimetria da pena": 1,
         "desinformacao": 1,
         "documentação pública": 6,
@@ -62516,7 +63181,7 @@
         "fonte-f1199c02c1d5a933": 1,
         "fonte-f963e021c7cefa6f": 2,
         "fonte-9c2fbd587c9a9fb0": 6,
-        "fonte-2acd9e7dc92e583a": 47,
+        "fonte-2acd9e7dc92e583a": 50,
         "fonte-b1a6d0a350c2f59a": 1,
         "fonte-4114d6bfe97e1092": 1,
         "fonte-0a4536d177e98be8": 2,
@@ -62525,13 +63190,14 @@
         "fonte-5933091ceec7266f": 1,
         "fonte-e24089d8c0bdeda6": 2,
         "fonte-009ef75a2cd7b2f1": 1,
-        "fonte-29a2bae5277f274b": 3,
+        "fonte-29a2bae5277f274b": 5,
         "fonte-fe11eb2ae2357739": 1,
+        "fonte-ffa7a1ba1d5f2ee1": 1,
+        "fonte-ad60f42b08c8e9e7": 3,
         "fonte-4315e33aeb7227ab": 1,
         "fonte-cd19e6197d9bdf02": 1,
         "fonte-7d7b950bffc2fe29": 8,
         "fonte-508d60279dcebcef": 1,
-        "fonte-ad60f42b08c8e9e7": 2,
         "fonte-050cd7980a113c02": 1,
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
@@ -62541,20 +63207,20 @@
       "formats": {
         "video": 7,
         "checagem": 206,
-        "reportagem": 39,
-        "registro": 11,
+        "reportagem": 41,
+        "registro": 15,
         "audio": 3,
-        "documento": 34
+        "documento": 35
       },
       "note": "Recorte não exaustivo."
     }
   ],
   "metrics": {
-    "newItems": 636,
-    "items": 654,
+    "newItems": 643,
+    "items": 661,
     "alreadyInArchive": 18,
-    "accessed": 651,
-    "analysed": 621,
+    "accessed": 658,
+    "analysed": 628,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -62562,16 +63228,16 @@
     "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 64,
-    "sourcesConsulted": 59,
+    "sources": 65,
+    "sourcesConsulted": 60,
     "video": 19,
     "audio": 8,
-    "documents": 245,
+    "documents": 246,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 210,
-    "accessFailures": 53,
+    "queryCount": 214,
+    "accessFailures": 58,
     "undatedItems": 38
   },
   "queries": [
@@ -63818,6 +64484,42 @@
       "resultsState": "Transcrição publicada da sanção consultada, nenhum áudio reproduzido; outras páginas apresentaram timeout."
     },
     {
+      "id": "consulta-38dfb395791b2bb0",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36",
+      "query": "site:senado.leg.br PL 2064/2025 Jaime Bagattoli Flávio Bolsonaro CSP relatório emendas setembro 2026",
+      "executedAt": "2026-10-25T09:34:35.598Z",
+      "engine": "web.run, busca e abertura de páginas HTML oficiais",
+      "interval": "2025-2026",
+      "resultsState": "A autoria de Jaime e a relatoria de Flávio confirmadas no Senado; três versões de parecer apresentadas, sem deliberação concluída."
+    },
+    {
+      "id": "consulta-3533f10c751a022c",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36",
+      "query": "PL 2064 2025 13ª CSP 01/09/2026 retirado de pauta notas taquigráficas Lei Antifacção",
+      "executedAt": "2026-10-25T09:34:35.598Z",
+      "engine": "web.run, pesquisa e leitura de notas oficiais revistas",
+      "interval": "2026-09-01",
+      "resultsState": "Retirada de pauta confirmada por item de comissão; motivo atribuído ao próprio Flávio na transcrição oficial. Áudio não ouvido."
+    },
+    {
+      "id": "consulta-d8f305b49ea62874",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36",
+      "query": "Lei 15.358 de 24 março 2026 publicação original mensagem veto 216 PL 5582 2025",
+      "executedAt": "2026-10-25T09:34:35.598Z",
+      "engine": "web.run, abertura da Câmara e Agência Senado",
+      "interval": "2026-03-24 a 2026-03-25",
+      "resultsState": "Íntegra HTML da lei e da justificativa de veto consultadas; autoria e origens do marco legal distintas do PL 2064."
+    },
+    {
+      "id": "consulta-bf355a763102e460",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36",
+      "query": "site:github.com/QGBALTIGO/Internacional PL 2064/2025 e material anterior",
+      "executedAt": "2026-10-25T09:34:35.598Z",
+      "engine": "Conector GitHub, pesquisa de conteúdo e leitura da árvore/checkpoints",
+      "interval": "Catálogo principal com 654 itens, até lote -35",
+      "resultsState": "Busca por número de projeto não trouxe correspondência indexada; build do repositório consolida URLs canônicas repetidas."
+    },
+    {
       "id": "consulta-8f16b93f13f313e6",
       "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
       "query": "PL 2169/2019 Flávio Bolsonaro CDH 22 outubro 2025 texto substitutivo Marcio Bittar Marcos Rogério 5 10 anos",
@@ -64718,6 +65420,35 @@
       "note": "PDFs de pareceres, relatórios e emendas do PL 1829/2019 não foram examinados; não assumir conteúdo integral por resumos das fichas. Nenhuma gravação reproduzida."
     },
     {
+      "batch": "pl2064-reincidencia-lei15358-20261025-36",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10245068&rendition_principal=S&ts=1788278333776",
+      "status": "Visualizador apresentou página de verificação de segurança",
+      "note": "Relatório Flávio 12/06/2026: disponível na ficha do Senado como metadado, mas PDF íntegro não examinado."
+    },
+    {
+      "batch": "pl2064-reincidencia-lei15358-20261025-36",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10265099&rendition_principal=S&ts=1788278333702",
+      "status": "Visualizador apresentou página de verificação de segurança",
+      "note": "Relatório Flávio 03/07/2026: não foi lido o PDF, inclusive texto das cinco emendas; apenas descrição do Senado."
+    },
+    {
+      "batch": "pl2064-reincidencia-lei15358-20261025-36",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10273648&rendition_principal=S&ts=1788278333837",
+      "status": "Visualizador apresentou página de verificação de segurança",
+      "note": "Relatório Flávio 09/07/2026: não foi lido PDF com seis emendas; publicação de pauta e notas taquigráficas lidas separadamente."
+    },
+    {
+      "batch": "pl2064-reincidencia-lei15358-20261025-36",
+      "url": "https://agenciagov.ebc.com.br/noticias/202603/presidente-lula-sanciona-lei-que-fortalece-o-combate-ao-crime-organizado",
+      "status": "Redirecionamento para indisponibilidade/acesso não efetivado",
+      "note": "Não catalogada como texto efetivamente lido; demais registros originais oficiais acessados."
+    },
+    {
+      "batch": "pl2064-reincidencia-lei15358-20261025-36",
+      "status": "Mídia da 13ª reunião da CSP não reproduzida",
+      "note": "Nenhuma escuta ou revisão de vídeo; 0 segundos e sem timestamps audiovisuais conferidos."
+    },
+    {
       "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
       "source": "https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728",
       "status": "inspeção visual bloqueada",
@@ -65486,6 +66217,48 @@
       "batch": "pl1829-turismo-lei14978-vet29-20261025-34"
     },
     {
+      "id": "lacuna-79e921305cc6bce2",
+      "note": "PL 2064/2025: reabrir os três PDFs de relatórios e emendas com acesso permitido, comparar textualmente versões de junho e julho e eventual revisão posterior; não afirmar conteúdo detalhado não lido.",
+      "state": "pendente",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36"
+    },
+    {
+      "id": "lacuna-cc1e15e60662c653",
+      "note": "PL 2064/2025: consultar eventual nova pauta ou voto da CSP após 01/09/2026, seguido da CCJ; retirada de pauta não é rejeição ou aprovação definitiva.",
+      "state": "pendente",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36"
+    },
+    {
+      "id": "lacuna-3205ff785da3269f",
+      "note": "Cotejar Lei 15.358/2026 com emendas do PL 2064/2025 em revisão jurídica humana identificada, sem inferir sobreposição ou redundância apenas da fala parlamentar.",
+      "state": "pendente",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36"
+    },
+    {
+      "id": "lacuna-2eebb0526944a6af",
+      "note": "Consultar resposta pública do autor Jaime Bagattoli à retirada de pauta e opiniões técnicas favoráveis/contrárias em fontes diretamente abertas; as buscas deste lote documentaram apenas justificativa pública do relator.",
+      "state": "pendente",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36"
+    },
+    {
+      "id": "lacuna-2c60c6283a1a9173",
+      "note": "Não foi localizada neste recorte checagem independente especificamente sobre a justificativa da retirada; não fabricar conclusão nem classificar contradição.",
+      "state": "pendente",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36"
+    },
+    {
+      "id": "lacuna-2ae40b2c74a41078",
+      "note": "Conferir audiovisual da 13ª CSP em revisão autorizada; a transcrição institucional lida não vale por escuta. Tempo ouvido: 0 segundo.",
+      "state": "pendente",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36"
+    },
+    {
+      "id": "lacuna-9b7903b4ee85ed08",
+      "note": "Qualquer nova acusação, veredito ou comparação sensível deve permanecer com editorialClassification:null até revisão editorial humana identificada; não alterar approvedReviewerIds.",
+      "state": "pendente",
+      "batch": "pl2064-reincidencia-lei15358-20261025-36"
+    },
+    {
       "id": "lacuna-29a5fdc8a5cbfeb3",
       "note": "PL 2169/2019: obter e cotejar visualmente a íntegra assinada do substitutivo da CDH (PDF) e o avulso inicial antes de comparação textual definitiva.",
       "state": "pendente",
@@ -66104,6 +66877,12 @@
       "label": "PL 1829/2019, atos parlamentares, Lei 14.978/2024, razões de veto e estado VET 29/2024",
       "collected_at_utc": "2026-10-25T07:48:26.209Z",
       "method": "16 URLs efetivamente lidas, conferidas contra 628 registros anteriores; 0 segundos de áudio ouvidos, nenhum veredito/revisor."
+    },
+    {
+      "id": "checkpoint-20261025-36",
+      "label": "PL 2064/2025, relatórios e retirada da CSP, justificativa em notas taquigráficas e contexto da Lei 15.358/2026",
+      "collected_at_utc": "2026-10-25T09:34:35.598Z",
+      "method": "9 URLs HTML efetivamente abertas, 3 relatórios PDF bloqueados, 0 segundos de áudio/vídeo reproduzidos, nenhuma nova classificação ou revisor."
     },
     {
       "id": "checkpoint-20261025-28",

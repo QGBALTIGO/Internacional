@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T08:43:36.780159Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T09:34:45.677310Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-654 URLs únicas no lote; 636 ainda não vinculadas à edição anterior. 651 materiais acessados e 621 com texto analisado.
+661 URLs únicas no lote; 643 ainda não vinculadas à edição anterior. 658 materiais acessados e 628 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -35,7 +35,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2023 | 29 | 29 | 27 | 0 | 0 |
 | 2024 | 50 | 50 | 49 | 0 | 0 |
 | 2025 | 73 | 73 | 70 | 0 | 0 |
-| 2026 | 300 | 300 | 294 | 0 | 0 |
+| 2026 | 307 | 307 | 301 | 0 | 0 |
 
 Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -150,6 +150,13 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - PL 1829/2019: obter íntegra audiovisual/taquigráfica do Plenário de 05/06/2024, conferir debate do consumidor e responder a eventuais manifestações contrárias identificadas.
 - Conferir empiricamente projeções econômicas de Flávio e Alan Rick sobre emprego, passagens e turismo com dados primários, antes de qualquer veredito.
 - Submeter eventuais comparações sensíveis sobre redação do parecer versus vetos a revisão editorial humana identificada; manter classification:null e reviewedAt:null.
+- PL 2064/2025: reabrir os três PDFs de relatórios e emendas com acesso permitido, comparar textualmente versões de junho e julho e eventual revisão posterior; não afirmar conteúdo detalhado não lido.
+- PL 2064/2025: consultar eventual nova pauta ou voto da CSP após 01/09/2026, seguido da CCJ; retirada de pauta não é rejeição ou aprovação definitiva.
+- Cotejar Lei 15.358/2026 com emendas do PL 2064/2025 em revisão jurídica humana identificada, sem inferir sobreposição ou redundância apenas da fala parlamentar.
+- Consultar resposta pública do autor Jaime Bagattoli à retirada de pauta e opiniões técnicas favoráveis/contrárias em fontes diretamente abertas; as buscas deste lote documentaram apenas justificativa pública do relator.
+- Não foi localizada neste recorte checagem independente especificamente sobre a justificativa da retirada; não fabricar conclusão nem classificar contradição.
+- Conferir audiovisual da 13ª CSP em revisão autorizada; a transcrição institucional lida não vale por escuta. Tempo ouvido: 0 segundo.
+- Qualquer nova acusação, veredito ou comparação sensível deve permanecer com editorialClassification:null até revisão editorial humana identificada; não alterar approvedReviewerIds.
 - PL 2169/2019: obter e cotejar visualmente a íntegra assinada do substitutivo da CDH (PDF) e o avulso inicial antes de comparação textual definitiva.
 - PL 2169/2019 e PL 3030/2019: acompanhar a CCJ; não confundir aprovação da CDH com lei vigente, nem presumir que pedidos retirados de tramitação conjunta tiveram eficácia.
 - Confrontar alegações empíricas sobre reincidência, proteção, internação e eficácia com levantamentos oficiais e literatura independente, sem atribuir estatísticas sem fonte.
@@ -283,6 +290,11 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - batch: pl1829-turismo-lei14978-vet29-20261025-34; url: https://www12.senado.leg.br/radio/1/noticia/2024/06/07/senado-aprova-projeto-para-modernizar-turismo-no-brasil; status: timeout na abertura; note: Página encontrada por busca; áudio/transcrição não catalogados como acessados.
 - batch: pl1829-turismo-lei14978-vet29-20261025-34; url: https://www12.senado.leg.br/radio/1/noticia/2024/06/04/atualizacao-da-lei-geral-do-turismo-tem-pedido-de-urgencia-para-votacao-em-plenario; status: timeout na abertura; note: Busca retornou metadados, abertura direta falhou; não contabilizar como lido.
 - batch: pl1829-turismo-lei14978-vet29-20261025-34; note: PDFs de pareceres, relatórios e emendas do PL 1829/2019 não foram examinados; não assumir conteúdo integral por resumos das fichas. Nenhuma gravação reproduzida.
+- batch: pl2064-reincidencia-lei15358-20261025-36; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10245068&rendition_principal=S&ts=1788278333776; status: Visualizador apresentou página de verificação de segurança; note: Relatório Flávio 12/06/2026: disponível na ficha do Senado como metadado, mas PDF íntegro não examinado.
+- batch: pl2064-reincidencia-lei15358-20261025-36; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10265099&rendition_principal=S&ts=1788278333702; status: Visualizador apresentou página de verificação de segurança; note: Relatório Flávio 03/07/2026: não foi lido o PDF, inclusive texto das cinco emendas; apenas descrição do Senado.
+- batch: pl2064-reincidencia-lei15358-20261025-36; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10273648&rendition_principal=S&ts=1788278333837; status: Visualizador apresentou página de verificação de segurança; note: Relatório Flávio 09/07/2026: não foi lido PDF com seis emendas; publicação de pauta e notas taquigráficas lidas separadamente.
+- batch: pl2064-reincidencia-lei15358-20261025-36; url: https://agenciagov.ebc.com.br/noticias/202603/presidente-lula-sanciona-lei-que-fortalece-o-combate-ao-crime-organizado; status: Redirecionamento para indisponibilidade/acesso não efetivado; note: Não catalogada como texto efetivamente lido; demais registros originais oficiais acessados.
+- batch: pl2064-reincidencia-lei15358-20261025-36; status: Mídia da 13ª reunião da CSP não reproduzida; note: Nenhuma escuta ou revisão de vídeo; 0 segundos e sem timestamps audiovisuais conferidos.
 - batch: pl2169-cdh-substitutivo-tramitacao-20261025-28; source: https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728; status: inspeção visual bloqueada; note: Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10201058&rendition_principal=S&ts=1775771078593; reason: Visualização do PDF institucional devolveu desafio de verificação de segurança, inclusive em captura de tela; não declarar PDF integral lido nem emenda conferida.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento/download/6ea8ccf0-b2d2-4d09-b258-d7e24222dbde; reason: Captura de página interna do PDF de pauta retornou tela de segurança; extração parcial/indexada não é inspeção visual completa. Não catalogado como integral acessada.
