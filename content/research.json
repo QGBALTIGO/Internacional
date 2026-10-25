@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T14:27:25.178275Z",
-    "inputHash": "dd5af1ba0ff0a64b9e639fb623f779d72034181c3e880e54925dcadcbe7e69e1",
+    "generatedAt": "2026-10-25T15:31:58.076744Z",
+    "inputHash": "9357ca27ff372ec5f50fbf24182fcee1200b88458d42c145501bcbda03e0001c",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -21921,6 +21921,138 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-68c17e2ac0665795",
+      "title": "Câmara: Mensagem presidencial 1.892/2025 com justificativa de veto à Lei 15.306",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15306-22-dezembro-2025-798535-veto-177513-pl.html",
+      "publisher": "Câmara dos Deputados",
+      "date": "2025-12-22",
+      "eventDate": "2025-12-22",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas",
+      "topics": [
+        "PL 2343/2025",
+        "relatoria Flávio Bolsonaro",
+        "porte de arma, Defensoria Pública e advocacia pública"
+      ],
+      "stage": "analisado",
+      "summary": "Texto oficial da Mensagem 1.892/2025 que comunica veto parcial ao PL 5948/2023. Registra fundamentos de inconstitucionalidade e interesse público atribuídos ao Executivo, com manifestação do Ministério da Justiça sobre dispositivos de comprovação de capacidade técnica e aptidão psicológica. É resposta pública executiva ao texto de policiais legislativos, não oposição formal ao PL 2343/2025 ou prova empírica dos riscos alegados pelos senadores.",
+      "limitations": "Íntegra textual HTML da mensagem de veto efetivamente aberta. Não foram conferidos documentos técnicos ministeriais anexos nem a tramitação posterior do VET 48/2025, cujo painel apresentou erro 502 na tentativa. Não presumir votação sobre veto nem atribuir razões do Executivo ao senador.",
+      "locator": "Mensagem 1.892 de 22/12/2025, primeiro bloco de 'Razões do veto' ao art. 1º do PL na alteração dos §§2º/4º do art. 6º da Lei 10.826",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T15:31:46.000Z",
+      "lastModifiedAt": "2026-10-25T15:31:46.000Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Mensagem 1.892/2025; PL 5948/2023",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+          "inputId": "42-camara-veto15306",
+          "toolReference": "turn257533view3"
+        }
+      ],
+      "accessMethod": "abertura e leitura de texto HTML público no navegador de pesquisa; sem reprodução de áudio ou vídeo, nem acesso presumido a anexos",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-30afa5908a96904d",
+      "title": "Câmara: texto original da Lei 15.306/2025, porte de policiais legislativos, não defensores",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15306-22-dezembro-2025-798535-publicacaooriginal-177512-pl.html",
+      "publisher": "Câmara dos Deputados",
+      "date": "2025-12-22",
+      "eventDate": "2025-12-22",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas",
+      "topics": [
+        "PL 2343/2025",
+        "relatoria Flávio Bolsonaro",
+        "porte de arma, Defensoria Pública e advocacia pública"
+      ],
+      "stage": "analisado",
+      "summary": "Texto publicado da Lei 15.306/2025, oriunda do PL 5948/2023, altera o inciso VI do art. 6º da Lei 10.826/2003 para abranger polícias legislativas previstas na Constituição. Os parágrafos 2º e 4º aparecem como vetados. A leitura da lei esclarece que não se trata da sanção do PL 2343/2025 e não concede nesse dispositivo o porte a membros da Defensoria Pública.",
+      "limitations": "Texto oficial de publicação original acessado integralmente em HTML, não compilação de todas as alterações posteriores do Estatuto do Desarmamento. Não atribuir lei nem vetos a Flávio e não misturar categorias de profissionais.",
+      "locator": "Publicação Original, ementa, art. 1º (redação do art. 6º, VI e §§2º/4º vetados), art. 2º e DOU 23/12/2025 seção 1 página 8",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T15:31:46.000Z",
+      "lastModifiedAt": "2026-10-25T15:31:46.000Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei 15.306/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+          "inputId": "42-camara-lei15306",
+          "toolReference": "turn257533view2"
+        }
+      ],
+      "accessMethod": "abertura e leitura de texto HTML público no navegador de pesquisa; sem reprodução de áudio ou vídeo, nem acesso presumido a anexos",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-0a7da473c2e9c02a",
       "title": "Participação no Irmãos Dias Podcast",
       "url": "https://podcasts.apple.com/br/podcast/entrevista-exclusiva-com-fl%C3%A1vio-bolsonaro-irm%C3%A3os-dias/id1622247936?i=1000741078153",
@@ -25853,6 +25985,72 @@
         }
       ],
       "accessMethod": "Página pública HTML aberta e lida em 24/10/2026 por web.run; localizadores são linhas de HTML retornadas no acesso, não timestamps de mídia. O campo collected_at registra o fechamento documental deste checkpoint e não a hora individual de cada consulta.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-4bce7131bb5440a4",
+      "title": "Congresso Nacional: tramitação bicameral do PL 2343/2025 e aprovação limitada à CSP",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2343-2025",
+      "publisher": "Congresso Nacional",
+      "date": "2025-05-16",
+      "eventDate": "2026-09-01",
+      "year": 2025,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas",
+      "topics": [
+        "PL 2343/2025",
+        "relatoria Flávio Bolsonaro",
+        "porte de arma, Defensoria Pública e advocacia pública"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha oficial identifica Carlos Portinho como autor do PL 2343/2025, Flávio Bolsonaro como relator na CSP, com relatório favorável recebido em 27/08/2026 e acolhimento oral da Emenda 1-CSP de Alessandro Vieira em 01/09/2026. A CSP aprovou parecer favorável; o andamento disponível na consulta de 25/10/2026 ainda indica CCJ aguardando designação de relator. Etapa da Câmara e sanção aparecem somente como previstas: o PL não foi registrado como lei.",
+      "limitations": "Painel de tramitação consultado em HTML e sujeito a atualizações posteriores. Não confundir relatoria e autoria; nem aprovação de comissão com lei. PDFs dos textos e da emenda não foram lidos.",
+      "locator": "Bloco 'Casa Iniciadora (Senado)', entradas de 15/07, 27/08, 01/09/2026 e último status 'AGUARDANDO DESIGNAÇÃO DO RELATOR'; quadros Câmara/Sanção 'Fase prevista'",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T15:31:46.000Z",
+      "lastModifiedAt": "2026-10-25T15:31:46.000Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 2343/2025",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+          "inputId": "42-congresso-pl2343",
+          "toolReference": "turn153079view1"
+        }
+      ],
+      "accessMethod": "abertura e leitura de texto HTML público no navegador de pesquisa; sem reprodução de áudio ou vídeo, nem acesso presumido a anexos",
       "newToArchive": true
     },
     {
@@ -29802,6 +30000,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-b491da874cd16ef7",
+      "title": "STF: registro processual da ADI 7571, porte de armas para defensores em lei estadual do Espírito Santo",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6821123",
+      "publisher": "Supremo Tribunal Federal",
+      "date": "2024-06-12",
+      "eventDate": "2024-06-04",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas",
+      "topics": [
+        "PL 2343/2025",
+        "relatoria Flávio Bolsonaro",
+        "porte de arma, Defensoria Pública e advocacia pública"
+      ],
+      "stage": "analisado",
+      "summary": "Página processual oficial da ADI 7571 (relator Cristiano Zanin) documenta julgamento virtual concluído em 04/06/2024, publicação do acórdão em 12/06/2024 e andamento de decisão de mérito procedente contra a parte final do art. 55, II, da LC estadual 55/1994 do ES, relativa a porte por defensores públicos. O caso trata da competência legislativa estadual; não julgou o posterior PL federal 2343/2025 nem resolve previamente sua constitucionalidade.",
+      "limitations": "Abertos página e andamentos textuais públicos; PDF integral do acórdão, votos e petições não foram examinados. Na notícia da Rádio Senado de 08/09/2026, o argumento de competência do STF é atribuído à fala do relator, não ampliado a decisão sobre o projeto futuro.",
+      "locator": "Processo ADI 7571, registro número único 0091945-76.2023.1.00.0000, aba textual de andamento de 05/06, 12/06 e 25/06/2024; relatoria Cristiano Zanin",
+      "sourceId": "fonte-3ed65b2f1d041330",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T15:31:46.000Z",
+      "lastModifiedAt": "2026-10-25T15:31:46.000Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "ADI 7571/ES",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+          "inputId": "42-stf-adi7571",
+          "toolReference": "turn145374search1"
+        }
+      ],
+      "accessMethod": "abertura e leitura de texto HTML público no navegador de pesquisa; sem reprodução de áudio ou vídeo, nem acesso presumido a anexos",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-aea82d14b79b0b29",
       "title": "Mudanças anunciadas na PEC dos terrenos de marinha",
       "url": "https://www12.senado.leg.br/noticias/videos/2024/06/terrenos-de-marinha-relator-da-pec-3-2022-anuncia-mudancas-no-texto",
@@ -31802,6 +32066,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-bef364aba54b7fda",
+      "title": "STF: notícia oficial da impugnação de normas estaduais de porte, inclusive para defensores",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-da-republica-questiona-leis-que-facilitam-acesso-a-armas-de-fogo-em-estados-e-municipio/",
+      "publisher": "Supremo Tribunal Federal",
+      "date": "2023-12-20",
+      "eventDate": "2023-12-19",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas",
+      "topics": [
+        "PL 2343/2025",
+        "relatoria Flávio Bolsonaro",
+        "porte de arma, Defensoria Pública e advocacia pública"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia institucional de 20/12/2023 registra que a Presidência da República, por representação da AGU, ajuizou dez ações contra normas estaduais e municipais relativas a armas. Identifica a ADI 7571 entre as ações do Espírito Santo e apresenta o argumento da União quanto à sua competência para legislar e fiscalizar material bélico. Trata-se de comunicação da apresentação das ações, não de resultado de julgamento.",
+      "limitations": "Acesso à notícia textual, não às dez petições integrais nem a notas ou manifestações de 2026. Posicionamento público de 2023 é referente a normas estaduais e não constitui resposta formal da AGU ao PL federal 2343/2025.",
+      "locator": "Notícia de 20/12/2023 13h30, parágrafos sobre autoria das ações, objeto profissional e enumeração ADI 7571; fundamento atribuído à AGU",
+      "sourceId": "fonte-3ed65b2f1d041330",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T15:31:46.000Z",
+      "lastModifiedAt": "2026-10-25T15:31:46.000Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "ADI 7571/ES (entre dez ações)",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+          "inputId": "42-stf-peticoes-2023",
+          "toolReference": "turn153079view0"
+        }
+      ],
+      "accessMethod": "abertura e leitura de texto HTML público no navegador de pesquisa; sem reprodução de áudio ou vídeo, nem acesso presumido a anexos",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-c7afa22fc8d02c26",
       "title": "Agência Senado registra apresentação ad hoc de parecer sobre PLP 150/2021",
       "url": "https://www12.senado.leg.br/noticias/materias/2023/12/15/projeto-que-protege-populacao-lgbtqia-encarcerada-vai-ao-plenario",
@@ -31865,6 +32195,72 @@
         }
       ],
       "accessMethod": "Artigo público da Agência Senado aberto e lido diretamente em 24/10/2026; não houve contato com os envolvidos e nenhum player foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-6c985980ba1183a0",
+      "title": "Senado: PL 5948/2023, emendas sobre defensores rejeitadas em 2024 e destino legislativo distinto",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161516",
+      "publisher": "Senado Federal",
+      "date": "2023-12-11",
+      "eventDate": "2024-09-04",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas",
+      "topics": [
+        "PL 2343/2025",
+        "relatoria Flávio Bolsonaro",
+        "porte de arma, Defensoria Pública e advocacia pública"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha original do PL 5948/2023 atribui autoria a Izalci Lucas. O objeto central era porte para policiais legislativos estaduais e do DF. Registra Emenda 4 de Lucas Barreto em 03/09/2024 e Emenda 7 de Sergio Moro em 04/09/2024, ambas descritas como iniciativas sobre porte a defensores públicos. A CCJ rejeitou as Emendas 2 a 7 em 04/09/2024. O projeto seguiu à Câmara e originou a Lei 15.306/2025 com alcance de policiais legislativos; não incorporou, pelo resultado oficial documentado, as emendas para defensores. Projeto e lei não são de autoria ou relatoria de Flávio Bolsonaro.",
+      "limitations": "Somente ficha e ementas textuais HTML consultadas. PDFs integrais das emendas, pareceres e votações nominais não foram abertos; rejeição é resultado oficial da CCJ e não voto individual de Flávio. Contexto histórico relacionado, não peça do PL 2343/2025.",
+      "locator": "Ficha 'Emendas', EMENDA 4 (Lucas Barreto), EMENDA 7 (Sergio Moro), status 'Rejeitada - SF-CCJ - 04/09/2024'; tramitação CCJ 04/09/2024; cabeçalho 'Norma Gerada Lei 15.306'",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T15:31:46.000Z",
+      "lastModifiedAt": "2026-10-25T15:31:46.000Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 5948/2023",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+          "inputId": "42-senado-pl5948",
+          "toolReference": "turn722547view4"
+        }
+      ],
+      "accessMethod": "abertura e leitura de texto HTML público no navegador de pesquisa; sem reprodução de áudio ou vídeo, nem acesso presumido a anexos",
       "newToArchive": true
     },
     {
@@ -43853,6 +44249,72 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-755d2ef61c6c7892",
+      "title": "Polícia Federal: procedimento público de porte pessoal e portes funcionais com regulamentação própria",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/armas/porte-de-arma",
+      "publisher": "Polícia Federal",
+      "date": "2010-02-25",
+      "eventDate": null,
+      "year": 2010,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas",
+      "topics": [
+        "PL 2343/2025",
+        "relatoria Flávio Bolsonaro",
+        "porte de arma, Defensoria Pública e advocacia pública"
+      ],
+      "stage": "analisado",
+      "summary": "Página de serviço da Polícia Federal publicada em 25/02/2010 e atualizada em 16/10/2020 distingue solicitação de porte para defesa pessoal de portes funcionais para categorias específicas, apontando Instrução Normativa 180/2020-DG/PF. Fornece contexto normativo operacional, mas não é resposta específica da PF ao PL 2343/2025 nem evidência de eficácia ou segurança do uso de armas.",
+      "limitations": "Página governamental consultada em 25/10/2026, mas data de atualização explícita é 2020. Não extrapolar procedimentos de categorias listadas para membros da Defensoria ou Advocacia-Geral da União, nem considerar aprovação automática decorrente de projeto em tramitação.",
+      "locator": "Seção 'Porte de Arma de Fogo', texto principal após menu, atualização 16/10/2020, parágrafos sobre defesa pessoal e categorias de porte funcional",
+      "sourceId": "fonte-66b70bba92e387b0",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T15:31:46.000Z",
+      "lastModifiedAt": "2026-10-25T15:31:46.000Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "IN PF 180/2020-DG/PF (citada no portal)",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+          "inputId": "42-pf-portes-funcionais",
+          "toolReference": "turn153079view2"
+        }
+      ],
+      "accessMethod": "abertura e leitura de texto HTML público no navegador de pesquisa; sem reprodução de áudio ou vídeo, nem acesso presumido a anexos",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-999a64e2152d31b2",
       "title": "PL 2862/2010 sobre mudança nas cotas universitárias sujeita a referendo",
       "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&url=L3NjcHJvMDcxMS5uc2YvMThjMWRkNjhmOTZiZTNlNzgzMjU2NmVjMDAxOGQ4MzMvODEzMEJBQjM2RkNBNTlDOTgzMjU3NEJGMDA1NUMyMkI%2FT3BlbkRvY3VtZW50",
@@ -44912,6 +45374,138 @@
         }
       ],
       "accessMethod": "Página pública em HTML aberta e texto pertinente lido em 25/10/2026; collected_at indica fechamento do checkpoint, não instante individual de acesso. Arquivos ligados, áudio, vídeo e PDFs não foram reproduzidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-58d3dc3239ffd16b",
+      "title": "Câmara: texto atualizado da LC 80/1994 e funções institucionais dos defensores públicos",
+      "url": "https://www2.camara.leg.br/legin/fed/leicom/1994/leicomplementar-80-12-janeiro-1994-363035-normaatualizada-pl.html",
+      "publisher": "Câmara dos Deputados",
+      "date": "1994-01-12",
+      "eventDate": null,
+      "year": 1994,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas",
+      "topics": [
+        "PL 2343/2025",
+        "relatoria Flávio Bolsonaro",
+        "porte de arma, Defensoria Pública e advocacia pública"
+      ],
+      "stage": "analisado",
+      "summary": "Texto atualizado da LC 80/1994 no Centro de Documentação e Informação da Câmara, incluindo alterações da LC 132/2009. Artigos 1º a 4º situam a Defensoria Pública, suas atribuições e sua diferença em relação a polícias legislativas e membros da advocacia pública. Contextualiza funções dos potenciais beneficiários do PL 2343/2025; não permite afirmar que o porte novo já esteja vigente.",
+      "limitations": "Texto compilado acessado em HTML; não se certifica que sua última atualização reflita todos os atos possíveis até 25/10/2026. Data de 12/01/1994 refere-se à lei matriz, não à data da versão web.",
+      "locator": "Arquivo HTML normaatualizada, arts. 1º, 2º, 3º e 4º, indicações de redação pela LC 132/2009",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T15:31:46.000Z",
+      "lastModifiedAt": "2026-10-25T15:31:46.000Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei Complementar 80/1994, norma atualizada",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+          "inputId": "42-camara-lc80-atualizada",
+          "toolReference": "turn257533view6"
+        }
+      ],
+      "accessMethod": "abertura e leitura de texto HTML público no navegador de pesquisa; sem reprodução de áudio ou vídeo, nem acesso presumido a anexos",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-22f248e57a4855bf",
+      "title": "Câmara: versão original da LC 80/1994, organização e funções da Defensoria Pública",
+      "url": "https://www2.camara.leg.br/legin/fed/leicom/1994/leicomplementar-80-12-janeiro-1994-363035-publicacaooriginal-1-pl.html",
+      "publisher": "Câmara dos Deputados",
+      "date": "1994-01-12",
+      "eventDate": null,
+      "year": 1994,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas",
+      "topics": [
+        "PL 2343/2025",
+        "relatoria Flávio Bolsonaro",
+        "porte de arma, Defensoria Pública e advocacia pública"
+      ],
+      "stage": "analisado",
+      "summary": "Publicação original da Lei Complementar 80/1994, consultada como marco de organização das Defensorias Públicas da União, Distrito Federal e estados. Os arts. 1º a 4º descrevem funções institucionais e versões normativas de 1994. Diferencia atividades profissionais e prerrogativas funcionais da alteração de porte de arma ainda apenas proposta no PL 2343/2025.",
+      "limitations": "Versão inicial de 1994, não texto vigente compilado de 2026 e não comprova por si concessão de porte. Data é da norma, não da consulta, realizada nesta coleta. Sem análise jurídica conclusiva ou comparação sensível aprovada.",
+      "locator": "Publicação Original, ementa, arts. 1º–4º e sequência de funções dos membros da Defensoria",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T15:31:46.000Z",
+      "lastModifiedAt": "2026-10-25T15:31:46.000Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": null,
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "Lei Complementar 80/1994",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+          "inputId": "42-camara-lc80-original",
+          "toolReference": "turn257533view7"
+        }
+      ],
+      "accessMethod": "abertura e leitura de texto HTML público no navegador de pesquisa; sem reprodução de áudio ou vídeo, nem acesso presumido a anexos",
       "newToArchive": true
     },
     {
@@ -48149,10 +48743,10 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
+      "lastConsultedAt": "2026-10-25T15:31:46.000Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 6,
+      "sourceCount": 7,
       "periods": [
         2024,
         2025,
@@ -48163,8 +48757,8 @@
         "registro"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 6,
-      "analysedCount": 6
+      "accessedCount": 7,
+      "analysedCount": 7
     },
     {
       "id": "fonte-a4e1c1a2182dd1de",
@@ -48290,11 +48884,12 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
+      "lastConsultedAt": "2026-10-25T15:31:46.000Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 22,
+      "sourceCount": 26,
       "periods": [
+        1994,
         2007,
         2019,
         2020,
@@ -48309,8 +48904,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 22,
-      "analysedCount": 22
+      "accessedCount": 26,
+      "analysedCount": 26
     },
     {
       "id": "fonte-0d9079c114e04a58",
@@ -49073,6 +49668,29 @@
       "analysedCount": 2
     },
     {
+      "id": "fonte-66b70bba92e387b0",
+      "name": "Polícia Federal",
+      "url": "https://www.gov.br/",
+      "responsible": "Polícia Federal",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T15:31:46.000Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2010
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-9a210054a698a70e",
       "name": "Presidência da República, Casa Civil",
       "url": "https://presidencia.gov.br/",
@@ -49380,10 +49998,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T12:30:43.271400Z",
-      "lastConsultedAt": "2026-10-25T14:27:13.464Z",
+      "lastConsultedAt": "2026-10-25T15:31:46.000Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 314,
+      "sourceCount": 315,
       "periods": [
         2018,
         2019,
@@ -49404,8 +50022,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 313,
-      "analysedCount": 294
+      "accessedCount": 314,
+      "analysedCount": 295
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -49439,14 +50057,15 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T13:27:06.260Z",
+      "lastConsultedAt": "2026-10-25T15:31:46.000Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 5,
+      "sourceCount": 7,
       "periods": [
         2019,
         2021,
         2023,
+        2024,
         2025
       ],
       "formats": [
@@ -49455,8 +50074,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 5,
-      "analysedCount": 4
+      "accessedCount": 7,
+      "analysedCount": 6
     },
     {
       "id": "fonte-d17e0097bbcd6c10",
@@ -53446,6 +54065,24 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-621814d41d7b62c2",
+      "itemId": "pesquisa-68c17e2ac0665795",
+      "title": "Câmara: Mensagem presidencial 1.892/2025 com justificativa de veto à Lei 15.306",
+      "date": "2025-12-22",
+      "datePrecision": "day",
+      "context": "Texto oficial da Mensagem 1.892/2025 que comunica veto parcial ao PL 5948/2023. Registra fundamentos de inconstitucionalidade e interesse público atribuídos ao Executivo, com manifestação do Ministério da Justiça sobre dispositivos de comprovação de capacidade técnica e aptidão psicológica. É resposta pública executiva ao texto de policiais legislativos, não oposição formal ao PL 2343/2025 ou prova empírica dos riscos alegados pelos senadores.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-cee18695bd1660a0",
+      "itemId": "pesquisa-30afa5908a96904d",
+      "title": "Câmara: texto original da Lei 15.306/2025, porte de policiais legislativos, não defensores",
+      "date": "2025-12-22",
+      "datePrecision": "day",
+      "context": "Texto publicado da Lei 15.306/2025, oriunda do PL 5948/2023, altera o inciso VI do art. 6º da Lei 10.826/2003 para abranger polícias legislativas previstas na Constituição. Os parágrafos 2º e 4º aparecem como vetados. A leitura da lei esclarece que não se trata da sanção do PL 2343/2025 e não concede nesse dispositivo o porte a membros da Defensoria Pública.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-fcb2a8d8681afbf5",
       "itemId": "pesquisa-0a7da473c2e9c02a",
       "title": "Participação no Irmãos Dias Podcast",
@@ -53974,6 +54611,15 @@
       "date": "2026-09-01",
       "datePrecision": "day",
       "context": "Ficha identifica Carlos Portinho como autor, relatório favorável de Flávio apresentado em 27/08/2026, parecer P.S. 29/2026-CSP de 01/09/2026 e emenda de Alessandro Vieira. O estado exibido na consulta de 24/10/2026 era 'aguardando designação do relator' na CCJ desde 01/09/2026. Autoria e relatoria estão separadas.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-e91b63975a10560e",
+      "itemId": "pesquisa-4bce7131bb5440a4",
+      "title": "Congresso Nacional: tramitação bicameral do PL 2343/2025 e aprovação limitada à CSP",
+      "date": "2026-09-01",
+      "datePrecision": "day",
+      "context": "Ficha oficial identifica Carlos Portinho como autor do PL 2343/2025, Flávio Bolsonaro como relator na CSP, com relatório favorável recebido em 27/08/2026 e acolhimento oral da Emenda 1-CSP de Alessandro Vieira em 01/09/2026. A CSP aprovou parecer favorável; o andamento disponível na consulta de 25/10/2026 ainda indica CCJ aguardando designação de relator. Etapa da Câmara e sanção aparecem somente como previstas: o PL não foi registrado como lei.",
       "state": "data informada pela fonte"
     },
     {
@@ -54508,6 +55154,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-fe226c48bb1b0b4e",
+      "itemId": "pesquisa-b491da874cd16ef7",
+      "title": "STF: registro processual da ADI 7571, porte de armas para defensores em lei estadual do Espírito Santo",
+      "date": "2024-06-04",
+      "datePrecision": "day",
+      "context": "Página processual oficial da ADI 7571 (relator Cristiano Zanin) documenta julgamento virtual concluído em 04/06/2024, publicação do acórdão em 12/06/2024 e andamento de decisão de mérito procedente contra a parte final do art. 55, II, da LC estadual 55/1994 do ES, relativa a porte por defensores públicos. O caso trata da competência legislativa estadual; não julgou o posterior PL federal 2343/2025 nem resolve previamente sua constitucionalidade.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-363512c7f63a709a",
       "itemId": "pesquisa-aea82d14b79b0b29",
       "title": "Mudanças anunciadas na PEC dos terrenos de marinha",
@@ -54778,12 +55433,30 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-ae38a49aa3e58367",
+      "itemId": "pesquisa-bef364aba54b7fda",
+      "title": "STF: notícia oficial da impugnação de normas estaduais de porte, inclusive para defensores",
+      "date": "2023-12-19",
+      "datePrecision": "day",
+      "context": "Notícia institucional de 20/12/2023 registra que a Presidência da República, por representação da AGU, ajuizou dez ações contra normas estaduais e municipais relativas a armas. Identifica a ADI 7571 entre as ações do Espírito Santo e apresenta o argumento da União quanto à sua competência para legislar e fiscalizar material bélico. Trata-se de comunicação da apresentação das ações, não de resultado de julgamento.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-9d870e6e714796db",
       "itemId": "pesquisa-c7afa22fc8d02c26",
       "title": "Agência Senado registra apresentação ad hoc de parecer sobre PLP 150/2021",
       "date": "2023-12-15",
       "datePrecision": "day",
       "context": "A Agência Senado relata que Flávio apresentou ad hoc na CSP um relatório favorável preparado por Otto Alencar e atribui a autoria do PLP a Fabiano Contarato. Inclui argumentos do autor, do relator e a posição de Flávio durante a discussão.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-4901bbc1d419a139",
+      "itemId": "pesquisa-6c985980ba1183a0",
+      "title": "Senado: PL 5948/2023, emendas sobre defensores rejeitadas em 2024 e destino legislativo distinto",
+      "date": "2024-09-04",
+      "datePrecision": "day",
+      "context": "Ficha original do PL 5948/2023 atribui autoria a Izalci Lucas. O objeto central era porte para policiais legislativos estaduais e do DF. Registra Emenda 4 de Lucas Barreto em 03/09/2024 e Emenda 7 de Sergio Moro em 04/09/2024, ambas descritas como iniciativas sobre porte a defensores públicos. A CCJ rejeitou as Emendas 2 a 7 em 04/09/2024. O projeto seguiu à Câmara e originou a Lei 15.306/2025 com alcance de policiais legislativos; não incorporou, pelo resultado oficial documentado, as emendas para defensores. Projeto e lei não são de autoria ou relatoria de Flávio Bolsonaro.",
       "state": "data informada pela fonte"
     },
     {
@@ -56416,6 +57089,15 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-eee24e0aecd54135",
+      "itemId": "pesquisa-755d2ef61c6c7892",
+      "title": "Polícia Federal: procedimento público de porte pessoal e portes funcionais com regulamentação própria",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Página de serviço da Polícia Federal publicada em 25/02/2010 e atualizada em 16/10/2020 distingue solicitação de porte para defesa pessoal de portes funcionais para categorias específicas, apontando Instrução Normativa 180/2020-DG/PF. Fornece contexto normativo operacional, mas não é resposta específica da PF ao PL 2343/2025 nem evidência de eficácia ou segurança do uso de armas.",
+      "state": "identificação de evento pendente"
+    },
+    {
       "id": "evento-78cf915ce2560880",
       "itemId": "pesquisa-999a64e2152d31b2",
       "title": "PL 2862/2010 sobre mudança nas cotas universitárias sujeita a referendo",
@@ -56558,6 +57240,24 @@
       "datePrecision": "day",
       "context": "Texto oficial do Estatuto da Advocacia e da OAB. Registra a estrutura dos direitos do advogado, incluindo o art. 7º, e serve de base para contextualizar as mudanças propostas no PL 2734/2021. A lei e o projeto são objetos distintos.",
       "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-64df62ba30b85134",
+      "itemId": "pesquisa-58d3dc3239ffd16b",
+      "title": "Câmara: texto atualizado da LC 80/1994 e funções institucionais dos defensores públicos",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Texto atualizado da LC 80/1994 no Centro de Documentação e Informação da Câmara, incluindo alterações da LC 132/2009. Artigos 1º a 4º situam a Defensoria Pública, suas atribuições e sua diferença em relação a polícias legislativas e membros da advocacia pública. Contextualiza funções dos potenciais beneficiários do PL 2343/2025; não permite afirmar que o porte novo já esteja vigente.",
+      "state": "identificação de evento pendente"
+    },
+    {
+      "id": "evento-7b1c2a5e48912a21",
+      "itemId": "pesquisa-22f248e57a4855bf",
+      "title": "Câmara: versão original da LC 80/1994, organização e funções da Defensoria Pública",
+      "date": null,
+      "datePrecision": "unknown",
+      "context": "Publicação original da Lei Complementar 80/1994, consultada como marco de organização das Defensorias Públicas da União, Distrito Federal e estados. Os arts. 1º a 4º descrevem funções institucionais e versões normativas de 1994. Diferencia atividades profissionais e prerrogativas funcionais da alteração de porte de arma ainda apenas proposta no PL 2343/2025.",
+      "state": "identificação de evento pendente"
     },
     {
       "id": "evento-a37b72592fb78503",
@@ -63626,6 +64326,28 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-621814d41d7b62c2",
+      "itemId": "pesquisa-68c17e2ac0665795",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15306-22-dezembro-2025-798535-veto-177513-pl.html",
+      "locator": "Mensagem 1.892 de 22/12/2025, primeiro bloco de 'Razões do veto' ao art. 1º do PL na alteração dos §§2º/4º do art. 6º da Lei 10.826",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-cee18695bd1660a0",
+      "itemId": "pesquisa-30afa5908a96904d",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15306-22-dezembro-2025-798535-publicacaooriginal-177512-pl.html",
+      "locator": "Publicação Original, ementa, art. 1º (redação do art. 6º, VI e §§2º/4º vetados), art. 2º e DOU 23/12/2025 seção 1 página 8",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-fcb2a8d8681afbf5",
       "itemId": "pesquisa-0a7da473c2e9c02a",
       "sourceId": "fonte-ab7ca292b805c308",
@@ -64269,6 +64991,17 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168625",
       "locator": "Identificação e situação, HTML linhas 20–48; relatório e emenda, 98–138; atos e tramitação na ficha.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-e91b63975a10560e",
+      "itemId": "pesquisa-4bce7131bb5440a4",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2343-2025",
+      "locator": "Bloco 'Casa Iniciadora (Senado)', entradas de 15/07, 27/08, 01/09/2026 e último status 'AGUARDANDO DESIGNAÇÃO DO RELATOR'; quadros Câmara/Sanção 'Fase prevista'",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -64924,6 +65657,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-fe226c48bb1b0b4e",
+      "itemId": "pesquisa-b491da874cd16ef7",
+      "sourceId": "fonte-3ed65b2f1d041330",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6821123",
+      "locator": "Processo ADI 7571, registro número único 0091945-76.2023.1.00.0000, aba textual de andamento de 05/06, 12/06 e 25/06/2024; relatoria Cristiano Zanin",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-363512c7f63a709a",
       "itemId": "pesquisa-aea82d14b79b0b29",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -65254,11 +65998,33 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-ae38a49aa3e58367",
+      "itemId": "pesquisa-bef364aba54b7fda",
+      "sourceId": "fonte-3ed65b2f1d041330",
+      "url": "https://noticias.stf.jus.br/postsnoticias/presidente-da-republica-questiona-leis-que-facilitam-acesso-a-armas-de-fogo-em-estados-e-municipio/",
+      "locator": "Notícia de 20/12/2023 13h30, parágrafos sobre autoria das ações, objeto profissional e enumeração ADI 7571; fundamento atribuído à AGU",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-9d870e6e714796db",
       "itemId": "pesquisa-c7afa22fc8d02c26",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2023/12/15/projeto-que-protege-populacao-lgbtqia-encarcerada-vai-ao-plenario",
       "locator": "Data 15/12/2023, 11h02; parágrafos iniciais, justificativa e discussão na CSP.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-4901bbc1d419a139",
+      "itemId": "pesquisa-6c985980ba1183a0",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161516",
+      "locator": "Ficha 'Emendas', EMENDA 4 (Lucas Barreto), EMENDA 7 (Sergio Moro), status 'Rejeitada - SF-CCJ - 04/09/2024'; tramitação CCJ 04/09/2024; cabeçalho 'Norma Gerada Lei 15.306'",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -67256,6 +68022,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-eee24e0aecd54135",
+      "itemId": "pesquisa-755d2ef61c6c7892",
+      "sourceId": "fonte-66b70bba92e387b0",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/armas/porte-de-arma",
+      "locator": "Seção 'Porte de Arma de Fogo', texto principal após menu, atualização 16/10/2020, parágrafos sobre defesa pessoal e categorias de porte funcional",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-78cf915ce2560880",
       "itemId": "pesquisa-999a64e2152d31b2",
       "sourceId": "fonte-e979cfd37b58c2c5",
@@ -67426,6 +68203,28 @@
       "sourceId": "fonte-4a3b67b508a08327",
       "url": "https://planalto.gov.br/ccivil_03/leis/l8906.htm",
       "locator": "Planalto, identificação e ementa, linhas 4-8; Título I e capítulo dos direitos do advogado, linhas 56-67.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-64df62ba30b85134",
+      "itemId": "pesquisa-58d3dc3239ffd16b",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/leicom/1994/leicomplementar-80-12-janeiro-1994-363035-normaatualizada-pl.html",
+      "locator": "Arquivo HTML normaatualizada, arts. 1º, 2º, 3º e 4º, indicações de redação pela LC 132/2009",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-7b1c2a5e48912a21",
+      "itemId": "pesquisa-22f248e57a4855bf",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/leicom/1994/leicomplementar-80-12-janeiro-1994-363035-publicacaooriginal-1-pl.html",
+      "locator": "Publicação Original, ementa, arts. 1º–4º e sequência de funções dos membros da Defensoria",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -68107,26 +68906,28 @@
     },
     {
       "year": 2010,
-      "found": 2,
-      "accessed": 2,
-      "analysed": 2,
+      "found": 3,
+      "accessed": 3,
+      "analysed": 3,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 0,
-        "analisado": 2,
+        "analisado": 3,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
-        "atividade parlamentar": 2
+        "atividade parlamentar": 2,
+        "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas": 1
       },
       "sources": {
-        "fonte-e979cfd37b58c2c5": 2
+        "fonte-e979cfd37b58c2c5": 2,
+        "fonte-66b70bba92e387b0": 1
       },
       "formats": {
-        "documento": 2
+        "documento": 3
       },
       "note": "Recorte não exaustivo."
     },
@@ -68521,19 +69322,20 @@
     },
     {
       "year": 2023,
-      "found": 32,
-      "accessed": 32,
-      "analysed": 30,
+      "found": 34,
+      "accessed": 34,
+      "analysed": 32,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 30,
+        "analisado": 32,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
+        "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas": 2,
         "PLP 150/2021": 1,
         "atividade parlamentar": 7,
         "Flávio Bolsonaro": 5,
@@ -68555,31 +69357,31 @@
         "eleicoes": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 27,
+        "fonte-3ed65b2f1d041330": 2,
+        "fonte-2acd9e7dc92e583a": 28,
         "fonte-29a2bae5277f274b": 2,
-        "fonte-3ed65b2f1d041330": 1,
         "fonte-37b3a9c8aaa5f206": 1,
         "fonte-d17e0097bbcd6c10": 1
       },
       "formats": {
-        "reportagem": 5,
+        "reportagem": 6,
+        "registro": 2,
         "documento": 25,
-        "registro": 1,
         "video": 1
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2024,
-      "found": 52,
-      "accessed": 52,
-      "analysed": 51,
+      "found": 53,
+      "accessed": 53,
+      "analysed": 52,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 1,
-        "analisado": 51,
+        "analisado": 52,
         "revisado": 0,
         "publicado": 0
       },
@@ -68596,6 +69398,7 @@
         "direitos reprodutivos": 1,
         "processo penal": 1,
         "PLP 150/2021": 3,
+        "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas": 1,
         "patrimônio público": 1,
         "PLP 85/2024": 1,
         "VET 8/2024 e VET 46/2021": 1,
@@ -68612,13 +69415,14 @@
         "fonte-29a2bae5277f274b": 3,
         "fonte-9a210054a698a70e": 1,
         "fonte-875b77e7aba40e8b": 1,
+        "fonte-3ed65b2f1d041330": 1,
         "fonte-ad60f42b08c8e9e7": 1
       },
       "formats": {
         "documento": 32,
         "audio": 4,
         "reportagem": 9,
-        "registro": 5,
+        "registro": 6,
         "checagem": 1,
         "video": 1
       },
@@ -68626,19 +69430,20 @@
     },
     {
       "year": 2025,
-      "found": 96,
-      "accessed": 96,
-      "analysed": 92,
+      "found": 99,
+      "accessed": 99,
+      "analysed": 95,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 4,
-        "analisado": 92,
+        "analisado": 95,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
+        "PL 2343/2025: relatoria Flávio, antecedentes legislativos e limites da competência para o porte de armas": 3,
         "trajetória": 1,
         "PEC 169/2019": 1,
         "PL 1473/2025": 14,
@@ -68681,12 +69486,12 @@
         "CSP": 1
       },
       "sources": {
+        "fonte-29a2bae5277f274b": 9,
         "fonte-ab7ca292b805c308": 1,
         "fonte-2acd9e7dc92e583a": 71,
-        "fonte-29a2bae5277f274b": 7,
         "fonte-9c2fbd587c9a9fb0": 3,
         "fonte-58d9376cef7ffa17": 1,
-        "fonte-ad60f42b08c8e9e7": 2,
+        "fonte-ad60f42b08c8e9e7": 3,
         "fonte-875b77e7aba40e8b": 1,
         "fonte-3ed65b2f1d041330": 2,
         "fonte-752f21616c18af3d": 1,
@@ -68699,9 +69504,9 @@
         "fonte-9464736142a8d85d": 1
       },
       "formats": {
+        "documento": 51,
         "audio": 4,
-        "documento": 49,
-        "registro": 14,
+        "registro": 15,
         "checagem": 6,
         "reportagem": 21,
         "video": 2
@@ -68852,11 +69657,11 @@
     }
   ],
   "metrics": {
-    "newItems": 699,
-    "items": 718,
+    "newItems": 708,
+    "items": 727,
     "alreadyInArchive": 19,
-    "accessed": 715,
-    "analysed": 682,
+    "accessed": 724,
+    "analysed": 691,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -68864,16 +69669,16 @@
     "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 83,
-    "sourcesConsulted": 78,
+    "sources": 84,
+    "sourcesConsulted": 79,
     "video": 20,
     "audio": 15,
-    "documents": 262,
+    "documents": 267,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 239,
-    "accessFailures": 71,
+    "queryCount": 244,
+    "accessFailures": 76,
     "undatedItems": 40
   },
   "queries": [
@@ -70255,6 +71060,51 @@
       "resultsState": "As 10 URLs selecionadas não constavam entre 564 registros; PL 2169/2019 ficha principal já catalogada foi mantida, sem duplicação."
     },
     {
+      "id": "consulta-78c27172f57ed708",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+      "query": "PL 2343/2025 Carlos Portinho Flávio Bolsonaro CSP CCJ Alessandro Vieira 2026 Congresso Senado",
+      "executedAt": "2026-10-25T15:31:46.000Z",
+      "engine": "web.run fast/open e páginas oficiais Congresso Nacional",
+      "interval": "2025-2026",
+      "resultsState": "Painel bicameral consultado 25/10/2026 confirma aprovação de parecer CSP em 01/09 e fase CCJ aguardando relator; PDF do parecer e emenda não acessíveis."
+    },
+    {
+      "id": "consulta-279de3f484fa463e",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+      "query": "ADI 7571 STF porte defensores públicos Espírito Santo julgamento 2024 decisão acórdão",
+      "executedAt": "2026-10-25T15:31:46.000Z",
+      "engine": "web.run fast/open STF",
+      "interval": "2023-2024",
+      "resultsState": "Docket institucional consultado; ADI sobre lei estadual ES, julgada 04/06/2024. Não se trata de julgamento do projeto federal posterior."
+    },
+    {
+      "id": "consulta-b2b215975020462e",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+      "query": "PL 5948/2023 emenda 4 Lucas Barreto emenda 7 Sergio Moro defensores rejeitada Lei 15306 veto 1892",
+      "executedAt": "2026-10-25T15:31:46.000Z",
+      "engine": "web.run fast/open Senado e Câmara",
+      "interval": "2023-2025",
+      "resultsState": "Duas emendas para defensores constam rejeitadas em 04/09/2024; texto da Lei 15.306/2025 e Mensagem 1.892/2025 acessados, ambos de projeto diverso."
+    },
+    {
+      "id": "consulta-6c50bb1de9e6fd0e",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+      "query": "Lei Complementar 80 1994 Defensoria Pública original atualizada Câmara e procedimento PF porte funcional",
+      "executedAt": "2026-10-25T15:31:46.000Z",
+      "engine": "web.run fast/open Câmara e gov.br Polícia Federal",
+      "interval": "1994-2026",
+      "resultsState": "Textos legal original/atualizado e guia administrativo PF consultados; não equivalem a outorga de porte pelo PL 2343."
+    },
+    {
+      "id": "consulta-e7c9f6bb0cdef8dd",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+      "query": "site:anadep.org.br PL 2343/2025 porte de arma Flávio; opiniões técnicas críticas específicas",
+      "executedAt": "2026-10-25T15:31:46.000Z",
+      "engine": "web.run fast",
+      "interval": "2025-2026",
+      "resultsState": "Não localizada nesta varredura manifestação específica diretamente publicada pela ANADEP nem checagem independente das alegações de risco. Comunicado ADPETO anteriormente catalogado permanece atribuído à associação e não foi duplicado."
+    },
+    {
       "id": "consulta-59422723dea7d4de",
       "batch": "pl2734-advocacia-oab-contexto-20261025-39",
       "query": "PL 2734 2021 porte advogados OAB SC posição 2025 Conselho Federal",
@@ -71340,6 +72190,36 @@
       "note": "Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial."
     },
     {
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9953321&rendition_principal=S&ts=1789503341841",
+      "status": "Barreira de verificação na abertura direta",
+      "note": "Avulso original do PL 2343/2025 não examinado na íntegra em PDF; informação contextual limitada à ficha oficial HTML."
+    },
+    {
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10306164",
+      "status": "Barreira de verificação na abertura direta",
+      "note": "PDF do relatório de Flávio Bolsonaro não examinado; não cotejar artigo por artigo."
+    },
+    {
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10309144",
+      "status": "Barreira de verificação na abertura direta",
+      "note": "PDF do P.S. 29/2026-CSP não lido; aprovação de parecer documentada somente por HTML do Congresso e Senado."
+    },
+    {
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10308705",
+      "status": "Barreira de verificação na abertura direta",
+      "note": "PDF da Emenda 1-CSP de Alessandro Vieira não lido; não reconstruir redação literal a partir de notícia ou fala."
+    },
+    {
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42",
+      "url": "https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/17872",
+      "status": "HTTP 502 ao abrir painel",
+      "note": "Status posterior do veto do PL 5948/2023 não foi conferido; não declarar manutenção ou rejeição."
+    },
+    {
       "batch": "pl2734-advocacia-oab-contexto-20261025-39",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/164284",
       "reason": "Tentativa de abertura da variante em português apresentou timeout; utilizada e lida versão /en/web/ de mesmo identificador, sem atribuir leitura ao endereço indisponível."
@@ -72265,6 +73145,42 @@
       "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28"
     },
     {
+      "id": "lacuna-3d8423c1d924b4ae",
+      "note": "PL 2343/2025: ler originais em PDF da proposição, relatório Flávio 27/08/2026, Emenda 1-CSP de Alessandro Vieira e P.S. 29/2026 antes de comparação redacional; documentos devolveram barreira de acesso.",
+      "state": "pendente",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42"
+    },
+    {
+      "id": "lacuna-65e28bf7f960820b",
+      "note": "PL 2343/2025: localizar posição diretamente publicada pela ANADEP e contrapontos técnicos de entidades favoráveis e contrárias, sem atribuir à entidade comunicado de associação estadual.",
+      "state": "pendente",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42"
+    },
+    {
+      "id": "lacuna-16c62b0ab3e3fa77",
+      "note": "PL 2343/2025: reconsultar CCJ após 01/09/2026 e eventual designação/parecer; aprovado na CSP não é lei federal.",
+      "state": "pendente",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42"
+    },
+    {
+      "id": "lacuna-080f29f4f1fe524c",
+      "note": "ADI 7571/ES: obter acórdão integral diretamente do STF para estudo jurídico; decisão contra lei estadual não prejulga projeto federal posterior.",
+      "state": "pendente",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42"
+    },
+    {
+      "id": "lacuna-dec9c6aa908c8fef",
+      "note": "PL 5948/2023 e Lei 15.306/2025: examinar PDFs das emendas 4 e 7 e desfecho atual do VET 48/2025, sem supor alcance além dos textos públicos examinados.",
+      "state": "pendente",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42"
+    },
+    {
+      "id": "lacuna-abd786737582c198",
+      "note": "Nenhuma gravação audiovisual ou áudio reproduzido; zero segundos revisados. Novas classificações, acusações e comparações sensíveis aguardam revisor editorial humano identificado; não alterar approvedReviewerIds.",
+      "state": "pendente",
+      "batch": "pl2343-porte-defensores-antecedentes-stf-lei-20261025-42"
+    },
+    {
       "id": "lacuna-81e10a4b501cb801",
       "note": "PL 2734/2021: identificar deliberação formal e atual do Conselho Federal da OAB sobre a proposta; não generalizar manifestação da OAB/SC.",
       "state": "pendente",
@@ -72997,6 +73913,12 @@
       "label": "PL 2169/2019: versões, parecer e tramitação; PL 3030 e requerimentos de apensamento",
       "collected_at_utc": "2026-10-25T01:17:10.136Z",
       "method": "10 URLs públicas distintas consultadas em HTML, nenhuma já registrada no JSON de 564 materiais; pesquisa factual sem veredito e 0 segundos de áudio conferidos."
+    },
+    {
+      "id": "checkpoint-20261025-42",
+      "label": "PL 2343/2025: precedentes STF, tentativa anterior rejeitada e legislação vigente distinta",
+      "collected_at_utc": "2026-10-25T15:31:46.000Z",
+      "method": "Nove páginas oficiais HTML abertas e examinadas; PDFs bloqueados explicitamente listados. Sem contato, vídeo, áudio, marcações inventadas, novo veredito ou revisor."
     },
     {
       "name": "Rádio Senado, transcrição de 08/04/2025",

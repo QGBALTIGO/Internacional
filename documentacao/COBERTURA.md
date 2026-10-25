@@ -1,8 +1,8 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T14:27:25.178275Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T15:31:58.076744Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-718 URLs únicas no lote; 699 ainda não vinculadas à edição anterior. 715 materiais acessados e 682 com texto analisado.
+727 URLs únicas no lote; 708 ainda não vinculadas à edição anterior. 724 materiais acessados e 691 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
@@ -19,7 +19,7 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2007 | 4 | 4 | 4 | 0 | 0 |
 | 2008 | 1 | 1 | 1 | 0 | 0 |
 | 2009 | 4 | 4 | 4 | 0 | 0 |
-| 2010 | 2 | 2 | 2 | 0 | 0 |
+| 2010 | 3 | 3 | 3 | 0 | 0 |
 | 2011 | 0 | 0 | 0 | 0 | 0 |
 | 2012 | 3 | 3 | 3 | 0 | 0 |
 | 2013 | 6 | 6 | 6 | 0 | 0 |
@@ -32,9 +32,9 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2020 | 22 | 22 | 21 | 0 | 0 |
 | 2021 | 36 | 36 | 31 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
-| 2023 | 32 | 32 | 30 | 0 | 0 |
-| 2024 | 52 | 52 | 51 | 0 | 0 |
-| 2025 | 96 | 96 | 92 | 0 | 0 |
+| 2023 | 34 | 34 | 32 | 0 | 0 |
+| 2024 | 53 | 53 | 52 | 0 | 0 |
+| 2025 | 99 | 99 | 95 | 0 | 0 |
 | 2026 | 330 | 330 | 322 | 0 | 0 |
 
 Materiais sem data: 40. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
@@ -169,6 +169,12 @@ Materiais sem data: 40. Ausência de registros em um ano significa lacuna deste 
 - Confrontar alegações empíricas sobre reincidência, proteção, internação e eficácia com levantamentos oficiais e literatura independente, sem atribuir estatísticas sem fonte.
 - Obter e comparar manifestações técnicas críticas às mudanças do ECA e respostas públicas específicas em revisão humana editorial identificada.
 - Conferir trechos audiovisuais decisivos da CDH e Plenário quando houver acesso permitido. Até aqui 0 segundos conferidos e nenhuma classificação editorial nova.
+- PL 2343/2025: ler originais em PDF da proposição, relatório Flávio 27/08/2026, Emenda 1-CSP de Alessandro Vieira e P.S. 29/2026 antes de comparação redacional; documentos devolveram barreira de acesso.
+- PL 2343/2025: localizar posição diretamente publicada pela ANADEP e contrapontos técnicos de entidades favoráveis e contrárias, sem atribuir à entidade comunicado de associação estadual.
+- PL 2343/2025: reconsultar CCJ após 01/09/2026 e eventual designação/parecer; aprovado na CSP não é lei federal.
+- ADI 7571/ES: obter acórdão integral diretamente do STF para estudo jurídico; decisão contra lei estadual não prejulga projeto federal posterior.
+- PL 5948/2023 e Lei 15.306/2025: examinar PDFs das emendas 4 e 7 e desfecho atual do VET 48/2025, sem supor alcance além dos textos públicos examinados.
+- Nenhuma gravação audiovisual ou áudio reproduzido; zero segundos revisados. Novas classificações, acusações e comparações sensíveis aguardam revisor editorial humano identificado; não alterar approvedReviewerIds.
 - PL 2734/2021: identificar deliberação formal e atual do Conselho Federal da OAB sobre a proposta; não generalizar manifestação da OAB/SC.
 - PL 2734/2021 e PL 2530/2024: abrir íntegra PDF do parecer da CSP e do Ofício 27/2025-ABRACRIM para confrontar requisitos e posição da associação.
 - PL 2734/2021: checar andamento posterior da CCJ e eventuais emendas ou mudanças de relatoria em 2026, sem presumir que foi transformado em lei.
@@ -328,6 +334,11 @@ Materiais sem data: 40. Ausência de registros em um ano significa lacuna deste 
 - batch: pl2064-reincidencia-lei15358-20261025-36; url: https://agenciagov.ebc.com.br/noticias/202603/presidente-lula-sanciona-lei-que-fortalece-o-combate-ao-crime-organizado; status: Redirecionamento para indisponibilidade/acesso não efetivado; note: Não catalogada como texto efetivamente lido; demais registros originais oficiais acessados.
 - batch: pl2064-reincidencia-lei15358-20261025-36; status: Mídia da 13ª reunião da CSP não reproduzida; note: Nenhuma escuta ou revisão de vídeo; 0 segundos e sem timestamps audiovisuais conferidos.
 - batch: pl2169-cdh-substitutivo-tramitacao-20261025-28; source: https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728; status: inspeção visual bloqueada; note: Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial.
+- batch: pl2343-porte-defensores-antecedentes-stf-lei-20261025-42; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9953321&rendition_principal=S&ts=1789503341841; status: Barreira de verificação na abertura direta; note: Avulso original do PL 2343/2025 não examinado na íntegra em PDF; informação contextual limitada à ficha oficial HTML.
+- batch: pl2343-porte-defensores-antecedentes-stf-lei-20261025-42; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10306164; status: Barreira de verificação na abertura direta; note: PDF do relatório de Flávio Bolsonaro não examinado; não cotejar artigo por artigo.
+- batch: pl2343-porte-defensores-antecedentes-stf-lei-20261025-42; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10309144; status: Barreira de verificação na abertura direta; note: PDF do P.S. 29/2026-CSP não lido; aprovação de parecer documentada somente por HTML do Congresso e Senado.
+- batch: pl2343-porte-defensores-antecedentes-stf-lei-20261025-42; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10308705; status: Barreira de verificação na abertura direta; note: PDF da Emenda 1-CSP de Alessandro Vieira não lido; não reconstruir redação literal a partir de notícia ou fala.
+- batch: pl2343-porte-defensores-antecedentes-stf-lei-20261025-42; url: https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/17872; status: HTTP 502 ao abrir painel; note: Status posterior do veto do PL 5948/2023 não foi conferido; não declarar manutenção ou rejeição.
 - batch: pl2734-advocacia-oab-contexto-20261025-39; url: https://www25.senado.leg.br/web/atividade/materias/-/materia/164284; reason: Tentativa de abertura da variante em português apresentou timeout; utilizada e lida versão /en/web/ de mesmo identificador, sem atribuir leitura ao endereço indisponível.
 - batch: pl2734-advocacia-oab-contexto-20261025-39; note: Anexos PDF do substitutivo do PL 2734/2021 e Ofício 27/2025 da ABRACRIM não foram abertos, portanto sua descrição permanece a constante da ficha legislativa, não inspeção da íntegra.
 - batch: pl2734-advocacia-oab-contexto-20261025-39; note: Na Rádio Senado, somente a transcrição HTML foi lida; reprodução de mídia 0 segundos, sem timestamp conferido.
