@@ -1,12 +1,12 @@
 # Cobertura da pesquisa
 
-Gerado em 2026-10-25T07:01:17.912135Z (UTC). Fuso de apresentação: America/Campo_Grande.
+Gerado em 2026-10-25T07:48:36.579902Z (UTC). Fuso de apresentação: America/Campo_Grande.
 
-628 URLs únicas no lote; 610 ainda não vinculadas à edição anterior. 625 materiais acessados e 595 com texto analisado.
+644 URLs únicas no lote; 626 ainda não vinculadas à edição anterior. 641 materiais acessados e 611 com texto analisado.
 
 Links não representam afirmações distintas, confirmações independentes nem falsidades. A matriz descreve somente os materiais deste lote, pela data disponível da publicação ou do documento. Registros sem data ficam fora das linhas anuais.
 
-19 vídeos e 7 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
+19 vídeos e 8 áudios catalogados. Duração conhecida total: 4.70 h. Áudio efetivamente revisado: 0 h. Não se deduz tempo revisado a partir da duração dos arquivos.
 
 Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edição anterior são preservadas separadamente e não foram revalidadas por este lote.
 
@@ -32,10 +32,10 @@ Nenhuma nova classificação sensível foi publicada. As 71 afirmações da edi�
 | 2020 | 22 | 22 | 21 | 0 | 0 |
 | 2021 | 36 | 36 | 31 | 0 | 0 |
 | 2022 | 28 | 28 | 28 | 0 | 0 |
-| 2023 | 27 | 27 | 25 | 0 | 0 |
-| 2024 | 37 | 37 | 36 | 0 | 0 |
+| 2023 | 29 | 29 | 27 | 0 | 0 |
+| 2024 | 50 | 50 | 49 | 0 | 0 |
 | 2025 | 72 | 72 | 69 | 0 | 0 |
-| 2026 | 290 | 290 | 284 | 0 | 0 |
+| 2026 | 291 | 291 | 285 | 0 | 0 |
 
 Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste lote, não prova de inexistência.
 
@@ -145,6 +145,11 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - Localizar críticas jornalísticas específicas à velocidade da tramitação e o contraditório completo antes de qualquer comparação ou juízo de falsidade sobre a resposta institucional da CSP.
 - Verificar impactos alegados da lei em bases primárias de furto e roubo de combustíveis com séries anteriores e posteriores, sem inferir eficácia de declarações públicas.
 - Todo novo veredito, acusação ou comparação sensível fica pendente de revisor humano identificado. Nenhum áudio, vídeo, timestamp ou revisão editorial foi certificado nesta coleta.
+- PL 1829/2019: examinar PDF legível do parecer de Flávio (CCJ/Plenário), do relatório de Davi na CDR e dos substitutivos originais; cotejar emendas, texto sancionado e trechos vetados dispositivo a dispositivo.
+- VET 29/2024: revisar novo andamento oficial após 18/06/2026, sem presumir decisão de veto e sem atribuir voto individual a Flávio.
+- PL 1829/2019: obter íntegra audiovisual/taquigráfica do Plenário de 05/06/2024, conferir debate do consumidor e responder a eventuais manifestações contrárias identificadas.
+- Conferir empiricamente projeções econômicas de Flávio e Alan Rick sobre emprego, passagens e turismo com dados primários, antes de qualquer veredito.
+- Submeter eventuais comparações sensíveis sobre redação do parecer versus vetos a revisão editorial humana identificada; manter classification:null e reviewedAt:null.
 - PL 2169/2019: obter e cotejar visualmente a íntegra assinada do substitutivo da CDH (PDF) e o avulso inicial antes de comparação textual definitiva.
 - PL 2169/2019 e PL 3030/2019: acompanhar a CCJ; não confundir aprovação da CDH com lei vigente, nem presumir que pedidos retirados de tramitação conjunta tiveram eficácia.
 - Confrontar alegações empíricas sobre reincidência, proteção, internação e eficácia com levantamentos oficiais e literatura independente, sem atribuir estatísticas sem fonte.
@@ -268,6 +273,10 @@ Materiais sem data: 38. Ausência de registros em um ano significa lacuna deste 
 - batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: Item individual da CSP, 12ª reunião de 14/07/2026, portal legis.senado.leg.br; status: Falha transitória de leitura nesta execução; note: Duas tentativas diretas de abrir o item terminaram em timeout. Não cadastrado como documento lido; a situação foi reconstituída apenas por ficha de tramitação, notas oficiais textuais e reportagem efetivamente acessadas.
 - batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: PDF da Mensagem 772/2026 e PDFs dos relatórios e emendas do PL 1482/2019; status: Íntegra de PDF não consultada; note: Não se reivindica acesso, leitura ou cotejo textual dos PDFs. Fichas HTML e lei em HTML não substituem autenticação visual de anexos.
 - batch: pl1482-combustiveis-lei15517-veto52-20261025-27; source: Áudios e vídeo das reuniões da CSP, CCJ e Plenário; status: Não reproduzidos; note: Zero segundos ou marcações conferidos. Referências de linhas se limitam a texto HTML; horários apresentados nas páginas não constituem timestamps de mídia validados.
+- batch: pl1829-turismo-lei14978-vet29-20261025-34; url: https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506756; status: timeout na abertura; note: Busca retornou metadados do pronunciamento de Flávio em 05/06/2024; conteúdo direto não aberto, URL não cadastrada neste lote.
+- batch: pl1829-turismo-lei14978-vet29-20261025-34; url: https://www12.senado.leg.br/radio/1/noticia/2024/06/07/senado-aprova-projeto-para-modernizar-turismo-no-brasil; status: timeout na abertura; note: Página encontrada por busca; áudio/transcrição não catalogados como acessados.
+- batch: pl1829-turismo-lei14978-vet29-20261025-34; url: https://www12.senado.leg.br/radio/1/noticia/2024/06/04/atualizacao-da-lei-geral-do-turismo-tem-pedido-de-urgencia-para-votacao-em-plenario; status: timeout na abertura; note: Busca retornou metadados, abertura direta falhou; não contabilizar como lido.
+- batch: pl1829-turismo-lei14978-vet29-20261025-34; note: PDFs de pareceres, relatórios e emendas do PL 1829/2019 não foram examinados; não assumir conteúdo integral por resumos das fichas. Nenhuma gravação reproduzida.
 - batch: pl2169-cdh-substitutivo-tramitacao-20261025-28; source: https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728; status: inspeção visual bloqueada; note: Um retorno inicial permitiu extração parcial do texto do relatório PDF de 11 páginas, mas consultas seguintes e tentativa de captura visual retornaram verificação de segurança. Não declarada leitura integral ou autenticação da versão PDF; suas informações são citadas somente quando corroboradas pela transcrição HTML oficial.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=10201058&rendition_principal=S&ts=1775771078593; reason: Visualização do PDF institucional devolveu desafio de verificação de segurança, inclusive em captura de tela; não declarar PDF integral lido nem emenda conferida.
 - batch: pl4244-agravante-cdh-ccj-20261025-32; url: https://legis.senado.leg.br/sdleg-getter/documento/download/6ea8ccf0-b2d2-4d09-b258-d7e24222dbde; reason: Captura de página interna do PDF de pauta retornou tela de segurança; extração parcial/indexada não é inspeção visual completa. Não catalogado como integral acessada.

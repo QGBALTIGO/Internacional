@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "metadata": {
     "title": "Catálogo de pesquisa de Flávio Bolsonaro",
-    "generatedAt": "2026-10-25T07:01:17.912135Z",
-    "inputHash": "6f08b6a79fee40153c6c745c8f28d8ec9b1ae1db3093b9376d6197b0f924666f",
+    "generatedAt": "2026-10-25T07:48:36.579902Z",
+    "inputHash": "45484e793f0895aebb50174726b7e6288ae1736dbb0e5889ff9482d144924a1e",
     "timezone": "America/Campo_Grande",
     "localDate": "2026-10-25",
     "scope": "Materiais localizados e textos examinados; novos vereditos dependem de revisão editorial identificada.",
@@ -16221,6 +16221,75 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-76a29837ce2bdf3c",
+      "title": "VET 29/2024: veto parcial ainda sem apreciação no painel do Congresso",
+      "url": "https://www.congressonacional.leg.br/pt_BR/materias/vetos/-/veto/detalhe/16729",
+      "publisher": "Congresso Nacional",
+      "date": "2026-06-18",
+      "eventDate": "2026-06-18",
+      "year": 2026,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Em consulta de 25/10/2026, o painel oficial exibia dez dispositivos do VET 29/2024 como não apreciados. A última movimentação listada era retirada da pauta de 18/06/2026 devido ao cancelamento da sessão, portanto não houve conclusão de julgamento dos vetos na ficha consultada.",
+      "limitations": "O status é aquele exibido no momento da consulta; andamento pode mudar. Não inferir votação do Senado, posição individual de Flávio ou revogação da lei.",
+      "locator": "Cabeçalho, quadro dispositivos 29.24.001-010 e tramitação de 18/06/2026 (linhas 0 a 15, 26 a 42, 108 a 115).",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Presidência da República (autora dos vetos); Congresso Nacional (tramitação)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-12",
+          "toolReference": "turn434650view0"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-085e8825a1c5896a",
       "title": "Agência Estado: Flávio defendia em junho de 2026 reduzir maioridade para 16 e 14 anos em casos graves",
       "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/18/flavio-bolsonaro-defende-reducao-da-maioridade-penal-para-16-anos-14-em-crimes-hediondos.htm",
@@ -24104,6 +24173,489 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-c184a1acd4ecbf15",
+      "title": "Rádio Senado: transcrição institucional da sanção da Lei 14.978 e falas atribuídas",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/09/19/nova-lei-geral-do-turismo-e-sancionada",
+      "publisher": "Rádio Senado",
+      "date": "2024-09-19",
+      "eventDate": "2024-09-18",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "audio",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Página da Rádio Senado aberta em HTML com transcrição e duração anunciada de 2min19s. Relaciona medidas de turismo à sanção e a vetos sobre responsabilidade de agências e hospedagem. A fala atribuída a Flávio está na transcrição publicada, não foi escutada.",
+      "limitations": "Zero segundos de áudio ouvidos. Duração informada de 2min19s não indica tempo revisado. Sem timestamps de fala conferidos.",
+      "locator": "Página de 19/09/2024, transcrição do programa (linhas 9 a 26).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Pedro Pincer (reportagem); Flávio Bolsonaro e Alan Rick (falas atribuídas na transcrição)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-13",
+          "toolReference": "turn114052view7"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-2354eeed72e178ed",
+      "title": "Agência Senado: publicação da Lei 14.978 confirma autoria originária de Cadoca",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/09/19/mudancas-no-setor-turistico-nacional-ja-estao-valendo",
+      "publisher": "Agência Senado",
+      "date": "2024-09-19",
+      "eventDate": "2024-09-19",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Notícia registra publicação da lei, seu surgimento como PL 2724/2015 de Carlos Eduardo Cadoca e a relatoria de Flávio no Senado. Diferencia texto sancionado e benefícios esperados, sem atribuir autoria originária ao relator.",
+      "limitations": "As vantagens apresentadas pela reportagem não foram medidas independentemente; classificação editorial permanece nula.",
+      "locator": "Notícia de 19/09/2024, parágrafos iniciais e identificação de autoria (linhas 19 a 35).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Agência Senado; Carlos Eduardo Cadoca (autor originário), Flávio Bolsonaro (relator no Senado)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-14",
+          "toolReference": "turn114052view8"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-f5bcafcff1c2496a",
+      "title": "Alan Rick reconhece contribuição de Flávio na nova Lei Geral do Turismo",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/09/18/alan-rick-comemora-sancao-da-nova-lei-geral-do-turismo",
+      "publisher": "Agência Senado",
+      "date": "2024-09-18",
+      "eventDate": "2024-09-18",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Alan Rick associou proposta própria PL 4388/2023, incorporada ao debate de subsídio a querosene na Amazônia Legal, ao relatório de Flávio e elogiou a sanção. A previsão de reduzir tarifas é declaração prospectiva de Alan Rick, não resultado comprovado.",
+      "limitations": "Não classificar a previsão econômica como fato demonstrado nem transferir a fala de Alan Rick a Flávio.",
+      "locator": "Notícia de 18/09/2024, linhas 19 a 33.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Alan Rick elogiou publicamente a inclusão de medida relacionada à Amazônia Legal no relatório.",
+      "actor": "Alan Rick (declarações); Flávio Bolsonaro (relatoria mencionada)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-15",
+          "toolReference": "turn306419view6"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-c24c725e27dfdf09",
+      "title": "Câmara publica teor da Mensagem 1108/2024 e vetos da Lei 14.978",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-14978-18-setembro-2024-796251-veto-173038-pl.html",
+      "publisher": "Câmara dos Deputados, Legislação Informatizada",
+      "date": "2024-09-18",
+      "eventDate": "2024-09-18",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Reprodução institucional da mensagem do veto em HTML da Câmara, permitindo cotejo editorial com a publicação na Presidência; não configura checagem independente ou segundo testemunho dos fatos.",
+      "limitations": "Mesmo documento oficial reproduzido em outro portal; não contar como confirmação independente ou decisão judicial.",
+      "locator": "Página da Câmara 'Veto', texto da Mensagem 1.108/2024 (linhas 17 a 60).",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Presidência da República (autora da mensagem, reproduzida pela Câmara)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-16",
+          "toolReference": "turn306419view1"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-b9e38c68db6e59dc",
+      "title": "Lei 14.978/2024: ficha oficial da norma sancionada e artigos parcialmente vetados",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-14978-18-setembro-2024-796251-norma-pl.html",
+      "publisher": "Câmara dos Deputados, Legislação Informatizada",
+      "date": "2024-09-18",
+      "eventDate": "2024-09-18",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Ficha legislativa identifica Lei 14.978 de 18/09/2024, a origem no PL 1829/2019, a publicação no DOU em 19/09 e o veto parcial. Distingue norma promulgada de proposição e de disposições não sancionadas.",
+      "limitations": "Não equivale a análise de cada regulamento e alteração posterior; 'não consta revogação expressa' é status da ficha.",
+      "locator": "Dados da Norma, publicação original, veto e proposição originária (linhas 17 a 44).",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Congresso Nacional (norma originária), Presidência da República (sanção e veto)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-09",
+          "toolReference": "turn114052view1"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-2e88357859e9f407",
+      "title": "Mensagem 1108/2024: razões oficiais do veto parcial à Lei Geral do Turismo",
+      "url": "https://presidencia.gov.br/ccivil_03/_ato2023-2026/2024/msg/vep/vep-1108-24.htm",
+      "publisher": "Presidência da República, Casa Civil",
+      "date": "2024-09-18",
+      "eventDate": "2024-09-18",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Mensagem do Executivo expõe vetos sobre exclusão de empreendimentos hoteleiros da lei, limitação da responsabilidade solidária de prestadores, hospedagem de menores, regras aeroportuárias e pessoal da Infraero. Na responsabilidade por danos, a justificativa do Ministério da Justiça invoca defesa do consumidor; isso registra posição do governo, não juízo do Arquivo.",
+      "limitations": "Texto presidencial consultado em HTML. Discordâncias legais são argumentos atribuídos ao Executivo; não constituem conclusão editorial nem imputação a Flávio.",
+      "locator": "Mensagem nº 1.108, de 18/09/2024, razões dos vetos, linhas 4 a 70.",
+      "sourceId": "fonte-9a210054a698a70e",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "O Poder Executivo apresentou oficialmente razões constitucionais e de interesse público para vetos parciais, inclusive proteção do consumidor.",
+      "actor": "Presidência da República; manifestações ministeriais explicitamente atribuídas",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-11",
+          "toolReference": "turn306419view0"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-23234b517ad30be7",
+      "title": "Lei 14.978/2024: texto HTML original publicado na Câmara",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-14978-18-setembro-2024-796251-publicacaooriginal-173037-pl.html",
+      "publisher": "Câmara dos Deputados, Legislação Informatizada",
+      "date": "2024-09-18",
+      "eventDate": "2024-09-18",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Texto integral HTML da lei sancionada foi aberto para cotejo da norma em vigor em sua publicação, sem confundir com dispositivos objeto de veto ou com projetos anteriores.",
+      "limitations": "Não substitui consolidação normativa atualizada; não foi feita análise jurídica de cada artigo ou de leis posteriores.",
+      "locator": "Publicação original da Lei 14.978, versão HTML (300 linhas).",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Presidência da República (sanção); texto da lei disponibilizado pela Câmara",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-10",
+          "toolReference": "turn434650view2"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-a21de0cc7c102b7e",
       "title": "Senado: PL 3272/2024 permanece com vista concedida e relatório de Flávio",
       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/165143",
@@ -25025,6 +25577,213 @@
       "newToArchive": true
     },
     {
+      "id": "pesquisa-cea681aa64c698df",
+      "title": "Agência Senado documenta aprovação do substitutivo no Plenário e retorno à Câmara",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/06/05/aprovada-atualizacao-da-lei-geral-do-turismo-texto-retorna-para-a-camara",
+      "publisher": "Agência Senado",
+      "date": "2024-06-05",
+      "eventDate": "2024-06-05",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Registro da aprovação em Plenário em 05/06/2024 de substitutivo relatado por Flávio e retorno à Câmara por alterações na proposta. A notícia menciona dispositivos sobre FNAC, turismo, hospedagem e responsabilidade de agências, sem garantir que todos sobreviveram à sanção.",
+      "limitations": "Cobertura do texto aprovado no Senado, não texto final sancionado. Mudanças e vetos posteriores precisam de cotejo.",
+      "locator": "Notícia de 05/06/2024, abertura e seção Lei Geral do Turismo (linhas 19 a 49).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (relator de Plenário); demais parlamentares identificados na reportagem",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-08",
+          "toolReference": "turn114052view6"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-f7f80180aeeadf04",
+      "title": "REQ 12/2024-CDR: pedido de urgência de Flávio para o PL 1829",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163929",
+      "publisher": "Senado Federal",
+      "date": "2024-06-04",
+      "eventDate": "2024-06-05",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "A ficha oficial atribui o REQ 12/2024-CDR a Flávio, apresentado em 04/06, e registra encerramento com situação de aprovação em 05/06/2024. Pedido de urgência é ato distinto de autoria ou sanção do projeto.",
+      "limitations": "Texto do requerimento em PDF não aberto; dados extraídos da ficha institucional, sem presumir votação nominal.",
+      "locator": "Cabeçalho, autoria e situação atual, linhas 20 a 57.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (autor do requerimento de urgência)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-06",
+          "toolReference": "turn114052view4"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-83c0e060b130ae24",
+      "title": "Agência Senado registra debate e parecer favorável na CDR em 04/06/2024",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/06/04/atualizacao-da-lei-geral-do-turismo-segue-para-o-plenario-em-regime-de-urgencia",
+      "publisher": "Agência Senado",
+      "date": "2024-06-04",
+      "eventDate": "2024-06-04",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "reportagem",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "Reportagem atribui a Flávio a defesa de segurança jurídica e menos burocracia; identifica Davi Alcolumbre como relator da CDR e Celso Sabino como ministro presente. Distingue aprovação da comissão de votação posterior do Senado.",
+      "limitations": "Falas da reportagem são atribuídas aos participantes, não importadas como verificação própria de seus benefícios.",
+      "locator": "Notícia de 04/06/2024, corpo inicial e depoimentos (linhas 19 a 35).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": "Celso Sabino elogiou publicamente a atualização da legislação e sua adequação a novas formas de hospedagem e transporte, conforme reportagem.",
+      "actor": "Flávio Bolsonaro, Celso Sabino e Marcelo Castro, citados separadamente",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-07",
+          "toolReference": "turn114052view5"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
       "id": "pesquisa-2f4efe7e1fcf77d2",
       "title": "Agência Senado registra posições divergentes sobre taxação no Programa Mover",
       "url": "https://www12.senado.leg.br/noticias/materias/2024/06/04/sem-acordo-entre-os-lideres-projeto-mover-vai-a-votacao-nesta-quarta-feira",
@@ -25088,6 +25847,213 @@
         }
       ],
       "accessMethod": "Artigo público da Agência Senado aberto e lido diretamente em 24/10/2026; não houve contato com os envolvidos e nenhum player foi reproduzido.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-1e900fe95d87ab24",
+      "title": "CDR de 04/06/2024: Flávio atua ad hoc no relatório de Davi Alcolumbre",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/1306/reuniao/12680/item/92564",
+      "publisher": "Senado Federal",
+      "date": "2024-06-04",
+      "eventDate": "2024-06-04",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "A 12ª reunião da CDR aprovou o relatório de Davi Alcolumbre, apresentado por Flávio ad hoc, na forma da Emenda 15-CDR. Também aprovou requerimento de urgência; funções e autoria não se confundem.",
+      "limitations": "Não equiparar função ad hoc à autoria do parecer de Davi. Emendas e substitutivo em PDF não examinados.",
+      "locator": "12ª CDR, item 1, identificação da relatoria e texto do resultado, linhas 34 a 54.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Davi Alcolumbre, relator titular; Flávio Bolsonaro, relator ad hoc",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-05",
+          "toolReference": "turn114052view3"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-772c7713bf288ce8",
+      "title": "Notas taquigráficas da CDR em 28/05/2024: pedido de vista e resposta de Flávio",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/12627",
+      "publisher": "Senado Federal, notas taquigráficas oficiais",
+      "date": "2024-05-28",
+      "eventDate": "2024-05-28",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "O registro textual reproduz a leitura simplificada do relatório, o pedido de vista de Jaques Wagner e o reconhecimento de Flávio de que estava atuando como relator ad hoc. As alegações sobre emprego e cruzeiros são atribuídas ao orador, sem conclusão factual.",
+      "limitations": "Trechos horários na transcrição não são timestamps de áudio reproduzido; números econômicos não foram comprovados; zero áudio conferido.",
+      "locator": "Notas de 28/05/2024, item 2, linhas 31 a 48.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro, Jaques Wagner e Marcelo Castro, com autoria por intervenção",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-04",
+          "toolReference": "turn434650view1"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-688c04ee0a5fcae6",
+      "title": "CDR de 28/05/2024 concede vista coletiva após leitura do PL 1829",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/1306/reuniao/12627/item/92414",
+      "publisher": "Senado Federal",
+      "date": "2024-05-28",
+      "eventDate": "2024-05-28",
+      "year": 2024,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "A página da 11ª reunião da CDR registra leitura do parecer por Flávio, designado relator ad hoc de relatório de Davi Alcolumbre, e concessão de vista coletiva; não houve aprovação nessa sessão.",
+      "limitations": "Ficha do resultado, não parecer completo nem votação de aprovação nessa reunião.",
+      "locator": "11ª CDR, item 2, campos Relatoria/Resultado, linhas 20 a 52.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Davi Alcolumbre (relator), Flávio Bolsonaro (relator ad hoc), Jaques Wagner (pedido de vista)",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-03",
+          "toolReference": "turn306419view3"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
       "newToArchive": true
     },
     {
@@ -26608,6 +27574,144 @@
         }
       ],
       "accessMethod": "Abertura e leitura de HTML institucional e metadados legislativos, sem reprodução ou transcrição audiovisual.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-e3903ebab3e9ce57",
+      "title": "CCJ: votação e aprovação do substitutivo do PL 1829/2019 em 22/11/2023",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/34/reuniao/12152/item/89292",
+      "publisher": "Senado Federal",
+      "date": "2023-11-22",
+      "eventDate": "2023-11-22",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "registro",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "A 49ª reunião da CCJ aprovou relatório reformulado por Flávio: acolhimento integral das emendas 1 e 2, parcial da 3 e rejeição da 4, na forma da emenda 5-CCJ. O autor original da proposta era Carlos Eduardo Cadoca, pela Câmara.",
+      "limitations": "Registro administrativo de deliberação, não exame dos PDFs das emendas e pareceres. Não atribuir voto nominal individual.",
+      "locator": "Ficha do item 3 da 49ª reunião, campos Autoria, Relatório e Resultado (linhas 20 a 50).",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro (relator) e Comissão de Constituição, Justiça e Cidadania",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-01",
+          "toolReference": "turn306419view2"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
+      "newToArchive": true
+    },
+    {
+      "id": "pesquisa-b45bbc7ba3deddf9",
+      "title": "Notas taquigráficas da CCJ registram justificativas de Flávio para relatório de turismo",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/12152",
+      "publisher": "Senado Federal, notas taquigráficas oficiais",
+      "date": "2023-11-22",
+      "eventDate": "2023-11-22",
+      "year": 2023,
+      "datePrecision": "day",
+      "format": "documento",
+      "topic": "Flávio Bolsonaro",
+      "topics": [
+        "Flávio Bolsonaro",
+        "PL 1829/2019",
+        "Lei 14.978/2024",
+        "turismo",
+        "tramitação legislativa",
+        "vetos e contraditório"
+      ],
+      "stage": "analisado",
+      "summary": "A transcrição revisada da sessão registra que Flávio retirou a discussão de direitos autorais dos quartos de hotéis do relatório e relatou ter ajustado o tema de quartos acessíveis com apoio de Mara Gabrilli. Declarou apoio à atualização do turismo, mas os efeitos anunciados exigem cotejo com as versões aprovadas.",
+      "limitations": "Transcrição institucional lida como texto, não audição; números de municípios e impactos econômicos não foram verificados externamente. Sem versão integral do relatório em PDF.",
+      "locator": "49ª CCJ, bloco do PL 1829/2019, linhas 265 a 294; intervenções próprias identificadas no texto.",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      },
+      "statementId": null,
+      "statementCandidateId": null,
+      "transcript": {
+        "method": null,
+        "state": "áudio não conferido",
+        "text": null,
+        "excerpt": null,
+        "startSeconds": null,
+        "endSeconds": null
+      },
+      "durationSeconds": null,
+      "collectedAt": "2026-10-25T07:48:26.209Z",
+      "lastModifiedAt": "2026-10-25T07:48:26.209Z",
+      "editorialClassification": null,
+      "sourceConclusion": null,
+      "factualQuestion": null,
+      "publicResponse": null,
+      "actor": "Flávio Bolsonaro como relator; Davi Alcolumbre, Marcos Rogério e demais oradores identificados por intervenção",
+      "literalQuote": null,
+      "platform": null,
+      "platformId": null,
+      "mediaUrl": null,
+      "documentUrl": null,
+      "publicationTimeOriginal": null,
+      "publicationTimezoneOriginal": null,
+      "eventTimezoneOriginal": null,
+      "documentNumber": "PL 1829/2019",
+      "materialRole": "material da apuração",
+      "publicationState": "catálogo de materiais, sem novo veredito",
+      "legacyRecordIds": [],
+      "researchOrigins": [
+        {
+          "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+          "inputId": "pl1829-turismo-lei14978-vet29-20261025-34-02",
+          "toolReference": "turn254278view4"
+        }
+      ],
+      "accessMethod": "HTML público efetivamente aberto e lido na consulta de 25/10/2026. Collected_at corresponde ao fechamento do checkpoint, não à hora individual do acesso. Sem reprodução audiovisual, 0 segundos de áudio conferidos.",
       "newToArchive": true
     },
     {
@@ -41972,21 +43076,22 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-24T18:58:29.750Z",
+      "lastConsultedAt": "2026-10-25T07:48:26.209Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "periods": [
         2024,
-        2025
+        2025,
+        2026
       ],
       "formats": [
         "documento",
         "registro"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 2,
-      "analysedCount": 2
+      "accessedCount": 3,
+      "analysedCount": 3
     },
     {
       "id": "fonte-050cd7980a113c02",
@@ -42089,13 +43194,14 @@
       "method": "consulta pública e leitura do texto disponível",
       "intervalMinutes": null,
       "lastSuccessfulCollectionAt": null,
-      "lastConsultedAt": "2026-10-25T07:01:03.592Z",
+      "lastConsultedAt": "2026-10-25T07:48:26.209Z",
       "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
       "status": "consultada",
-      "sourceCount": 12,
+      "sourceCount": 15,
       "periods": [
         2007,
         2020,
+        2024,
         2025,
         2026
       ],
@@ -42105,8 +43211,8 @@
         "reportagem"
       ],
       "monitoringEnabled": false,
-      "accessedCount": 12,
-      "analysedCount": 12
+      "accessedCount": 15,
+      "analysedCount": 15
     },
     {
       "id": "fonte-0d9079c114e04a58",
@@ -42525,6 +43631,29 @@
       "analysedCount": 2
     },
     {
+      "id": "fonte-9a210054a698a70e",
+      "name": "Presidência da República, Casa Civil",
+      "url": "https://presidencia.gov.br/",
+      "responsible": "Presidência da República, Casa Civil",
+      "nature": "órgão público",
+      "method": "consulta pública e leitura do texto disponível",
+      "intervalMinutes": null,
+      "lastSuccessfulCollectionAt": null,
+      "lastConsultedAt": "2026-10-25T07:48:26.209Z",
+      "accessNote": "Acesso editorial registrado no lote; consultar as limitações de cada material.",
+      "status": "consultada",
+      "sourceCount": 1,
+      "periods": [
+        2024
+      ],
+      "formats": [
+        "documento"
+      ],
+      "monitoringEnabled": false,
+      "accessedCount": 1,
+      "analysedCount": 1
+    },
+    {
       "id": "fonte-efeb3e40f7290242",
       "name": "Presidência da República, Portal da Legislação",
       "url": "https://www.planalto.gov.br/",
@@ -42785,10 +43914,10 @@
       "method": "RSS/Atom público",
       "intervalMinutes": 60,
       "lastSuccessfulCollectionAt": "2026-10-25T06:58:24.291912Z",
-      "lastConsultedAt": "2026-10-25T07:01:03.592Z",
+      "lastConsultedAt": "2026-10-25T07:48:26.209Z",
       "accessNote": "0 publicações relacionadas nesta consulta",
       "status": "coleta com resultado",
-      "sourceCount": 264,
+      "sourceCount": 275,
       "periods": [
         2018,
         2019,
@@ -42809,8 +43938,8 @@
         "video"
       ],
       "monitoringEnabled": true,
-      "accessedCount": 263,
-      "analysedCount": 247
+      "accessedCount": 274,
+      "analysedCount": 258
     },
     {
       "id": "fonte-fe11eb2ae2357739",
@@ -43295,6 +44424,31 @@
       "reviewState": "aguardando revisão",
       "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Vídeo de notícia, sem íntegra da comissão revisada.; Alegação de má gestão permanece atribuída à proposta, sem conclusão própria.",
       "researchItemId": "pesquisa-b1488082bf2cecc3",
+      "review": {
+        "state": "aguardando revisão editorial",
+        "reviewer": null,
+        "reviewedAt": null
+      }
+    },
+    {
+      "id": "pesquisa-c184a1acd4ecbf15",
+      "title": "Rádio Senado: transcrição institucional da sanção da Lei 14.978 e falas atribuídas",
+      "type": "audio",
+      "provider": "Rádio Senado",
+      "publisher": "Rádio Senado",
+      "sourceUrl": "https://www12.senado.leg.br/radio/1/noticia/2024/09/19/nova-lei-geral-do-turismo-e-sancionada",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/09/19/nova-lei-geral-do-turismo-e-sancionada",
+      "date": "2024-09-19",
+      "youtubeId": null,
+      "description": "Página da Rádio Senado aberta em HTML com transcrição e duração anunciada de 2min19s. Relaciona medidas de turismo à sanção e a vetos sobre responsabilidade de agências e hospedagem. A fala atribuída a Flávio está na transcrição publicada, não foi escutada.",
+      "people": [
+        "flavio"
+      ],
+      "role": "Material catalogado",
+      "durationSeconds": null,
+      "reviewState": "aguardando revisão",
+      "verificationNote": "Metadados catalogados. Áudio não ouvido nesta pesquisa. Zero segundos de áudio ouvidos. Duração informada de 2min19s não indica tempo revisado. Sem timestamps de fala conferidos.",
+      "researchItemId": "pesquisa-c184a1acd4ecbf15",
       "review": {
         "state": "aguardando revisão editorial",
         "reviewer": null,
@@ -45859,6 +47013,15 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-e415edbd21abcb55",
+      "itemId": "pesquisa-76a29837ce2bdf3c",
+      "title": "VET 29/2024: veto parcial ainda sem apreciação no painel do Congresso",
+      "date": "2026-06-18",
+      "datePrecision": "day",
+      "context": "Em consulta de 25/10/2026, o painel oficial exibia dez dispositivos do VET 29/2024 como não apreciados. A última movimentação listada era retirada da pauta de 18/06/2026 devido ao cancelamento da sessão, portanto não houve conclusão de julgamento dos vetos na ficha consultada.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-6f9d4e9266addb0d",
       "itemId": "pesquisa-085e8825a1c5896a",
       "title": "Agência Estado: Flávio defendia em junho de 2026 reduzir maioridade para 16 e 14 anos em casos graves",
@@ -46930,6 +48093,69 @@
       "state": "identificação de evento pendente"
     },
     {
+      "id": "evento-14b56cfebd8d945c",
+      "itemId": "pesquisa-c184a1acd4ecbf15",
+      "title": "Rádio Senado: transcrição institucional da sanção da Lei 14.978 e falas atribuídas",
+      "date": "2024-09-18",
+      "datePrecision": "day",
+      "context": "Página da Rádio Senado aberta em HTML com transcrição e duração anunciada de 2min19s. Relaciona medidas de turismo à sanção e a vetos sobre responsabilidade de agências e hospedagem. A fala atribuída a Flávio está na transcrição publicada, não foi escutada.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-947d63c31c8a5f21",
+      "itemId": "pesquisa-2354eeed72e178ed",
+      "title": "Agência Senado: publicação da Lei 14.978 confirma autoria originária de Cadoca",
+      "date": "2024-09-19",
+      "datePrecision": "day",
+      "context": "Notícia registra publicação da lei, seu surgimento como PL 2724/2015 de Carlos Eduardo Cadoca e a relatoria de Flávio no Senado. Diferencia texto sancionado e benefícios esperados, sem atribuir autoria originária ao relator.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-9101f17c8dfccfaf",
+      "itemId": "pesquisa-f5bcafcff1c2496a",
+      "title": "Alan Rick reconhece contribuição de Flávio na nova Lei Geral do Turismo",
+      "date": "2024-09-18",
+      "datePrecision": "day",
+      "context": "Alan Rick associou proposta própria PL 4388/2023, incorporada ao debate de subsídio a querosene na Amazônia Legal, ao relatório de Flávio e elogiou a sanção. A previsão de reduzir tarifas é declaração prospectiva de Alan Rick, não resultado comprovado.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-62ce97813c6aaba1",
+      "itemId": "pesquisa-c24c725e27dfdf09",
+      "title": "Câmara publica teor da Mensagem 1108/2024 e vetos da Lei 14.978",
+      "date": "2024-09-18",
+      "datePrecision": "day",
+      "context": "Reprodução institucional da mensagem do veto em HTML da Câmara, permitindo cotejo editorial com a publicação na Presidência; não configura checagem independente ou segundo testemunho dos fatos.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-0eadafd539136770",
+      "itemId": "pesquisa-b9e38c68db6e59dc",
+      "title": "Lei 14.978/2024: ficha oficial da norma sancionada e artigos parcialmente vetados",
+      "date": "2024-09-18",
+      "datePrecision": "day",
+      "context": "Ficha legislativa identifica Lei 14.978 de 18/09/2024, a origem no PL 1829/2019, a publicação no DOU em 19/09 e o veto parcial. Distingue norma promulgada de proposição e de disposições não sancionadas.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-68a3f545dff1c841",
+      "itemId": "pesquisa-2e88357859e9f407",
+      "title": "Mensagem 1108/2024: razões oficiais do veto parcial à Lei Geral do Turismo",
+      "date": "2024-09-18",
+      "datePrecision": "day",
+      "context": "Mensagem do Executivo expõe vetos sobre exclusão de empreendimentos hoteleiros da lei, limitação da responsabilidade solidária de prestadores, hospedagem de menores, regras aeroportuárias e pessoal da Infraero. Na responsabilidade por danos, a justificativa do Ministério da Justiça invoca defesa do consumidor; isso registra posição do governo, não juízo do Arquivo.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-78dd2558ff6c0153",
+      "itemId": "pesquisa-23234b517ad30be7",
+      "title": "Lei 14.978/2024: texto HTML original publicado na Câmara",
+      "date": "2024-09-18",
+      "datePrecision": "day",
+      "context": "Texto integral HTML da lei sancionada foi aberto para cotejo da norma em vigor em sua publicação, sem confundir com dispositivos objeto de veto ou com projetos anteriores.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-44ba04d19e8e44da",
       "itemId": "pesquisa-a21de0cc7c102b7e",
       "title": "Senado: PL 3272/2024 permanece com vista concedida e relatório de Flávio",
@@ -47056,12 +48282,66 @@
       "state": "data informada pela fonte"
     },
     {
+      "id": "evento-c0dcc38500b984bb",
+      "itemId": "pesquisa-cea681aa64c698df",
+      "title": "Agência Senado documenta aprovação do substitutivo no Plenário e retorno à Câmara",
+      "date": "2024-06-05",
+      "datePrecision": "day",
+      "context": "Registro da aprovação em Plenário em 05/06/2024 de substitutivo relatado por Flávio e retorno à Câmara por alterações na proposta. A notícia menciona dispositivos sobre FNAC, turismo, hospedagem e responsabilidade de agências, sem garantir que todos sobreviveram à sanção.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-7fd40c0cc1c0553c",
+      "itemId": "pesquisa-f7f80180aeeadf04",
+      "title": "REQ 12/2024-CDR: pedido de urgência de Flávio para o PL 1829",
+      "date": "2024-06-05",
+      "datePrecision": "day",
+      "context": "A ficha oficial atribui o REQ 12/2024-CDR a Flávio, apresentado em 04/06, e registra encerramento com situação de aprovação em 05/06/2024. Pedido de urgência é ato distinto de autoria ou sanção do projeto.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-0397d609a4ece71e",
+      "itemId": "pesquisa-83c0e060b130ae24",
+      "title": "Agência Senado registra debate e parecer favorável na CDR em 04/06/2024",
+      "date": "2024-06-04",
+      "datePrecision": "day",
+      "context": "Reportagem atribui a Flávio a defesa de segurança jurídica e menos burocracia; identifica Davi Alcolumbre como relator da CDR e Celso Sabino como ministro presente. Distingue aprovação da comissão de votação posterior do Senado.",
+      "state": "data informada pela fonte"
+    },
+    {
       "id": "evento-d0452ec89b95e43b",
       "itemId": "pesquisa-2f4efe7e1fcf77d2",
       "title": "Agência Senado registra posições divergentes sobre taxação no Programa Mover",
       "date": "2024-06-04",
       "datePrecision": "day",
       "context": "Reportagem anterior à votação relata desacordo entre lideranças sobre tributação de compras internacionais, identifica Rodrigo Cunha como relator do PL 914/2024 e Carlos Portinho como defensor de emenda de Flávio para reduzir tributação de produtos nacionais, além de registrar a posição do governo.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-98d309eee82a1c9c",
+      "itemId": "pesquisa-1e900fe95d87ab24",
+      "title": "CDR de 04/06/2024: Flávio atua ad hoc no relatório de Davi Alcolumbre",
+      "date": "2024-06-04",
+      "datePrecision": "day",
+      "context": "A 12ª reunião da CDR aprovou o relatório de Davi Alcolumbre, apresentado por Flávio ad hoc, na forma da Emenda 15-CDR. Também aprovou requerimento de urgência; funções e autoria não se confundem.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-7a3a67865eb559bf",
+      "itemId": "pesquisa-772c7713bf288ce8",
+      "title": "Notas taquigráficas da CDR em 28/05/2024: pedido de vista e resposta de Flávio",
+      "date": "2024-05-28",
+      "datePrecision": "day",
+      "context": "O registro textual reproduz a leitura simplificada do relatório, o pedido de vista de Jaques Wagner e o reconhecimento de Flávio de que estava atuando como relator ad hoc. As alegações sobre emprego e cruzeiros são atribuídas ao orador, sem conclusão factual.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-df77616ee32facf1",
+      "itemId": "pesquisa-688c04ee0a5fcae6",
+      "title": "CDR de 28/05/2024 concede vista coletiva após leitura do PL 1829",
+      "date": "2024-05-28",
+      "datePrecision": "day",
+      "context": "A página da 11ª reunião da CDR registra leitura do parecer por Flávio, designado relator ad hoc de relatório de Davi Alcolumbre, e concessão de vista coletiva; não houve aprovação nessa sessão.",
       "state": "data informada pela fonte"
     },
     {
@@ -47269,6 +48549,24 @@
       "date": "2023-12-06",
       "datePrecision": "day",
       "context": "Registro da CCDD indica aprovação do parecer favorável da relatoria de Hamilton Mourão ao projeto de Flávio.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-69ea3f2b8d1fced8",
+      "itemId": "pesquisa-e3903ebab3e9ce57",
+      "title": "CCJ: votação e aprovação do substitutivo do PL 1829/2019 em 22/11/2023",
+      "date": "2023-11-22",
+      "datePrecision": "day",
+      "context": "A 49ª reunião da CCJ aprovou relatório reformulado por Flávio: acolhimento integral das emendas 1 e 2, parcial da 3 e rejeição da 4, na forma da emenda 5-CCJ. O autor original da proposta era Carlos Eduardo Cadoca, pela Câmara.",
+      "state": "data informada pela fonte"
+    },
+    {
+      "id": "evento-a163ef409e10eb63",
+      "itemId": "pesquisa-b45bbc7ba3deddf9",
+      "title": "Notas taquigráficas da CCJ registram justificativas de Flávio para relatório de turismo",
+      "date": "2023-11-22",
+      "datePrecision": "day",
+      "context": "A transcrição revisada da sessão registra que Flávio retirou a discussão de direitos autorais dos quartos de hotéis do relatório e relatou ter ajustado o tema de quartos acessíveis com apoio de Mara Gabrilli. Declarou apoio à atualização do turismo, mas os efeitos anunciados exigem cotejo com as versões aprovadas.",
       "state": "data informada pela fonte"
     },
     {
@@ -55059,6 +56357,17 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-e415edbd21abcb55",
+      "itemId": "pesquisa-76a29837ce2bdf3c",
+      "sourceId": "fonte-ad60f42b08c8e9e7",
+      "url": "https://www.congressonacional.leg.br/pt_BR/materias/vetos/-/veto/detalhe/16729",
+      "locator": "Cabeçalho, quadro dispositivos 29.24.001-010 e tramitação de 18/06/2026 (linhas 0 a 15, 26 a 42, 108 a 115).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-6f9d4e9266addb0d",
       "itemId": "pesquisa-085e8825a1c5896a",
       "sourceId": "fonte-0a4536d177e98be8",
@@ -56368,6 +57677,83 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-14b56cfebd8d945c",
+      "itemId": "pesquisa-c184a1acd4ecbf15",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/09/19/nova-lei-geral-do-turismo-e-sancionada",
+      "locator": "Página de 19/09/2024, transcrição do programa (linhas 9 a 26).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-947d63c31c8a5f21",
+      "itemId": "pesquisa-2354eeed72e178ed",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/09/19/mudancas-no-setor-turistico-nacional-ja-estao-valendo",
+      "locator": "Notícia de 19/09/2024, parágrafos iniciais e identificação de autoria (linhas 19 a 35).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-9101f17c8dfccfaf",
+      "itemId": "pesquisa-f5bcafcff1c2496a",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/09/18/alan-rick-comemora-sancao-da-nova-lei-geral-do-turismo",
+      "locator": "Notícia de 18/09/2024, linhas 19 a 33.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-62ce97813c6aaba1",
+      "itemId": "pesquisa-c24c725e27dfdf09",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-14978-18-setembro-2024-796251-veto-173038-pl.html",
+      "locator": "Página da Câmara 'Veto', texto da Mensagem 1.108/2024 (linhas 17 a 60).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-0eadafd539136770",
+      "itemId": "pesquisa-b9e38c68db6e59dc",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-14978-18-setembro-2024-796251-norma-pl.html",
+      "locator": "Dados da Norma, publicação original, veto e proposição originária (linhas 17 a 44).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-68a3f545dff1c841",
+      "itemId": "pesquisa-2e88357859e9f407",
+      "sourceId": "fonte-9a210054a698a70e",
+      "url": "https://presidencia.gov.br/ccivil_03/_ato2023-2026/2024/msg/vep/vep-1108-24.htm",
+      "locator": "Mensagem nº 1.108, de 18/09/2024, razões dos vetos, linhas 4 a 70.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-78dd2558ff6c0153",
+      "itemId": "pesquisa-23234b517ad30be7",
+      "sourceId": "fonte-29a2bae5277f274b",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-14978-18-setembro-2024-796251-publicacaooriginal-173037-pl.html",
+      "locator": "Publicação original da Lei 14.978, versão HTML (300 linhas).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-44ba04d19e8e44da",
       "itemId": "pesquisa-a21de0cc7c102b7e",
       "sourceId": "fonte-2acd9e7dc92e583a",
@@ -56522,11 +57908,77 @@
       "state": "vínculo com proposição ainda não julgado"
     },
     {
+      "id": "evidencia-c0dcc38500b984bb",
+      "itemId": "pesquisa-cea681aa64c698df",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/06/05/aprovada-atualizacao-da-lei-geral-do-turismo-texto-retorna-para-a-camara",
+      "locator": "Notícia de 05/06/2024, abertura e seção Lei Geral do Turismo (linhas 19 a 49).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-7fd40c0cc1c0553c",
+      "itemId": "pesquisa-f7f80180aeeadf04",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163929",
+      "locator": "Cabeçalho, autoria e situação atual, linhas 20 a 57.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-0397d609a4ece71e",
+      "itemId": "pesquisa-83c0e060b130ae24",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/06/04/atualizacao-da-lei-geral-do-turismo-segue-para-o-plenario-em-regime-de-urgencia",
+      "locator": "Notícia de 04/06/2024, corpo inicial e depoimentos (linhas 19 a 35).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
       "id": "evidencia-d0452ec89b95e43b",
       "itemId": "pesquisa-2f4efe7e1fcf77d2",
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://www12.senado.leg.br/noticias/materias/2024/06/04/sem-acordo-entre-os-lideres-projeto-mover-vai-a-votacao-nesta-quarta-feira",
       "locator": "Data 04/06/2024, 19h31; abertura e seções sobre Vetos e Reciprocidade.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-98d309eee82a1c9c",
+      "itemId": "pesquisa-1e900fe95d87ab24",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/1306/reuniao/12680/item/92564",
+      "locator": "12ª CDR, item 1, identificação da relatoria e texto do resultado, linhas 34 a 54.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-7a3a67865eb559bf",
+      "itemId": "pesquisa-772c7713bf288ce8",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/12627",
+      "locator": "Notas de 28/05/2024, item 2, linhas 31 a 48.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-df77616ee32facf1",
+      "itemId": "pesquisa-688c04ee0a5fcae6",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/1306/reuniao/12627/item/92414",
+      "locator": "11ª CDR, item 2, campos Relatoria/Resultado, linhas 20 a 52.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -56780,6 +58232,28 @@
       "sourceId": "fonte-2acd9e7dc92e583a",
       "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2614/reuniao/12217/item/89646",
       "locator": "Senado, sessão linhas 20-26, autoria, relatoria e resultado linhas 34-47.",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-69ea3f2b8d1fced8",
+      "itemId": "pesquisa-e3903ebab3e9ce57",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/34/reuniao/12152/item/89292",
+      "locator": "Ficha do item 3 da 49ª reunião, campos Autoria, Relatório e Resultado (linhas 20 a 50).",
+      "role": "material da apuração",
+      "supports": [],
+      "weakens": [],
+      "state": "vínculo com proposição ainda não julgado"
+    },
+    {
+      "id": "evidencia-a163ef409e10eb63",
+      "itemId": "pesquisa-b45bbc7ba3deddf9",
+      "sourceId": "fonte-2acd9e7dc92e583a",
+      "url": "https://www25.senado.leg.br/web/atividade/notas-taquigraficas/-/notas/r/12152",
+      "locator": "49ª CCJ, bloco do PL 1829/2019, linhas 265 a 294; intervenções próprias identificadas no texto.",
       "role": "material da apuração",
       "supports": [],
       "weakens": [],
@@ -59889,21 +61363,22 @@
     },
     {
       "year": 2023,
-      "found": 27,
-      "accessed": 27,
-      "analysed": 25,
+      "found": 29,
+      "accessed": 29,
+      "analysed": 27,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 2,
-        "analisado": 25,
+        "analisado": 27,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "PLP 150/2021": 1,
         "atividade parlamentar": 7,
+        "Flávio Bolsonaro": 5,
         "pronunciamento": 1,
         "orçamento": 1,
         "PL 5384/2020": 3,
@@ -59915,39 +61390,40 @@
         "liberdade de expressão": 1,
         "legislação digital": 1,
         "8 de janeiro": 1,
-        "Flávio Bolsonaro": 3,
         "Atividade pública": 1,
         "eleicoes": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 25,
+        "fonte-2acd9e7dc92e583a": 27,
         "fonte-37b3a9c8aaa5f206": 1,
         "fonte-d17e0097bbcd6c10": 1
       },
       "formats": {
         "reportagem": 4,
-        "documento": 22,
+        "documento": 23,
+        "registro": 1,
         "video": 1
       },
       "note": "Recorte não exaustivo."
     },
     {
       "year": 2024,
-      "found": 37,
-      "accessed": 37,
-      "analysed": 36,
+      "found": 50,
+      "accessed": 50,
+      "analysed": 49,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 1,
-        "analisado": 36,
+        "analisado": 49,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "PLP 210/2024": 1,
         "PL 1829/2019": 2,
+        "Flávio Bolsonaro": 18,
         "PL 3272/2024": 1,
         "economia": 2,
         "Justiça": 1,
@@ -59958,7 +61434,6 @@
         "processo penal": 1,
         "PLP 150/2021": 3,
         "patrimônio público": 1,
-        "Flávio Bolsonaro": 5,
         "PLP 85/2024": 1,
         "VET 8/2024 e VET 46/2021": 1,
         "PL 4129/2021": 2,
@@ -59970,16 +61445,18 @@
         "elegibilidade de militares": 1
       },
       "sources": {
-        "fonte-2acd9e7dc92e583a": 35,
+        "fonte-2acd9e7dc92e583a": 44,
+        "fonte-29a2bae5277f274b": 3,
+        "fonte-9a210054a698a70e": 1,
         "fonte-875b77e7aba40e8b": 1,
         "fonte-ad60f42b08c8e9e7": 1
       },
       "formats": {
-        "documento": 28,
+        "documento": 32,
+        "audio": 3,
+        "reportagem": 8,
+        "registro": 5,
         "checagem": 1,
-        "audio": 2,
-        "registro": 1,
-        "reportagem": 4,
         "video": 1
       },
       "note": "Recorte não exaustivo."
@@ -60059,22 +61536,22 @@
     },
     {
       "year": 2026,
-      "found": 290,
-      "accessed": 290,
-      "analysed": 284,
+      "found": 291,
+      "accessed": 291,
+      "analysed": 285,
       "reviewed": 0,
       "published": 0,
       "stages": {
         "encontrado": 0,
         "acessado": 6,
-        "analisado": 284,
+        "analisado": 285,
         "revisado": 0,
         "publicado": 0
       },
       "topics": {
         "debate da Globo": 91,
         "checagens": 1,
-        "Flávio Bolsonaro": 19,
+        "Flávio Bolsonaro": 20,
         "licença-maternidade": 1,
         "assistência social": 1,
         "eleições": 6,
@@ -60164,6 +61641,7 @@
         "fonte-cd19e6197d9bdf02": 1,
         "fonte-7d7b950bffc2fe29": 8,
         "fonte-508d60279dcebcef": 1,
+        "fonte-ad60f42b08c8e9e7": 1,
         "fonte-050cd7980a113c02": 1,
         "fonte-acd142e42207ecb8": 1,
         "fonte-6505d8f08251ae85": 1,
@@ -60174,7 +61652,7 @@
         "video": 7,
         "checagem": 206,
         "reportagem": 37,
-        "registro": 4,
+        "registro": 5,
         "audio": 3,
         "documento": 33
       },
@@ -60182,11 +61660,11 @@
     }
   ],
   "metrics": {
-    "newItems": 610,
-    "items": 628,
+    "newItems": 626,
+    "items": 644,
     "alreadyInArchive": 18,
-    "accessed": 625,
-    "analysed": 595,
+    "accessed": 641,
+    "analysed": 611,
     "reviewed": 0,
     "publishedChecks": 0,
     "distinctStatements": 0,
@@ -60194,16 +61672,16 @@
     "statementCandidates": 187,
     "occurrencesConfirmed": 0,
     "repetitionCandidates": 3,
-    "sources": 63,
-    "sourcesConsulted": 58,
+    "sources": 64,
+    "sourcesConsulted": 59,
     "video": 19,
-    "audio": 7,
-    "documents": 238,
+    "audio": 8,
+    "documents": 243,
     "mediaCataloguedSeconds": 16915.0,
     "reviewedAudioSeconds": 0,
     "transcribedMedia": 0,
-    "queryCount": 200,
-    "accessFailures": 46,
+    "queryCount": 205,
+    "accessFailures": 50,
     "undatedItems": 38
   },
   "queries": [
@@ -61405,6 +62883,51 @@
       "resultsState": "Não foram encontrados esses novos localizadores nos lotes prévios; PL 1482/2019 não figurava nos registros inspecionados. Um resultado anterior de PL 2064/2025 foi mantido sem duplicação."
     },
     {
+      "id": "consulta-19b58a77a552fc06",
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+      "query": "PL 1829/2019 Flávio Bolsonaro relatoria 2023 2024 CCJ CDR Plenário",
+      "executedAt": "2026-10-25T07:48:26.209Z",
+      "engine": "web.run fast, abertura HTML",
+      "interval": "2023-2024",
+      "resultsState": "Notas oficiais, distinção relator titular/ad hoc e decisões CCJ/CDR/Plenário localizadas."
+    },
+    {
+      "id": "consulta-14af66ba4feda7f9",
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+      "query": "Lei 14.978/2024 PL 1829/2019 autoria Cadoca sanção texto original",
+      "executedAt": "2026-10-25T07:48:26.209Z",
+      "engine": "web.run fast, abertura HTML",
+      "interval": "2015-2024",
+      "resultsState": "Texto legal acessado na Câmara; distinguida autoria original de relatoria."
+    },
+    {
+      "id": "consulta-4f249b602b705d20",
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+      "query": "VET 29/2024 mensagem 1108/2024 razões do Executivo situação 2026",
+      "executedAt": "2026-10-25T07:48:26.209Z",
+      "engine": "web.run fast, abertura HTML",
+      "interval": "2024-2026",
+      "resultsState": "Mensagem presidencial acessada; 10 dispositivos marcados não apreciados na ficha legislativa consultada."
+    },
+    {
+      "id": "consulta-0316700253e40902",
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+      "query": "PL 1829/2019 opinião Flávio Davi Celso Sabino Alan Rick proteção consumidor",
+      "executedAt": "2026-10-25T07:48:26.209Z",
+      "engine": "web.run fast, abertura HTML",
+      "interval": "2023-2024",
+      "resultsState": "Falhas/êxitos legislativos e respostas públicas individuais reunidos, sem nova classificação."
+    },
+    {
+      "id": "consulta-d15e3f35b4f19598",
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+      "query": "Rádio Senado 2024 PL 1829/2019 áudio transcrição original",
+      "executedAt": "2026-10-25T07:48:26.209Z",
+      "engine": "web.run fast, abertura HTML",
+      "interval": "2024",
+      "resultsState": "Transcrição publicada da sanção consultada, nenhum áudio reproduzido; outras páginas apresentaram timeout."
+    },
+    {
       "id": "consulta-8f16b93f13f313e6",
       "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
       "query": "PL 2169/2019 Flávio Bolsonaro CDH 22 outubro 2025 texto substitutivo Marcio Bittar Marcos Rogério 5 10 anos",
@@ -62238,6 +63761,28 @@
       "note": "Zero segundos ou marcações conferidos. Referências de linhas se limitam a texto HTML; horários apresentados nas páginas não constituem timestamps de mídia validados."
     },
     {
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/506756",
+      "status": "timeout na abertura",
+      "note": "Busca retornou metadados do pronunciamento de Flávio em 05/06/2024; conteúdo direto não aberto, URL não cadastrada neste lote."
+    },
+    {
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/06/07/senado-aprova-projeto-para-modernizar-turismo-no-brasil",
+      "status": "timeout na abertura",
+      "note": "Página encontrada por busca; áudio/transcrição não catalogados como acessados."
+    },
+    {
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2024/06/04/atualizacao-da-lei-geral-do-turismo-tem-pedido-de-urgencia-para-votacao-em-plenario",
+      "status": "timeout na abertura",
+      "note": "Busca retornou metadados, abertura direta falhou; não contabilizar como lido."
+    },
+    {
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34",
+      "note": "PDFs de pareceres, relatórios e emendas do PL 1829/2019 não foram examinados; não assumir conteúdo integral por resumos das fichas. Nenhuma gravação reproduzida."
+    },
+    {
       "batch": "pl2169-cdh-substitutivo-tramitacao-20261025-28",
       "source": "https://legis.senado.leg.br/sdleg-getter/documento?dm=10071728",
       "status": "inspeção visual bloqueada",
@@ -62960,6 +64505,36 @@
       "batch": "pl1482-combustiveis-lei15517-veto52-20261025-27"
     },
     {
+      "id": "lacuna-5627cd7dd3160e84",
+      "note": "PL 1829/2019: examinar PDF legível do parecer de Flávio (CCJ/Plenário), do relatório de Davi na CDR e dos substitutivos originais; cotejar emendas, texto sancionado e trechos vetados dispositivo a dispositivo.",
+      "state": "pendente",
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34"
+    },
+    {
+      "id": "lacuna-d90747a886db1403",
+      "note": "VET 29/2024: revisar novo andamento oficial após 18/06/2026, sem presumir decisão de veto e sem atribuir voto individual a Flávio.",
+      "state": "pendente",
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34"
+    },
+    {
+      "id": "lacuna-4de137df589831c1",
+      "note": "PL 1829/2019: obter íntegra audiovisual/taquigráfica do Plenário de 05/06/2024, conferir debate do consumidor e responder a eventuais manifestações contrárias identificadas.",
+      "state": "pendente",
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34"
+    },
+    {
+      "id": "lacuna-1190b81b13029e8e",
+      "note": "Conferir empiricamente projeções econômicas de Flávio e Alan Rick sobre emprego, passagens e turismo com dados primários, antes de qualquer veredito.",
+      "state": "pendente",
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34"
+    },
+    {
+      "id": "lacuna-f7c8870c0c0ef0b5",
+      "note": "Submeter eventuais comparações sensíveis sobre redação do parecer versus vetos a revisão editorial humana identificada; manter classification:null e reviewedAt:null.",
+      "state": "pendente",
+      "batch": "pl1829-turismo-lei14978-vet29-20261025-34"
+    },
+    {
       "id": "lacuna-29a5fdc8a5cbfeb3",
       "note": "PL 2169/2019: obter e cotejar visualmente a íntegra assinada do substitutivo da CDH (PDF) e o avulso inicial antes de comparação textual definitiva.",
       "state": "pendente",
@@ -63536,6 +65111,12 @@
       "label": "PL 1482/2019, relatoria de Flávio, Lei 15.517/2026 e veto parcial",
       "collected_at_utc": "2026-10-25T00:13:31.411Z",
       "method": "10 URLs públicas e únicas abertas e lidas; 0 segundos de mídia; sem novo veredito ou revisor; URLs cotejadas com checkpoints anteriores."
+    },
+    {
+      "id": "checkpoint-20261025-34",
+      "label": "PL 1829/2019, atos parlamentares, Lei 14.978/2024, razões de veto e estado VET 29/2024",
+      "collected_at_utc": "2026-10-25T07:48:26.209Z",
+      "method": "16 URLs efetivamente lidas, conferidas contra 628 registros anteriores; 0 segundos de áudio ouvidos, nenhum veredito/revisor."
     },
     {
       "id": "checkpoint-20261025-28",
