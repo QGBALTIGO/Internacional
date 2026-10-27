@@ -1,35 +1,35 @@
 {
   "schemaVersion": 1,
   "metadata": {
-    "lastAttemptAt": "2026-10-27T18:12:32.262057Z",
-    "lastSuccessfulCheckAt": "2026-10-27T18:12:32.262057Z",
+    "lastAttemptAt": "2026-10-27T22:24:16.360780Z",
+    "lastSuccessfulCheckAt": "2026-10-27T22:24:16.360780Z",
     "intervalMinutes": 60,
     "scheduleVerified": false,
     "execution": {
       "provider": "GitHub Actions",
-      "id": "40557777744",
-      "url": "https://github.com/QGBALTIGO/Internacional/actions/runs/40557777744",
+      "id": "40594539531",
+      "url": "https://github.com/QGBALTIGO/Internacional/actions/runs/40594539531",
       "event": "schedule",
       "attempt": "1",
-      "startedAt": "2026-10-27T18:12:32.262057Z",
+      "startedAt": "2026-10-27T22:24:16.360780Z",
       "note": "Registro de execução iniciado pelo worker; conferir conclusão no provedor."
     },
     "publicationPolicy": "Metadados de descoberta. Nenhuma classificação automática de falsidade.",
     "successfulSources": 7,
     "totalSources": 8,
-    "attemptedSourcesThisRun": 8,
+    "attemptedSourcesThisRun": 7,
     "successfulSourcesThisRun": 7,
     "focus": "flavio",
-    "persistentCatalogItems": 80,
-    "pendingEditorialReview": 80,
+    "persistentCatalogItems": 88,
+    "pendingEditorialReview": 88,
     "queue": {
       "waiting": 7,
       "retry": 1
     },
     "dailyBalance": {
       "dateUTC": "2026-10-27",
-      "newMaterials": 9,
-      "successfulCollections": 28,
+      "newMaterials": 17,
+      "successfulCollections": 35,
       "failedCollections": 2,
       "editorialReviews": 0,
       "corrections": 0
@@ -37,8 +37,130 @@
   },
   "items": [
     {
+      "id": "news-745449c6a663d15c",
+      "title": "Ministro pede prisão de PM que atropelou motociclista em SC",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministro-pede-prisao-de-pm-que-atropelou-motociclista-em-sc",
+      "publisher": "Agência Brasil, justiça",
+      "publishedAt": "2026-10-27T22:08:00Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-justica",
+      "collectedAt": "2026-10-27T22:24:16.360780Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-afe4b6c9cd90280f",
+      "title": "Imprensa internacional repercute fuga de Flávio Bolsonaro do Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/imprensa-internacional-repercute-fuga-de-flavio-bolsonaro-do-brasil",
+      "publisher": "Agência Brasil, política",
+      "publishedAt": "2026-10-27T21:53:00Z",
+      "people": [
+        "jair",
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-politica",
+      "collectedAt": "2026-10-27T22:24:16.360780Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-19215eb6df7ebce1",
+      "title": "Investigações contra Flávio continuam no STF mesmo após fuga",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/entenda-investigacoes-contra-flavio-continuam-no-stf-apos-fuga",
+      "publisher": "Agência Brasil, justiça",
+      "publishedAt": "2026-10-27T20:37:00Z",
+      "people": [
+        "jair",
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-justica",
+      "collectedAt": "2026-10-27T22:24:16.360780Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-e705529ae59cc8ba",
+      "title": "TSE contabiliza 34,3 mil votos após as 17h no 2º turno das eleições",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-contabiliza-menos-de-35-mil-votos-apos-as-17h-no-2-turno",
+      "publisher": "Agência Brasil, política",
+      "publishedAt": "2026-10-27T20:13:00Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-politica",
+      "collectedAt": "2026-10-27T22:24:16.360780Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-8bc169a9b805a0d3",
+      "title": "É falso que Lula recuou sobre fim da escala 6x1",
+      "url": "https://www.aosfatos.org/noticias/Lula-fim-escala-6x1/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-27T20:06:34Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-27T22:24:16.360780Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-dd4ff527908e6f4a",
+      "title": "Aumento de votos a Lula não reflete transferência automática de votos de outros candidatos",
+      "url": "https://www.agencialupa.org/jornalismo/2026/10/27/aumento-de-votos-a-lula-nao-reflete-transferencia-automatica-de-votos-de-outros-candidatos/",
+      "publisher": "Lupa",
+      "publishedAt": "2026-10-27T19:27:26Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "lupa",
+      "collectedAt": "2026-10-27T22:24:16.360780Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-c9e5f8c83a8c61dc",
+      "title": "Aliado de Trump diz que Flávio Bolsonaro chegou aos EUA",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/aliado-de-trump-diz-que-flavio-bolsonaro-chegou-aos-eua",
+      "publisher": "Agência Brasil, política",
+      "publishedAt": "2026-10-27T19:26:00Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-politica",
+      "collectedAt": "2026-10-27T22:24:16.360780Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-6d99e73dc8a9de7d",
+      "title": "É falso que Flávio Bolsonaro perdeu votos em SC no segundo turno",
+      "url": "https://www.agencialupa.org/noticias/2026/10/27/e-falso-que-flavio-bolsonaro-perdeu-votos-em-sc-no-segundo-turno/",
+      "publisher": "Lupa",
+      "publishedAt": "2026-10-27T18:52:56Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "lupa",
+      "collectedAt": "2026-10-27T22:24:16.360780Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
       "id": "news-bf55007a946dbf29",
-      "title": "O que se sabe sobre a suposta fuga de Flávio Bolsonaro",
+      "title": "O que se sabe sobre a fuga de Flávio Bolsonaro",
       "url": "https://www.aosfatos.org/noticias/o-que-se-sabe-suposta-fuga-flavio-bolsonaro/",
       "publisher": "Aos Fatos",
       "publishedAt": "2026-10-27T16:05:37Z",
@@ -1253,14 +1375,14 @@
   ],
   "feeds": [
     {
-      "checkedAt": "2026-10-27T18:12:32.262057Z",
+      "checkedAt": "2026-10-27T22:24:16.360780Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 3,
       "note": "3 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-27T18:12:32.262057Z",
-      "lastSuccessfulCheckAt": "2026-10-27T18:12:32.262057Z",
-      "nextAttemptAt": "2026-10-27T19:12:32.262057Z",
+      "lastAttemptAt": "2026-10-27T22:24:16.360780Z",
+      "lastSuccessfulCheckAt": "2026-10-27T22:24:16.360780Z",
+      "nextAttemptAt": "2026-10-27T23:24:16.360780Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "agencia-brasil-justica",
@@ -1268,14 +1390,14 @@
       "url": "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml"
     },
     {
-      "checkedAt": "2026-10-27T18:12:32.262057Z",
+      "checkedAt": "2026-10-27T22:24:16.360780Z",
       "status": "ok",
       "itemCount": 10,
-      "matchedCount": 4,
-      "note": "4 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-27T18:12:32.262057Z",
-      "lastSuccessfulCheckAt": "2026-10-27T18:12:32.262057Z",
-      "nextAttemptAt": "2026-10-27T19:12:32.262057Z",
+      "matchedCount": 7,
+      "note": "7 publicações relacionadas nesta consulta",
+      "lastAttemptAt": "2026-10-27T22:24:16.360780Z",
+      "lastSuccessfulCheckAt": "2026-10-27T22:24:16.360780Z",
+      "nextAttemptAt": "2026-10-27T23:24:16.360780Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "agencia-brasil-politica",
@@ -1283,14 +1405,14 @@
       "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml"
     },
     {
-      "checkedAt": "2026-10-27T18:12:32.262057Z",
+      "checkedAt": "2026-10-27T22:24:16.360780Z",
       "status": "ok",
       "itemCount": 10,
-      "matchedCount": 1,
-      "note": "1 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-27T18:12:32.262057Z",
-      "lastSuccessfulCheckAt": "2026-10-27T18:12:32.262057Z",
-      "nextAttemptAt": "2026-10-27T19:12:32.262057Z",
+      "matchedCount": 3,
+      "note": "3 publicações relacionadas nesta consulta",
+      "lastAttemptAt": "2026-10-27T22:24:16.360780Z",
+      "lastSuccessfulCheckAt": "2026-10-27T22:24:16.360780Z",
+      "nextAttemptAt": "2026-10-27T23:24:16.360780Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "agencia-brasil-ultimas",
@@ -1298,14 +1420,14 @@
       "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
     },
     {
-      "checkedAt": "2026-10-27T18:12:32.262057Z",
+      "checkedAt": "2026-10-27T22:24:16.360780Z",
       "status": "ok",
       "itemCount": 20,
       "matchedCount": 12,
       "note": "12 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-27T18:12:32.262057Z",
-      "lastSuccessfulCheckAt": "2026-10-27T18:12:32.262057Z",
-      "nextAttemptAt": "2026-10-27T19:12:32.262057Z",
+      "lastAttemptAt": "2026-10-27T22:24:16.360780Z",
+      "lastSuccessfulCheckAt": "2026-10-27T22:24:16.360780Z",
+      "nextAttemptAt": "2026-10-27T23:24:16.360780Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "aos-fatos",
@@ -1313,14 +1435,14 @@
       "url": "https://www.aosfatos.org/noticias/feed/"
     },
     {
-      "checkedAt": "2026-10-27T18:12:32.262057Z",
+      "checkedAt": "2026-10-27T22:24:16.360780Z",
       "status": "ok",
       "itemCount": 10,
-      "matchedCount": 2,
-      "note": "2 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-27T18:12:32.262057Z",
-      "lastSuccessfulCheckAt": "2026-10-27T18:12:32.262057Z",
-      "nextAttemptAt": "2026-10-27T19:12:32.262057Z",
+      "matchedCount": 3,
+      "note": "3 publicações relacionadas nesta consulta",
+      "lastAttemptAt": "2026-10-27T22:24:16.360780Z",
+      "lastSuccessfulCheckAt": "2026-10-27T22:24:16.360780Z",
+      "nextAttemptAt": "2026-10-27T23:24:16.360780Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "lupa",
@@ -1328,14 +1450,14 @@
       "url": "https://www.agencialupa.org/feed/"
     },
     {
-      "checkedAt": "2026-10-27T18:12:32.262057Z",
+      "checkedAt": "2026-10-27T22:24:16.360780Z",
       "status": "ok",
       "itemCount": 15,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-27T18:12:32.262057Z",
-      "lastSuccessfulCheckAt": "2026-10-27T18:12:32.262057Z",
-      "nextAttemptAt": "2026-10-27T19:12:32.262057Z",
+      "lastAttemptAt": "2026-10-27T22:24:16.360780Z",
+      "lastSuccessfulCheckAt": "2026-10-27T22:24:16.360780Z",
+      "nextAttemptAt": "2026-10-27T23:24:16.360780Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "senado-noticias",
@@ -1343,14 +1465,14 @@
       "url": "https://www12.senado.leg.br/noticias/atom.xml"
     },
     {
-      "checkedAt": "2026-10-27T18:12:32.262057Z",
+      "checkedAt": "2026-10-27T22:24:16.360780Z",
       "status": "ok",
       "itemCount": 67,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-27T18:12:32.262057Z",
-      "lastSuccessfulCheckAt": "2026-10-27T18:12:32.262057Z",
-      "nextAttemptAt": "2026-10-27T19:12:32.262057Z",
+      "lastAttemptAt": "2026-10-27T22:24:16.360780Z",
+      "lastSuccessfulCheckAt": "2026-10-27T22:24:16.360780Z",
+      "nextAttemptAt": "2026-10-27T23:24:16.360780Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "senado-verifica",
