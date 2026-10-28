@@ -1,41 +1,132 @@
 {
   "schemaVersion": 1,
   "metadata": {
-    "lastAttemptAt": "2026-10-28T19:48:41.942484Z",
-    "lastSuccessfulCheckAt": "2026-10-28T19:48:41.942484Z",
+    "lastAttemptAt": "2026-10-28T23:41:13.366337Z",
+    "lastSuccessfulCheckAt": "2026-10-28T23:41:13.366337Z",
     "intervalMinutes": 60,
     "scheduleVerified": false,
     "execution": {
       "provider": "GitHub Actions",
-      "id": "40757611446",
-      "url": "https://github.com/QGBALTIGO/Internacional/actions/runs/40757611446",
+      "id": "40788844455",
+      "url": "https://github.com/QGBALTIGO/Internacional/actions/runs/40788844455",
       "event": "schedule",
       "attempt": "1",
-      "startedAt": "2026-10-28T19:48:41.942484Z",
+      "startedAt": "2026-10-28T23:41:13.366337Z",
       "note": "Registro de execução iniciado pelo worker; conferir conclusão no provedor."
     },
     "publicationPolicy": "Metadados de descoberta. Nenhuma classificação automática de falsidade.",
     "successfulSources": 7,
     "totalSources": 8,
-    "attemptedSourcesThisRun": 8,
+    "attemptedSourcesThisRun": 7,
     "successfulSourcesThisRun": 7,
     "focus": "flavio",
-    "persistentCatalogItems": 102,
-    "pendingEditorialReview": 102,
+    "persistentCatalogItems": 116,
+    "pendingEditorialReview": 116,
     "queue": {
       "waiting": 7,
       "retry": 1
     },
     "dailyBalance": {
       "dateUTC": "2026-10-28",
-      "newMaterials": 14,
-      "successfulCollections": 28,
+      "newMaterials": 28,
+      "successfulCollections": 35,
       "failedCollections": 2,
       "editorialReviews": 0,
       "corrections": 0
     }
   },
   "items": [
+    {
+      "id": "news-44aa9740f9c345fd",
+      "title": "Coordenador de campanha do PL admite não ter prova de fraude eleitoral",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/coordenador-de-campanha-do-pl-admite-nao-ter-prova-de-fraude-eleitoral",
+      "publisher": "Agência Brasil, política",
+      "publishedAt": "2026-10-28T23:08:00Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-politica",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-1f2d7e149644575e",
+      "title": "Presidente do TSE diz que eleições ocorreram dentro da normalidade",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/presidente-do-tse-diz-que-eleicoes-ocorreram-dentro-da-normalidade",
+      "publisher": "Agência Brasil, justiça",
+      "publishedAt": "2026-10-28T22:41:00Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-justica",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-dc07b13a5d75e546",
+      "title": "Após fuga do Brasil, Flávio Bolsonaro mente sobre eleições em carta com teor golpista",
+      "url": "https://www.agencialupa.org/checagem/2026/10/28/apos-fuga-do-brasil-flavio-bolsonaro-mente-sobre-eleicoes-em-carta-com-teor-golpista/",
+      "publisher": "Lupa",
+      "publishedAt": "2026-10-28T22:32:04Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "lupa",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-3e099dc865891370",
+      "title": "Trump diz que não vai se \"envolver\", após carta de Flávio Bolsonaro",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/trump-diz-que-nao-vai-se-envolver-apos-carta-de-flavio-bolsonaro",
+      "publisher": "Agência Brasil, últimas notícias",
+      "publishedAt": "2026-10-28T22:06:00Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-ultimas",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-b8ced2cef81bb240",
+      "title": "Em carta golpista, Flávio agradece Milei e Trump por apoio para fuga",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-carta-golpista-flavio-agradece-milei-e-trump-por-apoio-para-fuga",
+      "publisher": "Agência Brasil, política",
+      "publishedAt": "2026-10-28T21:22:00Z",
+      "people": [
+        "jair",
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-politica",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-6de350d58f57ea48",
+      "title": "Governo reforçará investigações de violência política no segundo turno",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/governo-reforcara-investigacoes-de-violencia-politica-no-segundo-turno",
+      "publisher": "Agência Brasil, política",
+      "publishedAt": "2026-10-28T20:34:00Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-politica",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
     {
       "id": "news-e1d2a0b269e120cc",
       "title": "PF investiga circunstâncias da fuga de Flávio Bolsonaro do Brasil",
@@ -312,6 +403,21 @@
       "contentAccess": "metadados do feed; artigo não examinado"
     },
     {
+      "id": "news-68aa820248ba5e38",
+      "title": "É falso que Lula recuou sobre fim da escala 6x1",
+      "url": "https://aosfatos.org/noticias/Lula-fim-escala-6x1/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-27T20:06:34Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
       "id": "news-dd4ff527908e6f4a",
       "title": "Aumento de votos a Lula não reflete transferência automática de votos de outros candidatos",
       "url": "https://www.agencialupa.org/jornalismo/2026/10/27/aumento-de-votos-a-lula-nao-reflete-transferencia-automatica-de-votos-de-outros-candidatos/",
@@ -372,6 +478,21 @@
       "contentAccess": "metadados do feed; artigo não examinado"
     },
     {
+      "id": "news-aac7ad52df0bd23d",
+      "title": "Votos registrados após as 17h não mudam resultado das eleições",
+      "url": "https://aosfatos.org/noticias/votos-registrados-apos-as-17h-nao-mudam-resultado-das-eleicoes/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-27T16:08:24Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
       "id": "news-bf55007a946dbf29",
       "title": "O que se sabe sobre a fuga de Flávio Bolsonaro",
       "url": "https://www.aosfatos.org/noticias/o-que-se-sabe-suposta-fuga-flavio-bolsonaro/",
@@ -384,6 +505,22 @@
       "kind": "factcheck",
       "sourceId": "aos-fatos",
       "collectedAt": "2026-10-27T18:12:32.262057Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-a92d5e13a720329d",
+      "title": "O que se sabe sobre a fuga de Flávio Bolsonaro",
+      "url": "https://aosfatos.org/noticias/o-que-se-sabe-suposta-fuga-flavio-bolsonaro/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-27T16:05:37Z",
+      "people": [
+        "jair",
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado"
     },
@@ -480,6 +617,21 @@
       "contentAccess": "metadados do feed; artigo não examinado"
     },
     {
+      "id": "news-068b1bd12ad31b82",
+      "title": "Vídeo que mostra Flávio chorando não foi gravado após derrota",
+      "url": "https://aosfatos.org/noticias/video-flavio-chorando/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-26T21:46:31Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
       "id": "news-f8eeaf46928b8207",
       "title": "Moraes manda Flávio entregar passaporte e o proíbe de deixar o país",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais",
@@ -512,6 +664,22 @@
       "contentAccess": "metadados do feed; artigo não examinado"
     },
     {
+      "id": "news-249a63d44bf1d9f1",
+      "title": "Jair Bolsonaro não foi preso por desacato após resultado das eleições",
+      "url": "https://aosfatos.org/noticias/jair-bolsonaro-nao-foi-preso-desacato/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-26T20:04:14Z",
+      "people": [
+        "jair",
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
       "id": "news-b0bccf9f2a3d6b46",
       "title": "Vídeo mostra presos comemorando gol do Santa Cruz, não reeleição de Lula",
       "url": "https://www.aosfatos.org/noticias/presos-comemorando-gol-santa-cruz-lula/",
@@ -523,6 +691,21 @@
       "kind": "factcheck",
       "sourceId": "aos-fatos",
       "collectedAt": "2026-10-26T21:40:03.742879Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-7c6929abf0e5e247",
+      "title": "Vídeo mostra presos comemorando gol do Santa Cruz, não reeleição de Lula",
+      "url": "https://aosfatos.org/noticias/presos-comemorando-gol-santa-cruz-lula/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-26T19:43:58Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado"
     },
@@ -542,6 +725,21 @@
       "contentAccess": "metadados do feed; artigo não examinado"
     },
     {
+      "id": "news-4fda3d0dbb7303a2",
+      "title": "Derrotado, Flávio mente ao sugerir que eleição foi fraudada",
+      "url": "https://aosfatos.org/noticias/derrotado-flavio-mente-sugerir-eleicao-fraudada/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-26T19:30:17Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
       "id": "news-7368319d54e190a7",
       "title": "Vídeo antigo circula nas redes para sugerir que Flávio foi para os EUA",
       "url": "https://www.aosfatos.org/noticias/video-antigo-circula-nas-redes-para-sugerir-que-flavio-foi-para-os-eua/",
@@ -554,6 +752,22 @@
       "kind": "factcheck",
       "sourceId": "aos-fatos",
       "collectedAt": "2026-10-26T21:40:03.742879Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-e12aeec67fdfecdf",
+      "title": "Vídeo antigo circula nas redes para sugerir que Flávio foi para os EUA",
+      "url": "https://aosfatos.org/noticias/video-antigo-circula-nas-redes-para-sugerir-que-flavio-foi-para-os-eua/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-26T17:53:10Z",
+      "people": [
+        "jair",
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-28T23:41:13.366337Z",
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado"
     },
@@ -1588,14 +1802,14 @@
   ],
   "feeds": [
     {
-      "checkedAt": "2026-10-28T19:48:41.942484Z",
+      "checkedAt": "2026-10-28T23:41:13.366337Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 3,
       "note": "3 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-28T19:48:41.942484Z",
-      "lastSuccessfulCheckAt": "2026-10-28T19:48:41.942484Z",
-      "nextAttemptAt": "2026-10-28T20:48:41.942484Z",
+      "lastAttemptAt": "2026-10-28T23:41:13.366337Z",
+      "lastSuccessfulCheckAt": "2026-10-28T23:41:13.366337Z",
+      "nextAttemptAt": "2026-10-29T00:41:13.366337Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "agencia-brasil-justica",
@@ -1603,14 +1817,14 @@
       "url": "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml"
     },
     {
-      "checkedAt": "2026-10-28T19:48:41.942484Z",
+      "checkedAt": "2026-10-28T23:41:13.366337Z",
       "status": "ok",
       "itemCount": 10,
-      "matchedCount": 9,
-      "note": "9 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-28T19:48:41.942484Z",
-      "lastSuccessfulCheckAt": "2026-10-28T19:48:41.942484Z",
-      "nextAttemptAt": "2026-10-28T20:48:41.942484Z",
+      "matchedCount": 10,
+      "note": "10 publicações relacionadas nesta consulta",
+      "lastAttemptAt": "2026-10-28T23:41:13.366337Z",
+      "lastSuccessfulCheckAt": "2026-10-28T23:41:13.366337Z",
+      "nextAttemptAt": "2026-10-29T00:41:13.366337Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "agencia-brasil-politica",
@@ -1618,14 +1832,14 @@
       "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml"
     },
     {
-      "checkedAt": "2026-10-28T19:48:41.942484Z",
+      "checkedAt": "2026-10-28T23:41:13.366337Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 3,
       "note": "3 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-28T19:48:41.942484Z",
-      "lastSuccessfulCheckAt": "2026-10-28T19:48:41.942484Z",
-      "nextAttemptAt": "2026-10-28T20:48:41.942484Z",
+      "lastAttemptAt": "2026-10-28T23:41:13.366337Z",
+      "lastSuccessfulCheckAt": "2026-10-28T23:41:13.366337Z",
+      "nextAttemptAt": "2026-10-29T00:41:13.366337Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "agencia-brasil-ultimas",
@@ -1633,14 +1847,14 @@
       "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
     },
     {
-      "checkedAt": "2026-10-28T19:48:41.942484Z",
+      "checkedAt": "2026-10-28T23:41:13.366337Z",
       "status": "ok",
-      "itemCount": 20,
-      "matchedCount": 12,
-      "note": "12 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-28T19:48:41.942484Z",
-      "lastSuccessfulCheckAt": "2026-10-28T19:48:41.942484Z",
-      "nextAttemptAt": "2026-10-28T20:48:41.942484Z",
+      "itemCount": 156,
+      "matchedCount": 96,
+      "note": "96 publicações relacionadas nesta consulta",
+      "lastAttemptAt": "2026-10-28T23:41:13.366337Z",
+      "lastSuccessfulCheckAt": "2026-10-28T23:41:13.366337Z",
+      "nextAttemptAt": "2026-10-29T00:41:13.366337Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "aos-fatos",
@@ -1648,14 +1862,14 @@
       "url": "https://www.aosfatos.org/noticias/feed/"
     },
     {
-      "checkedAt": "2026-10-28T19:48:41.942484Z",
+      "checkedAt": "2026-10-28T23:41:13.366337Z",
       "status": "ok",
       "itemCount": 10,
-      "matchedCount": 3,
-      "note": "3 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-28T19:48:41.942484Z",
-      "lastSuccessfulCheckAt": "2026-10-28T19:48:41.942484Z",
-      "nextAttemptAt": "2026-10-28T20:48:41.942484Z",
+      "matchedCount": 4,
+      "note": "4 publicações relacionadas nesta consulta",
+      "lastAttemptAt": "2026-10-28T23:41:13.366337Z",
+      "lastSuccessfulCheckAt": "2026-10-28T23:41:13.366337Z",
+      "nextAttemptAt": "2026-10-29T00:41:13.366337Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "lupa",
@@ -1663,14 +1877,14 @@
       "url": "https://www.agencialupa.org/feed/"
     },
     {
-      "checkedAt": "2026-10-28T19:48:41.942484Z",
+      "checkedAt": "2026-10-28T23:41:13.366337Z",
       "status": "ok",
       "itemCount": 15,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-28T19:48:41.942484Z",
-      "lastSuccessfulCheckAt": "2026-10-28T19:48:41.942484Z",
-      "nextAttemptAt": "2026-10-28T20:48:41.942484Z",
+      "lastAttemptAt": "2026-10-28T23:41:13.366337Z",
+      "lastSuccessfulCheckAt": "2026-10-28T23:41:13.366337Z",
+      "nextAttemptAt": "2026-10-29T00:41:13.366337Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "senado-noticias",
@@ -1678,14 +1892,14 @@
       "url": "https://www12.senado.leg.br/noticias/atom.xml"
     },
     {
-      "checkedAt": "2026-10-28T19:48:41.942484Z",
+      "checkedAt": "2026-10-28T23:41:13.366337Z",
       "status": "ok",
       "itemCount": 67,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-28T19:48:41.942484Z",
-      "lastSuccessfulCheckAt": "2026-10-28T19:48:41.942484Z",
-      "nextAttemptAt": "2026-10-28T20:48:41.942484Z",
+      "lastAttemptAt": "2026-10-28T23:41:13.366337Z",
+      "lastSuccessfulCheckAt": "2026-10-28T23:41:13.366337Z",
+      "nextAttemptAt": "2026-10-29T00:41:13.366337Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "senado-verifica",
