@@ -1,36 +1,36 @@
 {
   "schemaVersion": 1,
   "metadata": {
-    "lastAttemptAt": "2026-10-30T01:21:09.038733Z",
-    "lastSuccessfulCheckAt": "2026-10-30T01:21:09.038733Z",
+    "lastAttemptAt": "2026-10-30T07:16:56.817440Z",
+    "lastSuccessfulCheckAt": "2026-10-30T07:16:56.817440Z",
     "intervalMinutes": 60,
     "scheduleVerified": false,
     "execution": {
       "provider": "GitHub Actions",
-      "id": "40985068938",
-      "url": "https://github.com/QGBALTIGO/Internacional/actions/runs/40985068938",
+      "id": "41019115170",
+      "url": "https://github.com/QGBALTIGO/Internacional/actions/runs/41019115170",
       "event": "schedule",
       "attempt": "1",
-      "startedAt": "2026-10-30T01:21:09.038733Z",
+      "startedAt": "2026-10-30T07:16:56.817440Z",
       "note": "Registro de execução iniciado pelo worker; conferir conclusão no provedor."
     },
     "publicationPolicy": "Metadados de descoberta. Nenhuma classificação automática de falsidade.",
     "successfulSources": 7,
     "totalSources": 8,
-    "attemptedSourcesThisRun": 7,
+    "attemptedSourcesThisRun": 8,
     "successfulSourcesThisRun": 7,
     "focus": "flavio",
-    "persistentCatalogItems": 124,
-    "pendingEditorialReview": 124,
+    "persistentCatalogItems": 128,
+    "pendingEditorialReview": 128,
     "queue": {
       "waiting": 7,
       "retry": 1
     },
     "dailyBalance": {
       "dateUTC": "2026-10-30",
-      "newMaterials": 0,
-      "successfulCollections": 7,
-      "failedCollections": 0,
+      "newMaterials": 4,
+      "successfulCollections": 14,
+      "failedCollections": 1,
       "editorialReviews": 0,
       "corrections": 0
     }
@@ -53,6 +53,22 @@
       "contentAccess": "metadados do feed; artigo não examinado"
     },
     {
+      "id": "news-506f803a612e4177",
+      "title": "Relatório apócrifo distorce microdados do TSE para alegar fraude eleitoral",
+      "url": "https://aosfatos.org/noticias/relatorio-fraude-eleitoral-distorce-dados-omite-fatos/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-29T21:08:50Z",
+      "people": [
+        "jair",
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-30T07:16:56.817440Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
       "id": "news-669a9e9a776d5c40",
       "title": "Vídeo mostra protesto de professores em setembro, não após reeleição de Lula",
       "url": "https://www.aosfatos.org/noticias/video-protesto-professores-setembro/",
@@ -64,6 +80,21 @@
       "kind": "factcheck",
       "sourceId": "aos-fatos",
       "collectedAt": "2026-10-29T21:22:57.619313Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-fe9f9aadc7627af9",
+      "title": "Vídeo mostra protesto de professores em setembro, não após reeleição de Lula",
+      "url": "https://aosfatos.org/noticias/video-protesto-professores-setembro/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-29T20:39:24Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-30T07:16:56.817440Z",
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado"
     },
@@ -220,6 +251,21 @@
       "contentAccess": "metadados do feed; artigo não examinado"
     },
     {
+      "id": "news-a25ea159a4eed5c0",
+      "title": "Vídeo não prova que Lula teve 165 mil votos de origem não identificada",
+      "url": "https://aosfatos.org/noticias/lula-165-mil-votos-origem-nao-identificada/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-28T21:13:42Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-30T07:16:56.817440Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
       "id": "news-2ecb444e598f83ba",
       "title": "Soma de votos de três seções eleitorais na BA não comprova fraude",
       "url": "https://www.aosfatos.org/noticias/soma-votos-tres-secoes-ba-nao-comprova-fraude/",
@@ -231,6 +277,21 @@
       "kind": "factcheck",
       "sourceId": "aos-fatos",
       "collectedAt": "2026-10-29T02:55:48.909988Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado"
+    },
+    {
+      "id": "news-4a349a32f12d2a29",
+      "title": "Soma de votos de três seções eleitorais na BA não comprova fraude",
+      "url": "https://aosfatos.org/noticias/soma-votos-tres-secoes-ba-nao-comprova-fraude/",
+      "publisher": "Aos Fatos",
+      "publishedAt": "2026-10-28T21:04:51Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "factcheck",
+      "sourceId": "aos-fatos",
+      "collectedAt": "2026-10-30T07:16:56.817440Z",
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado"
     },
@@ -1924,14 +1985,14 @@
   ],
   "feeds": [
     {
-      "checkedAt": "2026-10-30T01:21:09.038733Z",
+      "checkedAt": "2026-10-30T07:16:56.817440Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 2,
       "note": "2 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-30T01:21:09.038733Z",
-      "lastSuccessfulCheckAt": "2026-10-30T01:21:09.038733Z",
-      "nextAttemptAt": "2026-10-30T02:21:09.038733Z",
+      "lastAttemptAt": "2026-10-30T07:16:56.817440Z",
+      "lastSuccessfulCheckAt": "2026-10-30T07:16:56.817440Z",
+      "nextAttemptAt": "2026-10-30T08:16:56.817440Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "agencia-brasil-justica",
@@ -1939,14 +2000,14 @@
       "url": "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml"
     },
     {
-      "checkedAt": "2026-10-30T01:21:09.038733Z",
+      "checkedAt": "2026-10-30T07:16:56.817440Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 5,
       "note": "5 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-30T01:21:09.038733Z",
-      "lastSuccessfulCheckAt": "2026-10-30T01:21:09.038733Z",
-      "nextAttemptAt": "2026-10-30T02:21:09.038733Z",
+      "lastAttemptAt": "2026-10-30T07:16:56.817440Z",
+      "lastSuccessfulCheckAt": "2026-10-30T07:16:56.817440Z",
+      "nextAttemptAt": "2026-10-30T08:16:56.817440Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "agencia-brasil-politica",
@@ -1954,14 +2015,14 @@
       "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml"
     },
     {
-      "checkedAt": "2026-10-30T01:21:09.038733Z",
+      "checkedAt": "2026-10-30T07:16:56.817440Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-30T01:21:09.038733Z",
-      "lastSuccessfulCheckAt": "2026-10-30T01:21:09.038733Z",
-      "nextAttemptAt": "2026-10-30T02:21:09.038733Z",
+      "lastAttemptAt": "2026-10-30T07:16:56.817440Z",
+      "lastSuccessfulCheckAt": "2026-10-30T07:16:56.817440Z",
+      "nextAttemptAt": "2026-10-30T08:16:56.817440Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "agencia-brasil-ultimas",
@@ -1969,14 +2030,14 @@
       "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
     },
     {
-      "checkedAt": "2026-10-30T01:21:09.038733Z",
+      "checkedAt": "2026-10-30T07:16:56.817440Z",
       "status": "ok",
-      "itemCount": 20,
-      "matchedCount": 14,
-      "note": "14 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-30T01:21:09.038733Z",
-      "lastSuccessfulCheckAt": "2026-10-30T01:21:09.038733Z",
-      "nextAttemptAt": "2026-10-30T02:21:09.038733Z",
+      "itemCount": 192,
+      "matchedCount": 119,
+      "note": "119 publicações relacionadas nesta consulta",
+      "lastAttemptAt": "2026-10-30T07:16:56.817440Z",
+      "lastSuccessfulCheckAt": "2026-10-30T07:16:56.817440Z",
+      "nextAttemptAt": "2026-10-30T08:16:56.817440Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "aos-fatos",
@@ -1984,14 +2045,14 @@
       "url": "https://www.aosfatos.org/noticias/feed/"
     },
     {
-      "checkedAt": "2026-10-30T01:21:09.038733Z",
+      "checkedAt": "2026-10-30T07:16:56.817440Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 3,
       "note": "3 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-30T01:21:09.038733Z",
-      "lastSuccessfulCheckAt": "2026-10-30T01:21:09.038733Z",
-      "nextAttemptAt": "2026-10-30T02:21:09.038733Z",
+      "lastAttemptAt": "2026-10-30T07:16:56.817440Z",
+      "lastSuccessfulCheckAt": "2026-10-30T07:16:56.817440Z",
+      "nextAttemptAt": "2026-10-30T08:16:56.817440Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "lupa",
@@ -1999,14 +2060,14 @@
       "url": "https://www.agencialupa.org/feed/"
     },
     {
-      "checkedAt": "2026-10-30T01:21:09.038733Z",
+      "checkedAt": "2026-10-30T07:16:56.817440Z",
       "status": "ok",
       "itemCount": 15,
       "matchedCount": 1,
       "note": "1 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-30T01:21:09.038733Z",
-      "lastSuccessfulCheckAt": "2026-10-30T01:21:09.038733Z",
-      "nextAttemptAt": "2026-10-30T02:21:09.038733Z",
+      "lastAttemptAt": "2026-10-30T07:16:56.817440Z",
+      "lastSuccessfulCheckAt": "2026-10-30T07:16:56.817440Z",
+      "nextAttemptAt": "2026-10-30T08:16:56.817440Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "senado-noticias",
@@ -2014,14 +2075,14 @@
       "url": "https://www12.senado.leg.br/noticias/atom.xml"
     },
     {
-      "checkedAt": "2026-10-30T01:21:09.038733Z",
+      "checkedAt": "2026-10-30T07:16:56.817440Z",
       "status": "ok",
       "itemCount": 68,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
-      "lastAttemptAt": "2026-10-30T01:21:09.038733Z",
-      "lastSuccessfulCheckAt": "2026-10-30T01:21:09.038733Z",
-      "nextAttemptAt": "2026-10-30T02:21:09.038733Z",
+      "lastAttemptAt": "2026-10-30T07:16:56.817440Z",
+      "lastSuccessfulCheckAt": "2026-10-30T07:16:56.817440Z",
+      "nextAttemptAt": "2026-10-30T08:16:56.817440Z",
       "consecutiveFailures": 0,
       "state": "waiting",
       "id": "senado-verifica",
@@ -2029,18 +2090,18 @@
       "url": "https://www12.senado.leg.br/radio/1/senado-verifica/podcast.xml"
     },
     {
-      "checkedAt": "2026-10-29T21:22:57.619313Z",
+      "checkedAt": "2026-10-30T07:16:56.817440Z",
       "status": "error",
       "itemCount": 0,
       "matchedCount": 0,
       "note": "Coleta indisponível (HTTPError); itens anteriores preservados",
-      "lastAttemptAt": "2026-10-29T21:22:57.619313Z",
+      "lastAttemptAt": "2026-10-30T07:16:56.817440Z",
       "lastError": {
-        "at": "2026-10-29T21:22:57.619313Z",
+        "at": "2026-10-30T07:16:56.817440Z",
         "type": "HTTPError"
       },
-      "nextAttemptAt": "2026-10-30T05:22:57.619313Z",
-      "consecutiveFailures": 16,
+      "nextAttemptAt": "2026-10-30T15:16:56.817440Z",
+      "consecutiveFailures": 17,
       "state": "retry",
       "id": "tse",
       "name": "Tribunal Superior Eleitoral",
