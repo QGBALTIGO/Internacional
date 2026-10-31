@@ -5,148 +5,148 @@
       "id": "aos-fatos",
       "name": "Aos Fatos",
       "url": "https://www.aosfatos.org/noticias/feed/",
-      "checkedAt": "2026-10-31T14:50:11.647170Z",
+      "checkedAt": "2026-10-31T18:55:48.710529Z",
       "status": "error",
       "itemCount": 0,
       "matchedCount": 0,
       "note": "Coleta indisponível (ValueError); itens anteriores preservados",
       "state": "retry",
       "lastSuccessfulCheckAt": "2026-10-31T02:29:56.954262Z",
-      "startedAt": "2026-10-31T14:50:11.647170Z",
-      "lastAttemptAt": "2026-10-31T14:50:11.647170Z",
-      "consecutiveFailures": 2,
+      "startedAt": "2026-10-31T18:55:48.710529Z",
+      "lastAttemptAt": "2026-10-31T18:55:48.710529Z",
+      "consecutiveFailures": 3,
       "lastError": {
-        "at": "2026-10-31T14:50:11.647170Z",
+        "at": "2026-10-31T18:55:48.710529Z",
         "type": "ValueError"
       },
-      "nextAttemptAt": "2026-10-31T15:20:11.647170Z",
+      "nextAttemptAt": "2026-10-31T19:55:48.710529Z",
       "errorType": "ValueError"
     },
     "lupa": {
       "id": "lupa",
       "name": "Lupa",
       "url": "https://www.agencialupa.org/feed/",
-      "checkedAt": "2026-10-31T14:50:11.647170Z",
+      "checkedAt": "2026-10-31T18:55:48.710529Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 2,
       "note": "2 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-10-31T14:50:11.647170Z",
-      "startedAt": "2026-10-31T14:50:11.647170Z",
-      "lastAttemptAt": "2026-10-31T14:50:11.647170Z",
+      "lastSuccessfulCheckAt": "2026-10-31T18:55:48.710529Z",
+      "startedAt": "2026-10-31T18:55:48.710529Z",
+      "lastAttemptAt": "2026-10-31T18:55:48.710529Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-10-31T15:50:11.647170Z"
+      "nextAttemptAt": "2026-10-31T19:55:48.710529Z"
     },
     "senado-noticias": {
       "id": "senado-noticias",
       "name": "Senado Notícias",
       "url": "https://www12.senado.leg.br/noticias/atom.xml",
-      "checkedAt": "2026-10-31T14:50:11.647170Z",
+      "checkedAt": "2026-10-31T18:55:48.710529Z",
       "status": "ok",
       "itemCount": 15,
       "matchedCount": 1,
       "note": "1 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-10-31T14:50:11.647170Z",
-      "startedAt": "2026-10-31T14:50:11.647170Z",
-      "lastAttemptAt": "2026-10-31T14:50:11.647170Z",
+      "lastSuccessfulCheckAt": "2026-10-31T18:55:48.710529Z",
+      "startedAt": "2026-10-31T18:55:48.710529Z",
+      "lastAttemptAt": "2026-10-31T18:55:48.710529Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-10-31T15:50:11.647170Z",
+      "nextAttemptAt": "2026-10-31T19:55:48.710529Z",
       "errorType": "URLError"
     },
     "senado-verifica": {
       "id": "senado-verifica",
       "name": "Senado Verifica, podcast",
       "url": "https://www12.senado.leg.br/radio/1/senado-verifica/podcast.xml",
-      "checkedAt": "2026-10-31T14:50:11.647170Z",
+      "checkedAt": "2026-10-31T18:55:48.710529Z",
       "status": "ok",
       "itemCount": 68,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-10-31T14:50:11.647170Z",
-      "startedAt": "2026-10-31T14:50:11.647170Z",
-      "lastAttemptAt": "2026-10-31T14:50:11.647170Z",
+      "lastSuccessfulCheckAt": "2026-10-31T18:55:48.710529Z",
+      "startedAt": "2026-10-31T18:55:48.710529Z",
+      "lastAttemptAt": "2026-10-31T18:55:48.710529Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-10-31T15:50:11.647170Z",
+      "nextAttemptAt": "2026-10-31T19:55:48.710529Z",
       "errorType": "URLError"
     },
     "tse": {
       "id": "tse",
       "name": "Tribunal Superior Eleitoral",
       "url": "https://www.tse.jus.br/rss",
-      "checkedAt": "2026-10-31T08:47:46.762581Z",
+      "checkedAt": "2026-10-31T18:55:48.710529Z",
       "status": "error",
       "itemCount": 0,
       "matchedCount": 0,
       "note": "Coleta indisponível (HTTPError); itens anteriores preservados",
       "state": "retry",
       "lastSuccessfulCheckAt": null,
-      "startedAt": "2026-10-31T08:47:46.762581Z",
+      "startedAt": "2026-10-31T18:55:48.710529Z",
       "errorType": "HTTPError",
       "httpStatus": 403,
-      "lastAttemptAt": "2026-10-31T08:47:46.762581Z",
-      "consecutiveFailures": 19,
+      "lastAttemptAt": "2026-10-31T18:55:48.710529Z",
+      "consecutiveFailures": 20,
       "lastError": {
-        "at": "2026-10-31T08:47:46.762581Z",
+        "at": "2026-10-31T18:55:48.710529Z",
         "type": "HTTPError"
       },
-      "nextAttemptAt": "2026-10-31T16:47:46.762581Z"
+      "nextAttemptAt": "2026-11-01T02:55:48.710529Z"
     },
     "agencia-brasil-ultimas": {
       "id": "agencia-brasil-ultimas",
       "name": "Agência Brasil, últimas notícias",
       "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml",
-      "checkedAt": "2026-10-31T14:50:11.647170Z",
+      "checkedAt": "2026-10-31T18:55:48.710529Z",
       "status": "ok",
       "itemCount": 10,
-      "matchedCount": 1,
-      "note": "1 publicações relacionadas nesta consulta",
+      "matchedCount": 4,
+      "note": "4 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-10-31T14:50:11.647170Z",
-      "startedAt": "2026-10-31T14:50:11.647170Z",
-      "lastAttemptAt": "2026-10-31T14:50:11.647170Z",
+      "lastSuccessfulCheckAt": "2026-10-31T18:55:48.710529Z",
+      "startedAt": "2026-10-31T18:55:48.710529Z",
+      "lastAttemptAt": "2026-10-31T18:55:48.710529Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-10-31T15:50:11.647170Z"
+      "nextAttemptAt": "2026-10-31T19:55:48.710529Z"
     },
     "agencia-brasil-politica": {
       "id": "agencia-brasil-politica",
       "name": "Agência Brasil, política",
       "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml",
-      "checkedAt": "2026-10-31T14:50:11.647170Z",
+      "checkedAt": "2026-10-31T18:55:48.710529Z",
       "status": "ok",
       "itemCount": 10,
-      "matchedCount": 3,
-      "note": "3 publicações relacionadas nesta consulta",
+      "matchedCount": 4,
+      "note": "4 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-10-31T14:50:11.647170Z",
-      "startedAt": "2026-10-31T14:50:11.647170Z",
-      "lastAttemptAt": "2026-10-31T14:50:11.647170Z",
+      "lastSuccessfulCheckAt": "2026-10-31T18:55:48.710529Z",
+      "startedAt": "2026-10-31T18:55:48.710529Z",
+      "lastAttemptAt": "2026-10-31T18:55:48.710529Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-10-31T15:50:11.647170Z"
+      "nextAttemptAt": "2026-10-31T19:55:48.710529Z"
     },
     "agencia-brasil-justica": {
       "id": "agencia-brasil-justica",
       "name": "Agência Brasil, justiça",
       "url": "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml",
-      "checkedAt": "2026-10-31T14:50:11.647170Z",
+      "checkedAt": "2026-10-31T18:55:48.710529Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 1,
       "note": "1 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-10-31T14:50:11.647170Z",
-      "startedAt": "2026-10-31T14:50:11.647170Z",
-      "lastAttemptAt": "2026-10-31T14:50:11.647170Z",
+      "lastSuccessfulCheckAt": "2026-10-31T18:55:48.710529Z",
+      "startedAt": "2026-10-31T18:55:48.710529Z",
+      "lastAttemptAt": "2026-10-31T18:55:48.710529Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-10-31T15:50:11.647170Z"
+      "nextAttemptAt": "2026-10-31T19:55:48.710529Z"
     }
   },
   "items": {
@@ -2589,7 +2589,7 @@
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado",
       "firstCollectedAt": "2026-10-29T16:26:53.891294Z",
-      "lastSeenAt": "2026-10-31T14:50:11.647170Z",
+      "lastSeenAt": "2026-10-31T18:55:48.710529Z",
       "sourceIds": [
         "lupa"
       ]
@@ -2609,7 +2609,7 @@
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado",
       "firstCollectedAt": "2026-10-29T16:26:53.891294Z",
-      "lastSeenAt": "2026-10-31T14:50:11.647170Z",
+      "lastSeenAt": "2026-10-31T18:55:48.710529Z",
       "sourceIds": [
         "agencia-brasil-politica"
       ]
@@ -2630,7 +2630,7 @@
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado",
       "firstCollectedAt": "2026-10-29T21:22:57.619313Z",
-      "lastSeenAt": "2026-10-31T14:50:11.647170Z",
+      "lastSeenAt": "2026-10-31T18:55:48.710529Z",
       "sourceIds": [
         "agencia-brasil-justica",
         "agencia-brasil-ultimas"
@@ -2651,7 +2651,7 @@
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado",
       "firstCollectedAt": "2026-10-29T21:22:57.619313Z",
-      "lastSeenAt": "2026-10-31T14:50:11.647170Z",
+      "lastSeenAt": "2026-10-31T18:55:48.710529Z",
       "sourceIds": [
         "senado-noticias"
       ]
@@ -2793,7 +2793,7 @@
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado",
       "firstCollectedAt": "2026-10-30T14:18:35.098899Z",
-      "lastSeenAt": "2026-10-31T14:50:11.647170Z",
+      "lastSeenAt": "2026-10-31T18:55:48.710529Z",
       "sourceIds": [
         "lupa"
       ]
@@ -2814,7 +2814,7 @@
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado",
       "firstCollectedAt": "2026-10-30T14:18:35.098899Z",
-      "lastSeenAt": "2026-10-31T14:50:11.647170Z",
+      "lastSeenAt": "2026-10-31T18:55:48.710529Z",
       "sourceIds": [
         "agencia-brasil-politica",
         "agencia-brasil-ultimas"
@@ -2880,6 +2880,89 @@
       "lastSeenAt": "2026-10-31T02:29:56.954262Z",
       "sourceIds": [
         "aos-fatos"
+      ]
+    },
+    "cc20a6bdef1563e0926795aad636ab649ccaad3f83684ee4b1d5c2fcf4371c6d": {
+      "id": "news-cc20a6bdef1563e0",
+      "title": "Estudantes relatam violência relacionada à eleição presidencial",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/estudantes-relatam-violencia-relacionada-eleicao-presidencial",
+      "publisher": "Agência Brasil, últimas notícias",
+      "publishedAt": "2026-10-31T18:15:00Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-ultimas",
+      "collectedAt": "2026-10-31T18:55:48.710529Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado",
+      "firstCollectedAt": "2026-10-31T18:55:48.710529Z",
+      "lastSeenAt": "2026-10-31T18:55:48.710529Z",
+      "sourceIds": [
+        "agencia-brasil-ultimas"
+      ]
+    },
+    "4aef577a935319826795513f290ce4957582456d86e328e3ba506a915ee0d44f": {
+      "id": "news-4aef577a93531982",
+      "title": "Ação Popular pede suspensão de salário do senador Flávio Bolsonaro",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/acao-popular-pede-suspensao-de-salario-do-senador-flavio-bolsonaro",
+      "publisher": "Agência Brasil, política",
+      "publishedAt": "2026-10-31T17:58:00Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-politica",
+      "collectedAt": "2026-10-31T18:55:48.710529Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado",
+      "firstCollectedAt": "2026-10-31T18:55:48.710529Z",
+      "lastSeenAt": "2026-10-31T18:55:48.710529Z",
+      "sourceIds": [
+        "agencia-brasil-politica",
+        "agencia-brasil-ultimas"
+      ]
+    },
+    "2982f3a840b503931299d373ba0448c839662aa1af2009d7f4a9da8e509a4f3c": {
+      "id": "news-2982f3a840b50393",
+      "title": "Economistas propõem taxar ricos em vez de cortar gastos sociais",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economistas-propoem-taxar-ricos-em-vez-de-cortar-gastos-sociais",
+      "publisher": "Agência Brasil, últimas notícias",
+      "publishedAt": "2026-10-31T17:02:00Z",
+      "people": [
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-ultimas",
+      "collectedAt": "2026-10-31T18:55:48.710529Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado",
+      "firstCollectedAt": "2026-10-31T18:55:48.710529Z",
+      "lastSeenAt": "2026-10-31T18:55:48.710529Z",
+      "sourceIds": [
+        "agencia-brasil-ultimas"
+      ]
+    },
+    "6c603e6113beec46f5562cb2f55b96c537f2918039e4db12457f436517e14059": {
+      "id": "news-6c603e6113beec46",
+      "title": "Vieira encontra Rubio nos EUA após vitória de Lula e fuga de Flávio",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vieira-encontra-rubio-nos-eua-apos-vitoria-de-lula-e-fuga-de-flavio",
+      "publisher": "Agência Brasil, política",
+      "publishedAt": "2026-10-31T14:48:00Z",
+      "people": [
+        "jair",
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-politica",
+      "collectedAt": "2026-10-31T18:55:48.710529Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado",
+      "firstCollectedAt": "2026-10-31T18:55:48.710529Z",
+      "lastSeenAt": "2026-10-31T18:55:48.710529Z",
+      "sourceIds": [
+        "agencia-brasil-politica",
+        "agencia-brasil-ultimas"
       ]
     }
   },
@@ -3507,6 +3590,22 @@
         "startedAt": "2026-10-31T14:50:11.647170Z",
         "note": "Registro de execução iniciado pelo worker; conferir conclusão no provedor."
       }
+    },
+    {
+      "at": "2026-10-31T18:55:48.710529Z",
+      "attemptedSources": 8,
+      "successfulSources": 6,
+      "failedSources": 2,
+      "newMaterials": 4,
+      "execution": {
+        "provider": "GitHub Actions",
+        "id": "41231520246",
+        "url": "https://github.com/QGBALTIGO/Internacional/actions/runs/41231520246",
+        "event": "schedule",
+        "attempt": "1",
+        "startedAt": "2026-10-31T18:55:48.710529Z",
+        "note": "Registro de execução iniciado pelo worker; conferir conclusão no provedor."
+      }
     }
   ],
   "daily": {
@@ -3560,12 +3659,12 @@
       "corrections": 0
     },
     "2026-10-31": {
-      "newMaterials": 0,
-      "successfulCollections": 19,
-      "failedCollections": 3,
+      "newMaterials": 4,
+      "successfulCollections": 25,
+      "failedCollections": 5,
       "editorialReviews": 0,
       "corrections": 0
     }
   },
-  "updatedAt": "2026-10-31T14:50:11.647170Z"
+  "updatedAt": "2026-10-31T18:55:48.710529Z"
 }
