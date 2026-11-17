@@ -5,18 +5,18 @@
       "id": "aos-fatos",
       "name": "Aos Fatos",
       "url": "https://www.aosfatos.org/noticias/feed/",
-      "checkedAt": "2026-11-17T17:35:06.775001Z",
+      "checkedAt": "2026-11-17T23:56:19.190405Z",
       "status": "ok",
       "itemCount": 20,
       "matchedCount": 3,
       "note": "3 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-11-17T17:35:06.775001Z",
-      "startedAt": "2026-11-17T17:35:06.775001Z",
-      "lastAttemptAt": "2026-11-17T17:35:06.775001Z",
+      "lastSuccessfulCheckAt": "2026-11-17T23:56:19.190405Z",
+      "startedAt": "2026-11-17T23:56:19.190405Z",
+      "lastAttemptAt": "2026-11-17T23:56:19.190405Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-11-17T18:35:06.775001Z",
+      "nextAttemptAt": "2026-11-18T00:56:19.190405Z",
       "errorType": "HTTPError",
       "httpStatus": 404
     },
@@ -24,53 +24,53 @@
       "id": "lupa",
       "name": "Lupa",
       "url": "https://www.agencialupa.org/feed/",
-      "checkedAt": "2026-11-17T17:35:06.775001Z",
+      "checkedAt": "2026-11-17T23:56:19.190405Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-11-17T17:35:06.775001Z",
-      "startedAt": "2026-11-17T17:35:06.775001Z",
-      "lastAttemptAt": "2026-11-17T17:35:06.775001Z",
+      "lastSuccessfulCheckAt": "2026-11-17T23:56:19.190405Z",
+      "startedAt": "2026-11-17T23:56:19.190405Z",
+      "lastAttemptAt": "2026-11-17T23:56:19.190405Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-11-17T18:35:06.775001Z"
+      "nextAttemptAt": "2026-11-18T00:56:19.190405Z"
     },
     "senado-noticias": {
       "id": "senado-noticias",
       "name": "Senado Notícias",
       "url": "https://www12.senado.leg.br/noticias/atom.xml",
-      "checkedAt": "2026-11-17T17:35:06.775001Z",
+      "checkedAt": "2026-11-17T23:56:19.190405Z",
       "status": "ok",
       "itemCount": 15,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-11-17T17:35:06.775001Z",
-      "startedAt": "2026-11-17T17:35:06.775001Z",
-      "lastAttemptAt": "2026-11-17T17:35:06.775001Z",
+      "lastSuccessfulCheckAt": "2026-11-17T23:56:19.190405Z",
+      "startedAt": "2026-11-17T23:56:19.190405Z",
+      "lastAttemptAt": "2026-11-17T23:56:19.190405Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-11-17T18:35:06.775001Z",
+      "nextAttemptAt": "2026-11-18T00:56:19.190405Z",
       "errorType": "URLError"
     },
     "senado-verifica": {
       "id": "senado-verifica",
       "name": "Senado Verifica, podcast",
       "url": "https://www12.senado.leg.br/radio/1/senado-verifica/podcast.xml",
-      "checkedAt": "2026-11-17T17:35:06.775001Z",
+      "checkedAt": "2026-11-17T23:56:19.190405Z",
       "status": "ok",
       "itemCount": 70,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-11-17T17:35:06.775001Z",
-      "startedAt": "2026-11-17T17:35:06.775001Z",
-      "lastAttemptAt": "2026-11-17T17:35:06.775001Z",
+      "lastSuccessfulCheckAt": "2026-11-17T23:56:19.190405Z",
+      "startedAt": "2026-11-17T23:56:19.190405Z",
+      "lastAttemptAt": "2026-11-17T23:56:19.190405Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-11-17T18:35:06.775001Z",
+      "nextAttemptAt": "2026-11-18T00:56:19.190405Z",
       "errorType": "URLError"
     },
     "tse": {
@@ -99,52 +99,52 @@
       "id": "agencia-brasil-ultimas",
       "name": "Agência Brasil, últimas notícias",
       "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml",
-      "checkedAt": "2026-11-17T17:35:06.775001Z",
+      "checkedAt": "2026-11-17T23:56:19.190405Z",
       "status": "ok",
       "itemCount": 10,
-      "matchedCount": 0,
-      "note": "0 publicações relacionadas nesta consulta",
+      "matchedCount": 1,
+      "note": "1 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-11-17T17:35:06.775001Z",
-      "startedAt": "2026-11-17T17:35:06.775001Z",
-      "lastAttemptAt": "2026-11-17T17:35:06.775001Z",
+      "lastSuccessfulCheckAt": "2026-11-17T23:56:19.190405Z",
+      "startedAt": "2026-11-17T23:56:19.190405Z",
+      "lastAttemptAt": "2026-11-17T23:56:19.190405Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-11-17T18:35:06.775001Z"
+      "nextAttemptAt": "2026-11-18T00:56:19.190405Z"
     },
     "agencia-brasil-politica": {
       "id": "agencia-brasil-politica",
       "name": "Agência Brasil, política",
       "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml",
-      "checkedAt": "2026-11-17T17:35:06.775001Z",
+      "checkedAt": "2026-11-17T23:56:19.190405Z",
       "status": "ok",
       "itemCount": 10,
       "matchedCount": 0,
       "note": "0 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-11-17T17:35:06.775001Z",
-      "startedAt": "2026-11-17T17:35:06.775001Z",
-      "lastAttemptAt": "2026-11-17T17:35:06.775001Z",
+      "lastSuccessfulCheckAt": "2026-11-17T23:56:19.190405Z",
+      "startedAt": "2026-11-17T23:56:19.190405Z",
+      "lastAttemptAt": "2026-11-17T23:56:19.190405Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-11-17T18:35:06.775001Z"
+      "nextAttemptAt": "2026-11-18T00:56:19.190405Z"
     },
     "agencia-brasil-justica": {
       "id": "agencia-brasil-justica",
       "name": "Agência Brasil, justiça",
       "url": "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml",
-      "checkedAt": "2026-11-17T17:35:06.775001Z",
+      "checkedAt": "2026-11-17T23:56:19.190405Z",
       "status": "ok",
       "itemCount": 10,
-      "matchedCount": 0,
-      "note": "0 publicações relacionadas nesta consulta",
+      "matchedCount": 1,
+      "note": "1 publicações relacionadas nesta consulta",
       "state": "waiting",
-      "lastSuccessfulCheckAt": "2026-11-17T17:35:06.775001Z",
-      "startedAt": "2026-11-17T17:35:06.775001Z",
-      "lastAttemptAt": "2026-11-17T17:35:06.775001Z",
+      "lastSuccessfulCheckAt": "2026-11-17T23:56:19.190405Z",
+      "startedAt": "2026-11-17T23:56:19.190405Z",
+      "lastAttemptAt": "2026-11-17T23:56:19.190405Z",
       "consecutiveFailures": 0,
       "lastError": null,
-      "nextAttemptAt": "2026-11-17T18:35:06.775001Z"
+      "nextAttemptAt": "2026-11-18T00:56:19.190405Z"
     }
   },
   "items": {
@@ -3347,7 +3347,7 @@
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado",
       "firstCollectedAt": "2026-11-10T23:30:19.354817Z",
-      "lastSeenAt": "2026-11-17T17:35:06.775001Z",
+      "lastSeenAt": "2026-11-17T23:56:19.190405Z",
       "sourceIds": [
         "aos-fatos"
       ]
@@ -3367,7 +3367,7 @@
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado",
       "firstCollectedAt": "2026-11-10T23:30:19.354817Z",
-      "lastSeenAt": "2026-11-17T17:35:06.775001Z",
+      "lastSeenAt": "2026-11-17T23:56:19.190405Z",
       "sourceIds": [
         "aos-fatos"
       ]
@@ -3409,9 +3409,31 @@
       "editorialState": "coletado",
       "contentAccess": "metadados do feed; artigo não examinado",
       "firstCollectedAt": "2026-11-11T18:08:04.096178Z",
-      "lastSeenAt": "2026-11-17T17:35:06.775001Z",
+      "lastSeenAt": "2026-11-17T23:56:19.190405Z",
       "sourceIds": [
         "aos-fatos"
+      ]
+    },
+    "7e72631d80ab36e7ff9aef423910a72d0ed37252fcfa7c5469af4b3df0e2b9ec": {
+      "id": "news-7e72631d80ab36e7",
+      "title": "PGR é a favor de prorrogação de investigação do caso Dark Horse",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-e-a-favor-de-prorrogacao-de-investigacao-do-caso-dark-horse",
+      "publisher": "Agência Brasil, justiça",
+      "publishedAt": "2026-11-17T21:24:00Z",
+      "people": [
+        "jair",
+        "flavio"
+      ],
+      "kind": "news",
+      "sourceId": "agencia-brasil-justica",
+      "collectedAt": "2026-11-17T23:56:19.190405Z",
+      "editorialState": "coletado",
+      "contentAccess": "metadados do feed; artigo não examinado",
+      "firstCollectedAt": "2026-11-17T23:56:19.190405Z",
+      "lastSeenAt": "2026-11-17T23:56:19.190405Z",
+      "sourceIds": [
+        "agencia-brasil-justica",
+        "agencia-brasil-ultimas"
       ]
     }
   },
@@ -5095,6 +5117,22 @@
         "startedAt": "2026-11-17T17:35:06.775001Z",
         "note": "Registro de execução iniciado pelo worker; conferir conclusão no provedor."
       }
+    },
+    {
+      "at": "2026-11-17T23:56:19.190405Z",
+      "attemptedSources": 7,
+      "successfulSources": 7,
+      "failedSources": 0,
+      "newMaterials": 1,
+      "execution": {
+        "provider": "GitHub Actions",
+        "id": "44203637489",
+        "url": "https://github.com/QGBALTIGO/Internacional/actions/runs/44203637489",
+        "event": "schedule",
+        "attempt": "1",
+        "startedAt": "2026-11-17T23:56:19.190405Z",
+        "note": "Registro de execução iniciado pelo worker; conferir conclusão no provedor."
+      }
     }
   ],
   "daily": {
@@ -5267,12 +5305,12 @@
       "corrections": 0
     },
     "2026-11-17": {
-      "newMaterials": 0,
-      "successfulCollections": 20,
+      "newMaterials": 1,
+      "successfulCollections": 27,
       "failedCollections": 3,
       "editorialReviews": 0,
       "corrections": 0
     }
   },
-  "updatedAt": "2026-11-17T17:35:06.775001Z"
+  "updatedAt": "2026-11-17T23:56:19.190405Z"
 }
